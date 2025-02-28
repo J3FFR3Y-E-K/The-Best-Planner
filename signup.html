@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Engage Calander Landing Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f3f4f6;
+            text-align: center;
+        }
+        .navbar {
+            background-color: #e01822;
+            padding: 15px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .navbar a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+        }
+        .hero {
+            padding: 100px 20px;
+        }
+        .hero h2 {
+            font-size: 2.5em;
+            color: #1f2937;
+        }
+        .hero p {
+            color: #e01822;
+            font-size: 1.2em;
+        }
+        .hero-image {
+            width: 100%;
+            max-width: 600px;
+            height: auto;
+            margin-top: 20px;
+            border-radius: 10px;
+        }
+        .button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #3b82f6;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .features {
+            background-color: white;
+            padding: 50px 20px;
+        }
+        .footer {
+            background-color: #e01822;
+            color: white;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+	 .form-object {
+           	display: flex;
+            	flex-direction: column;
+            	gap: 5px;
+        }
+        .form-input {
+        	display: flex;
+       		align-items: center;
+          	gap: 5px;
+        }
+       	label {
+           	width: 150px;
+       	}
+		
+	input {
+		width:300px;
+		height:30px;
+	}
+    </style>
+</head>
+<body>
+     <nav class="navbar">
+        <a href="./login.html">Back to Login</a>
+     </nav>
+
+    <header class="hero">
+        <h2>Welcome to the Engage Event Calendar Signup</h2>
+        <p>Here you can create an account!</p>
+	<div class="form-object">
+		<form name = "loginForm" method="post" action="signup.php">
+			<p>
+				<div class="form-input">
+					<label>First Name: </label>         
+					<input name = "fname" type = "text" size = "25" maxlength = "15" required>
+				</div>
+				<br>
+
+				<div class="form-input">
+					<label>Last Name: </label>         
+					<input name = "lname" type = "text" size = "25" maxlength = "25" required>
+				</div>
+				<br>
+
+				<div class="form-input">
+					<label>Email: </label>         
+					<input name = "email" type = "email" size = "25" maxlength = "40" required>
+				</div>
+				<br>
+
+				<div class="form-input">
+					<label>Password</label>         
+					<input name = "password" type = "password" size = "25" maxlength = "40" required>
+				</div>
+				<br>
+			
+				<input type = "submit" value = "Submit" style="width:100; height:20;">
+				<input type = "reset" value = "Clear" style="width:100; height:20;">
+			</p>
+		</form>
+	</div>
+	<br>
+        <img src="./Red hawk logo.svg" alt="Hero Image" class="hero-image">
+        <br>
+    </header>
+
+    
+
+    <footer class="footer">
+        <p>&copy; 2025 Software Engineer II Project.</p>
+    </footer>
+</body>
+</html>
