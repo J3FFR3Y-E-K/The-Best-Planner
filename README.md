@@ -1,2 +1,5 @@
 # The-Best-Planner
 Engage Imported Event Manager/Planner. Student and organization driven; allows for reliable event searching; allows for calender customization;  
+2/24 Norke: Added all initial website files, including image file for logo
+
+2/27 Ian: Changed all website files to php (originals are being kept as baseline) and added login and signup pages. Also implemented login system using php pages and a database. All websites are now love through https://cyan.csam.montclair.edu/~lovei1/ and no page besides login and signup are available to those who aren't logged in
