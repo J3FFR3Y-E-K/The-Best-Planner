@@ -9,3 +9,5 @@ Engage Imported Event Manager/Planner. Student and organization driven; allows f
 
 
 3/2 Jeffrey: Penetration tested the login page, https://cyan.csam.montclair.edu/~lovei1/. Tested using brute force hacking and basic SQL injections. Brute force hacking was done using Burp Suite whcih was set up so that it would flag once a viable password was entered out of a list of 1000 common passwords. An account could be accessed using brute force hacking which can be protected using password requirements like a minimum password length or mandatory special characters in a future update. The basic SQL injections could not hack into a login page but there is potential for a more thorough SQL injection to do so.
+
+3/3 Ian: Added an updated file with the SQL query for our fully laid out database with all tables involved.
