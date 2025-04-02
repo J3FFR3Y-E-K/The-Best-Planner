@@ -15,3 +15,5 @@ Engage Imported Event Manager/Planner. Student and organization driven; allows f
 3/31 Cristian: Created the Organizations page so that organizations can add and view events.
 
 4/1 Jeffrey: Added password requirements for extra security
+
+4/1 Ian: Updated events page for search feature and added events addition page
