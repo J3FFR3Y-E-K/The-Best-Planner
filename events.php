@@ -68,10 +68,28 @@
             padding: 20px;
             margin-top: 20px;
         }
+        
+        table {
+          size: 50%;
+          margin-left: 15%;
+          border-collapse: collapse;
+          border-spacing: 5px;
+        }
+
+        th, td {
+          border: 1px solid black;
+          padding: 10px;
+        }
+        
+        input {
+            border: 1px solid black;
+            padding: 10px;
+        }
     </style>
 </head>
 <body>
     <nav class="navbar">
+        <a href="./homepage.php">Home</a>
         <a href="./events.php">Events</a>
         <a href="./calendar.php">Calendar</a>
         <a href="./contact.php">Contact</a>
@@ -80,15 +98,69 @@
 
     <header class="hero">
         <h2>Events</h2>
-        <p>Since we do not have access to the engage API or data, we will try to write a 
-             script that will scrape the events/info from engage and paste it here. We want
-             it to update often or whenever you load the page
-
     </header>
-
-
+    <input type="text" id="search" placeholder="Search for events" size=70 onkeyup='searchbar()'>
+    <br>
+    <table id = "table">
+    <tr>
+        <th>Event Name</th>
+        <th>Organization Name</th>
+        <th>Event Description</th>
+        <th>Start Time</th>
+        <th>End Time</th>
+    </tr>
+    <?php
+        $con = new mysqli("localhost", "lovei1_iandbuser", "tfihp2371#3", "lovei1_engageeventmanager");
+        if ($con->connect_error) {
+            die("Connection failed.");
+        }
+        
+        $sql = "SELECT * FROM events";
+        $result = mysqli_query($con,$sql);
+        
+        if (!$result) {
+            echo 'MySQL Error: ' . mysqli_error($con);
+            exit;
+        }
+        
+        foreach ($result as $product) { ?>
+        <?php #echo $product ?>
+        <tr>
+        <td><?php echo $product['Name']; ?></td>
+        <td><?php echo $product['Organization']; ?></td>
+        <td><?php echo $product['Description']; ?></td>
+        <td><?php echo $product['TimeStart']; ?></td>
+        <td><?php echo $product['TimeEnd']; ?></td>
+        </tr>
+    <?php } ?>
+    </table>
+    <script>
+    function searchbar() {
+        var search = document.getElementById("search");
+        var results = search.value.toUpperCase();
+        var table = document.getElementById("table");
+        var rows = table.getElementsByTagName("tr");
+        var exists;
+        var columns;
+        for (var i = 1; i < rows.length; i++) {
+            columns = rows[i].getElementsByTagName("td");
+            for (var j = 0; j < columns.length; j++) {
+                if (columns[j].innerHTML.toUpperCase().indexOf(results) >= 0) {
+                    exists = true;
+                }
+            }
+            if (exists) {
+                rows[i].style.display = "";
+                exists = false;
+            } else {
+                rows[i].style.display = "none";
+            }
+        }
+    }
+    </script>
     <footer class="footer">
         <p>&copy; 2025 Software Engineer II Project.</p>
     </footer>
 </body>
+<?php  #Using https://stackoverflow.com/questions/9127498/how-to-perform-a-real-time-search-and-filter-on-a-html-table ?>
 </html>
