@@ -19,3 +19,5 @@ Engage Imported Event Manager/Planner. Student and organization driven; allows f
 4/1 Ian: Updated events page for search feature and added events addition page
 
 4/25 Ian: Added rsvp.php and updated events.php with rsvp capability
+
+4/25 Norke: Integrated Flask backend and event scraping system. Added Python-based scraper to pull live events and generate events.json. Set up GitHub Actions CI pipeline for automated linting and testing on every push or pull request. Ensured compatibility with existing PHP frontend files. Preparing for full deployment and future CD setup.
