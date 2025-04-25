@@ -131,6 +131,12 @@
         <td><?php echo $product['Description']; ?></td>
         <td><?php echo $product['TimeStart']; ?></td>
         <td><?php echo $product['TimeEnd']; ?></td>
+        <td>
+            <form name = "rsvp" method="post" action="rsvp.php">
+            <input type="hidden" name="eventID" value= "<?php echo $product['EID']; ?>">
+            <input type = "submit" value = "RSVP">
+            </form>
+        </td>
         </tr>
     <?php } ?>
     </table>
