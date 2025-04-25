@@ -17,3 +17,5 @@ Engage Imported Event Manager/Planner. Student and organization driven; allows f
 4/1 Jeffrey: Added password requirements for extra security
 
 4/1 Ian: Updated events page for search feature and added events addition page
+
+4/25 Ian: Added rsvp.php and updated events.php with rsvp capability
