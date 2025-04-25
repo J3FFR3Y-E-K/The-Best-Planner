@@ -1,5 +1,4 @@
 import requests
-from flask import Flask, jsonify
 import json
 
 
@@ -12,7 +11,7 @@ MAX_PAGES = 10
 page = 1
 events_list = []
 
-while page <=MAX_PAGES:
+while page <= MAX_PAGES:
     response = requests.get(
         f"https://montclair.campuslabs.com/engage/api/discovery/event/search?pageNumber={page}",
         headers=headers
@@ -44,4 +43,4 @@ while page <=MAX_PAGES:
 
 # Save to JSON
 with open("events.json", "w") as f:
-    json.dump(events_list, f, indent=2)
+    json.dump(events_list, f, indent = 2)
