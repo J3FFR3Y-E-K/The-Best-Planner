@@ -1,20 +1,14 @@
-
-
 from flask import Flask, jsonify
 import json
 import os
-
-
 
 app = Flask(__name__)
 EVENTS_FILE = os.path.join(os.path.dirname(__file__), 'events.json')
 
 
-
 @app.route('/')
 def home():
     return '✅ Flask API running! Visit /api/events'
-
 
 
 @app.route('/api/events')
@@ -28,6 +22,4 @@ def get_events():
 
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5050)
-
-    
+    app.run(debug=True, port=5050)

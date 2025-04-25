@@ -1,7 +1,6 @@
 import requests
 import json
 
-
 headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)",
     "Accept": "application/json",
@@ -19,7 +18,6 @@ while page <= MAX_PAGES:
     data = response.json()
     events = data["value"]
 
-    # Print how many events were found on this page
     print(f"Page {page}: {len(events)} events")
 
     if not events:
@@ -36,11 +34,9 @@ while page <= MAX_PAGES:
         }
         events_list.append(event_data)
 
-        # Print each event title
         print(f"Scraped: {event['name']}")
 
     page += 1
 
-# Save to JSON
 with open("events.json", "w") as f:
-    json.dump(events_list, f, indent = 2)
+    json.dump(events_list, f, indent=2)
