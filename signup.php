@@ -15,13 +15,13 @@ $rs = mysqli_query($con, $sql);
 
 if($rs)
 {
-	echo "Signup succesful! Now go login";
+	echo "Signup succesful! <a href='//cyan.csam.montclair.edu/~lovei1/login.html'>Now please login here!</a>";
 	header("Location: //cyan.csam.montclair.edu/~lovei1/login.html");
 	die();
 }
 else
 {
-	echo "Signup failed, try again.";
+	echo "Signup failed, <a href='//cyan.csam.montclair.edu/~lovei1/signup.html'>please try again.</a>";
 	header("Location: //cyan.csam.montclair.edu/~lovei1/signup.html");
 	die();
 }
