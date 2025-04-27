@@ -13,7 +13,7 @@ $sql = "INSERT INTO `users` (`FirstName`, `LastName`, `Email`, `Password`) VALUE
 
 $rs = mysqli_query($con, $sql);
 
-if($rs)
+/*if($rs)
 {
 	echo "Signup succesful! <a href='//cyan.csam.montclair.edu/~lovei1/login.html'>Now please login here!</a>";
 	header("Location: //cyan.csam.montclair.edu/~lovei1/login.html");
@@ -24,6 +24,13 @@ else
 	echo "Signup failed, <a href='//cyan.csam.montclair.edu/~lovei1/signup.html'>please try again.</a>";
 	header("Location: //cyan.csam.montclair.edu/~lovei1/signup.html");
 	die();
+}*/
+
+if($rs) {
+    echo "Signup successful! <a href='//cyan.csam.montclair.edu/~lovei1/login.html'>Now please login here!</a>";
+} else {
+    echo "Signup failed, <a href='//cyan.csam.montclair.edu/~lovei1/signup.html'>please try again.</a>";
 }
+
 
 ?>
