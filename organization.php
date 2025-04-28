@@ -1,3 +1,10 @@
+<?php
+        if(!isset($_COOKIE["Organization"])) {
+            header("Location: https://cyan.csam.montclair.edu/~lovei1/login.html");
+            die();
+        }
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -118,36 +125,32 @@
 </head>
 
 <body>
-  <nav class="navbar">
-    <a href="homepage.html">Home</a>
-    <a href="events.html">Events</a>
-    <a href="calendar.html">Calendar</a>
-    <a href="About.html">About</a>
-    <a href="signout.php">Sign Out</a>
-  </nav>
+    <nav class="navbar">
+        <a href="./signout.php">Sign Out</a>
+    </nav>
 
   <div class="container-1">
     <aside class="side-bar">
       <div class="title">
-        <p>Organization Page</p>
+        <p>Organizations</p>
       </div>
       <div class="options">
         <p class="caption">Organization Options</p>
+        <a href="orgeventlist.php">View / Delete Events</a>
         <a href="orgevents.php">Add Events</a>
-        <a href="events.php">Search Events</a>
       </div>
     </aside>
 
     <main class="main-page">
       <h1>Welcome to the Organizations Page</h1>
       <p class="main-page-caption">
-        Organizations can create events and search events as well.
+        Organizations can view, add, and delete events
       </p>
     </main>
   </div>
+
   <footer class="footer">
     <p>2025 Software Engineer II Project.</p>
 </footer>
 </body>
 </html>
-
