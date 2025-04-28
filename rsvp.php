@@ -16,7 +16,8 @@
     
     $result = mysqli_query($con, $sql);
     if($result->num_rows > 0) {
-        header("Location: https://cyan.csam.montclair.edu/~lovei1/events.php");
+        $message = "Already RSVP'd!";
+        header("Location: https://cyan.csam.montclair.edu/~lovei1/events.php?message=".$message);
         die();
     }
     
@@ -29,10 +30,13 @@
     $result = mysqli_query($con, $sql);
     
     if ($result->num_rows > 0) {
-         header("Location: https://cyan.csam.montclair.edu/~lovei1/events.php");
+         $message = "RSVP Succesfull";
+         header("Location: https://cyan.csam.montclair.edu/~lovei1/events.php?message=".$message);
          die();
     } else {
-        echo "Failed to enter into database, try again.";
+        $message = "RSVP Not Succesfull";
+        header("Location: https://cyan.csam.montclair.edu/~lovei1/events.php?message=".$message);
+         die();
     }
 
 ?>
