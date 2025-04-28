@@ -1,12 +1,8 @@
 <?php
-    setcookie("Organization", "Players", time() + (1800), "/");
-    
-        /*(!isset($_COOKIE["Organization"])) {
+    if (!isset($_COOKIE["Organization"])) {
              header("Location: https://cyan.csam.montclair.edu/~lovei1/login.html");
              die();
-        }*/
-
-
+    }
 ?>
 
 <!DOCTYPE html>
@@ -91,20 +87,34 @@
 		    width:300px;
 		    height:30px;
 	    }
+	    
+	    .message {
+          margin: 20px 0;
+          padding: 10px;
+          background:rgb(166, 207, 173);
+          color: black;
+          border-radius: 4px;
+          text-align: center;
+        }
+
 	
     </style>
 </head>
 <body>
     <nav class="navbar">
-        <a href="./orghomepage.php">Home</a>
-        <a href="./orgevents.php">Events</a>
-        <a href="./orginfo.php">Org Info</a>
-        <a href="./signout.php">Sign Out</a>
-    </nav>
+            <a href="organization.php">Home</a>
+            <a href="signout.php">Sign Out</a>
+        </nav>
 
     <header class="hero">
         <h2>Events Addition</h2>
-        
+        <?php if($_GET): ?>
+        <div class = "message">
+            <?php
+                    echo $_GET['message'];      
+            ?>
+        </div>
+        <?php endif; ?>
         <div class="form-object">
 		    <form name = "loginForm" method="post" action="eventadd.php">
 			    <p>
@@ -120,12 +130,17 @@
                     <br>
     				<div class="form-input">
     					<label>Start-Time: </label>         
-    					<input name = "start" type = "datetime-local" size = "50" required>
+    					<input name = "start" type = "datetime-local" size = "50" step = "1800" required>
     				</div>
     				<br>
     				<div class="form-input">
     					<label>End-Time: </label>         
-    					<input name = "end" type = "datetime-local" size = "50" required>
+    					<input name = "end" type = "datetime-local" size = "50" step = "1800" required>
+    				</div>
+    				<br>
+    				<div class="form-input">
+    					<label>Location: </label>         
+    					<input name = "location" type = "text" size = "50" maxlength = "50" required>
     				</div>
     				<br>
     				<input type = "submit" value = "Submit" style="width:100; height:20;">
