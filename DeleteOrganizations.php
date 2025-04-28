@@ -1,4 +1,11 @@
 <?php
+        if(!isset($_COOKIE["Admin"])) {
+                header("Location: https://cyan.csam.montclair.edu/~lovei1/login.html");
+                die();
+            }
+?>
+
+<?php
 $mysqli = new mysqli("localhost", "lovei1_iandbuser", "tfihp2371#3", "lovei1_engageeventmanager");
 if ($mysqli->connect_error) {
     die("Database connection failed: " . $mysqli->connect_error);
@@ -9,6 +16,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['delete_id'])) {
     $stmt = $mysqli->prepare("DELETE FROM organizations WHERE OrgID = ?");
     $stmt->bind_param("i", $_POST['delete_id']);
     if ($stmt->execute()) {
+        $nameDelete = $_POST['name'];
+        $stmt = $mysqli->prepare("DELETE FROM events WHERE `Organization` = '$nameDelete'");
+        $stmt->execute();
         $message = "Organization deleted successfully.";
     } else {
         $message = "Error deleting organization.";
@@ -220,14 +230,9 @@ if ($q !== '') {
 </head>
 
 <body>
-  <nav class="navbar">
-    <a href="homepage.html">Home</a>
-    <a href="events.html">Events</a>
-    <a href="calendar.html">Calendar</a>
-    <a href="About.html">About</a>
-    <a href="signout.php">Sign Out</a>
-  </nav>
-
+    <nav class="navbar">
+        <a href="./signout.php">Sign Out</a>
+    </nav>
   <div class="container-1">
     <aside class="side-bar">
       <div class="title">
@@ -239,7 +244,7 @@ if ($q !== '') {
         <a href="AddOrganizations.php">Add Organizations</a>
         <a href="DeleteOrganizations.php">Delete Organizations</a>
         <a href="UpdateOrganizations.php">Update Organizations</a>
-        <a href="events.php">View Events</a>
+        <a href="adminevents.php">View Events</a>
       </div>
     </aside>
 
@@ -279,6 +284,7 @@ if ($q !== '') {
               </div>
               <form method="POST" style="margin-left:16px;">
                 <input type="hidden" name="delete_id" value="<?= $o['OrgID'] ?>">
+                <input type="hidden" name="name" value="<?= htmlspecialchars($o['OrgName']) ?>">
                 <button type="submit" class="delete-btn">Delete</button>
               </form>
             </div>
