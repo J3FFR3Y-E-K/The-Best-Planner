@@ -1,16 +1,15 @@
 import requests
 import json
-import os 
+import os
 from bs4 import BeautifulSoup
 
-
-#using headers so we appear like an actual browser
+# Using headers so we appear like an actual browser
 headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)",
     "Accept": "application/json",
 }
 
-#making a maximum number of pages so we pull a limited number of events
+# Making a maximum number of pages so we pull a limited number of events
 MAX_PAGES = 20
 page = 1
 events_list = []
@@ -18,7 +17,8 @@ events_list = []
 while page <= MAX_PAGES:
     response = requests.get(
         f"https://montclair.campuslabs.com/engage/api/discovery/event/search?pageNumber={page}",
-        headers=headers, timeout=5
+        headers=headers,
+        timeout=5
     )
     data = response.json()
     events = data["value"]
@@ -30,23 +30,22 @@ while page <= MAX_PAGES:
 
     for event in events:
         event_id = event["id"]
-        #Link to actual event to pull description
+        # Link to actual event to pull description
         detail_url = f"https://montclair.campuslabs.com/engage/api/discovery/event/{event_id}"
 
-        #request full event info
+        # Request full event info
         try:
             detail_response = requests.get(detail_url, headers=headers, timeout=5)
             detail_data = detail_response.json()
             full_description = detail_data.get("description", "")
 
-            #clean HTML
+            # Clean HTML
             soup = BeautifulSoup(full_description, "html.parser")
             clean_description = soup.get_text(separator=" ").strip()
 
         except Exception as e:
-            print(f"Failed to getch details for event {event_id}: {e}")
-            full_description = ""
-
+            print(f"Failed to fetch details for event {event_id}: {e}")
+            clean_description = ""
 
         event_data = {
             "title": event["name"],
@@ -62,14 +61,13 @@ while page <= MAX_PAGES:
 
     page += 1
 
-#save json in the same directory where scrapper is
+# Save JSON in the same directory where scraper is
 output_path = os.path.join(os.path.dirname(__file__), "events.json")
 
-print(f"Saving File to {output_path}")
+print(f"Saving file to {output_path}")
 
 with open(output_path, "w") as f:
     print(f"Total events scraped: {len(events_list)}")
     json.dump(events_list, f, indent=2)
 
-print("Finished writing events.json successfully!")
-    
+print("✅ Finished writing events.json successfully!")
