@@ -72,6 +72,7 @@
 </head>
 <body>
     <nav class="navbar">
+        <a href="./homepage.php">Home</a>
         <a href="./events.php">Events</a>
         <a href="./calendar.php">Calendar</a>
         <a href="./contact.php">Contact</a>
@@ -82,10 +83,12 @@
         <h2>Contact</h2>
         <p>You can contact at us on our school email if there is any questions or 
             concerns! Please free to reach out.
-
-            We're thinking of putting a little box where users can input their data and 
-            send us any requests/complaints etc
-
+        </p>
+        <br>
+            <p>Ian Love: <a href="mailto:lovei1@montclair.edu">lovei1@montclair.edu</a></p>
+            <p>Norke Pakhrin: <a href="mailto:pakhrinn1@montclair.edu">pakhrinn1@montclair.edu</a></p>
+            <p>Cristian Arcentales: <a href="mailto:arcentalesc1@montclair.edu">arcentalesc1@montclair.edu</a></p>
+            <p>Jeffrey Kouevi: <a href="mailto:kouevij1@montclair.edu">kouevij1@montclair.edu</a></p>
     </header>
 
 
