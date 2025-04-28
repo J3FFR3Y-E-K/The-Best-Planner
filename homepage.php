@@ -72,6 +72,7 @@
 </head>
 <body>
     <nav class="navbar">
+        <a href="./homepage.php">Home</a>
         <a href="./events.php">Events</a>
         <a href="./calendar.php">Calendar</a>
         <a href="./contact.php">Contact</a>
@@ -83,7 +84,6 @@
         <p>The best solution for your school events needs!</p>
         <img src="./Red hawk logo.svg" alt="Hero Image" class="hero-image">
         <br>
-        <a href="#features" class="button">Get Started</a>
     </header>
 
     
