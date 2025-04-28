@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Organizations Page</title>
+
+  <style>
+    :root {
+      --red:       #E01822;
+      --red-dark:  #B91C1C;
+      --white:     #FFFFFF;
+      --gray-light: #F3F4F6;
+      --gray-mid:  #E5E7EB;
+      --gray-dark: #4B5563;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background-color: var(--gray-light);
+      color: var(--gray-dark);
+      text-align: center;
+    }
+    a {
+      text-decoration: none;
+    }
+
+    .navbar {
+      background-color: var(--red);
+      padding: 15px 0;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .navbar a {
+      color: var(--white);
+      font-weight: bold;
+      margin: 0 15px;
+      transition: color 0.2s;
+    }
+    .navbar a:hover {
+      color: var(--gray-mid);
+    }
+
+    .container-1 {
+      display: flex;
+      min-height: 100vh;
+    }
+
+    .side-bar {
+      width: 30%;
+      background-color: var(--white);
+      box-shadow: 2px 0 5px rgba(0,0,0,0.05);
+    }
+    .title {
+      background-color: var(--red);
+      padding: 30px 10px;
+      border-top-right-radius: 8px;
+    }
+    .title p {
+      margin: 0;
+      font-size: 1.25rem;
+      color: var(--white);
+      font-weight: bold;
+    }
+    .options {
+      background-color: var(--gray-mid);
+      margin: 20px;
+      padding: 15px;
+      border-radius: 8px;
+      text-align: left;
+    }
+    .options .caption {
+      font-size: 1.1rem;
+      color: var(--red-dark);
+      border-bottom: 2px solid var(--red-dark);
+      padding-bottom: 8px;
+      margin-bottom: 12px;
+    }
+    .options a {
+      display: block;
+      color: var(--gray-dark);
+      font-size: 1rem;
+      padding: 8px 0;
+      transition: color 0.2s;
+    }
+    .options a:hover {
+      color: var(--red);
+    }
+
+    .main-page {
+      width: 70%;
+      background-color: var(--white);
+      padding: 60px 40px;
+      box-shadow: -2px 0 5px rgba(0,0,0,0.05);
+    }
+    .main-page h1 {
+      margin-top: 0;
+      font-size: 2rem;
+      color: var(--gray-dark);
+    }
+    .main-page-caption {
+      font-size: 1.1rem;
+      color: var(--gray-dark);
+      margin-top: 12px;
+    }
+
+    .footer {
+      background-color: var(--red);
+      color: var(--white);
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+  <nav class="navbar">
+    <a href="homepage.html">Home</a>
+    <a href="events.html">Events</a>
+    <a href="calendar.html">Calendar</a>
+    <a href="About.html">About</a>
+    <a href="signout.php">Sign Out</a>
+  </nav>
+
+  <div class="container-1">
+    <aside class="side-bar">
+      <div class="title">
+        <p>Organizations</p>
+      </div>
+      <div class="options">
+        <p class="caption">Admin Options</p>
+        <a href="ViewOrganizations.php">View Organizations</a>
+        <a href="AddOrganizations.php">Add Organizations</a>
+        <a href="DeleteOrganizations.php">Delete Organizations</a>
+        <a href="UpdateOrganizations.php">Update Organizations</a>
+        <a href="events.php">View Events</a>
+      </div>
+    </aside>
+
+    <main class="main-page">
+      <h1>Welcome to the Admins Page</h1>
+      <p class="main-page-caption">
+        Admins can view, add, delete, and update Organizations
+      </p>
+    </main>
+  </div>
+
+  <footer class="footer">
+    <p>2025 Software Engineer II Project.</p>
+</footer>
+</body>
+</html>
