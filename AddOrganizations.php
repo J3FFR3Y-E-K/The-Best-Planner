@@ -6,7 +6,7 @@ if ($mysqli->connect_error) {
 
 $message = "";
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    // grab & trim inputs
+    
     $name        = trim($_POST['name'] ?? "");
     $description = trim($_POST['description'] ?? "");
     $email       = trim($_POST['email'] ?? "");
@@ -15,7 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if ($name === "" || $email === "" || $password === "") {
         $message = "Name, email and password are required.";
     } else {
-        // prepare & execute insert
+        
         $stmt = $mysqli->prepare(
             "INSERT INTO organizations (OrgName, OrgDescription, OrgEmail, OrgPassword)
              VALUES (?, ?, ?, SHA1(?))"
