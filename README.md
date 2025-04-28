@@ -23,3 +23,5 @@ Engage Imported Event Manager/Planner. Student and organization driven; allows f
 4/25 Norke: Integrated Flask backend and event scraping system. Added Python-based scraper to pull live events and generate events.json. Set up GitHub Actions CI pipeline for automated linting and testing on every push or pull request. Ensured compatibility with existing PHP frontend files. Preparing for full deployment and future CD setup.
 
 4/27 Cristian: Updated the Organizations.html so that it matches the red and white aesthetics. Added Admin.html which is the admins view and it's features such as ViewOrganizations.php which searches for Organizations and displays it, AddOrganizations.php which adds Organizations, DeleteOrganizations.php which deletes organizations, and UpdateOrganizations.php which updates Organization information.
+
+/27 Norke: Added github actions so the scraper runs every 3 hours. added more pages to scrape 
