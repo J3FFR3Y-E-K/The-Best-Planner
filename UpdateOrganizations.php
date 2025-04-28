@@ -17,19 +17,19 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['update_id'])) {
     if ($name === "" || $email === "") {
         $message = "Name and email are required.";
     } else {
-        // build SET clause
+        
         $fields = [ "OrgName = ?", "OrgDescription = ?", "OrgEmail = ?" ];
         $types  = "sss";
         $values = [ $name, $description, $email ];
 
-        // if a new password was provided, include password
+        
         if ($password !== "") {
             $fields[] = "OrgPassword = SHA1(?)";
             $types   .= "s";
             $values[] = $password;
         }
 
-        // prepare SQL
+        
         $sql = "UPDATE organizations SET " . implode(", ", $fields) . " WHERE OrgID = ?";
         $types .= "i";
         $values[] = $id;
