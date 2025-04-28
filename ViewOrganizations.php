@@ -1,4 +1,11 @@
 <?php
+        if(!isset($_COOKIE["Admin"])) {
+                header("Location: https://cyan.csam.montclair.edu/~lovei1/login.html");
+                die();
+            }
+?>
+
+<?php
 $mysqli = new mysqli("localhost", "lovei1_iandbuser", "tfihp2371#3", "lovei1_engageeventmanager");
 if ($mysqli->connect_error) {
     die("Database connection failed: " . $mysqli->connect_error);
@@ -199,14 +206,9 @@ $mysqli->close();
 </head>
 
 <body>
-  <nav class="navbar">
-    <a href="homepage.html">Home</a>
-    <a href="events.html">Events</a>
-    <a href="calendar.html">Calendar</a>
-    <a href="About.html">About</a>
-    <a href="signout.php">Sign Out</a>
-  </nav>
-
+    <nav class="navbar">
+        <a href="./signout.php">Sign Out</a>
+    </nav>
   <div class="container-1">
     <aside class="side-bar">
       <div class="title">
@@ -218,7 +220,7 @@ $mysqli->close();
         <a href="AddOrganizations.php">Add Organizations</a>
         <a href="DeleteOrganizations.php">Delete Organizations</a>
         <a href="UpdateOrganizations.php">Update Organizations</a>
-        <a href="events.php">View Events</a>
+        <a href="adminevents.php">View Events</a>
       </div>
     </aside>
 
