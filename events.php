@@ -1,5 +1,5 @@
 <?php
-        if(!isset($_COOKIE["Login"])) {
+        if(!isset($_COOKIE["Login"]) && !isset($_COOKIE["Admin"])) {
              header("Location: https://cyan.csam.montclair.edu/~lovei1/login.html");
              die();
         }
@@ -31,7 +31,7 @@
             font-weight: bold;
         }
         .hero {
-            padding: 100px 20px;
+            padding: 10px 10px;
         }
         .hero h2 {
             font-size: 2.5em;
@@ -66,7 +66,7 @@
             background-color: #e01822;
             color: white;
             padding: 20px;
-            margin-top: 20px;
+            margin-bottom: 20px;
         }
         
         table {
@@ -85,6 +85,15 @@
             border: 1px solid black;
             padding: 10px;
         }
+        
+         .message {
+          margin: 20px 0;
+          padding: 10px;
+          background:rgb(166, 207, 173);
+          color: black;
+          border-radius: 4px;
+          text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -99,7 +108,16 @@
     <header class="hero">
         <h2>Events</h2>
     </header>
+    <?php if($_GET): ?>
+        <div class = "message">
+            <?php
+                    echo $_GET['message'];      
+            ?>
+        </div>
+    <?php endif; ?>
+    <br>
     <input type="text" id="search" placeholder="Search for events" size=70 onkeyup='searchbar()'>
+    <br>
     <br>
     <table id = "table">
     <tr>
@@ -108,6 +126,7 @@
         <th>Event Description</th>
         <th>Start Time</th>
         <th>End Time</th>
+        <th>Location</th>
     </tr>
     <?php
         $con = new mysqli("localhost", "lovei1_iandbuser", "tfihp2371#3", "lovei1_engageeventmanager");
@@ -131,6 +150,7 @@
         <td><?php echo $product['Description']; ?></td>
         <td><?php echo $product['TimeStart']; ?></td>
         <td><?php echo $product['TimeEnd']; ?></td>
+        <td><?php echo $product['Location']; ?></td>
         <td>
             <form name = "rsvp" method="post" action="rsvp.php">
             <input type="hidden" name="eventID" value= "<?php echo $product['EID']; ?>">
@@ -164,6 +184,7 @@
         }
     }
     </script>
+    <br>
     <footer class="footer">
         <p>&copy; 2025 Software Engineer II Project.</p>
     </footer>
