@@ -71,7 +71,8 @@
         
         table {
           size: 50%;
-          margin-left: 20%;
+          margin-left: auto;
+          margin-right: auto;
           padding: 10px;
           border-collapse: collapse;
           border-spacing: 5px;
@@ -104,9 +105,10 @@
             <a href="signout.php">Sign Out</a>
         </nav>
 
-    <header class="hero">
+    <header>
         <h2>Events</h2>
     </header>
+    
     <input type="text" id="search" placeholder="Search for your events" size=70 onkeyup='searchbar()'>
     <br>
     <?php if($_GET): ?>
@@ -162,7 +164,7 @@
         </td>
         <td>
             <form name = "delete" method="post" action="deleteevent.php">
-            <input type="hidden" name="eventID" value= "<?php echo $product['EID']; ?>">
+            <input type="hidden" name="eventID" value= "<?php echo $event['EID']; ?>">
             <input type = "submit" value = "Delete">
             </form>
         </td>
