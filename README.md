@@ -27,3 +27,5 @@ Engage Imported Event Manager/Planner. Student and organization driven; allows f
 4/27 Norke: Added github actions so the scraper runs every 3 hours. added more pages to scrape 
 
 4/28 Ian: Updated all current files and added missing ones for first draft of final code
+
+4/29 Ian: Made small adjustments and added the script to import engage events scraped into the database. Also uploaded test case document
