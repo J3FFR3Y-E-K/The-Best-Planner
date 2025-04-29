@@ -1,0 +1,96 @@
+VIEW,SUBJECT,TESTCASE,VALID,INVALID,PASSED?,NOTES,DEV NOTES
+General,Login.html,Logging in,Any user/admin/organization,Anything not in database,YES,,
+General,Signup.html,Signing up - email,Unique email,Email that already exists,FIXED,Can do same email,Fixed
+General,Signup.html,Signing up/loggin in - password,Regular password,SQL injections,YES,,
+General,Signup.html,Stress / Load testing,Anything till crash,Anything that crashes,YES,"500 causes issues, 1000 crashes",
+General,"ALL PAGES EXCEPT login.html
+and signup.html","Can they be accessed by anyone 
+who hasn't logged in or is 
+logged into a different actor","People can only see the pages 
+they're logged into the users of","People can see  pages outside the
+scope of their use",YES,,
+General,"ALL PAGES EXCEPT login.html
+and signup.html",Does signout work,"Can signout and will redirect to
+login and strip you of page view","Either doesn't take you to login or still
+lets you access pages",YES,,
+User,All user pages,Does nav bar work,"Clicking links on the navbar
+redirects to proper pages","Clicking links either does nothing or
+redirects to wrong pages",YES,,
+User,Events.php,RSVP handling,"Can rsvp to event and get
+success message or already
+RSVP'd message","Get an error message or no unique
+message for duplicate RSVP",YES,,
+User,Events.php,Searching for events,"Can search for events using
+any string of text for any cell","Search doesn't work or SQL can be
+injected",YES,,
+User,Calendar.php,RSVP handling,"Can see all current RSVP's for 
+that user","Can see other user RSVP's or not all
+current user RSVP's",YES,,
+User,Calendar.php,Removing RSVP,Can remove RSVP,Can't remove RSVP,YES,,
+User,Calendar.php,Adding to Calendar,"Add to calendar button redirects
+to google calendar with proper
+event information","Either the redirect doesn't work or the 
+information is wrong when redirected",YES,Could be beneficial if the redirct opened a new tab/window instead of redirecting the original page,Sadly not possible at given moment
+User,Contact.php,Emailing contacts,"Clicking emails brings up option
+to send an email",Clicking email does nothing,FIXED,Doesn't work past selecting the mail option,"Removed links, emails plaintext now"
+Organization,All organization pages,Sidebar validity,"Clicking links on the sidebar
+redirects to proper pages","Clicking links either does nothing or
+redirects to wrong pages",YES,,
+Organization,All organization pages,Does nav bar work,"Clicking links on the navbar
+redirects to proper pages","Clicking links either does nothing or
+redirects to wrong pages",YES,,
+Organization,Orgeventlist.php,Only org events,"Only events from the logged in 
+org show up","Events are missing or events from 
+other orgs display",YES,,
+Organization,Orgeventlist.php,Searching events,"Can search for events using
+any string of text for any cell","Search doesn't work or SQL can be
+injected",YES,,
+Organization,Orgeventlist.php,RSVP count,RSVP count is accurate,RSVP count is inaccurate,YES,,
+Organization,Orgeventlist.php,Delete event,"Can delete an event and get
+success message",Event is not deleted from the database,FIXED,Get succesful message but event isnt being deleted,"Changed improper variable name, fixed"
+Organization,Orgevents.php,Add event,"Events can be added if they
+have the right and accurate info","Events can be added with invalid info 
+or SQL injections",YES,,
+Organization,Orgevents.php,Clear info,Info can be cleared,Info cannot be cleared,YES,,
+Organization,Orgevents.php,Duplicate event,"No event with the same name 
+and start/end times can be added","Duplicate events with the same name 
+and times can be added",FIXED,"Event with duplicate time, name, same start/end times, same description can be added right now",Made name and start time unique
+Admin,All admin pages,Sidebar validity,"Clicking links on the sidebar
+redirects to proper pages","Clicking links either does nothing or
+redirects to wrong pages",YES,,
+Admin,All admin pages,Does nav bar work,"Clicking links on the navbar
+redirects to proper pages","Clicking links either does nothing or
+redirects to wrong pages",YES,,
+Admin,ViewOrganizations.php,Does search bar work,"Can search for organizations using
+any string of text for any cell","Search doesn't work or SQL can be
+injected",YES,,
+Admin,AddOrganizations.php,Can add organizations,"Can add organizations with 
+success message","Get an error message or can't add
+organizations to the database",YES,,
+Admin,AddOrganizations.php,No duplicate orgs,"Cannot add an org with a 
+preexisting name or email",Can add a duplicate org,FIXED,It's possible to add an org with a duplicate name and email as an existing org,Made email and name unique in SQL so that itll throw an erorr if you try to duplicate
+Admin,AddOrganizations.php,No SQL injection,Cannot inject SQL using fields,Can inject SQL using fields,YES,,
+Admin,DeleteOrganizations.php,Does search bar work,"Can search for organizations using
+any string of text for any cell","Search doesn't work or SQL can be
+injected",YES,,
+Admin,DeleteOrganizations.php,Does deleting work,"Can click delete and get success
+message for deleting org","Invalid include org isn't deleted, error
+message is sent, and all orgs instead 
+of 1 deleted",YES,,
+Admin,DeleteOrganizations.php,No SQL injection,Can't injecct SQL using fields,Can inject SQL using fields,YES,,
+Admin,DeleteOrganizations.php,Events not deleted,Deleting an org delets their events,Deleting an org doesn't delete their events,YES,,
+Admin,UpdateOrganizations.php,Does search bar work,"Can search for organizations using
+any string of text for any cell","Search doesn't work or SQL can be
+injected",YES,,
+Admin,UpdateOrganizations.php,No SQL injection,Can't injecct SQL using fields,Can inject SQL using fields,YES,,
+Admin,UpdateOrganizations.php,Valid current data,"Searchbar shows valid current
+data for orgs",Searchbar does not show org / correct data for org,YES,,
+Admin,UpdateOrganizations.php,Editing an org,"Editing applies to one org and
+will update their info","Editing either doesn't apply to that org or applies to 
+other orgs",YES,,
+Admin,UpdateOrganizations.php,No duplicates,"Cannot edit an org to be a 
+duplicate",Can edit an org to be a duplicate,FIXED,It's possible for an an admin to update an orgs information to duplicate anotehr org,Made email and name unique in SQL so that itll throw an erorr if you try to duplicate
+Admin,Adminevents.php,Searching for events,"Can search for events using
+any string of text for any cell","Search doesn't work or SQL can be
+injected",YES,,
+Admin,Adminevents.php,No RSVP,Admin can't RSVP to events,Admin can RSVP to events,YES,,
