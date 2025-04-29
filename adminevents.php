@@ -229,7 +229,8 @@ if ($q !== '') {
     
     table {
           size: 50%;
-          margin-left: 15%;
+          margin-left: auto;
+          margin-right: auto;
           border-collapse: collapse;
           border-spacing: 5px;
         }
