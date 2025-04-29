@@ -85,10 +85,10 @@
             concerns! Please free to reach out.
         </p>
         <br>
-            <p>Ian Love: <a href="mailto:lovei1@montclair.edu">lovei1@montclair.edu</a></p>
-            <p>Norke Pakhrin: <a href="mailto:pakhrinn1@montclair.edu">pakhrinn1@montclair.edu</a></p>
-            <p>Cristian Arcentales: <a href="mailto:arcentalesc1@montclair.edu">arcentalesc1@montclair.edu</a></p>
-            <p>Jeffrey Kouevi: <a href="mailto:kouevij1@montclair.edu">kouevij1@montclair.edu</a></p>
+            <p>Ian Love: lovei1@montclair.edu</p>
+            <p>Norke Pakhrin: pakhrinn1@montclair.edu</p>
+            <p>Cristian Arcentales: arcentalesc1@montclair.edu</p>
+            <p>Jeffrey Kouevi: kouevij1@montclair.edu</p>
     </header>
 
 
