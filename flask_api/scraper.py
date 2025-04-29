@@ -2,6 +2,7 @@ import requests
 import json
 import os
 from bs4 import BeautifulSoup
+from datetime import datetime, timezone
 
 # Using headers so we appear like an actual browser
 headers = {
@@ -9,29 +10,48 @@ headers = {
     "Accept": "application/json",
 }
 
-# Making a maximum number of pages so we pull a limited number of events
-MAX_PAGES = 20
-page = 1
-events_list = []
+# Configuration
+base_url = "https://montclair.campuslabs.com/engage/api/discovery/event/search"
+take = 15
+skip = 0
+events_dict = {}
 
-while page <= MAX_PAGES:
+# Current UTC time formatted to get more events
+now = datetime.now(timezone.utc).isoformat()
+
+while True:
     response = requests.get(
-        f"https://montclair.campuslabs.com/engage/api/discovery/event/search?pageNumber={page}",
+        base_url,
         headers=headers,
+        params={
+            "endsAfter": now,
+            "orderByField": "endsOn",
+            "orderByDirection": "ascending",
+            "status": "Approved",
+            "take": take,
+            "skip": skip,
+            "query": ""
+        },
         timeout=5
     )
     data = response.json()
-    events = data["value"]
+    events = data.get("value", [])
 
-    print(f"Page {page}: {len(events)} events")
+    print(f"Skip {skip}: {len(events)} events")
 
     if not events:
         break
 
     for event in events:
         event_id = event["id"]
+
+        if event_id in events_dict:
+            continue  # Skip duplicates
+
         # Link to actual event to pull description
-        detail_url = f"https://montclair.campuslabs.com/engage/api/discovery/event/{event_id}"
+        detail_url = (
+            f"https://montclair.campuslabs.com/engage/api/discovery/event/{event_id}"
+        )
 
         # Request full event info
         try:
@@ -52,14 +72,15 @@ while page <= MAX_PAGES:
             "date": event["startsOn"],
             "organization": event["organizationName"],
             "location": event["location"],
-            "link": f"https://montclair.campuslabs.com/engage/event/{event['id']}",
+            "link": f"https://montclair.campuslabs.com/engage/event/{event_id}",
             "description": clean_description
         }
-        events_list.append(event_data)
+
+        events_dict[event_id] = event_data
 
         print(f"Scraped: {event['name']}")
 
-    page += 1
+    skip += take
 
 # Save JSON in the same directory where scraper is
 output_path = os.path.join(os.path.dirname(__file__), "events.json")
@@ -67,7 +88,7 @@ output_path = os.path.join(os.path.dirname(__file__), "events.json")
 print(f"Saving file to {output_path}")
 
 with open(output_path, "w") as f:
-    print(f"Total events scraped: {len(events_list)}")
-    json.dump(events_list, f, indent=2)
+    print(f"Total events scraped: {len(events_dict)}")
+    json.dump(list(events_dict.values()), f, indent=2)
 
-print("✅ Finished writing events.json successfully!")
+print("Finished writing events.json successfully!")
