@@ -1,13 +1,5 @@
 [
   {
-    "title": "Summer Group X - Virtual Yoga",
-    "date": "2025-07-22T16:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/11333977",
-    "description": "Join our Group X Summer Series - a mix of HIIT, cycling, and yoga to match your mood. Whether you\u2019re chasing the burn or seeking your calm, we\u2019ve got your fit. Totally FREE. Totally worth it.\ud83d\udca5\ud83d\udcaa \n \u00a0 \n How do I sign-up? \n \n Registration is not required. \n FREE for students/faculty/staff with Montclair State ID \n \n Where and When? \n \n Tuesdays on\u00a0 Zoom  from June 16 - July 31 \n 10:00 a.m. - 10:30 p.m. \n 12:30 p.m - 1:00 p.m \n \n \u00a0 \n Instructor: Annabelle"
-  },
-  {
     "title": "Teacher Education Program Information Session",
     "date": "2025-07-22T18:00:00+00:00",
     "organization": "College for Education and Engaged Learning",
@@ -640,6 +632,14 @@
     "description": "Ready to make your dorm feel like  you ? Come hang out and personalize your space at  Deck Out Your Dorm Day ! We\u2019ve got everything you need \u2014 design your own pennant, tie-dye a pillowcase, create custom coasters or picture frames, and make some fun name art for your door. \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n Where and when? \n \n Sunday, August 30th \n 3 pm - 6 pm \n Blanton Hall Atrium"
   },
   {
+    "title": "American Dream Mall Trip",
+    "date": "2025-09-01T15:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Meetup/Departing Location: Red Hawk Deck",
+    "link": "https://montclair.campuslabs.com/engage/event/11367644",
+    "description": "Join Campus Activities for a fun-filled  Labor Day trip to American Dream Mall ! Explore one of the largest entertainment and shopping destinations in the U.S., featuring shops, dining, an indoor amusement park, water park, and more. Whether you're looking to relax, shop, or have an adventure, there's something for everyone. \n \u00a0 \n How do I sign up? \n \n \n Early registration is required \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n \n \u00a0 \n \n This is limited to the first 175 participants. \n \n \u00a0 \n Where and when? \n \n \n Monday, September 1st \n 11 am - 6 pm \n American Dream Mall, East Rutherford, New Jersey \n \n \n \u00a0 \n \n Buses will be leaving campus from  Red Hawk Deck  periodically, so you can choose a departure time that works best for you. Refer to the schedule below. \n \n \u00a0 \n Drop off times: \n 11:00am dropoff 12:00pm dropoff 1:00pm dropoff \n Pickup times: \n 4:00pm pickup 5:00pm pickup \n 6:00pm pickup \n \n Students may need to Uber/ Lyft back to campus if they miss the shuttles back."
+  },
+  {
     "title": "Door Decor",
     "date": "2025-09-02T23:00:00+00:00",
     "organization": "Campus Recreation",
@@ -808,14 +808,6 @@
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
   },
   {
-    "title": "Roll Up a Sleeve, Save a Life!",
-    "date": "2025-09-22T16:30:00+00:00",
-    "organization": "Civic & Voter Engagement",
-    "location": "Student Center Ballroom C",
-    "link": "https://montclair.campuslabs.com/engage/event/11364330",
-    "description": "Calling all Montclair State faculty, staff, and students\u2014it\u2019s time to be a hero! Join us for our  Blood Drive  in proud partnership with the  American Red Cross  and help make a life-saving impact. Whether you\u2019re a first-time donor or a seasoned pro, your donation can help replenish critical blood supplies used in emergencies, surgeries, and more. It\u2019s quick, easy, and one of the most meaningful ways to give back to your community. \n So roll up your sleeve, grab a friend, and join us in turning compassion into action\u2014because  every drop counts . Snacks, smiles, and gratitude await!"
-  },
-  {
     "title": "Stop by our Flu Clinic !! ",
     "date": "2025-09-23T14:00:00+00:00",
     "organization": "Student Health Center",
@@ -918,6 +910,14 @@
     "location": "Student Center 250B",
     "link": "https://montclair.campuslabs.com/engage/event/11310674",
     "description": "*Attention Montclair State University Students!* \n \u00a0 \n MAKE SURE YOU GET YOUR FLU VACCINE!\u00a0 \n \u00a0 \n The Student Health Center is partnering up with Occupational Health for our annual flu clinics! If you cannot make this event, keep an eye out for more upcoming dates this Fall!"
+  },
+  {
+    "title": "Roll Up a Sleeve, Save a Life!",
+    "date": "2025-10-03T16:00:00+00:00",
+    "organization": "Civic & Voter Engagement",
+    "location": "Student Center Ballroom B/C",
+    "link": "https://montclair.campuslabs.com/engage/event/11364330",
+    "description": "Calling all Montclair State faculty, staff, and students\u2014it\u2019s time to be a hero! Join us for our  Blood Drive  in proud partnership with the  American Red Cross  and help make a life-saving impact. Whether you\u2019re a first-time donor or a seasoned pro, your donation can help replenish critical blood supplies used in emergencies, surgeries, and more. It\u2019s quick, easy, and one of the most meaningful ways to give back to your community. \n So roll up your sleeve, grab a friend, and join us in turning compassion into action\u2014because  every drop counts . Snacks, smiles, and gratitude await!"
   },
   {
     "title": "Women's Soccer vs. TCNJ",
