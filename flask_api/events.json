@@ -1,21 +1,5 @@
 [
   {
-    "title": "Red Hawk Pantry",
-    "date": "2025-07-24T15:00:00+00:00",
-    "organization": "Red Hawk Pantry",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11343761",
-    "description": "Visiting the Pantry: \n Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n Summer 2025 Hours- \n \n Tuesdays: 12-2pm \n Thursdays: 1-3pm"
-  },
-  {
-    "title": "Wawayanda State Park Paddle Boarding",
-    "date": "2025-07-24T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Wawayanda State Park",
-    "link": "https://montclair.campuslabs.com/engage/event/11308429",
-    "description": "Join Campus Recreation for the new and exciting sport of stand up paddleboarding! We will head to the Wawayanda State Park for a relaxing, fun day on the water. The lake is 1.5 miles long with multiple islands that can be gone around making exploring fun.\u00a0 \n \u00a0 How do I Sign-up? \n \n Registration Opens on\u00a0 6/23 \n Register online through  Fusion , in the Student Rec Center main office, or over the phone (973-655-3340). \n Cost for Students $10; Faculty/Staff $20 \n \n Where and When? \n \n July 24, 2025 \n 9:00 am - 5:00 pm\u00a0 \n Begins at Student Recreation Center \n \n What to bring:  Water, lunch, bug spray, sunscreen, towel and bathing suit\u00a0 \n \u00a0 \n Potential Hazards:  Unpredictable weather changes, sunburn/heat exhaustion, dehydration, allergic reactions/poisonous plants, and insect bites."
-  },
-  {
     "title": "Child Advocacy and Policy (MA) and Child Advocacy (Certificate) Virtual Information Session",
     "date": "2025-07-24T21:00:00+00:00",
     "organization": "The Office of Graduate Admissions",
@@ -235,7 +219,7 @@
     "title": "Roll Up a Sleeve, Save a Life!",
     "date": "2025-08-06T15:00:00+00:00",
     "organization": "Civic & Voter Engagement",
-    "location": "Student Center Ballrooms B/C",
+    "location": "Student Center Ballrooms B",
     "link": "https://montclair.campuslabs.com/engage/event/11364321",
     "description": "Calling all Montclair State faculty, staff, and students\u2014it\u2019s time to be a hero! Join us for our  Blood Drive  in proud partnership with the  American Red Cross  and help make a life-saving impact. \n Whether you\u2019re a first-time donor or a seasoned pro, your donation can help replenish critical blood supplies used in emergencies, surgeries, and more. It\u2019s quick, easy, and one of the most meaningful ways to give back to your community. \n So roll up your sleeve, grab a friend, and join us in turning compassion into action\u2014because  every drop counts . Snacks, smiles, and gratitude await!"
   },
@@ -645,7 +629,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center 11C2A - Lobby Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11371185",
-    "description": "Get your football gear, and get ready to watch the defending superbowl champs, the Philadelphia Eagles, take on their arch rivals, the Dallas Cowboys, in the 2025-2026 NFL season opener on Thursday, September 4 at 8:30pm.\u00a0 Join us here at the Student Rec Center to watch the game and enjoy some FREE \u201ctailgating\u201d foods"
+    "description": "Get your football gear, and get ready to watch the defending superbowl champs, the Philadelphia Eagles, take on their arch rivals, the Dallas Cowboys, in the 2025-2026 NFL season opener on Thursday, September 4 at 8:30pm.\u00a0 Join us here at the Student Rec Center to watch the game and enjoy some FREE \u201ctailgating\u201d foods: pizzas, subs and wings!"
   },
   {
     "title": "IN-PERSON OPT Workshop - International Students (F-1 Visa Holders) Only",
@@ -992,14 +976,6 @@
     "description": "Gather your friends and head to 1908 for a night of fast facts, fun questions, and friendly competition at Movie Trivia Night! Compete for the chance to win awesome prizes \u2014 or just come for some pizza, wings, and maybe a few surprises. \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n Where and when? \n \n Thursday, October 2nd \n 7 pm - 9 pm \n Student Center, 1908 Pizzeria"
   },
   {
-    "title": "Roll Up a Sleeve, Save a Life!",
-    "date": "2025-10-03T16:00:00+00:00",
-    "organization": "Civic & Voter Engagement",
-    "location": "Student Center Ballroom B/C",
-    "link": "https://montclair.campuslabs.com/engage/event/11364330",
-    "description": "Calling all Montclair State faculty, staff, and students\u2014it\u2019s time to be a hero! Join us for our  Blood Drive  in proud partnership with the  American Red Cross  and help make a life-saving impact. Whether you\u2019re a first-time donor or a seasoned pro, your donation can help replenish critical blood supplies used in emergencies, surgeries, and more. It\u2019s quick, easy, and one of the most meaningful ways to give back to your community. \n So roll up your sleeve, grab a friend, and join us in turning compassion into action\u2014because  every drop counts . Snacks, smiles, and gratitude await!"
-  },
-  {
     "title": "Lego Bingo",
     "date": "2025-10-03T23:00:00+00:00",
     "organization": "Campus Activities",
@@ -1174,6 +1150,14 @@
     "location": "BLOOMFIELD CAMPUS: Westminster Hall ",
     "link": "https://montclair.campuslabs.com/engage/event/11332398",
     "description": "*Attention Montclair State University Students!* \n \u00a0 \n MAKE SURE YOU GET YOUR FLU VACCINE!\u00a0 \n \u00a0 \n The Student Health Center is partnering up with Occupational Health for our annual flu clinics! If you cannot make this event, keep an eye out for more upcoming dates this Fall!"
+  },
+  {
+    "title": "Roll Up a Sleeve, Save a Life!",
+    "date": "2025-10-16T16:00:00+00:00",
+    "organization": "Civic & Voter Engagement",
+    "location": "Student Center Ballroom B/C",
+    "link": "https://montclair.campuslabs.com/engage/event/11364330",
+    "description": "Calling all Montclair State faculty, staff, and students\u2014it\u2019s time to be a hero! Join us for our  Blood Drive  in proud partnership with the  American Red Cross  and help make a life-saving impact. Whether you\u2019re a first-time donor or a seasoned pro, your donation can help replenish critical blood supplies used in emergencies, surgeries, and more. It\u2019s quick, easy, and one of the most meaningful ways to give back to your community. \n So roll up your sleeve, grab a friend, and join us in turning compassion into action\u2014because  every drop counts . Snacks, smiles, and gratitude await!"
   },
   {
     "title": "Unplugged: Decades Trivia ",
