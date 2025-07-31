@@ -8,20 +8,20 @@
     "description": "Achieve More With An\u00a0Accounting MS Our\u00a0 Accounting (MS) \u00a0program is packed with hands-on learning, case studies, and real-world projects. You won\u2019t just learn accounting theory\u2014you\u2019ll know how to use it to tackle real challenges in the field.\u00a0We\u2019ll help you check all the boxes to be CPA-ready, with courses designed to meet certification requirements. \u00a0 \n Accounting Virtual Information Session Join us for a brief 30-minute meeting July 31\u00a0at 1:00 PM (EST) Virtual via Zoom\u00a0\u27a1\ufe0f\u00a0 Register Now \u00a0to receive session link! \n Program Snapshot: \n \n Rolling admission \n Fall and Spring start \n Classes on-campus and online \n Full and part time options \n Evening and weekend classes \n 33 credits \n 14:1 Student to faculty ratio \n \n Join our session to learn how the program can help you develop strong knowledge of accounting principles and essential business practices to advance your career."
   },
   {
-    "title": "Red Hawk Pantry",
-    "date": "2025-07-31T15:00:00+00:00",
-    "organization": "Red Hawk Pantry",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11343763",
-    "description": "Visiting the Pantry: \n Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n Summer 2025 Hours- \n \n Tuesdays: 12-2pm \n Thursdays: 1-3pm"
-  },
-  {
     "title": "Evaluating sources",
     "date": "2025-07-31T19:15:00+00:00",
     "organization": "Sprague Library",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11314874",
     "description": "This workshop will highlight how to evaluate sources, that is, how to assess the suitability of different kinds of information available the Montclair State University Libraries--namely, books, newspaper articles, and scholarly publications. Learn how to evaluate what is credible, spot bias, and assess relevance. This is a workshop in developing your critical thinking skills through the act of research. \n Register Here:\u00a0https://montclair.libcal.com/event/14675090"
+  },
+  {
+    "title": "Red Hawk Pantry",
+    "date": "2025-07-31T15:00:00+00:00",
+    "organization": "Red Hawk Pantry",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11343763",
+    "description": "Visiting the Pantry: \n Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n Summer 2025 Hours- \n \n Tuesdays: 12-2pm \n Thursdays: 1-3pm"
   },
   {
     "title": "Summer Group X - Virtual Yoga",
@@ -245,7 +245,7 @@
     "organization": "Residence Life",
     "location": "Blanton Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11381024",
-    "description": "All Are Welcome! Get creative and personalize your own trucker hat at our Hats and Patches event on August 24th from 8:00 PM to 10:30 PM in the Blanton Atrium. Come for the fun, stay for the unique creations!"
+    "description": "All Are Welcome! Get creative and personalize your own trucker hat at our Hats and Patches event on August 24th from 8:00 PM to 10:30 PM in the Blanton Lounge. Come for the fun, stay for the unique creations!"
   },
   {
     "title": "Late Night Cereal Bar",
@@ -429,7 +429,7 @@
     "organization": "Residence Life",
     "location": "Blanton Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11381337",
-    "description": "All are welcome! \n Come decorate your own canvas tote bag while enjoying music, snacks, and good vibes on Tuesday, August 27 at 8:30 PM in the Blanton Atrium! \n All supplies are provided \u2014 just bring yourself and your creativity!"
+    "description": "All are welcome! \n Come decorate your own canvas tote bag while enjoying music, snacks, and good vibes on Tuesday, August 27 at 8:30 PM in the Blanton Lounge! \n All supplies are provided \u2014 just bring yourself and your creativity!"
   },
   {
     "title": "A Popping Semester",
@@ -614,6 +614,14 @@
     "location": "Stone Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11381360",
     "description": "Craft something cute and functional! Stop by Stone Hall on August 31st from 8:30 PM \u2013 10:30 PM to design your own DIY Trinket Dish. Perfect for holding jewelry, keys, or tiny treasures \u2014 and totally made by you! All are welcome \u2014 come get crafty and take home something special."
+  },
+  {
+    "title": "Snow Cone and Chill",
+    "date": "2025-09-01T16:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11383615",
+    "description": "Cool off this Labor Day with free snow cones and good vibes! Join us Monday, September 1st from 12 PM to 1 PM in the Bohn Hall Lounge. All are welcome\u2014come chill with us!"
   },
   {
     "title": "American Dream Mall Trip",
