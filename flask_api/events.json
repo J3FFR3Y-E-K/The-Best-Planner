@@ -8,14 +8,6 @@
     "description": "In this hands-on session, you'll learn how to quickly and easily embed library resources such as databases, journals, e-books, articles and streaming video into your Canvas course.\u00a0We'll walk you through permalinking and creating persistent links to prompt your students to log in and access library content hassle-free. We'll also cover adding a librarian to your course and demonstrate the Library Resources tab in Canvas. \n \n Related\u00a0LibGuide:\u00a0 Canvas and Library Integration by Bill Vincenti \n Register Here:\u00a0https://montclair.libcal.com/event/14642676"
   },
   {
-    "title": "Red Hawk Pantry",
-    "date": "2025-08-26T15:00:00+00:00",
-    "organization": "Red Hawk Pantry",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11343770",
-    "description": "Visiting the Pantry: \n Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n Summer 2025 Hours- \n \n Tuesdays: 12-2pm \n Thursdays: 1-3pm"
-  },
-  {
     "title": "Craft Kits, Spa Kits, and More! ",
     "date": "2025-08-26T19:00:00+00:00",
     "organization": "Office of Health Promotion",
@@ -30,6 +22,14 @@
     "location": "Student Center, Dining Room, Room 251",
     "link": "https://montclair.campuslabs.com/engage/event/11362492",
     "description": "Join CAPS for a relaxed and supportive event where you can unwind with some coloring, enjoy cookies, and connect with others. Whether you want to chat or just take a break, come stop by! \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesday, August 26th \n 3 pm - 4 pm \n Student Center, Dining Room, Room 251"
+  },
+  {
+    "title": "Red Hawk Pantry",
+    "date": "2025-08-26T15:00:00+00:00",
+    "organization": "Red Hawk Pantry",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11343770",
+    "description": "Visiting the Pantry: \n Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n Summer 2025 Hours- \n \n Tuesdays: 12-2pm \n Thursdays: 1-3pm"
   },
   {
     "title": "Minute To Win It Games",
@@ -72,20 +72,20 @@
     "description": "Join us for the Bohn Hall Community Meeting! This is your opportunity to connect with your Professional Staff, student staff, and fellow residents as we kick off the semester together. At this meeting, we\u2019ll cover important information about living in Bohn Hall, including community expectations, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n Resources and support available to you \n Opportunities to connect with staff and peers \n A chance to ask questions and share your voice \n \n We look forward to seeing you there! \n This event is for Bohn Hall Residents"
   },
   {
-    "title": "Freeman and Russ Hall Community Meeting ",
-    "date": "2025-08-26T23:00:00+00:00",
-    "organization": "Freeman Hall & Russ Hall",
-    "location": "Freeman Hall First Floor Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/11437431",
-    "description": "Event Description: Join us for the Freeman and Russ Hall Community Meeting! This is your opportunity to connect with your Professional Staff, student staff, and fellow residents as we kick off the semester together. At this meeting, we\u2019ll cover important information about living in Freeman and Russ, including community expectations, upcoming events, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n \n Important updates about Freeman and Russ Hall \n \n \n Resources and support available to you \n \n \n Opportunities to connect with staff and peers \n \n \n A chance to ask questions and share your voice \n \n \n We look forward to seeing you there! \n This event is for Freeman and Russ Residents."
-  },
-  {
     "title": "225 Liberty: Opening Community Meeting",
     "date": "2025-08-26T23:00:00+00:00",
     "organization": "Bloomfield's Office of Residence Life",
     "location": "225 Liberty Lower Level Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11487137",
     "description": "Welcome new residents of the tenacious 225 Liberty residence hall. Please come out to your mandatory opening community meeting to get to know your fellow community members, learn how to get involved, connect with the Residence Life team and more.\u00a0 \n \u00a0 \n Location: 225 Liberty Lower Level Lounge\u00a0 \n 8/25/2025 at 7:00pm\u00a0 \n 8/26/2025 at 7:00pm\u00a0 \n 8/27/2025 at 7:00pm"
+  },
+  {
+    "title": "Freeman and Russ Hall Community Meeting ",
+    "date": "2025-08-26T23:00:00+00:00",
+    "organization": "Freeman Hall & Russ Hall",
+    "location": "Freeman Hall First Floor Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/11437431",
+    "description": "Event Description: Join us for the Freeman and Russ Hall Community Meeting! This is your opportunity to connect with your Professional Staff, student staff, and fellow residents as we kick off the semester together. At this meeting, we\u2019ll cover important information about living in Freeman and Russ, including community expectations, upcoming events, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n \n Important updates about Freeman and Russ Hall \n \n \n Resources and support available to you \n \n \n Opportunities to connect with staff and peers \n \n \n A chance to ask questions and share your voice \n \n \n We look forward to seeing you there! \n This event is for Freeman and Russ Residents."
   },
   {
     "title": "Hawk Crossings Community Meeting",
@@ -653,7 +653,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center",
     "link": "https://montclair.campuslabs.com/engage/event/11435911",
-    "description": "We\u2019re excited to introduce Pickleball to our Intramural Sports lineup this fall! Whether you're a seasoned player or brand new to this game, join us for Open Play sessions from September 2nd through October 14th.\u00a0 \n Open Play sessions will be drop-in style and open to ALL skill levels - come solo or bring a friend! No pre-registration required, swipe Student ID upon arrival.\u00a0 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n From 09/02 - 10/14 \n Tuesdays, 8 -10 p.m. \n Thursdays, 11 - 1 p.m. \n Student Recreation Center"
+    "description": "We\u2019re excited to introduce Pickleball to our Intramural Sports lineup this fall! Whether you're a seasoned player or brand new to this game, join us for Open Play sessions from September 2nd through October 16th.\u00a0 \n Open Play sessions will be drop-in style and open to ALL skill levels - come solo or bring a friend! No pre-registration required, swipe Student ID upon arrival.\u00a0 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n From 09/02 - 10/16 \n Tuesdays, 8 -10 p.m. \n Thursdays, 11 - 1 p.m. \n Student Recreation Center"
   },
   {
     "title": "Cali School of Music Midweek Series: Faculty Showcase",
@@ -949,7 +949,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center",
     "link": "https://montclair.campuslabs.com/engage/event/11435913",
-    "description": "We\u2019re excited to introduce Pickleball to our Intramural Sports lineup this fall! Whether you're a seasoned player or brand new to this game, join us for Open Play sessions from September 2nd through October 14th.\u00a0 \n Open Play sessions will be drop-in style and open to ALL skill levels - come solo or bring a friend! No pre-registration required, swipe Student ID upon arrival.\u00a0 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n From 09/02 - 10/14 \n Tuesdays, 8 -10 p.m. \n Thursdays, 11 - 1 p.m. \n Student Recreation Center"
+    "description": "We\u2019re excited to introduce Pickleball to our Intramural Sports lineup this fall! Whether you're a seasoned player or brand new to this game, join us for Open Play sessions from September 2nd through October 16th.\u00a0 \n Open Play sessions will be drop-in style and open to ALL skill levels - come solo or bring a friend! No pre-registration required, swipe Student ID upon arrival.\u00a0 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n From 09/02 - 10/16 \n Tuesdays, 8 -10 p.m. \n Thursdays, 11 - 1 p.m. \n Student Recreation Center"
   },
   {
     "title": " S.T.A.R.T: Beat the Clock: Time Hacks for Busy Students",
@@ -1301,7 +1301,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center",
     "link": "https://montclair.campuslabs.com/engage/event/11484014",
-    "description": "Campus Rec is showing love to our commuters with *free light breakfast & coffee* everyday during  Commuter Life Appreciation Week  from September 15-19!\u00a0 Stop by * Monday\u2013Friday, 9:00AM\u201311:00AM * to grab some morning fuel. Come early to beat the parking rush, maybe squeeze in a quick workout and shower (clean towels provided). Then enjoy breakfast & coffee before heading to class. All students are welcome! \ud83e\udd6f\u2615\u2728 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Monday, September 15, 9-11 a.m. in Student Recreation Center Lounge \n Tuesday, September 16, 9-11 a.m. in Student Recreation Center Lounge \n Wednesday, September 17, 9-11 a.m. in Student Recreation Center Lounge \n Thursday, September 18, 9-11 a.m. in Student Recreation Center Lounge \n Friday, September 19, 9-11 a.m. in Student Recreation Center Lounge"
+    "description": "Campus Rec is showing love to our commuters with *free light breakfast & coffee* everyday during  Commuter Life Appreciation Week  from September 15-19!\u00a0 Stop by * Monday\u2013Friday, 9:00AM\u201311:00AM * to grab some morning fuel. Come early to beat the parking rush, maybe squeeze in a quick workout and shower (clean towels provided).\u00a0 Then enjoy breakfast & coffee before heading to class. All students are welcome! \ud83e\udd6f\u2615\u2728 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Monday, September 15, 9-11 a.m. in Student Recreation Center Lounge \n Tuesday, September 16, 9-11 a.m. in Student Recreation Center Lounge \n Wednesday, September 17, 9-11 a.m. in Student Recreation Center Lounge \n Thursday, September 18, 9-11 a.m. in Student Recreation Center Lounge \n Friday, September 19, 9-11 a.m. in Student Recreation Center Lounge"
   },
   {
     "title": "Open Play Pickleball",
@@ -1373,7 +1373,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center",
     "link": "https://montclair.campuslabs.com/engage/event/11435915",
-    "description": "We\u2019re excited to introduce Pickleball to our Intramural Sports lineup this fall! Whether you're a seasoned player or brand new to this game, join us for Open Play sessions from September 2nd through October 14th.\u00a0 \n Open Play sessions will be drop-in style and open to ALL skill levels - come solo or bring a friend! No pre-registration required, swipe Student ID upon arrival.\u00a0 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n From 09/02 - 10/14 \n Tuesdays, 8 -10 p.m. \n Thursdays, 11 - 1 p.m. \n Student Recreation Center"
+    "description": "We\u2019re excited to introduce Pickleball to our Intramural Sports lineup this fall! Whether you're a seasoned player or brand new to this game, join us for Open Play sessions from September 2nd through October 16th.\u00a0 \n Open Play sessions will be drop-in style and open to ALL skill levels - come solo or bring a friend! No pre-registration required, swipe Student ID upon arrival.\u00a0 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n From 09/02 - 10/16 \n Tuesdays, 8 -10 p.m. \n Thursdays, 11 - 1 p.m. \n Student Recreation Center"
   },
   {
     "title": "Free Breakfast & Coffee",
@@ -1381,7 +1381,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center",
     "link": "https://montclair.campuslabs.com/engage/event/11484015",
-    "description": "Campus Rec is showing love to our commuters with *free light breakfast & coffee* everyday during  Commuter Life Appreciation Week  from September 15-19!\u00a0 Stop by * Monday\u2013Friday, 9:00AM\u201311:00AM * to grab some morning fuel. Come early to beat the parking rush, maybe squeeze in a quick workout and shower (clean towels provided). Then enjoy breakfast & coffee before heading to class. All students are welcome! \ud83e\udd6f\u2615\u2728 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Monday, September 15, 9-11 a.m. in Student Recreation Center Lounge \n Tuesday, September 16, 9-11 a.m. in Student Recreation Center Lounge \n Wednesday, September 17, 9-11 a.m. in Student Recreation Center Lounge \n Thursday, September 18, 9-11 a.m. in Student Recreation Center Lounge \n Friday, September 19, 9-11 a.m. in Student Recreation Center Lounge"
+    "description": "Campus Rec is showing love to our commuters with *free light breakfast & coffee* everyday during  Commuter Life Appreciation Week  from September 15-19!\u00a0 Stop by * Monday\u2013Friday, 9:00AM\u201311:00AM * to grab some morning fuel. Come early to beat the parking rush, maybe squeeze in a quick workout and shower (clean towels provided).\u00a0 Then enjoy breakfast & coffee before heading to class. All students are welcome! \ud83e\udd6f\u2615\u2728 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Monday, September 15, 9-11 a.m. in Student Recreation Center Lounge \n Tuesday, September 16, 9-11 a.m. in Student Recreation Center Lounge \n Wednesday, September 17, 9-11 a.m. in Student Recreation Center Lounge \n Thursday, September 18, 9-11 a.m. in Student Recreation Center Lounge \n Friday, September 19, 9-11 a.m. in Student Recreation Center Lounge"
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
@@ -1453,7 +1453,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center",
     "link": "https://montclair.campuslabs.com/engage/event/11484016",
-    "description": "Campus Rec is showing love to our commuters with *free light breakfast & coffee* everyday during  Commuter Life Appreciation Week  from September 15-19!\u00a0 Stop by * Monday\u2013Friday, 9:00AM\u201311:00AM * to grab some morning fuel. Come early to beat the parking rush, maybe squeeze in a quick workout and shower (clean towels provided). Then enjoy breakfast & coffee before heading to class. All students are welcome! \ud83e\udd6f\u2615\u2728 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Monday, September 15, 9-11 a.m. in Student Recreation Center Lounge \n Tuesday, September 16, 9-11 a.m. in Student Recreation Center Lounge \n Wednesday, September 17, 9-11 a.m. in Student Recreation Center Lounge \n Thursday, September 18, 9-11 a.m. in Student Recreation Center Lounge \n Friday, September 19, 9-11 a.m. in Student Recreation Center Lounge"
+    "description": "Campus Rec is showing love to our commuters with *free light breakfast & coffee* everyday during  Commuter Life Appreciation Week  from September 15-19!\u00a0 Stop by * Monday\u2013Friday, 9:00AM\u201311:00AM * to grab some morning fuel. Come early to beat the parking rush, maybe squeeze in a quick workout and shower (clean towels provided).\u00a0 Then enjoy breakfast & coffee before heading to class. All students are welcome! \ud83e\udd6f\u2615\u2728 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Monday, September 15, 9-11 a.m. in Student Recreation Center Lounge \n Tuesday, September 16, 9-11 a.m. in Student Recreation Center Lounge \n Wednesday, September 17, 9-11 a.m. in Student Recreation Center Lounge \n Thursday, September 18, 9-11 a.m. in Student Recreation Center Lounge \n Friday, September 19, 9-11 a.m. in Student Recreation Center Lounge"
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
@@ -1549,7 +1549,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center",
     "link": "https://montclair.campuslabs.com/engage/event/11484017",
-    "description": "Campus Rec is showing love to our commuters with *free light breakfast & coffee* everyday during  Commuter Life Appreciation Week  from September 15-19!\u00a0 Stop by * Monday\u2013Friday, 9:00AM\u201311:00AM * to grab some morning fuel. Come early to beat the parking rush, maybe squeeze in a quick workout and shower (clean towels provided). Then enjoy breakfast & coffee before heading to class. All students are welcome! \ud83e\udd6f\u2615\u2728 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Monday, September 15, 9-11 a.m. in Student Recreation Center Lounge \n Tuesday, September 16, 9-11 a.m. in Student Recreation Center Lounge \n Wednesday, September 17, 9-11 a.m. in Student Recreation Center Lounge \n Thursday, September 18, 9-11 a.m. in Student Recreation Center Lounge \n Friday, September 19, 9-11 a.m. in Student Recreation Center Lounge"
+    "description": "Campus Rec is showing love to our commuters with *free light breakfast & coffee* everyday during  Commuter Life Appreciation Week  from September 15-19!\u00a0 Stop by * Monday\u2013Friday, 9:00AM\u201311:00AM * to grab some morning fuel. Come early to beat the parking rush, maybe squeeze in a quick workout and shower (clean towels provided).\u00a0 Then enjoy breakfast & coffee before heading to class. All students are welcome! \ud83e\udd6f\u2615\u2728 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Monday, September 15, 9-11 a.m. in Student Recreation Center Lounge \n Tuesday, September 16, 9-11 a.m. in Student Recreation Center Lounge \n Wednesday, September 17, 9-11 a.m. in Student Recreation Center Lounge \n Thursday, September 18, 9-11 a.m. in Student Recreation Center Lounge \n Friday, September 19, 9-11 a.m. in Student Recreation Center Lounge"
   },
   {
     "title": "Unplugged: Disney Trivia ",
@@ -2576,14 +2576,6 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20, 2025 \n Tuesday, 5-6 p.m. \n Student Recreation Center - Pool"
   },
   {
-    "title": "Open Play Pickleball",
-    "date": "2025-10-15T00:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center",
-    "link": "https://montclair.campuslabs.com/engage/event/11435923",
-    "description": "We\u2019re excited to introduce Pickleball to our Intramural Sports lineup this fall! Whether you're a seasoned player or brand new to this game, join us for Open Play sessions from September 2nd through October 14th.\u00a0 \n Open Play sessions will be drop-in style and open to ALL skill levels - come solo or bring a friend! No pre-registration required, swipe Student ID upon arrival.\u00a0 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n From 09/02 - 10/14 \n Tuesdays, 8 -10 p.m. \n Thursdays, 11 - 1 p.m. \n Student Recreation Center"
-  },
-  {
     "title": "Latine AIDS Awareness Day",
     "date": "2025-10-15T16:00:00+00:00",
     "organization": "Office for Hispanic Initiatives",
@@ -2638,6 +2630,22 @@
     "location": "Student Center, 1908 Pizzeria",
     "link": "https://montclair.campuslabs.com/engage/event/11368795",
     "description": "Gather your friends and head to 1908 for a night of fast facts, throwback questions, and friendly competition at Decades Trivia Night! Compete for the chance to win awesome prizes \u2014 or just come for some pizza, wings, and maybe a few surprises. \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n Where and when? \n \n Thursday, October 16th \n 7 pm - 9 pm \n Student Center, 1908 Pizzeria"
+  },
+  {
+    "title": "Nefesh Mountain",
+    "date": "2025-10-16T23:30:00+00:00",
+    "organization": "PEAK Performances",
+    "location": "Alexander Kasser Theatre",
+    "link": "https://montclair.campuslabs.com/engage/event/11492899",
+    "description": "New York\u2013based Progressive Americana group Nefesh Mountain Band has emerged as one of the most boundary-pushing ensembles in roots music. Led by the dynamic husband-and-wife team Eric Lindberg and Doni Zasloff, the band has forged a sound entirely their own\u2014blending Americana, bluegrass, folk, jazz, and blues with masterful songwriting, dazzling instrumentals, and fearless creativity. Hailed for their introspective lyrics and world-class musicianship, Nefesh Mountain takes listeners on a deeply personal journey that reflects their wild spirit, compositional finesse, and unbridled love of music. \n \u00a0 \n Since forming nearly a decade ago, Nefesh Mountain has been proud and vocal about their Jewish American heritage, becoming one of the first prominent Americana/bluegrass bands to weave Jewish tradition and soul into the rich, diverse tapestry of American roots music. \n \u00a0 \n Their latest album, Beacons, born out of a cross-country tour and shaped by both personal triumphs and turbulent world events, radiates hope, unity, and adventurous genre-bending. Featuring legendary guests Jerry Douglas, Sam Bush, and Stuart Duncan, the record showcases soaring harmonies, heartfelt ballads, and music that speaks to our shared humanity. From the electrified drive of \u201cThis Is Me\u201d to the moving grace of \u201cBetter Angels,\u201d Nefesh Mountain offers songs that uplift and inspire\u2014serving as a beacon of light in divided times. \n \u00a0 \n To join us, be sure to pick up your free student ticket from the Alexander Kasser Theatre box office or our mobile box office in the student center lobby, Tuesday - Thursday, 11:30 AM to 2:00 PM, and show your student ID at the PEAK desk in the lobby when you arrive for a surprise gift from PEAK."
+  },
+  {
+    "title": "Open Play Pickleball",
+    "date": "2025-10-17T00:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center",
+    "link": "https://montclair.campuslabs.com/engage/event/11435923",
+    "description": "We\u2019re excited to introduce Pickleball to our Intramural Sports lineup this fall! Whether you're a seasoned player or brand new to this game, join us for Open Play sessions from September 2nd through October 16th.\u00a0 \n Open Play sessions will be drop-in style and open to ALL skill levels - come solo or bring a friend! No pre-registration required, swipe Student ID upon arrival.\u00a0 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n From 09/02 - 10/16 \n Tuesdays, 8 -10 p.m. \n Thursdays, 11 - 1 p.m. \n Student Recreation Center"
   },
   {
     "title": "Crash-A-Class Fall 2025",
@@ -3512,6 +3520,14 @@
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
   },
   {
+    "title": "I AM | Camille A. Brown & Dancers",
+    "date": "2026-02-13T00:30:00+00:00",
+    "organization": "PEAK Performances",
+    "location": "Alexander Kasser Theatre",
+    "link": "https://montclair.campuslabs.com/engage/event/11493050",
+    "description": "Five-time Tony nominated choreographer and director Camille A. Brown deepens her explorations of Black joy in Camille A. Brown & Dancers\u2019\u00a0 I AM . With captivating live and original music,\u00a0 I AM \u00a0launches new queries into the possibilities of imagination\u2014and boldly investigates the future. Inspired by a narrative within HBO\u2019s\u00a0 Lovecraft Country \u00a0and the rhythms of the movie\u00a0 Drumline , Brown\u2019s 2025 New York Times Critics\u2019 Pick breaks boundaries and \u201ctakes her signature interweaving of African diasporic dance forms to new heights.\u201d \u2014\u2009 The New York Times \n \u00a0 \n  To join us, be sure to pick up your free student ticket from the Alexander Kasser Theatre box office or our mobile box office in the student center lobby, Tuesdays and Thursdays, 11:30 AM to 2:00 PM, and show your student ID at the PEAK desk in the lobby when you arrive for a surprise gift from PEAK."
+  },
+  {
     "title": "Men's Basketball vs. Kean",
     "date": "2026-02-14T18:00:00+00:00",
     "organization": "Athletics",
@@ -3526,6 +3542,14 @@
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/11342697",
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
+  },
+  {
+    "title": "Rent In Concert | Musical in Concert | Produced by AMP Worldwide",
+    "date": "2026-02-22T20:00:00+00:00",
+    "organization": "PEAK Performances",
+    "location": "Alexander Kasser Theatre",
+    "link": "https://montclair.campuslabs.com/engage/event/11493292",
+    "description": "Experience the iconic music of\u00a0 RENT \u00a0like never before. In this sweeping symphonic concert produced by AMP Worldwide, a powerhouse ensemble of vocalists and instrumentalists brings Jonathan Larson\u2019s groundbreaking rock musical to life in a sweeping symphonic concert. Featuring the full score\u2014including \u201cSeasons of Love,\u201d \u201cLa Vie Boh\u00e8me,\u201d and \u201cTake Me or Leave Me\u201d\u2014this electrifying performance celebrates the enduring spirit of love, loss, and chosen family. \n \u00a0 \n Set in New York City\u2019s East Village at the height of the HIV/AIDS crisis,\u00a0 RENT \u00a0follows a group of young artists as they chase their dreams, navigate heartbreak, and fight to live\u2014and love\u2014fully in the moment. Winner of the Tony Award for Best Musical and the Pulitzer Prize for Drama,\u00a0 RENT \u00a0remains a cultural touchstone with music that resonates across generations. \n \u00a0 \n To join us, be sure to pick up your free student ticket from the Alexander Kasser Theatre box office or our mobile box office in the student center lobby, Tuesdays and Thursdays, 11:30 AM to 2:00 PM, and show your student ID at the PEAK desk in the lobby when you arrive for a surprise gift from PEAK."
   },
   {
     "title": "Safe Space Training",
