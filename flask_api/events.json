@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Pilates",
-    "date": "2025-09-03T13:45:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11535648",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 9:45am - 10:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
-  },
-  {
     "title": "Group X - Cycling",
     "date": "2025-09-03T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -102,6 +94,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11543135",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+  },
+  {
+    "title": "Bohn Hall Organization Fair",
+    "date": "2025-09-03T20:00:00+00:00",
+    "organization": "Bohn Hall",
+    "location": "Bohn Hall Main Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/11548691",
+    "description": "Looking to get involved on campus? Join us at the Bohn Hall Organization Fair! Meet student leaders, explore clubs and organizations, and find the perfect way to connect, grow, and make the most of your college experience."
   },
   {
     "title": "Group X - Zumba",
@@ -285,7 +285,7 @@
     "organization": "Campus Activities",
     "location": "Montclair State University Amphitheater",
     "link": "https://montclair.campuslabs.com/engage/event/11367920",
-    "description": "Join Campus Activities for Bingo at the Amphitheater. Grab a seat, grab a card, and get ready to shout  BINGO! to  win a prize basket! \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n Where and when? \n \n Friday, September 5th \n 7 pm - 10 pm \n The Amphitheater"
+    "description": "Join Campus Activities for Bingo at the Amphitheater. Grab a seat, grab a card, and get ready to shout  BINGO! to  win a prize basket! There will be over $500 in prizes!! \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n Where and when? \n \n Friday, September 5th \n 7 pm - 10 pm \n The Amphitheater"
   },
   {
     "title": "Bacon Pancakes with Finn and Jake",
@@ -304,7 +304,7 @@
     "description": "We welcome you to a cat trivia night at Machuga Heights on Fuzzy Friday, September 5th at 8:00 P.M! Come over to learn more about our fuzzy friends with delicious Goldfish! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Cereal Bar",
+    "title": "Late Night Cereal Bar",
     "date": "2025-09-06T01:00:00+00:00",
     "organization": "Campus Activities",
     "location": "Student Center Cafeteria",
@@ -720,20 +720,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n CJ"
   },
   {
-    "title": "Pies & Paints",
-    "date": "2025-09-09T23:00:00+00:00",
-    "organization": "Greek Life",
-    "location": "Student Center Ballrooms",
-    "link": "https://montclair.campuslabs.com/engage/event/11470321",
-    "description": "Unwind, get creative, and enjoy some pizza while you paint with Greek Life! No experience needed\u2014just bring your friends, your imagination, and an appetite for fun."
-  },
-  {
     "title": "Make a Stuffy - Rec Nights",
     "date": "2025-09-09T23:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Center 11C2A - Lobby Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11339967",
     "description": "Get ready for a heartwarming hands-on experience! Join us for a fun-filled day where you\u2019ll bring your very own cuddly companion to life. Choose from a variety of adorable unstuffed animals, fill them with fluff, make a wish on a star, and personalize your new friend with accessories and a birth certificate! \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesday, September 9 \n 7pm-9pm, must be checked in by 8:30pm to participate \n Student Recreation Center Lounge"
+  },
+  {
+    "title": "Pies & Paints",
+    "date": "2025-09-09T23:00:00+00:00",
+    "organization": "Greek Life",
+    "location": "Student Center Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/11470321",
+    "description": "Unwind, get creative, and enjoy some pizza while you paint with Greek Life! No experience needed\u2014just bring your friends, your imagination, and an appetite for fun."
   },
   {
     "title": "Finger Painting",
@@ -2232,6 +2232,14 @@
     "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
   },
   {
+    "title": "Library Tour",
+    "date": "2025-09-22T16:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Sprague Library Front Desk",
+    "link": "https://montclair.campuslabs.com/engage/event/11550445",
+    "description": "Welcome to the Sprague Library! Join us for a guided tour of the library's resources and spaces, and learn about some of the services available to you in the Sprague Library. The meeting point for the tour will be the Front Desk in the Sprague Library (Main Level - next to the entrance)"
+  },
+  {
     "title": " S.T.A.R.T: Campus Essentials: Unlocking the Help Around You",
     "date": "2025-09-22T16:00:00+00:00",
     "organization": "Disability Resource Center",
@@ -2910,6 +2918,14 @@
     "location": "University Hall room 1070",
     "link": "https://montclair.campuslabs.com/engage/event/11505846",
     "description": "Join us at University Hall 1070 for some popcorn with the Hiccup on September 25th from 8:30PM to 11PM All students are welcome"
+  },
+  {
+    "title": "Library Tour",
+    "date": "2025-09-26T14:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Sprague Library Front Desk",
+    "link": "https://montclair.campuslabs.com/engage/event/11550398",
+    "description": "Welcome to the Sprague Library! Join us for a guided tour of the library's resources and spaces, and learn about some of the services available to you in the Sprague Library. The meeting point for the tour will be the Front Desk in the Sprague Library (Main Level - next to the entrance)."
   },
   {
     "title": "HACU Fall 2025: Virtual Informational Session",
