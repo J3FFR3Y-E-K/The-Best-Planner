@@ -1,29 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2025-09-11T12:45:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11560513",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 8:45am - 9:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
-  },
-  {
-    "title": "Group X - Yoga",
-    "date": "2025-09-11T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11561508",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 09/02 - 12/17 \n 9am-9:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Anabelle"
-  },
-  {
-    "title": "Group X - Cycling",
-    "date": "2025-09-11T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/11560792",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 10am-10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
-  },
-  {
     "title": "Grab & Go Breakfast",
     "date": "2025-09-11T13:00:00+00:00",
     "organization": "Office of Student Belonging",
@@ -160,20 +136,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-6:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Quentin"
   },
   {
-    "title": "Art & Design Juried Exhibition",
-    "date": "2025-09-11T15:00:00+00:00",
-    "organization": "Art and Design",
-    "location": "Finley Gallery, Finley Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11565873",
-    "description": "\ud83c\udfa8\u2728 The Department of Art & Design is kicking off the Fall 2025 semester with the Art & Design Juried Exhibition at Finley Gallery! The exhibition opens today! \n \u00a0 \n \ud83d\uddd3 Exhibition: Sept. 4\u201323, 2025 \n \ud83d\udcc5 Opening Reception: Wed. Sept. 10, 2\u20134 PM \n \u00a0 \n Featuring work from students across Visual Arts, Fashion Design & Merchandising, Illustration, Product Design, and Visual Communication Design, this showcase highlights projects hand-selected by our faculty, one piece from every course section. \n \u00a0 \n Come see the incredible creativity, talent, and innovation happening inside our department. You won\u2019t want to miss it! \n \u00a0 \n \u00a0 \n \ud83d\udccd Finley Gallery, Finley Hall"
-  },
-  {
     "title": "General Body Meeting #1 (Interest Meeting)",
     "date": "2025-09-11T22:00:00+00:00",
     "organization": "Montclair State Circle K",
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/11581438",
     "description": "The first General Body Meeting of Montclair State Circle K. This meeting will introduce new and returning members to our organization, share upcoming service opportunities, and provide an overview of our goals for the semester. The event will include a presentation, group activities, and open discussion."
+  },
+  {
+    "title": "Art & Design Juried Exhibition",
+    "date": "2025-09-11T15:00:00+00:00",
+    "organization": "Art and Design",
+    "location": "Finley Gallery, Finley Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11565873",
+    "description": "\ud83c\udfa8\u2728 The Department of Art & Design is kicking off the Fall 2025 semester with the Art & Design Juried Exhibition at Finley Gallery! The exhibition opens today! \n \u00a0 \n \ud83d\uddd3 Exhibition: Sept. 4\u201323, 2025 \n \ud83d\udcc5 Opening Reception: Wed. Sept. 10, 2\u20134 PM \n \u00a0 \n Featuring work from students across Visual Arts, Fashion Design & Merchandising, Illustration, Product Design, and Visual Communication Design, this showcase highlights projects hand-selected by our faculty, one piece from every course section. \n \u00a0 \n Come see the incredible creativity, talent, and innovation happening inside our department. You won\u2019t want to miss it! \n \u00a0 \n \u00a0 \n \ud83d\udccd Finley Gallery, Finley Hall"
   },
   {
     "title": "Group X - Pilates",
@@ -638,6 +614,14 @@
     "location": "University Hall room 1070",
     "link": "https://montclair.campuslabs.com/engage/event/11506133",
     "description": "Harry Potter and the Deathly Hallows: Part 1 \u2728 Join us for a magical movie night! \u2728 \n \ud83d\udcc5  Date:  Saturday, September 14th \u23f0  Time:  8:30 PM \ud83d\udccd  Location:  University Hall 1070 \n Grab your friends, bring your house pride, and get ready to relive the beginning of the epic finale. Snacks provided while supplies last!"
+  },
+  {
+    "title": "CLAW: Volunteer Bagel Packing",
+    "date": "2025-09-15T10:30:00+00:00",
+    "organization": "Office of Commuter Life",
+    "location": "Student Center Room 104 (Campus Activities)",
+    "link": "https://montclair.campuslabs.com/engage/event/11616436",
+    "description": "Help prepare our bagel packs for our first day of Commuter life appreciaiton week. You will receive volunteer hours for this! \n \u00a0 \n When: Monday, September 15th \n Time: 6:30 AM - 7:30 AM \n Where: Student Center Room 104 (Campus Activities Suite)"
   },
   {
     "title": "Group X - Yoga",
@@ -1320,20 +1304,20 @@
     "description": "Join us at Stone Hall for a chill night with fire pits, s'mores, and friends. We'll have all ingredients ready -- you just show up, roast, and vibe! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "InterVarsity Music Bible Study ",
-    "date": "2025-09-17T00:00:00+00:00",
-    "organization": "InterVarsity Christian Fellowship",
-    "location": "Susan A. Cole Hall 141 - Admissions Presentation Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11602668",
-    "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sisters in Christ"
-  },
-  {
     "title": "Fairy Garden Jar",
     "date": "2025-09-17T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Freeman Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11506085",
     "description": "Stop by and create your own mini Fairy Garden Jar on September 16th from 8:00 PM to 10:00 PM in the Freeman Lounge! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "InterVarsity Music Bible Study ",
+    "date": "2025-09-17T00:00:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Susan A. Cole Hall 141 - Admissions Presentation Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11602668",
+    "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sisters in Christ"
   },
   {
     "title": "Game Night - Delta Xi Delta",
@@ -1496,12 +1480,12 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
   },
   {
-    "title": "General Miembro Meeting",
+    "title": "Audio Production Club General Body Meeting (September)",
     "date": "2025-09-17T18:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11600950",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+    "organization": "Audio Production Club",
+    "location": "School of Communications, Room 2007",
+    "link": "https://montclair.campuslabs.com/engage/event/11602699",
+    "description": "Are you interested in Music Production, Audio Engineering, Live Sound, or DJ'ing? \n Come join the  Audio Production Club\u00a0 for our\u00a0 first  General Body Meeting of the school year! \n Come meet other members, our E-Board, and staff! We will talk about meeting plans for the semester, events you can get involved in, and more! \n We will meet in the\u00a0 School of Communications, Room 2007 from 2:00pm-3:30pm!"
   },
   {
     "title": "Garfield Club First Meeting",
@@ -1512,12 +1496,12 @@
     "description": "Welcome to our first Garfield Club Meeting! For this meeting we will be going over our fun survey results, introduce our E-Board, and maybe an evil surprise. Feel free to drop by!"
   },
   {
-    "title": "Audio Production Club General Body Meeting (September)",
+    "title": "General Miembro Meeting",
     "date": "2025-09-17T18:00:00+00:00",
-    "organization": "Audio Production Club",
-    "location": "School of Communications, Room 2007",
-    "link": "https://montclair.campuslabs.com/engage/event/11602699",
-    "description": "Are you interested in Music Production, Audio Engineering, Live Sound, or DJ'ing? \n Come join the  Audio Production Club\u00a0 for our\u00a0 first  General Body Meeting of the school year! \n Come meet other members, our E-Board, and staff! We will talk about meeting plans for the semester, events you can get involved in, and more! \n We will meet in the\u00a0 School of Communications, Room 2007 from 2:00pm-3:30pm!"
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11600950",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "General Body Meeting",
@@ -1592,6 +1576,14 @@
     "description": "Celebrate the fall by making memories at the photobooth! Autumn themed photos will be taken at a photobooth located in Hawks Crossings, from 4 P.M. to 5 P.M.  Props are included and photos are free and taken with a polaroid camera! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "General Body Meeting",
+    "date": "2025-09-17T20:30:00+00:00",
+    "organization": "MSU Pensa",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615527",
+    "description": "This a general body meeting where"
+  },
+  {
     "title": "Board meeting ",
     "date": "2025-09-17T21:00:00+00:00",
     "organization": "The Brotherhood/La Hermandad",
@@ -1617,11 +1609,11 @@
   },
   {
     "title": "Group X - Kickboxing",
-    "date": "2025-09-17T21:45:00+00:00",
+    "date": "2025-09-17T21:30:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11543137",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:45pm - 6:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
   },
   {
     "title": "Art & Design Juried Exhibition",
@@ -2216,6 +2208,14 @@
     "description": "Get ahead of your semester and come decorate a planner at the Sinatra Lounge! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "MSDC practice",
+    "date": "2025-09-20T00:00:00+00:00",
+    "organization": "Montclair State Dance Company",
+    "location": "Student Center Underground - The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/11615568",
+    "description": "Rehearsal for Montclair State Dance Company"
+  },
+  {
     "title": "Meet Rho Phi ",
     "date": "2025-09-20T00:45:00+00:00",
     "organization": "Alpha Kappa Alpha Sorority, Inc. ",
@@ -2624,6 +2624,14 @@
     "description": "Art Forum is a speaker series featuring artists, designers, art historians, curators, and art critics from around the world presenting their work and ideas in an open forum, hosted by the Department of Art & Design. Artist and curator Ari Melenciano will discuss her latest work in  The Age of Black Metal  by Afrotectopia.  Register on Eventbrite \n \n \n \u00a0 \n ABOUT THE EXHIBITION \n September 9 \u2013 December 14, 2025 \n Segal Gallery and Kasser Lobby \n Curated by Ari Melenciano \n Black Metal  originated as a kitchen table art book that pushes the boundaries of space travel, science fiction, speculative design, Black culture, art, technology, and spirituality. The book emerged from an Afrotectopia-led incubator, in collaboration with MIT Media Lab\u2019s Space Exploration Initiative and NYU\u2019s Interactive Telecommunications Program. The project features contributions from artists Jordan Caldwell, Kordae Jatafa Henry, Jeremy Kamal, and Ari Melenciano. \n The Age of Black Metal  builds upon the foundational ideas of the book and translates the text into a fully immersive experience for visitors to explore each conceptual chapter\u2013from metaphysical training manuals, botanical consciousness, and self-alignment protocols\u2013through participatory installations. The exhibition is set centuries in the future, imagining a timeline where society has been profoundly shaped by the principles of Black Metal. Ultimately, visitors will not only bear witness to the societal effects of Black Metal, but also leave transformed in some way. \n The Age of Black Metal  invites all to imagine the futures that Black culture can build, if given space to expand without limit. \n Ari Melenciano  has cultivated an expansive practice within the arts, technology, design, culture, and pedagogy. Her natural ability to combine many disciplines reveals their interconnectedness and reimagines their conventions for new possibilities. Her art practice ranges from using AI through both critical and imaginative lenses, to sound design using botanical data. Her work has been exhibited around the world from Dubai's Museum of the Future to the Studio Museum in Harlem. She's a frequent international public speaker, and occasionally designs and teaches courses at New York University, Hunter College, Parsons, and the Pratt Institute. \n Afrotectopia  is a social institution cultivating boundless innovation at the nexus of art, design, technology, and culture. Founded in 2018 by NYU ITP graduate student Ari Melenciano, Afrotectopia began as a highly cross-disciplinary conference cultivating a vibrant community of industry and cultural pioneers. For years, Afrotectopia hosted a variety of programming that bridged connections between emerging technologies, Black culture, and racial equity."
   },
   {
+    "title": "Choir Practice",
+    "date": "2025-09-22T22:00:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/11615627",
+    "description": "Come join our choir practice to sing and grow fellowship. We'd love to see you there!"
+  },
+  {
     "title": "Group X - Goodnight Yoga",
     "date": "2025-09-22T23:45:00+00:00",
     "organization": "Campus Recreation",
@@ -2638,6 +2646,14 @@
     "location": "Student Center 417 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/11571332",
     "description": "Join the Worship Warriors in fellowship as we honor the Lord through dance!"
+  },
+  {
+    "title": "InterVarsity Women's group",
+    "date": "2025-09-22T23:00:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Student Center Underground - The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/11615636",
+    "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our relationships with each other as sisters in Christ"
   },
   {
     "title": "Baile Con LASO",
@@ -3016,20 +3032,20 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20, 2025 \n Wednesday , 2-3 p.m. \n Student Recreation Center - Pool"
   },
   {
-    "title": "Cali School of Music Midweek Series: Brass and Woodwinds",
-    "date": "2025-09-24T18:00:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "Leshowitz Recital Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11457548",
-    "description": "Brass and Woodwinds Studio Recitals \n Students perform works from the classical and contemporary repertoire. \n ------ \n Cali Midweek Concerts 2025-26 Most Wednesdays at 2 PM Chapin Hall, Leshowitz Recital Hall \n FREE ADMISSION! \n Join us for the\u00a0 Cali Midweek Concerts at Montclair State University\u2019s John J. Cali School of Music,\u00a0 where we bring a diverse array of musical performances and educational events every Wednesday at 2PM in Leshowitz Recital Hall, Chapin Hall. Our concert series showcases the immense talent within our faculty, students, and esteemed guest artists. \n FULL SCHEDULE:\u00a0 https://www.montclair.edu/music/cali-midweek-series-schedule/"
-  },
-  {
     "title": "Hazing Prevention Workshop",
     "date": "2025-09-24T18:00:00+00:00",
     "organization": "Greek Life",
     "location": "University Hall, Room 2010",
     "link": "https://montclair.campuslabs.com/engage/event/11382952",
     "description": "What is this workshop for? \n \n \n Attending a Hazing Prevention workshop is a requirement for any Montclair State University student who\u00a0is interested in joining a fraternity/sorority on campus \n These workshops inform students of the dangers and repercussions\u00a0of Hazing \n \n Where and when? \n \n \n \n University Hall, Room 2010 \n 2 pm - 3 pm"
+  },
+  {
+    "title": "Cali School of Music Midweek Series: Brass and Woodwinds",
+    "date": "2025-09-24T18:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Leshowitz Recital Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11457548",
+    "description": "Brass and Woodwinds Studio Recitals \n Students perform works from the classical and contemporary repertoire. \n ------ \n Cali Midweek Concerts 2025-26 Most Wednesdays at 2 PM Chapin Hall, Leshowitz Recital Hall \n FREE ADMISSION! \n Join us for the\u00a0 Cali Midweek Concerts at Montclair State University\u2019s John J. Cali School of Music,\u00a0 where we bring a diverse array of musical performances and educational events every Wednesday at 2PM in Leshowitz Recital Hall, Chapin Hall. Our concert series showcases the immense talent within our faculty, students, and esteemed guest artists. \n FULL SCHEDULE:\u00a0 https://www.montclair.edu/music/cali-midweek-series-schedule/"
   },
   {
     "title": "Cali School of Music Midweek Series: Brass + Woodwinds",
@@ -3145,11 +3161,11 @@
   },
   {
     "title": "Group X - Kickboxing",
-    "date": "2025-09-24T21:45:00+00:00",
+    "date": "2025-09-24T21:30:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11543138",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:45pm - 6:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
   },
   {
     "title": "Kinesiology (MS) Virtual Information Session",
@@ -3200,20 +3216,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
   },
   {
-    "title": "Praise Dance Practice",
-    "date": "2025-09-24T23:00:00+00:00",
-    "organization": "Voices of Unity",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11571333",
-    "description": "Join the Worship Warriors in fellowship as we honor the Lord through dance!"
-  },
-  {
     "title": "Men's Soccer vs. NYU",
     "date": "2025-09-24T23:00:00+00:00",
     "organization": "Athletics",
     "location": "Soccer Park",
     "link": "https://montclair.campuslabs.com/engage/event/11337979",
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
+  },
+  {
+    "title": "Praise Dance Practice",
+    "date": "2025-09-24T23:00:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11571333",
+    "description": "Join the Worship Warriors in fellowship as we honor the Lord through dance!"
   },
   {
     "title": "Romeo & Juliet Callbacks",
@@ -4176,6 +4192,22 @@
     "description": "complexions practice"
   },
   {
+    "title": "Group X - Pilates",
+    "date": "2025-10-01T13:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615239",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 9:45am - 10:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-01T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615374",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Rosalyn"
+  },
+  {
     "title": " MCET: What We Wish We Knew Before Declaring (AEW)",
     "date": "2025-10-01T16:00:00+00:00",
     "organization": "University College",
@@ -4184,12 +4216,36 @@
     "description": "Not sure what major to choose or where your career path is headed? You\u2019re not alone! Join us for Major & Career Exploration Talks: What We Wish We Knew Before Declaring!, a dynamic panel event where upperclassmen students share their real, unfiltered experiences about choosing their majors and navigating their career journeys. Hear firsthand what they wish they knew before declaring, the challenges they faced, and how they found their passions. Whether you're feeling undecided, overwhelmed, or just curious about different paths, this event will give you insights, inspiration, and practical advice to help you make informed decisions. Don\u2019t miss this opportunity to gain valuable perspectives and take the next step in your academic and career journey! * Food and refreshments will be served! \n Event Details:  \ud83d\udcc5 Date: October 1, 2025 \ud83d\udd52 Time: 12:30pm - 1:30pm \ud83d\udccd Location: Susan A. Cole Hall, Suite 340 (3rd Floor) \n Presented by the University College Academic Programming Team"
   },
   {
+    "title": "Group X - Yoga",
+    "date": "2025-10-01T17:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615505",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 1:15pm-2:00pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-10-01T18:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615600",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
+  },
+  {
     "title": "Hazing Prevention Workshop",
     "date": "2025-10-01T18:00:00+00:00",
     "organization": "Greek Life",
     "location": "University Hall, Room 2010",
     "link": "https://montclair.campuslabs.com/engage/event/11382954",
     "description": "What is this workshop for? \n \n \n Attending a Hazing Prevention workshop is a requirement for any Montclair State University student who\u00a0is interested in joining a fraternity/sorority on campus \n These workshops inform students of the dangers and repercussions\u00a0of Hazing \n \n Where and when? \n \n \n \n University Hall, Room 2010 \n 2 pm - 3 pm"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-01T18:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615723",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
   },
   {
     "title": "Pride and Progress: Celebrating LGBTQ+ and Disability Journeys",
@@ -4208,12 +4264,44 @@
     "description": "General body meeting for the MSMC"
   },
   {
+    "title": "Group X - Yoga",
+    "date": "2025-10-01T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615888",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 3pm-3:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
+  },
+  {
+    "title": "Group X - HIIT",
+    "date": "2025-10-01T20:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615979",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+  },
+  {
     "title": "Los Pueblos Originales",
     "date": "2025-10-01T19:00:00+00:00",
     "organization": "Mexican-American Student Association",
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/11587497",
     "description": "Join us as we come together to learn, share, and celebrate the history, traditions, and resilience of Mexico\u2019s Indigenous communities. This meeting will highlight the cultural roots that shape Mexican identity. From language and storytelling to art, spirituality, and community practices."
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-10-01T21:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616142",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+  },
+  {
+    "title": "Group X - Zumba",
+    "date": "2025-10-01T22:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616269",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 6:45pm - 7:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Pamela"
   },
   {
     "title": "Dancing en el Barrio: Filipino American History Month\t",
@@ -4230,6 +4318,14 @@
     "location": "Russ KOPS Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11401403",
     "description": "That is the question! \n Join PM Alexis for a the opportunity to learn more about your emotions, regulation strategies, and more!\u00a0 We will discuss the long term implications of \u201cpopping off\u201d, the psychological science behind \u201cletting it out\u201d, and strategies for remaining calm in the moment.\u00a0 This event will teach you more about yourself and help you to be a better roommate, partner, and person!  \n Oh, and don\u2019t forget the popcorn bar! We'll have various toppings ranging from Nacho Cheese powder to M&Ms.\u00a0 \n All students are welcome, commuters need to be signed in a with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Group X - Goodnight Yoga",
+    "date": "2025-10-01T23:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616366",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
   },
   {
     "title": "Men's Soccer vs. Kean",
@@ -4254,6 +4350,30 @@
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/11587505",
     "description": "Callbacks for Players 2025 Miscellaneous show. Invitation only."
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-10-02T12:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616491",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 8:45am - 9:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-02T14:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11616784",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 10am-10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-10-02T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616857",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 11am-11:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Angel"
   },
   {
     "title": "Empanada Sale",
@@ -4318,6 +4438,14 @@
     "location": "Student Recreation Center",
     "link": "https://montclair.campuslabs.com/engage/event/11574650",
     "description": "Ready for a night out in the city? Join us on Thursday, October 2 for a trip to Broadway to see  Hell\u2019s Kitchen \u2014a high-energy, music-filled show you won\u2019t want to miss! We\u2019ll head out at 5:00 PM for the 7:00 PM performance at the iconic Broadway Theatre. Grab your friends, hop on the bus, and get ready for a night of unforgettable fun in NYC!H \n How do I sign-up? \n \n $40 for students \n Tickets go on sale on Monday, September 8 at 10am. \n Buy your ticket online here . \n \n Where and when? \n \n Thursday, October 2, 2025 \n 7:00 pm show; 5:00 pm pickup from Student Recreation Center \n Broadway Theatre"
+  },
+  {
+    "title": "More Than Letters: Being Latino in Greek Life",
+    "date": "2025-10-03T00:30:00+00:00",
+    "organization": "Office for Hispanic Initiatives",
+    "location": "Feliciano School of Business room 140 ",
+    "link": "https://montclair.campuslabs.com/engage/event/11615234",
+    "description": "During Hispanic Heritage Month, this event brings together Latino-identifying members of fraternities and sororities for a powerful open panel discussion that explores the lived experiences of our members past and present. \n Greek-letter organizations are more than social clubs. They are underfunded, nonprofit, and deeply rooted in community service, cultural pride, and lifelong commitment. For many of us, joining isn't just about college, it's about building something that lasts long after graduation. \n Each participating organization will be represented by an alumnus who will speak on their undergraduate experience and reflect on how being Latino in Greek Life shaped their identity, leadership, and purpose. We'll explore the challenges we face, from limited visibility to financial barriers, and celebrate what makes our organizations unique: our dedication to giving back, empowering our communities, and building brotherhood and sisterhood that lasts a lifetime. \n This event is open to the public, with a focus on Latino students, student clubs, and organizations interested in culture, leadership, or Greek Life."
   },
   {
     "title": "Secure The Bag",
@@ -4824,6 +4952,38 @@
     "description": "We\u2019re excited to introduce Pickleball to our Intramural Sports lineup this fall! Whether you're a seasoned player or brand new to this game, join us for Open Play sessions from September 2nd through October 16th.\u00a0 \n Open Play sessions will be drop-in style and open to ALL skill levels - come solo or bring a friend! No pre-registration required, swipe Student ID upon arrival.\u00a0 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n From 09/02 - 10/14 \n Tuesdays, 8 -10 p.m. \n Student Recreation Center"
   },
   {
+    "title": "Group X - Pilates",
+    "date": "2025-10-08T13:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615240",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 9:45am - 10:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-08T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615375",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Rosalyn"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-10-08T17:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615506",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 1:15pm-2:00pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-10-08T18:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615601",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
+  },
+  {
     "title": "Hazing Prevention Workshop",
     "date": "2025-10-08T18:00:00+00:00",
     "organization": "Greek Life",
@@ -4838,6 +4998,14 @@
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11457576",
     "description": "Cali Midweek Series: Piano and Guitar Studio Recitals \n Students perform works from the classical and contemporary repertoire. \n ------------ \n Cali Midweek Concerts 2025-26 Most Wednesdays at 2 PM Chapin Hall, Leshowitz Recital Hall \n FREE ADMISSION! \n Join us for the Cali Midweek Concerts at Montclair State University\u2019s John J. Cali School of Music, where we bring a diverse array of musical performances and educational events every Wednesday at 2PM in Leshowitz Recital Hall, Chapin Hall. Our concert series showcases the immense talent within our faculty, students, and esteemed guest artists. \n FULL SCHEDULE:\u00a0 https://www.montclair.edu/music/cali-midweek-series-schedule/"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-08T18:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615724",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
   },
   {
     "title": "Fall Festival Celebration",
@@ -4872,6 +5040,14 @@
     "description": "General body meeting for the MSMC"
   },
   {
+    "title": "Group X - Yoga",
+    "date": "2025-10-08T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615889",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 3pm-3:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
+  },
+  {
     "title": "Stop by our Flu Clinic !! ",
     "date": "2025-10-08T14:00:00+00:00",
     "organization": "Student Health Center",
@@ -4880,12 +5056,44 @@
     "description": "*ATTENTION MONTCLAIR STATE UNIVERSITY STUDENTS!* \n MAKE SURE YOU GET YOUR FLU VACCINE!\u00a0 \n For Appointments visit :\u00a0 https://www.acmemarkets.com/vaccinations/group-clinic/Montclair25 \n \u00a0 \n Walk-ins are welcome, while supplies last. Remember to bring your\u00a0 insurance card . \n (Most insurance accepted) and\u00a0 University ID card . \n \u00a0 \n **The Student Health Center is partnering up with Occupational Health for our annual flu clinics! If you cannot make this event, keep an eye out for more upcoming dates this Fall!**"
   },
   {
+    "title": "Group X - HIIT",
+    "date": "2025-10-08T20:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615980",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-10-08T21:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616143",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+  },
+  {
+    "title": "Group X - Zumba",
+    "date": "2025-10-08T22:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616270",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 6:45pm - 7:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Pamela"
+  },
+  {
     "title": "Field Hockey vs. William Paterson",
     "date": "2025-10-08T22:00:00+00:00",
     "organization": "Athletics",
     "location": "Sprague Field",
     "link": "https://montclair.campuslabs.com/engage/event/11465492",
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
+  },
+  {
+    "title": "Group X - Goodnight Yoga",
+    "date": "2025-10-08T23:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616367",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
   },
   {
     "title": "Men's Soccer vs. DeSales",
@@ -4902,6 +5110,30 @@
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11611263",
     "description": "Fall 2025 Brass Night 1 Cali School brass students present  a lively and  varied program  of solo works. \n Contact Brass Coordinator  Micah Killion  with  any questions at killionm@montclair.edu \n Brass Night 2  is  Tuesday, November 4  at 8pm, Room G55, Chapin Hall"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-10-09T12:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616492",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 8:45am - 9:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-09T14:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11616785",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 10am-10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-10-09T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616858",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 11am-11:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Angel"
   },
   {
     "title": "Empanada Sale",
@@ -4945,7 +5177,7 @@
   },
   {
     "title": "Patriotic Trivia",
-    "date": "2025-09-24T08:30:00+00:00",
+    "date": "2025-09-24T09:00:00+00:00",
     "organization": "Civic & Voter Engagement",
     "location": "Student Center Underground",
     "link": "https://montclair.campuslabs.com/engage/event/11364502",
@@ -5424,12 +5656,52 @@
     "description": "We\u2019re excited to introduce Pickleball to our Intramural Sports lineup this fall! Whether you're a seasoned player or brand new to this game, join us for Open Play sessions from September 2nd through October 16th.\u00a0 \n Open Play sessions will be drop-in style and open to ALL skill levels - come solo or bring a friend! No pre-registration required, swipe Student ID upon arrival.\u00a0 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n From 09/02 - 10/14 \n Tuesdays, 8 -10 p.m. \n Student Recreation Center"
   },
   {
+    "title": "Group X - Pilates",
+    "date": "2025-10-15T13:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615241",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 9:45am - 10:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-15T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615376",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Rosalyn"
+  },
+  {
     "title": "Latine AIDS Awareness Day",
     "date": "2025-10-15T16:00:00+00:00",
     "organization": "Office for Hispanic Initiatives",
     "location": "The Student Center Quad",
     "link": "https://montclair.campuslabs.com/engage/event/11439329",
     "description": "Join the Office for Hispanic Initiatives in raising awareness about AIDS in the Latine community on Latine AIDS Awareness Day."
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-10-15T17:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615507",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 1:15pm-2:00pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-10-15T18:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615602",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-15T18:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615725",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
   },
   {
     "title": "Hispanic Heritage Month: 5th Annual Block Party ",
@@ -5448,12 +5720,52 @@
     "description": "General body meeting for the MSMC"
   },
   {
+    "title": "Group X - Yoga",
+    "date": "2025-10-15T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615890",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 3pm-3:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
+  },
+  {
+    "title": "Group X - HIIT",
+    "date": "2025-10-15T20:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615981",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-10-15T21:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616144",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+  },
+  {
     "title": "Library 101",
     "date": "2025-10-15T22:30:00+00:00",
     "organization": "Sprague Library",
     "location": "Sprague Library Instruction Room 203",
     "link": "https://montclair.campuslabs.com/engage/event/11506558",
     "description": "Welcome to the Montclair State University Libraries! This workshop will give you an introduction to the university library, including: \n \n Introduction to\u00a0scholarly sources \n Library collections (including books, multimedia, and databases) \n Finding full text articles \n How to get research assistance \n \n Register Here:\u00a0https://montclair.libcal.com/event/15220072"
+  },
+  {
+    "title": "Group X - Zumba",
+    "date": "2025-10-15T22:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616271",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 6:45pm - 7:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "Group X - Goodnight Yoga",
+    "date": "2025-10-15T23:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616368",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
   },
   {
     "title": "Bubble Tea Open Mic Night",
@@ -5478,6 +5790,30 @@
     "location": "Soccer Park",
     "link": "https://montclair.campuslabs.com/engage/event/11337989",
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-10-16T12:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616493",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 8:45am - 9:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-16T14:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11616786",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 10am-10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-10-16T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616859",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 11am-11:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Angel"
   },
   {
     "title": "Stop by our Flu Clinic !! ",
@@ -5848,12 +6184,116 @@
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
   },
   {
+    "title": "Group X - Pilates",
+    "date": "2025-10-22T13:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615242",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 9:45am - 10:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-22T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615377",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Rosalyn"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-10-22T17:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615508",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 1:15pm-2:00pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-10-22T18:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615603",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-22T18:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615726",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-10-22T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615891",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 3pm-3:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
+  },
+  {
+    "title": "Group X - HIIT",
+    "date": "2025-10-22T20:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615982",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-10-22T21:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616145",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+  },
+  {
+    "title": "Group X - Zumba",
+    "date": "2025-10-22T22:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616272",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 6:45pm - 7:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "Group X - Goodnight Yoga",
+    "date": "2025-10-22T23:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616369",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
+  },
+  {
     "title": "Women's Soccer vs. Ramapo",
     "date": "2025-10-22T23:00:00+00:00",
     "organization": "Athletics",
     "location": "Soccer Park",
     "link": "https://montclair.campuslabs.com/engage/event/11342521",
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-10-23T12:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616494",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 8:45am - 9:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-23T14:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11616787",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 10am-10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-10-23T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616860",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 11am-11:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Angel"
   },
   {
     "title": "Empanada Sale",
@@ -6176,6 +6616,22 @@
     "description": "Trick your swing! Join us for a spooky twist on mini golf with haunted holes, eerie obstacles, and creepy course decorations. Come in costume (optional but encouraged!) and play through a frightfully fun setup under the glow of Halloween lights. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesday, October 28 \n 8pm-10pm, must be checked in by 9:30pm to participate \n Student Recreation Center Lounge"
   },
   {
+    "title": "Group X - Pilates",
+    "date": "2025-10-29T13:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615243",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 9:45am - 10:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-29T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615378",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Rosalyn"
+  },
+  {
     "title": "OPT Workshop - International Students (F-1 Visa Holders) Only",
     "date": "2025-10-29T16:00:00+00:00",
     "organization": "Office of Global Engagement",
@@ -6184,12 +6640,76 @@
     "description": "Learn more about pre-completion and post-completion Optional Practical Training (OPT) for F-1 students. Any student planning to apply for OPT is REQUIRED to attend a workshop before they can apply. This workshop is for CURRENT students ONLY - any other attendees will be removed."
   },
   {
+    "title": "Group X - Yoga",
+    "date": "2025-10-29T17:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615509",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 1:15pm-2:00pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-10-29T18:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615604",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-29T18:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615727",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
     "title": "Music Club GBM",
     "date": "2025-10-29T18:00:00+00:00",
     "organization": "Montclair State Music Club",
     "location": "University Hall 2011 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11602730",
     "description": "General body meeting for the MSMC"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-10-29T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615892",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 3pm-3:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
+  },
+  {
+    "title": "Group X - HIIT",
+    "date": "2025-10-29T20:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615983",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-10-29T21:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616146",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+  },
+  {
+    "title": "Group X - Zumba",
+    "date": "2025-10-29T22:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616273",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 6:45pm - 7:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "Group X - Goodnight Yoga",
+    "date": "2025-10-29T23:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616370",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
   },
   {
     "title": "Friday Night Fire Pits",
@@ -6206,6 +6726,30 @@
     "location": "Soccer Park",
     "link": "https://montclair.campuslabs.com/engage/event/11342522",
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-10-30T12:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616495",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 8:45am - 9:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-30T14:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11616788",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 10am-10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-10-30T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616861",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 11am-11:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Angel"
   },
   {
     "title": "Fireside Chats ",
@@ -6576,12 +7120,44 @@
     "description": "Players Production of Romeo & Juliet's tech rehearsal"
   },
   {
+    "title": "Group X - Pilates",
+    "date": "2025-11-05T14:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615244",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 9:45am - 10:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-11-05T16:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615379",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Rosalyn"
+  },
+  {
     "title": "Black Metal Film Screening ",
     "date": "2025-11-05T17:00:00+00:00",
     "organization": "Montclair State University Galleries",
     "location": "George Segal Gallery",
     "link": "https://montclair.campuslabs.com/engage/event/11454318",
     "description": "This special screening of the film adaptation of\u00a0 Black Metal \u00a0is followed by a discussion with artist and curator Ari Melenciano. \n \n \n ABOUT THE EXHIBITION Segal Gallery and Kasser Lobby September 9 \u2013 December 14, 2025 \n Black Metal \u00a0originated as a kitchen table art book that pushes the boundaries of space travel, science fiction, speculative design, Black culture, art, technology, and spirituality. The book emerged from an Afrotectopia-led incubator, in collaboration with MIT Media Lab\u2019s Space Exploration Initiative and NYU\u2019s Interactive Telecommunications Program. The project features contributions from artists Jordan Caldwell, Kordae Jatafa Henry, Jeremy Kamal, and Ari Melenciano. \n The Age of Black Metal \u00a0builds upon the foundational ideas of the book and translates the text into a fully immersive experience for visitors to explore each conceptual chapter\u2013from metaphysical training manuals, botanical consciousness, and self-alignment protocols\u2013through participatory installations. The exhibition is set centuries in the future, imagining a timeline where society has been profoundly shaped by the principles of Black Metal. Ultimately, visitors will not only bear witness to the societal effects of Black Metal, but also leave transformed in some way."
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-11-05T18:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615510",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 1:15pm-2:00pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-11-05T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615605",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
   },
   {
     "title": "Cali School of Music Midweek Series: Strings and Voice",
@@ -6592,12 +7168,60 @@
     "description": "Cali Midweek Series: Strings and Voice \n Students perform works from the classical and contemporary repertoire. \n Cali Midweek Concerts 2025-26 Most Wednesdays at 2 PM Chapin Hall, Leshowitz Recital Hall \n FREE ADMISSION! \n Join us for the\u00a0 Cali Midweek Concerts at Montclair State University\u2019s John J. Cali School of Music , where we bring a diverse array of musical performances and educational events every Wednesday at 2PM in Leshowitz Recital Hall, Chapin Hall. Our concert series showcases the immense talent within our faculty, students, and esteemed guest artists. \n FULL SCHEDULE:\u00a0 https://www.montclair.edu/music/cali-midweek-series-schedule/"
   },
   {
+    "title": "Group X - Cycling",
+    "date": "2025-11-05T19:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615728",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
     "title": "Music Club GBM",
     "date": "2025-11-05T19:00:00+00:00",
     "organization": "Montclair State Music Club",
     "location": "University Hall 2011 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11602731",
     "description": "General body meeting for the MSMC"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-11-05T20:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615893",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 3pm-3:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
+  },
+  {
+    "title": "Group X - HIIT",
+    "date": "2025-11-05T21:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615984",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-11-05T22:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616147",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+  },
+  {
+    "title": "Group X - Zumba",
+    "date": "2025-11-05T23:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616274",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 6:45pm - 7:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "Group X - Goodnight Yoga",
+    "date": "2025-11-06T00:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616371",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
   },
   {
     "title": "Paint, Sip & Dip",
@@ -6614,6 +7238,30 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/11535390",
     "description": "Players Production of Romeo & Juliet's tech rehearsal"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-11-06T13:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616496",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 8:45am - 9:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-11-06T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11616789",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 10am-10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-11-06T16:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616862",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 11am-11:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Angel"
   },
   {
     "title": "Empanada Sale",
@@ -6976,12 +7624,60 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n CJ"
   },
   {
+    "title": "Group X - Pilates",
+    "date": "2025-11-12T14:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615245",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 9:45am - 10:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-11-12T16:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615380",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Rosalyn"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-11-12T18:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615511",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 1:15pm-2:00pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615606",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
+  },
+  {
     "title": "Coffee and Connections",
     "date": "2025-11-12T19:00:00+00:00",
     "organization": "Feliciano Women in Business",
     "location": "Feliciano School of Business - Center for Entrepreneurship & Innovation",
     "link": "https://montclair.campuslabs.com/engage/event/11454787",
     "description": "Looking for tips on how to master coffee chats? Looking for a networking opportunity with other ladies in business? Come and join the Feliciano Women in Business for a good cup of coffee and connections!"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-11-12T19:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615729",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-11-12T20:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615894",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 3pm-3:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
   },
   {
     "title": "Stop by our Flu Clinic !! ",
@@ -7000,12 +7696,68 @@
     "description": "Learn more about Curricular Practical Training (CPT) for F-1 students. Any student planning to apply for CPT is REQUIRED to attend a workshop before they can apply. This workshop is for CURRENT students ONLY - any other attendees will be removed."
   },
   {
+    "title": "Group X - HIIT",
+    "date": "2025-11-12T21:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615985",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-11-12T22:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616148",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+  },
+  {
+    "title": "Group X - Zumba",
+    "date": "2025-11-12T23:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616275",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 6:45pm - 7:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "Group X - Goodnight Yoga",
+    "date": "2025-11-13T00:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616372",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
+  },
+  {
     "title": "Fall Fest",
     "date": "2025-11-13T01:00:00+00:00",
     "organization": "Residence Life",
     "location": "Student Center Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/11381363",
     "description": "Celebrate the season at Fall Fest! Join us on November 12th from 8 PM \u2013 10 PM in the Student Center Ballrooms and Patio for a night full of food, music, games, and fun! Whether you're here for the vibes, the snacks, or the dancing \u2014 there's something for everyone. Don\u2019t miss out on this cozy, campus-wide celebration of all things fall! \n All are welcome!"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-11-13T13:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616497",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 8:45am - 9:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-11-13T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11616790",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 10am-10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-11-13T16:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616863",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 11am-11:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Angel"
   },
   {
     "title": "Design Your Day - Discover Your Direction",
@@ -7360,12 +8112,44 @@
     "description": "Players Miscellaneous Production's tech rehearsal"
   },
   {
+    "title": "Group X - Pilates",
+    "date": "2025-11-19T14:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615246",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 9:45am - 10:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-11-19T16:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615381",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Rosalyn"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-11-19T18:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615512",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 1:15pm-2:00pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
+  },
+  {
     "title": "Cali School of Music Midweek Series: Chamber Music Recital",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "The College of the Arts",
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11457591",
     "description": "Cali Midweek Series: Chamber Music Recital \n Students perform works from the classical and contemporary repertoire. \n Cali Midweek Concerts 2025-26 Most Wednesdays at 2 PM Chapin Hall, Leshowitz Recital Hall \n FREE ADMISSION! \n Join us for the\u00a0 Cali Midweek Concerts at Montclair State University\u2019s John J. Cali School of Music , where we bring a diverse array of musical performances and educational events every Wednesday at 2PM in Leshowitz Recital Hall, Chapin Hall. Our concert series showcases the immense talent within our faculty, students, and esteemed guest artists. \n FULL SCHEDULE:\u00a0 https://www.montclair.edu/music/cali-midweek-series-schedule/"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-11-19T19:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615731",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
   },
   {
     "title": "Music Club GBM",
@@ -7376,12 +8160,52 @@
     "description": "General body meeting for the MSMC"
   },
   {
+    "title": "Group X - Yoga",
+    "date": "2025-11-19T20:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615895",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 3pm-3:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
+  },
+  {
+    "title": "Group X - HIIT",
+    "date": "2025-11-19T21:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615986",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-11-19T22:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616149",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+  },
+  {
+    "title": "Group X - Zumba",
+    "date": "2025-11-19T23:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616276",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 6:45pm - 7:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Pamela"
+  },
+  {
     "title": "Women's Basketball vs. Delaware Valley",
     "date": "2025-11-19T23:00:00+00:00",
     "organization": "Athletics",
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/11342676",
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
+  },
+  {
+    "title": "Group X - Goodnight Yoga",
+    "date": "2025-11-20T00:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616373",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
   },
   {
     "title": "Men's Basketball vs. Gettysburg",
@@ -7398,6 +8222,30 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/11535540",
     "description": "Players Miscellaneous Production's tech rehearsal"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-11-20T13:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616498",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 8:45am - 9:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-11-20T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11616791",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 10am-10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-11-20T16:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616864",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 11am-11:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Angel"
   },
   {
     "title": "Empanada Sale",
@@ -7728,6 +8576,118 @@
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
   },
   {
+    "title": "Group X - Pilates",
+    "date": "2025-11-26T14:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615247",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 9:45am - 10:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-11-26T16:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615382",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Rosalyn"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-11-26T18:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615513",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 1:15pm-2:00pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615607",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-11-26T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615608",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-11-26T19:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615732",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-11-26T20:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615896",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 3pm-3:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
+  },
+  {
+    "title": "Group X - HIIT",
+    "date": "2025-11-26T21:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615987",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-11-26T22:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616150",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+  },
+  {
+    "title": "Group X - Zumba",
+    "date": "2025-11-26T23:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616277",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 6:45pm - 7:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "Group X - Goodnight Yoga",
+    "date": "2025-11-27T00:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616374",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-11-27T13:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616499",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 8:45am - 9:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-11-27T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11616792",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 10am-10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-11-27T16:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616865",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 11am-11:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Angel"
+  },
+  {
     "title": "A.LIFE Ministry ",
     "date": "2025-11-28T01:30:00+00:00",
     "organization": "A.LIFE",
@@ -7976,6 +8936,70 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n CJ"
   },
   {
+    "title": "Group X - Pilates",
+    "date": "2025-12-03T14:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615248",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 9:45am - 10:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-12-03T16:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615383",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Rosalyn"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-12-03T18:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615514",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 1:15pm-2:00pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-12-03T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615609",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-12-03T19:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615733",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-12-03T20:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615897",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 3pm-3:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
+  },
+  {
+    "title": "Group X - HIIT",
+    "date": "2025-12-03T21:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615988",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-12-03T22:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616151",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+  },
+  {
     "title": "Women's Basketball vs. William Paterson",
     "date": "2025-12-03T22:00:00+00:00",
     "organization": "Athletics",
@@ -7984,12 +9008,52 @@
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
   },
   {
+    "title": "Group X - Zumba",
+    "date": "2025-12-03T23:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616278",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 6:45pm - 7:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "Group X - Goodnight Yoga",
+    "date": "2025-12-04T00:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616375",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
+  },
+  {
     "title": "Men's Basketball vs. William Paterson",
     "date": "2025-12-04T00:00:00+00:00",
     "organization": "Athletics",
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/11342614",
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-12-04T13:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616500",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 8:45am - 9:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-12-04T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11616793",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 10am-10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-12-04T16:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616866",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 11am-11:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Angel"
   },
   {
     "title": "OPT Workshop - International Students (F-1 Visa Holders) Only",
@@ -8344,12 +9408,116 @@
     "description": "Let\u2019s get in the holiday spirit with our way of giving back in light of the season. Cima Sabor is an event full of love and cheer as we enjoy spending time together as well as donating gifts together for children in need. There will be all of the Cima Sabor Navide\u00f1o tunes along with some karaoke, good food, Christmas treats, and fun games.  This event is open to all Montclair State University and Bloomfield Undergraduate students!"
   },
   {
+    "title": "Group X - Pilates",
+    "date": "2025-12-10T14:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615249",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 9:45am - 10:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-12-10T16:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615384",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Rosalyn"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-12-10T18:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615515",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 1:15pm-2:00pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-12-10T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615610",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-12-10T19:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615734",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
     "title": "Music Club GBM",
     "date": "2025-12-10T19:00:00+00:00",
     "organization": "Montclair State Music Club",
     "location": "University Hall 2011 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11602733",
     "description": "General body meeting for the MSMC"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-12-10T20:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615898",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 3pm-3:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
+  },
+  {
+    "title": "Group X - HIIT",
+    "date": "2025-12-10T21:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615989",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-12-10T22:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616152",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+  },
+  {
+    "title": "Group X - Zumba",
+    "date": "2025-12-10T23:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616279",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 6:45pm - 7:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "Group X - Goodnight Yoga",
+    "date": "2025-12-11T00:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616376",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-12-11T13:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616501",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 8:45am - 9:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-12-11T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11616794",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 10am-10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-12-11T16:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616867",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 11am-11:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Angel"
   },
   {
     "title": "Fireside Chats ",
@@ -8558,6 +9726,86 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11600430",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n CJ"
+  },
+  {
+    "title": "Group X - Pilates",
+    "date": "2025-12-17T14:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615250",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 9:45am - 10:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-12-17T16:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615385",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Rosalyn"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-12-17T18:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615516",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 1:15pm-2:00pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-12-17T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615611",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-12-17T19:15:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11615735",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Group X - Yoga",
+    "date": "2025-12-17T20:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615899",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 3pm-3:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
+  },
+  {
+    "title": "Group X - HIIT",
+    "date": "2025-12-17T21:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11615990",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2025-12-17T22:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616153",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+  },
+  {
+    "title": "Group X - Zumba",
+    "date": "2025-12-17T23:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616280",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 6:45pm - 7:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "Group X - Goodnight Yoga",
+    "date": "2025-12-18T00:45:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11616377",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
   },
   {
     "title": "Rec Center 101",
