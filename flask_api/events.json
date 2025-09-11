@@ -1,53 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2025-09-11T18:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11561030",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 2pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
-  },
-  {
-    "title": "Group X - Zumba",
-    "date": "2025-09-11T18:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11561105",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 2:30pm-3:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Bella"
-  },
-  {
-    "title": "Sweet Beginnings",
-    "date": "2025-09-11T19:30:00+00:00",
-    "organization": "Baking Club",
-    "location": "Conrad J. Schmitt Hall 380 - Conference Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11581534",
-    "description": "Join us for the Baking Club\u2019s first meeting as we kick off the semester with a warm and welcoming introduction! \ud83c\udf6b We\u2019ll be serving brownies as a sweet treat to start things off. This event is the perfect chance to meet fellow members, share ideas, and learn more about what\u2019s ahead for the club. Come ready to socialize, connect, and make new friends who share your love for baking. We can\u2019t wait to welcome you and start this delicious journey together!"
-  },
-  {
-    "title": "Group X - HIIT",
-    "date": "2025-09-11T20:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11561152",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 4pm-4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
-  },
-  {
-    "title": "Free Swim Lessons *Beginner*",
-    "date": "2025-09-11T20:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center 1200 - Natatorium",
-    "link": "https://montclair.campuslabs.com/engage/event/11452217",
-    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20 \n Thursdays, 11a.m-12 p.m. and 4-5p.m \n Student Recreation Center - Pool"
-  },
-  {
-    "title": "Free Swim Lessons *Intermediate*",
-    "date": "2025-09-11T20:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Pool",
-    "link": "https://montclair.campuslabs.com/engage/event/11452570",
-    "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Thursdays, 11-12 p.m and 4-5 p.m \n Student Rec Center - Pool"
-  },
-  {
     "title": "Group X - Cycling",
     "date": "2025-09-11T21:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1016,6 +968,22 @@
     "description": "Delta Chi Chapter"
   },
   {
+    "title": "MSDC practice",
+    "date": "2025-09-16T01:00:00+00:00",
+    "organization": "Montclair State Dance Company",
+    "location": "Student Center 250A - Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/11619892",
+    "description": "Rehearsal for Montclair State Dance Company"
+  },
+  {
+    "title": "MSDC practice",
+    "date": "2025-09-16T01:00:00+00:00",
+    "organization": "Montclair State Dance Company",
+    "location": "Student Center 250A - Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/11620782",
+    "description": "Rehearsal for Montclair State Dance Company"
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2025-09-16T12:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1198,14 +1166,6 @@
     "location": "Finley Gallery, Finley Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11565877",
     "description": "\ud83c\udfa8\u2728 The Department of Art & Design is kicking off the Fall 2025 semester with the Art & Design Juried Exhibition at Finley Gallery! The exhibition opens today! \n \u00a0 \n \ud83d\uddd3 Exhibition: Sept. 4\u201323, 2025 \n \ud83d\udcc5 Opening Reception: Wed. Sept. 10, 2\u20134 PM \n \u00a0 \n Featuring work from students across Visual Arts, Fashion Design & Merchandising, Illustration, Product Design, and Visual Communication Design, this showcase highlights projects hand-selected by our faculty, one piece from every course section. \n \u00a0 \n Come see the incredible creativity, talent, and innovation happening inside our department. You won\u2019t want to miss it! \n \u00a0 \n \u00a0 \n \ud83d\udccd Finley Gallery, Finley Hall"
-  },
-  {
-    "title": "Meet the artist at the University Galleries' fall 2025 opening reception!",
-    "date": "2025-09-16T21:00:00+00:00",
-    "organization": "Montclair State University Galleries",
-    "location": "George Segal Gallery | Alexander Kasser Theater Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/11426052",
-    "description": "Join us in celebrating the opening of the Montclair State University Galleries' Fall 2025 exhibition:\u00a0 The Age of Black Metal by  Afrotectopia. Remarks by the artist and curator Ari Melenciano and Dean Gurskis at 6 pm in the\u00a0 Segal Gallery , located on the fourth floor of the Red Hawk Deck.\u00a0 Register for free here! \n ABOUT THE EXHIBITION \n Opening Fall 2025 \n Segal Gallery and Kasser Lobby \n Black Metal  originated as a kitchen table art book that pushes the boundaries of space travel, science fiction, speculative design, Black culture, art, technology, and spirituality. The book emerged from an Afrotectopia-led incubator, in collaboration with MIT Media Lab\u2019s Space Exploration Initiative and NYU\u2019s Interactive Telecommunications Program. The project features contributions from artists Jordan Caldwell, Kordae Jatafa Henry, Jeremy Kamal, and Ari Melenciano. \n The Age of Black Metal  builds upon the foundational ideas of the book and translates the text into a fully immersive experience for visitors to explore each conceptual chapter\u2013from metaphysical training manuals, botanical consciousness, and self-alignment protocols\u2013through participatory installations. The exhibition is set centuries in the future, imagining a timeline where society has been profoundly shaped by the principles of Black Metal. Ultimately, visitors will not only bear witness to the societal effects of Black Metal, but also leave transformed in some way. \n The Age of Black Metal  invites all to imagine the futures that Black culture can build, if given space to expand without limit. \n Ari Melenciano  has cultivated an expansive practice within the arts, technology, design, culture, and pedagogy. Her natural ability to combine many disciplines reveals their interconnectedness and reimagines their conventions for new possibilities. Her art practice ranges from using AI through both critical and imaginative lenses, to sound design using botanical data. Her work has been exhibited around the world from Dubai's Museum of the Future to the Studio Museum in Harlem. She's a frequent international public speaker, and occasionally designs and teaches courses at New York University, Hunter College, Parsons, and the Pratt Institute. \n Afrotectopia  is a social institution cultivating boundless innovation at the nexus of art, design, technology, and culture. Founded in 2018 by NYU ITP graduate student Ari Melenciano, Afrotectopia began as a highly cross-disciplinary conference cultivating a vibrant community of industry and cultural pioneers. For years, Afrotectopia hosted a variety of programming that bridged connections between emerging technologies, Black culture, and racial equity."
   },
   {
     "title": "Group X - BJJ",
@@ -1456,12 +1416,12 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
   },
   {
-    "title": "General Miembro Meeting",
+    "title": "Audio Production Club General Body Meeting (September)",
     "date": "2025-09-17T18:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11600950",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+    "organization": "Audio Production Club",
+    "location": "School of Communications, Room 2007",
+    "link": "https://montclair.campuslabs.com/engage/event/11602699",
+    "description": "Are you interested in Music Production, Audio Engineering, Live Sound, or DJ'ing? \n Come join the  Audio Production Club\u00a0 for our\u00a0 first  General Body Meeting of the school year! \n Come meet other members, our E-Board, and staff! We will talk about meeting plans for the semester, events you can get involved in, and more! \n We will meet in the\u00a0 School of Communications, Room 2007 from 2:00pm-3:30pm!"
   },
   {
     "title": "Garfield Club First Meeting",
@@ -1472,12 +1432,12 @@
     "description": "Welcome to our first Garfield Club Meeting! For this meeting we will be going over our fun survey results, introduce our E-Board, and maybe an evil surprise. Feel free to drop by!"
   },
   {
-    "title": "Audio Production Club General Body Meeting (September)",
+    "title": "General Miembro Meeting",
     "date": "2025-09-17T18:00:00+00:00",
-    "organization": "Audio Production Club",
-    "location": "School of Communications, Room 2007",
-    "link": "https://montclair.campuslabs.com/engage/event/11602699",
-    "description": "Are you interested in Music Production, Audio Engineering, Live Sound, or DJ'ing? \n Come join the  Audio Production Club\u00a0 for our\u00a0 first  General Body Meeting of the school year! \n Come meet other members, our E-Board, and staff! We will talk about meeting plans for the semester, events you can get involved in, and more! \n We will meet in the\u00a0 School of Communications, Room 2007 from 2:00pm-3:30pm!"
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11600950",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "General Body Meeting",
@@ -1525,7 +1485,7 @@
     "organization": "Civic & Voter Engagement",
     "location": "Student Center Ballrooms and Quad",
     "link": "https://montclair.campuslabs.com/engage/event/11583263",
-    "description": "Join us on  Tuesday, September 17th  from  12:00\u20134:00 PM  in the  Student Center Ballrooms and Quad  for a campus-wide celebration of  National Voter Registration Day ! \n \u00a0 \n In proud partnership with  Commuter Life  and  Campus Activities , this event brings together students from all walks of campus life to take action and get ready for the upcoming election. Whether you\u2019re registering to vote, updating your information, or looking to learn more about what\u2019s on the ballot\u2014this is your moment! \n PLUS \u2013 Hear from Three Special Guest Speakers  who will share powerful messages about the importance of voting, civic action, and making your voice count. Don\u2019t miss their inspiring words at 12:30. \n Those speakers are: \n Eric\u00a0 Arpert- Campaign Manager for\u00a0Jack Ciattarelli \n Assemblywomen Fantasia\u00a0 \n Chief of Staff for Assemblywomen Ramirez \n \u00a0 \n What to Expect: \n \u2714\ufe0f On-the-spot voter registration \n \ud83c\udf81 Giveaways, civic swag, and games \n \ud83d\udcda Nonpartisan election info + resources \n \ud83c\udfb6 Music, community energy, and more! \n \u00a0 \n Whether you\u2019re a first-time voter or a seasoned pro, come out and be part of this nationwide movement to strengthen our democracy. \n \u00a0 \n Your voice matters. Your vote counts. Let\u2019s celebrate it!"
+    "description": "Join us on  Tuesday, September 17th  from  12:00\u20134:00 PM  in the  Student Center Ballrooms and Quad  for a campus-wide celebration of  National Voter Registration Day ! \n \u00a0 \n In proud partnership with  Commuter Life  and  Campus Activities , this event brings together students from all walks of campus life to take action and get ready for the upcoming election. Whether you\u2019re registering to vote, updating your information, or looking to learn more about what\u2019s on the ballot\u2014this is your moment! \n \u00a0 \n PLUS \u2013 Hear from Three Special Guest Speakers  who will share powerful messages about the importance of voting, civic action, and making your voice count. Don\u2019t miss their inspiring words at 12:30. \n Those speakers are: \n Eric\u00a0 Arpert- Campaign Manager for\u00a0Jack Ciattarelli \n Assemblywomen Fantasia\u00a0 \n Chief of Staff for Assemblywomen Ramirez \n \u00a0 \n What to Expect: \n \u2714\ufe0f On-the-spot voter registration \n \ud83c\udf81 Giveaways, civic swag, and games \n \ud83d\udcda Nonpartisan election info + resources \n \ud83c\udfb6 Music, community energy, and more! \n \u00a0 \n Whether you\u2019re a first-time voter or a seasoned pro, come out and be part of this nationwide movement to strengthen our democracy. \n \u00a0 \n Your voice matters. Your vote counts. Let\u2019s celebrate it!"
   },
   {
     "title": "Group X - HIIT",
@@ -1550,14 +1510,6 @@
     "location": "Hawk Crossing",
     "link": "https://montclair.campuslabs.com/engage/event/11506080",
     "description": "Celebrate the fall by making memories at the photobooth! Autumn themed photos will be taken at a photobooth located in Hawks Crossings, from 4 P.M. to 5 P.M.  Props are included and photos are free and taken with a polaroid camera! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "General Body Meeting",
-    "date": "2025-09-17T20:30:00+00:00",
-    "organization": "MSU Pensa",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11615527",
-    "description": "This a general body meeting where"
   },
   {
     "title": "Board meeting ",
@@ -2022,6 +1974,14 @@
     "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11602618",
     "description": "Unwind with Delta Xi Delta at our Paint & Sip night! Enjoy a relaxing evening of creativity, conversation, and connection while painting your own masterpiece. Sip on something sweet, share some laughs, and see how sisterhood is always the cherry on top! \n This is a non-binding recruitment event. \n Follow @DeltaXiDelta on instagram for more information and updates on our Fall Recruitment! Can't make it but want to meet us? DM us on insta!"
+  },
+  {
+    "title": "Ladies Night Informational",
+    "date": "2025-09-19T00:45:00+00:00",
+    "organization": "Mu Sigma Upsilon Sorority, Incorporated",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11621269",
+    "description": "Curious about what makes our sisterhood so special? Come to our Ladies' Night and get all your questions answered. Learn about our chapter, organization, and meet the sisters, and see how bluetiful our organization is!"
   },
   {
     "title": "MILF Round 1 Rehearsal ",
@@ -2704,6 +2664,22 @@
     "description": "Get to know the sisters of Phi Sigma Sigma this semester!"
   },
   {
+    "title": "MSDC practice",
+    "date": "2025-09-23T01:00:00+00:00",
+    "organization": "Montclair State Dance Company",
+    "location": "Student Center 250C - Ballroom C",
+    "link": "https://montclair.campuslabs.com/engage/event/11619893",
+    "description": "Rehearsal for Montclair State Dance Company"
+  },
+  {
+    "title": "MSDC practice",
+    "date": "2025-09-23T01:00:00+00:00",
+    "organization": "Montclair State Dance Company",
+    "location": "Student Center 250C - Ballroom C",
+    "link": "https://montclair.campuslabs.com/engage/event/11620783",
+    "description": "Rehearsal for Montclair State Dance Company"
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2025-09-23T12:00:00+00:00",
     "organization": "Campus Recreation",
@@ -2854,6 +2830,14 @@
     "location": "Finley Gallery, Finley Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11565883",
     "description": "\ud83c\udfa8\u2728 The Department of Art & Design is kicking off the Fall 2025 semester with the Art & Design Juried Exhibition at Finley Gallery! The exhibition opens today! \n \u00a0 \n \ud83d\uddd3 Exhibition: Sept. 4\u201323, 2025 \n \ud83d\udcc5 Opening Reception: Wed. Sept. 10, 2\u20134 PM \n \u00a0 \n Featuring work from students across Visual Arts, Fashion Design & Merchandising, Illustration, Product Design, and Visual Communication Design, this showcase highlights projects hand-selected by our faculty, one piece from every course section. \n \u00a0 \n Come see the incredible creativity, talent, and innovation happening inside our department. You won\u2019t want to miss it! \n \u00a0 \n \u00a0 \n \ud83d\udccd Finley Gallery, Finley Hall"
+  },
+  {
+    "title": "Meet the artist at the University Galleries' fall 2025 opening reception!",
+    "date": "2025-09-23T21:00:00+00:00",
+    "organization": "Montclair State University Galleries",
+    "location": "George Segal Gallery | Alexander Kasser Theater Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/11426052",
+    "description": "Join us in celebrating the opening of the Montclair State University Galleries' Fall 2025 exhibition:\u00a0 The Age of Black Metal by  Afrotectopia. Remarks by the artist and curator Ari Melenciano and Dean Gurskis at 6 pm in the\u00a0 Segal Gallery , located on the fourth floor of the Red Hawk Deck.\u00a0 Register for free here! \n ABOUT THE EXHIBITION \n September 23 \u2013 December 14, 2025 \n Segal Gallery and Kasser Lobby \n Black Metal  originated as a kitchen table art book that pushes the boundaries of space travel, science fiction, speculative design, Black culture, art, technology, and spirituality. The book emerged from an Afrotectopia-led incubator, in collaboration with MIT Media Lab\u2019s Space Exploration Initiative and NYU\u2019s Interactive Telecommunications Program. The project features contributions from artists Jordan Caldwell, Kordae Jatafa Henry, Jeremy Kamal, and Ari Melenciano. \n The Age of Black Metal  builds upon the foundational ideas of the book and translates the text into a fully immersive experience for visitors to explore each conceptual chapter\u2013from metaphysical training manuals, botanical consciousness, and self-alignment protocols\u2013through participatory installations. The exhibition is set centuries in the future, imagining a timeline where society has been profoundly shaped by the principles of Black Metal. Ultimately, visitors will not only bear witness to the societal effects of Black Metal, but also leave transformed in some way. \n The Age of Black Metal  invites all to imagine the futures that Black culture can build, if given space to expand without limit. \n Ari Melenciano  has cultivated an expansive practice within the arts, technology, design, culture, and pedagogy. Her natural ability to combine many disciplines reveals their interconnectedness and reimagines their conventions for new possibilities. Her art practice ranges from using AI through both critical and imaginative lenses, to sound design using botanical data. Her work has been exhibited around the world from Dubai's Museum of the Future to the Studio Museum in Harlem. She's a frequent international public speaker, and occasionally designs and teaches courses at New York University, Hunter College, Parsons, and the Pratt Institute. \n Afrotectopia  is a social institution cultivating boundless innovation at the nexus of art, design, technology, and culture. Founded in 2018 by NYU ITP graduate student Ari Melenciano, Afrotectopia began as a highly cross-disciplinary conference cultivating a vibrant community of industry and cultural pioneers. For years, Afrotectopia hosted a variety of programming that bridged connections between emerging technologies, Black culture, and racial equity."
   },
   {
     "title": "Group X - BJJ",
@@ -3032,20 +3016,20 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20, 2025 \n Wednesday , 2-3 p.m. \n Student Recreation Center - Pool"
   },
   {
-    "title": "Cali School of Music Midweek Series: Brass and Woodwinds",
-    "date": "2025-09-24T18:00:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "Leshowitz Recital Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11457548",
-    "description": "Brass and Woodwinds Studio Recitals \n Students perform works from the classical and contemporary repertoire. \n ------ \n Cali Midweek Concerts 2025-26 Most Wednesdays at 2 PM Chapin Hall, Leshowitz Recital Hall \n FREE ADMISSION! \n Join us for the\u00a0 Cali Midweek Concerts at Montclair State University\u2019s John J. Cali School of Music,\u00a0 where we bring a diverse array of musical performances and educational events every Wednesday at 2PM in Leshowitz Recital Hall, Chapin Hall. Our concert series showcases the immense talent within our faculty, students, and esteemed guest artists. \n FULL SCHEDULE:\u00a0 https://www.montclair.edu/music/cali-midweek-series-schedule/"
-  },
-  {
     "title": "Hazing Prevention Workshop",
     "date": "2025-09-24T18:00:00+00:00",
     "organization": "Greek Life",
     "location": "University Hall, Room 2010",
     "link": "https://montclair.campuslabs.com/engage/event/11382952",
     "description": "What is this workshop for? \n \n \n Attending a Hazing Prevention workshop is a requirement for any Montclair State University student who\u00a0is interested in joining a fraternity/sorority on campus \n These workshops inform students of the dangers and repercussions\u00a0of Hazing \n \n Where and when? \n \n \n \n University Hall, Room 2010 \n 2 pm - 3 pm"
+  },
+  {
+    "title": "Cali School of Music Midweek Series: Brass and Woodwinds",
+    "date": "2025-09-24T18:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Leshowitz Recital Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11457548",
+    "description": "Brass and Woodwinds Studio Recitals \n Students perform works from the classical and contemporary repertoire. \n ------ \n Cali Midweek Concerts 2025-26 Most Wednesdays at 2 PM Chapin Hall, Leshowitz Recital Hall \n FREE ADMISSION! \n Join us for the\u00a0 Cali Midweek Concerts at Montclair State University\u2019s John J. Cali School of Music,\u00a0 where we bring a diverse array of musical performances and educational events every Wednesday at 2PM in Leshowitz Recital Hall, Chapin Hall. Our concert series showcases the immense talent within our faculty, students, and esteemed guest artists. \n FULL SCHEDULE:\u00a0 https://www.montclair.edu/music/cali-midweek-series-schedule/"
   },
   {
     "title": "Cali School of Music Midweek Series: Brass + Woodwinds",
@@ -3824,12 +3808,28 @@
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
   },
   {
+    "title": "MILF Round 1 Rehearsal",
+    "date": "2025-09-28T17:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11619545",
+    "description": "MILF is the Players improv group. The theme is SpongeMILF, based on the show SpongeBob SquarePants."
+  },
+  {
     "title": "You Got Game? ",
     "date": "2025-09-28T18:00:00+00:00",
     "organization": "Residence Life",
     "location": "Village",
     "link": "https://montclair.campuslabs.com/engage/event/11505949",
     "description": "Come play some Basket Ball! Prepare to have fun, take nothing serious, and meet other people with sports interest on Campus! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "MILF Round 1 Rehearsal",
+    "date": "2025-09-28T18:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11619551",
+    "description": "MILF is the Players improv group. The theme is SpongeMILF, based on the show SpongeBob SquarePants."
   },
   {
     "title": "Group X - HIIT",
@@ -4118,6 +4118,22 @@
     "location": "Dinallo Heights",
     "link": "https://montclair.campuslabs.com/engage/event/11505943",
     "description": "Unleash your creativity at our Painting CDs and Cards Event! Join us for a fun, hands-on session where you can paint your own designs on blank CDs and greeting cards. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "MSDC practice",
+    "date": "2025-09-30T01:00:00+00:00",
+    "organization": "Montclair State Dance Company",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/11619894",
+    "description": "Rehearsal for Montclair State Dance Company"
+  },
+  {
+    "title": "MSDC practice",
+    "date": "2025-09-30T01:00:00+00:00",
+    "organization": "Montclair State Dance Company",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/11620784",
+    "description": "Rehearsal for Montclair State Dance Company"
   },
   {
     "title": "Group X - Yoga",
@@ -6136,6 +6152,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
   },
   {
+    "title": "CALI SCHOOL OF MUSIC MIDWEEK: Cali Conversation with Samora Pinderhughes",
+    "date": "2025-10-15T18:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Leshowitz Recital Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11619644",
+    "description": "Cali Midweek Series: Cali Conversation and Performance with  SAMORA PINDERHUGHES and Cali School of Music Director\u00a0 SHEA SCRUGGS Leshowitz Recital Hall, Chapin Hall, Cali School of Music FREE TICKETS\u00a0 \n Join Cali Artist-in-Residence  Samora Pinderhughes  and Director S hea Scruggs  for a conversation on art, activism, and the transformative power of music. A composer, pianist, vocalist, filmmaker, and multidisciplinary artist, Pinderhughes is lauded as \u201cone of the most affecting singer-songwriters today, in any genre\u201d ( The New York Times ) and \u201ca magical being\u201d ( Forbes ). Through honesty and vulnerability, he creates works that confront sociopolitical issues and imagine new worlds."
+  },
+  {
     "title": "Group X - Cycling",
     "date": "2025-10-15T18:15:00+00:00",
     "organization": "Campus Recreation",
@@ -6197,7 +6221,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11616271",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 6:45pm - 7:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Pamela"
+    "description": ""
   },
   {
     "title": "Group X - Goodnight Yoga",
@@ -7656,12 +7680,28 @@
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
   },
   {
+    "title": " \u201cSweatober\" Challenge Month",
+    "date": "2025-10-01T04:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center - MP1 & MP2",
+    "link": "https://montclair.campuslabs.com/engage/event/11621075",
+    "description": "Are you ready to commit to your goals, try something new, and earn rewards while you sweat? All October long, we\u2019re turning up the energy with Sweatober\u2014a month-long group fitness challenge designed to keep you moving, motivated, and having fun.\u00a0 \n Here\u2019s how it works: Attend group fitness classes throughout the month (like Zumba, Kickboxing, Yoga, HIIT, Pilates, Cycling, and more!) and collect points or stamps on your Sweatober Passport. The more you move, the more you earn! Plus, this is a judgment-free zone: no matter your fitness level, our instructors and community are here to cheer you on. It\u2019s not about being perfect, it\u2019s about showing up for yourself! \n Let October be the month you commit to YOU. One class at a time. \n When: \u00a0October 1-31 (month-long) \n Where:  Student Recreation Center, MP1 and MP2 (Locations depend on the fall group x schedule) \n Who:\u00a0 Montclair Students\u00a0Drop-in is welcomed!"
+  },
+  {
     "title": "Open Mic & Mocktails",
     "date": "2025-11-01T23:00:00+00:00",
     "organization": "Campus Activities",
     "location": "Student Center The Underground Room 160",
     "link": "https://montclair.campuslabs.com/engage/event/11368893",
     "description": "Whether you're a poet, musician, comedian, or just love a good vibe, this is your moment to shine! Join us for  Open Mic Night  \u2014 a laid-back evening filled with talent, creativity, and campus community. Take the mic or sit back and enjoy the show as your fellow Red Hawks share their voices. \n And while you\u2019re soaking in the sounds, sip on a variety of  free mocktails  crafted to match the mood \u2014 because nothing pairs better with live performances than a sweet treat. \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n Where and when? \n \n Saturday, November 1st \n 7 pm - 9 pm \n Student Center, The Underground, Room 160"
+  },
+  {
+    "title": "Lakota Wolf Preserve",
+    "date": "2025-11-02T18:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center",
+    "link": "https://montclair.campuslabs.com/engage/event/11620346",
+    "description": "We will enjoy a \u00bd mile nature walk in Columbia, NJ to a preserve, where we will be invited into an observation area surrounded by 4 packs of wolves! We will also get the opportunity to observe Lakota\u2019s foxes, bobcats, and lynx! \n \u00a0 \n How do I sign-up? \n \n Register online through Fusion, in the Student Recreation Center's main office, or over the phone (973-655-3340). \n Cost for Students $10 \n \n \u00a0 \n Where and when? \n \n Sunday, November 2, 2025 \n 1:00 pm - 5:30 pm \n Begins at Student Recreation Center \n \n \u00a0 \n What to bring:  Water, lunch, long pants, sneakers, and sunscreen. \n \u00a0 \n Potential Hazards:  Unpredictable weather changes, sunburn/heat exhaustion, dehydration, allergic reactions/poisonous plants, insect bites and injury by running, including sprains, lacerations, abrasions and fractures."
   },
   {
     "title": "Group X - HIIT",
@@ -8958,14 +8998,6 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11597627",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 8am - 8:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
-  },
-  {
-    "title": "Free Swim Lessons - *Beginner*",
-    "date": "2025-11-17T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Pool",
-    "link": "https://montclair.campuslabs.com/engage/event/11451454",
-    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20 \n Mondays, 9-10 a.m. \n Student Recreation Center - Pool"
   },
   {
     "title": "Group X - Pilates",
