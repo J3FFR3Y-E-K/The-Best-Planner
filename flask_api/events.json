@@ -1080,6 +1080,14 @@
     "description": "Stop by and create your own mini Fairy Garden Jar on September 16th from 8:00 PM to 10:00 PM in the Freeman Lounge! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "InterVarsity Music Bible Study ",
+    "date": "2025-09-17T00:00:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Susan A. Cole Hall 141 - Admissions Presentation Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11602668",
+    "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sisters in Christ"
+  },
+  {
     "title": "Game Night - Delta Xi Delta",
     "date": "2025-09-17T00:45:00+00:00",
     "organization": "Delta Xi Delta",
@@ -1240,20 +1248,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-09-17T18:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11600950",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "Audio Production Club General Body Meeting (September)",
     "date": "2025-09-17T18:00:00+00:00",
     "organization": "Audio Production Club",
     "location": "School of Communications, Room 2007",
     "link": "https://montclair.campuslabs.com/engage/event/11602699",
     "description": "Are you interested in Music Production, Audio Engineering, Live Sound, or DJ'ing? \n Come join the  Audio Production Club\u00a0 for our\u00a0 first  General Body Meeting of the school year! \n Come meet other members, our E-Board, and staff! We will talk about meeting plans for the semester, events you can get involved in, and more! \n We will meet in the\u00a0 School of Communications, Room 2007 from 2:00pm-3:30pm!"
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-09-17T18:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11600950",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Garfield Club First Meeting",
@@ -3416,20 +3424,20 @@
     "description": "complexions practice"
   },
   {
-    "title": "Game Night with the Bruhs",
-    "date": "2025-09-26T00:30:00+00:00",
-    "organization": "Omega Psi Phi",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11618970",
-    "description": "Game night for students to gather around and fellowship through playing games."
-  },
-  {
     "title": "Meet the Poodles: Game Night ",
     "date": "2025-09-26T00:30:00+00:00",
     "organization": "Sigma Gamma Rho Sorority, Inc.",
     "location": "University Hall 2002 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11618956",
     "description": "Bring a Friend or two, enjoy some fun games, and bonding time and come meet the members of Sigma Gamma Rho Sorority Inc."
+  },
+  {
+    "title": "Game Night with the Bruhs",
+    "date": "2025-09-26T00:30:00+00:00",
+    "organization": "Omega Psi Phi",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11618970",
+    "description": "Game night for students to gather around and fellowship through playing games."
   },
   {
     "title": "Group X - Yoga",
