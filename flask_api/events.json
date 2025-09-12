@@ -5,7 +5,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11618624",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 09/02 - 12/17 \n 9am-9:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
+    "description": ""
   },
   {
     "title": "Commuter Grab & Go Breakfast",
@@ -77,7 +77,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 2",
     "link": "https://montclair.campuslabs.com/engage/event/11561773",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 09/02 - 12/17 \n 1:30pm-2:15pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+    "description": ""
   },
   {
     "title": "Free Swim Clinic - Freestyle",
@@ -117,7 +117,7 @@
     "organization": "EATS by Gourmet Dining",
     "location": "Freeman Dining Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11589086",
-    "description": "Kick off your weekend with a nice meal and some live music at Freeman Dining Hall! \n Music will be performed by students from the Cali School of Music!"
+    "description": ""
   },
   {
     "title": "AIX Poster Invasion Sale",
@@ -125,7 +125,7 @@
     "organization": "Alpha Iota Chi Local Sorority Inc.",
     "location": "Student Center Quad2 - Lower Quad",
     "link": "https://montclair.campuslabs.com/engage/event/11581480",
-    "description": "Poster Sale"
+    "description": ""
   },
   {
     "title": "GBM BROTHER HOOD ",
@@ -157,7 +157,7 @@
     "organization": "Black Student Union",
     "location": "Student Center 250ABC - Ballrooms A, B, and C",
     "link": "https://montclair.campuslabs.com/engage/event/11581744",
-    "description": "Pop out to BSU's Fried Chicken friday n fries for food games and fun"
+    "description": ""
   },
   {
     "title": "Friday Night Fire Pits",
@@ -197,7 +197,7 @@
     "organization": "Campus Activities",
     "location": "Student Center Quad",
     "link": "https://montclair.campuslabs.com/engage/event/11368262",
-    "description": "Grab a blanket, your friends, and your sense of adventure! Join us under the stars for an epic  outdoor screening of the new live-action  How to Train Your Dragon  in the Quad. Enjoy a magical night filled with action, dragons, and cinematic fun on the big screen. \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n Where and when? \n \n Friday, September 12th \n 7 pm - 10 pm \n Student Center Quad"
+    "description": ""
   },
   {
     "title": "Time Capsule Making",
@@ -213,7 +213,7 @@
     "organization": "Residence Life",
     "location": "Fenwick Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11506160",
-    "description": "Come get a fresh fruit bowl in the Fenwick Hall lounge at The Village Apartments! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+    "description": ""
   },
   {
     "title": "9/11 National Day of Service & Remembrance 2025",
@@ -381,7 +381,7 @@
     "organization": "Office of Commuter Life",
     "location": "Lot 17 (Top of Stairs)",
     "link": "https://montclair.campuslabs.com/engage/event/11565120",
-    "description": "Kick off Commuter Life Appreciaiton Week with us! \n Beat the traffic and grab a bagel on the way to classes! The Office of Commuter Life will be handing out bagels beginning at 8 a.m.\u00a0 Bagels are first come first served."
+    "description": ""
   },
   {
     "title": "Free Swim Lessons - *Beginner*",
@@ -1248,20 +1248,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
   },
   {
-    "title": "Audio Production Club General Body Meeting (September)",
-    "date": "2025-09-17T18:00:00+00:00",
-    "organization": "Audio Production Club",
-    "location": "School of Communications, Room 2007",
-    "link": "https://montclair.campuslabs.com/engage/event/11602699",
-    "description": "Are you interested in Music Production, Audio Engineering, Live Sound, or DJ'ing? \n Come join the  Audio Production Club\u00a0 for our\u00a0 first  General Body Meeting of the school year! \n Come meet other members, our E-Board, and staff! We will talk about meeting plans for the semester, events you can get involved in, and more! \n We will meet in the\u00a0 School of Communications, Room 2007 from 2:00pm-3:30pm!"
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2025-09-17T18:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11600950",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "Audio Production Club General Body Meeting (September)",
+    "date": "2025-09-17T18:00:00+00:00",
+    "organization": "Audio Production Club",
+    "location": "School of Communications, Room 2007",
+    "link": "https://montclair.campuslabs.com/engage/event/11602699",
+    "description": "Are you interested in Music Production, Audio Engineering, Live Sound, or DJ'ing? \n Come join the  Audio Production Club\u00a0 for our\u00a0 first  General Body Meeting of the school year! \n Come meet other members, our E-Board, and staff! We will talk about meeting plans for the semester, events you can get involved in, and more! \n We will meet in the\u00a0 School of Communications, Room 2007 from 2:00pm-3:30pm!"
   },
   {
     "title": "Garfield Club First Meeting",
@@ -1357,7 +1357,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Pool",
     "link": "https://montclair.campuslabs.com/engage/event/11452438",
-    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20, 2025 \n Wednesday , 5-6 p.m. \n Student Recreation Center - Pool"
+    "description": ""
   },
   {
     "title": "Group X - Kickboxing",
@@ -1461,7 +1461,7 @@
     "organization": "Residence Life",
     "location": "Dinallo Heights",
     "link": "https://montclair.campuslabs.com/engage/event/11506076",
-    "description": "Let's play the Feud! Join us for a Late Night Game of Family Feud on September 17th from 8:00 PM to 10:00 PM in Dinallo\u2019s MPR. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+    "description": ""
   },
   {
     "title": "Study and Chill",
@@ -1621,7 +1621,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11561153",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 4pm-4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+    "description": ""
   },
   {
     "title": "CLAW: Guess the Cars",
@@ -2429,7 +2429,7 @@
     "organization": "Voices of Unity",
     "location": "Student Center 417 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/11571332",
-    "description": "Join the Worship Warriors in fellowship as we honor the Lord through dance!"
+    "description": ""
   },
   {
     "title": "InterVarsity Women's group",
@@ -2653,7 +2653,7 @@
     "organization": "Art and Design",
     "location": "Finley Gallery, Finley Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11565883",
-    "description": "\ud83c\udfa8\u2728 The Department of Art & Design is kicking off the Fall 2025 semester with the Art & Design Juried Exhibition at Finley Gallery! The exhibition opens today! \n \u00a0 \n \ud83d\uddd3 Exhibition: Sept. 4\u201323, 2025 \n \ud83d\udcc5 Opening Reception: Wed. Sept. 10, 2\u20134 PM \n \u00a0 \n Featuring work from students across Visual Arts, Fashion Design & Merchandising, Illustration, Product Design, and Visual Communication Design, this showcase highlights projects hand-selected by our faculty, one piece from every course section. \n \u00a0 \n Come see the incredible creativity, talent, and innovation happening inside our department. You won\u2019t want to miss it! \n \u00a0 \n \u00a0 \n \ud83d\udccd Finley Gallery, Finley Hall"
+    "description": ""
   },
   {
     "title": "Meet the artist at the University Galleries' fall 2025 opening reception!",
@@ -2805,7 +2805,7 @@
     "organization": "Residence Life",
     "location": "Williams/Fenwick at The Village Apartments",
     "link": "https://montclair.campuslabs.com/engage/event/11506014",
-    "description": "Live in the Village and take the shuttle? Come join the Community Programmers between Williams and Fenwick for a picnic and pavement art! Chalk, food, and drinks will be provided. Come and have a great time before you go to class! \n All students are welcomed!"
+    "description": ""
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
@@ -3424,20 +3424,20 @@
     "description": "complexions practice"
   },
   {
-    "title": "Meet the Poodles: Game Night ",
-    "date": "2025-09-26T00:30:00+00:00",
-    "organization": "Sigma Gamma Rho Sorority, Inc.",
-    "location": "University Hall 2002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11618956",
-    "description": "Bring a Friend or two, enjoy some fun games, and bonding time and come meet the members of Sigma Gamma Rho Sorority Inc."
-  },
-  {
     "title": "Game Night with the Bruhs",
     "date": "2025-09-26T00:30:00+00:00",
     "organization": "Omega Psi Phi",
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11618970",
     "description": "Game night for students to gather around and fellowship through playing games."
+  },
+  {
+    "title": "Meet the Poodles: Game Night ",
+    "date": "2025-09-26T00:30:00+00:00",
+    "organization": "Sigma Gamma Rho Sorority, Inc.",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11618956",
+    "description": "Bring a Friend or two, enjoy some fun games, and bonding time and come meet the members of Sigma Gamma Rho Sorority Inc."
   },
   {
     "title": "Group X - Yoga",
@@ -4629,7 +4629,7 @@
     "organization": "The College of the Arts",
     "location": "Alexander Kasser Theater",
     "link": "https://montclair.campuslabs.com/engage/event/11553880",
-    "description": "TICKETS NIGHT 1 : Friday, October 3, 2025 @ 7:30pm;  NIGHT 2: Saturday, October 4, 2025 @ 8pm  The Cali School\u2019s season opening concert,  Kaleidoscope  is a non-stop extravaganza featuring large ensembles  Wind Symphony, Symphonic Band, Chorale, University Singers, Jazz Ensemble,  and  Symphony Orchestra  interspersed with  chamber performances  and  solo artists ."
+    "description": ""
   },
   {
     "title": "Field Hockey vs. Ramapo",
@@ -5344,20 +5344,20 @@
     "description": "Ready to race in this chaos induced kart racer staring, Mario and his friends? Join the Game Club for an afternoon of kart racing. All Skill levels are encouraged to join. Win prizes and socialize with friends."
   },
   {
-    "title": "Group X - Cycling",
-    "date": "2025-10-09T21:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/11617298",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-5:45pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
-  },
-  {
     "title": "Group X - BJJ",
     "date": "2025-10-09T21:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11617452",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-6:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Quentin"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-09T21:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11617298",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-5:45pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
   },
   {
     "title": "Patriotic Trivia",
