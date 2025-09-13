@@ -1,61 +1,5 @@
 [
   {
-    "title": "Friday Night Fire Pits",
-    "date": "2025-09-12T23:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center PATIO - Back Patio",
-    "link": "https://montclair.campuslabs.com/engage/event/11387028",
-    "description": "Hang out with your friends on Friday night around the fire pit!\u00a0 Free snacks, such as s'mores and iced tea, will be provided.\u00a0 Lawn games, hammocks, and other items will also be available FREE via Equipment Checkout.\u00a0\u00a0 \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Friday, September 12 \n 7:00 pm - 9:00 pm\u00a0 \n Rec Center Patio"
-  },
-  {
-    "title": "Tri Sigma Fall Recruitment",
-    "date": "2025-09-12T22:30:00+00:00",
-    "organization": "Sigma Sigma Sigma",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11584748",
-    "description": "Join us this fall as we open our doors to new sisters who are ready to grow, lead, and shine. Tri Sigma is built on friendship, service, and sisterhood, and we\u2019re excited to welcome women who want to be part of something bigger than themselves. Whether you\u2019re looking for lifelong friendships, leadership opportunities, or ways to give back through service and philanthropy, Tri Sigma is where you\u2019ll find your home. \n Come meet the sisters, experience our values in action, and discover how you can make your mark in Tri Sigma this fall!"
-  },
-  {
-    "title": "Movie Night in the Quad \u2013 How to Train Your Dragon (Live Action)",
-    "date": "2025-09-12T23:00:00+00:00",
-    "organization": "Campus Activities",
-    "location": "Student Center Quad",
-    "link": "https://montclair.campuslabs.com/engage/event/11368262",
-    "description": "Grab a blanket, your friends, and your sense of adventure! Join us under the stars for an epic  outdoor screening of the new live-action  How to Train Your Dragon  in the Quad. Enjoy a magical night filled with action, dragons, and cinematic fun on the big screen. \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n Where and when? \n \n Friday, September 12th \n 7 pm - 10 pm \n Student Center Quad"
-  },
-  {
-    "title": "Time Capsule Making",
-    "date": "2025-09-13T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Bohn Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11506161",
-    "description": "Capture your college years with your very own time capsule! Bring your own memory items or use what\u2019s provided at the event, and document life for your future self! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "MILF Auditions & Callbacks",
-    "date": "2025-09-12T22:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/11599960",
-    "description": "Auditions for round one of Montclair Improv League and Friends from 6-8, open to all undergraduate students. Callbacks from 8-10, invitation only."
-  },
-  {
-    "title": "Fruit Bowls at Fenwick",
-    "date": "2025-09-13T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Fenwick Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11506160",
-    "description": "Come get a fresh fruit bowl in the Fenwick Hall lounge at The Village Apartments! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "MILF Auditions & Callbacks",
-    "date": "2025-09-12T22:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/11599969",
-    "description": "Auditions for round one of Montclair Improv League and Friends from 6-8, open to all undergraduate students. Callbacks from 8-10, invitation only."
-  },
-  {
     "title": "9/11 National Day of Service & Remembrance 2025",
     "date": "2025-09-13T12:30:00+00:00",
     "organization": "Office of Community Engagement and Partnerships",
@@ -2928,20 +2872,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
   },
   {
-    "title": "Praise Dance Practice",
-    "date": "2025-09-24T23:00:00+00:00",
-    "organization": "Voices of Unity",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11571333",
-    "description": "Join the Worship Warriors in fellowship as we honor the Lord through dance!"
-  },
-  {
     "title": "Men's Soccer vs. NYU",
     "date": "2025-09-24T23:00:00+00:00",
     "organization": "Athletics",
     "location": "Soccer Park",
     "link": "https://montclair.campuslabs.com/engage/event/11337979",
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
+  },
+  {
+    "title": "Praise Dance Practice",
+    "date": "2025-09-24T23:00:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11571333",
+    "description": "Join the Worship Warriors in fellowship as we honor the Lord through dance!"
   },
   {
     "title": "Romeo & Juliet Callbacks",
@@ -5454,14 +5398,6 @@
     "location": "Student Recreation Multi-Purpose Room 2",
     "link": "https://montclair.campuslabs.com/engage/event/11617298",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-5:45pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
-  },
-  {
-    "title": "Group X - BJJ",
-    "date": "2025-10-09T21:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11617452",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-6:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Quentin"
   },
   {
     "title": "Patriotic Trivia",
