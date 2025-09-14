@@ -1,29 +1,5 @@
 [
   {
-    "title": " Stuff & Screen: How to Train Your Dragon",
-    "date": "2025-09-13T23:00:00+00:00",
-    "organization": "Campus Activities",
-    "location": "University Hall, Room 1070",
-    "link": "https://montclair.campuslabs.com/engage/event/11423790",
-    "description": "Take a break and join us for a relaxed evening of creativity and film. First, you'll get to stuff and customize your own dragon plush\u2014materials provided. Afterward, stick around for a screening of the live-action  How to Train Your Dragon \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n Where and when? \n \n Saturday, 9/13 \n 7 pm - 9 pm \n University Hall 1070"
-  },
-  {
-    "title": "DIY Felt Pennants",
-    "date": "2025-09-14T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Russ Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11506155",
-    "description": "Come down to Russ Hall and create your own felt pennants!  \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Door Dec Making",
-    "date": "2025-09-14T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Stone Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11506137",
-    "description": "Kick off the year with creativity at our Door Dec Making Event! Join us for a fun and relaxing time decorating your own personalized door decs. All supplies will be provided. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Tri Sigma Fall Recruitment",
     "date": "2025-09-14T16:30:00+00:00",
     "organization": "Sigma Sigma Sigma",
@@ -1032,6 +1008,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:15pm-3:00pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
   },
   {
+    "title": "Audio Production Club General Body Meeting (September)",
+    "date": "2025-09-17T18:00:00+00:00",
+    "organization": "Audio Production Club",
+    "location": "School of Communications, Room 2007",
+    "link": "https://montclair.campuslabs.com/engage/event/11602699",
+    "description": "Are you interested in Music Production, Audio Engineering, Live Sound, or DJ'ing? \n Come join the  Audio Production Club\u00a0 for our\u00a0 first  General Body Meeting of the school year! \n Come meet other members, our E-Board, and staff! We will talk about meeting plans for the semester, events you can get involved in, and more! \n We will meet in the\u00a0 School of Communications, Room 2007 from 2:00pm-3:30pm!"
+  },
+  {
     "title": "Garfield Club First Meeting",
     "date": "2025-09-17T18:00:00+00:00",
     "organization": "Garfield club",
@@ -1046,14 +1030,6 @@
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11600950",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
-    "title": "Audio Production Club General Body Meeting (September)",
-    "date": "2025-09-17T18:00:00+00:00",
-    "organization": "Audio Production Club",
-    "location": "School of Communications, Room 2007",
-    "link": "https://montclair.campuslabs.com/engage/event/11602699",
-    "description": "Are you interested in Music Production, Audio Engineering, Live Sound, or DJ'ing? \n Come join the  Audio Production Club\u00a0 for our\u00a0 first  General Body Meeting of the school year! \n Come meet other members, our E-Board, and staff! We will talk about meeting plans for the semester, events you can get involved in, and more! \n We will meet in the\u00a0 School of Communications, Room 2007 from 2:00pm-3:30pm!"
   },
   {
     "title": "Welcome Back SASA!",
@@ -2832,20 +2808,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
   },
   {
-    "title": "Men's Soccer vs. NYU",
-    "date": "2025-09-24T23:00:00+00:00",
-    "organization": "Athletics",
-    "location": "Soccer Park",
-    "link": "https://montclair.campuslabs.com/engage/event/11337979",
-    "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
-  },
-  {
     "title": "Praise Dance Practice",
     "date": "2025-09-24T23:00:00+00:00",
     "organization": "Voices of Unity",
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/11571333",
     "description": "Join the Worship Warriors in fellowship as we honor the Lord through dance!"
+  },
+  {
+    "title": "Men's Soccer vs. NYU",
+    "date": "2025-09-24T23:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Soccer Park",
+    "link": "https://montclair.campuslabs.com/engage/event/11337979",
+    "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
   },
   {
     "title": "Romeo & Juliet Callbacks",
