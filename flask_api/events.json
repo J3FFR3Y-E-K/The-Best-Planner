@@ -1992,20 +1992,20 @@
     "description": "Cru is a caring community passionate about connecting people to Jesus Christ! \n We'll be going through scripture, having discussions, and fellowship in a safe space with the Lord."
   },
   {
-    "title": "InterVarsity Men's Bible Study ",
-    "date": "2025-09-22T18:00:00+00:00",
-    "organization": "InterVarsity Christian Fellowship",
-    "location": "University Hall 2007 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11612292",
-    "description": "An InterVarsity small that helps men follow Jesus with their whole lives, for the rest of their lives. We pray for revival together and get to do life together"
-  },
-  {
     "title": "History Club Tabling",
     "date": "2025-09-22T18:00:00+00:00",
     "organization": "The Historical Society at Montclair State",
     "location": "Student Center 2C03 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/11583402",
     "description": "Stop by the History Club\u2019s table in the Student Center to chat about history and our club. Spin the trivia wheel to test your knowledge of history, and win a small prize if luck\u2019s on your side!"
+  },
+  {
+    "title": "InterVarsity Men's Bible Study ",
+    "date": "2025-09-22T18:00:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "University Hall 2007 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11612292",
+    "description": "An InterVarsity small that helps men follow Jesus with their whole lives, for the rest of their lives. We pray for revival together and get to do life together"
   },
   {
     "title": "PASO's A La Marinera: A Dance Experience ",
@@ -3152,20 +3152,20 @@
     "description": "complexions practice"
   },
   {
-    "title": "Game Night with the Bruhs",
-    "date": "2025-09-26T00:30:00+00:00",
-    "organization": "Omega Psi Phi",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11618970",
-    "description": "Game night for students to gather around and fellowship through playing games."
-  },
-  {
     "title": "Meet the Poodles: Game Night ",
     "date": "2025-09-26T00:30:00+00:00",
     "organization": "Sigma Gamma Rho Sorority, Inc.",
     "location": "University Hall 2002 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11618956",
     "description": "Bring a Friend or two, enjoy some fun games, and bonding time and come meet the members of Sigma Gamma Rho Sorority Inc."
+  },
+  {
+    "title": "Game Night with the Bruhs",
+    "date": "2025-09-26T00:30:00+00:00",
+    "organization": "Omega Psi Phi",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11618970",
+    "description": "Game night for students to gather around and fellowship through playing games."
   },
   {
     "title": "Group X - Yoga",
