@@ -1,29 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2025-09-16T12:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11516529",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 8am - 8:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
-  },
-  {
-    "title": "Group X - Cycling",
-    "date": "2025-09-16T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/11516796",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 10am - 10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
-  },
-  {
-    "title": "Free Breakfast & Coffee",
-    "date": "2025-09-16T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center",
-    "link": "https://montclair.campuslabs.com/engage/event/11484014",
-    "description": "Campus Rec is showing love to our commuters with *free light breakfast & coffee* everyday during  Commuter Life Appreciation Week  from September 15-19!\u00a0 Stop by * Monday\u2013Friday, 9:00AM\u201311:00AM * to grab some morning fuel. Come early to beat the parking rush, maybe squeeze in a quick workout and shower (clean towels provided).\u00a0 Then enjoy breakfast & coffee before heading to class. All students are welcome! \ud83e\udd6f\u2615\u2728 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Monday, September 15, 9-11 a.m. in Student Recreation Center Lounge \n Tuesday, September 16, 9-11 a.m. in Student Recreation Center Lounge \n Wednesday, September 17, 9-11 a.m. in Student Recreation Center Lounge \n Thursday, September 18, 9-11 a.m. in Student Recreation Center Lounge \n Friday, September 19, 9-11 a.m. in Student Recreation Center Lounge"
-  },
-  {
     "title": "Cloud X - Pilates",
     "date": "2025-09-16T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -280,20 +256,20 @@
     "description": "Join us at Stone Hall for a chill night with fire pits, s'mores, and friends. We'll have all ingredients ready -- you just show up, roast, and vibe! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Fairy Garden Jar",
-    "date": "2025-09-17T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Freeman Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11506085",
-    "description": "Stop by and create your own mini Fairy Garden Jar on September 16th from 8:00 PM to 10:00 PM in the Freeman Lounge! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "InterVarsity Music Bible Study ",
     "date": "2025-09-17T00:00:00+00:00",
     "organization": "InterVarsity Christian Fellowship",
     "location": "Susan A. Cole Hall 141 - Admissions Presentation Room",
     "link": "https://montclair.campuslabs.com/engage/event/11602668",
     "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sisters in Christ"
+  },
+  {
+    "title": "Fairy Garden Jar",
+    "date": "2025-09-17T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Freeman Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11506085",
+    "description": "Stop by and create your own mini Fairy Garden Jar on September 16th from 8:00 PM to 10:00 PM in the Freeman Lounge! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Game Night - Delta Xi Delta",
@@ -358,6 +334,14 @@
     "location": "Student Recreation Center - Pool",
     "link": "https://montclair.campuslabs.com/engage/event/11452747",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20 \n Wednesdays, 11-12 p.m. and 5-6 p.m. \n Student Recreation Center - Pool"
+  },
+  {
+    "title": "Sip & Plant With the Biology Club!",
+    "date": "2025-09-17T15:30:00+00:00",
+    "organization": "Montclair State Biology Club",
+    "location": "Student Center 417 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11643345",
+    "description": "Come join the Biology Club for our first event of the semester! We will decorate flower pots and provide you with flower seeds to pot and plant at your own leisure!"
   },
   {
     "title": "Intramural League Registration - Outdoor Soccer",
@@ -736,6 +720,14 @@
     "description": "Take your research to the next level Our\u00a0 Audiology program \u00a0is designed to empower you to excel in multiple roles\u2014clinician, educator, administrator, and researcher. \n \n As a clinician, you'll be able to\u00a0identify the hearing health needs of individuals and design, implement and evaluate treatment plans to meet those needs.\u00a0 \n In education, you'll be equipped to share your knowledge and inspire others in community healthcare settings. \n As an administrator, you'll learn to lead, innovate, and elevate audiology services across diverse environments. \n And with a strong foundation in research, you'll be ready to explore new frontiers in audiology, applying cutting-edge insights directly to your practice. \n \n Join us for a virtual information session September 17\u00a0at 7:00\u00a0PM (EST) \u00a0to become a versatile leader in the dynamic field of audiology, where your impact can resonate for a lifetime."
   },
   {
+    "title": "Bible Series - Weeds and Wheat",
+    "date": "2025-09-17T23:00:00+00:00",
+    "organization": "The Good Samaritan Club",
+    "location": "Student Center Underground - The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/11643360",
+    "description": "\ud83d\udcd6Come and Learn\ud83d\udcd6 \n \u00a0 \n Among so many churches, how can we know which is the true church that Jesus established? \n \u00a0 \n Join us for an interactive Bible study as we search the Scriptures together to find the answer!"
+  },
+  {
     "title": "Choir Practice",
     "date": "2025-09-17T22:15:00+00:00",
     "organization": "Voices of Unity",
@@ -912,6 +904,14 @@
     "description": "Celebrate  National Voter Registration Day  with us on  Wednesday, September 18th from 12:00\u20132:00 PM  in the Talbott Hall\u00a0 Quad ! \ud83c\udf89\ud83d\uddf3\ufe0f\ud83c\uddfa\ud83c\uddf8 \n \u00a0 \n Join  Civic and Voter Engagement  and  Campus Activities  for a day packed with fun, info, and action. Whether you\u2019re registering to vote for the first time, updating your info for the  upcoming New Jersey Governor\u2019s Race in November , or just have a few questions\u2014this is your chance to get election ready in style. Already registers, take the election day pledge and help us win the NJ Ballot Bowl, think of it as March Madness but for voter registration. \n \u00a0 What\u2019s Happening: \n On-site voter registration & resources \n Get your voting questions answered \n Giant Patriotic Inflatable Obstacle Course \n Yard games, and civic-themed giveaways \n A high-energy afternoon celebrating YOUR voice in democracy \n \u00a0 \n Stop by between classes, race your friends through the obstacle course, and take the first step toward shaping your future at the ballot box. \n \u00a0 \n Voting is powerful. Let\u2019s make it fun too!"
   },
   {
+    "title": "Bake Sale",
+    "date": "2025-09-18T16:00:00+00:00",
+    "organization": "Lambda Tau Omega Sorority, Inc.",
+    "location": "Student Center 2C04 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/11644515",
+    "description": "Come get your sweets!"
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2025-09-18T18:00:00+00:00",
     "organization": "Campus Recreation",
@@ -926,14 +926,6 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11561106",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 2:30pm-3:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Bella"
-  },
-  {
-    "title": "Frescas y Elotes Con Cultura Fundraiser",
-    "date": "2025-09-18T18:00:00+00:00",
-    "organization": "Sigma Lambda Beta International Fraternity Inc.",
-    "location": "Student Center Quad Information Table 1 - Information Table 1",
-    "link": "https://montclair.campuslabs.com/engage/event/11582108",
-    "description": "Join the brothers of Sigma Lambda Beta for Frescas con Cultura - a fundraiser that celebrates Latin flavor and community impact. We\u2019re serving up homemade agua frescas and walking elote cups. Every cup supports our chapter\u2019s mission of leadership, service, and cultural uplift on campus and beyond. Swing by, grab a snack or a drink, and help us continue building something bigger than ourselves!"
   },
   {
     "title": "Fireside Chats ",
@@ -2152,6 +2144,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n CJ"
   },
   {
+    "title": "Nonnas Movie Night!",
+    "date": "2025-09-23T23:00:00+00:00",
+    "organization": "College of Humanities and Social Sciences (CHSS)",
+    "location": "Cohen Lounge, Dickson Hall 178",
+    "link": "https://montclair.campuslabs.com/engage/event/11643012",
+    "description": "The Amici Club, in collaboration with the Coccia Institute for the Italian Experience in America, will host a \u201cNonnas\u201d movie night to celebrate the new academic year on Tuesday, September 23 at 7pm in Dickson Hall, Room 178 (Cohen Lounge). \n Join us for a heartwarming film, food, and good laughs! \n RSVP Here!"
+  },
+  {
     "title": "Movie Night - Nonnas",
     "date": "2025-09-23T23:00:00+00:00",
     "organization": "Amici Club",
@@ -2166,6 +2166,14 @@
     "location": "Student Recreation Center 11C2A - Lobby Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11387320",
     "description": "Unplug, unwind, and let the games begin! Join us for a night of friendly competition, strategy, and laughter. Whether you're a hardcore tactician or just in it for the fun, there\u2019s something for everyone. \n \u00a0 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesday, September 23 \n 7pm-9pm, must be checked in by 8:30pm to participate \n Student Recreation Center Lounge"
+  },
+  {
+    "title": "Hazing Prevention Workshop",
+    "date": "2025-09-24T00:30:00+00:00",
+    "organization": "Greek Life",
+    "location": "Student Center, Room 419",
+    "link": "https://montclair.campuslabs.com/engage/event/11643376",
+    "description": "What is this workshop for? \n \n \n Attending a Hazing Prevention workshop is a requirement for any Montclair State University student who\u00a0is interested in joining a fraternity/sorority on campus \n These workshops inform students of the dangers and repercussions\u00a0of Hazing \n \n Where and when? \n \n \n \n Student Center, Room 419 \n 8:30 pm - 9:30 pm"
   },
   {
     "title": "Romeo & Juliet Auditions Day 2",
@@ -3920,6 +3928,14 @@
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
   },
   {
+    "title": "MSA Bakesale",
+    "date": "2025-10-01T18:00:00+00:00",
+    "organization": "Muslim Student Association",
+    "location": "Student Center Quad Information Table 1 - Information Table 1",
+    "link": "https://montclair.campuslabs.com/engage/event/11643696",
+    "description": "Join the MSA for their first ever bakesale of the semester!"
+  },
+  {
     "title": "Group X - Cycling",
     "date": "2025-10-01T18:15:00+00:00",
     "organization": "Campus Recreation",
@@ -4014,6 +4030,14 @@
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/11587497",
     "description": "Join us as we come together to learn, share, and celebrate the history, traditions, and resilience of Mexico\u2019s Indigenous communities. This meeting will highlight the cultural roots that shape Mexican identity. From language and storytelling to art, spirituality, and community practices."
+  },
+  {
+    "title": "Catch a Vibe at the Rec",
+    "date": "2025-10-01T18:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/11644751",
+    "description": "Catch a vibe at the Rec on the 1st Wednesday of the month from 2:00-4:00pm at the Student Recreation Center Lounge.\u00a0 Workout to a Live DJ, chill out with Minute To Win It games and who knows what other entertainment will show up! \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Wednesday, October 1, November 5, and December 3, 2025 \n 2:00-6:00pm \n Student Recreation Center Lobby"
   },
   {
     "title": "ILJ Bible Study",
@@ -4910,6 +4934,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11599784",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 1pm - 1:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "Inaugural Italian American Heritage Month Flag Raising",
+    "date": "2025-10-07T17:00:00+00:00",
+    "organization": "College of Humanities and Social Sciences (CHSS)",
+    "location": "Student Center Flagpole",
+    "link": "https://montclair.campuslabs.com/engage/event/11643100",
+    "description": "The Coccia Institute for the Italian Experience in America is thrilled to host the inaugural Italian American Heritage Month Flag Raising at Montclair State University. Join us for a celebration of Italian American culture as we recognize the contributions of Italian American students, faculty, and staff to our campus community. \n This event will take place on  Tuesday, October 7th at 1pm  in the Student Center Flagpole area (right next to the Student Center building). All members of the university community and beyond are invited to attend this celebration. A reception following the flag raising will take place in the Student Center. \n RSVP HERE"
   },
   {
     "title": "Group X - Pilates",
@@ -6488,6 +6520,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 09/02 - 12/17 \n 2:15pm-3pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Anabelle"
   },
   {
+    "title": "Teaching Italian Symposium XVIII: Toolkit italiano: Building Innovative Pathways to Success",
+    "date": "2025-10-17T13:00:00+00:00",
+    "organization": "College of Humanities and Social Sciences (CHSS)",
+    "location": "University Hall 7th Floor Conference Center",
+    "link": "https://montclair.campuslabs.com/engage/event/11643347",
+    "description": "The 18th annual professional development program organized by the Coccia Institute for the Italian Experience in America and Prof.ssa Enza Antenos, Dept. of World Languages & Cultures, at Montclair State University. This year\u2019s event will be held on  Friday, October 17, 9:00 am-3:30 pm , in the University Hall Conference Center (7th Floor) at Montclair State University. The annual unveiling of the national Coccia-Inserra Award for Excellence and Innovation in the Teaching of Italian (K-12) will be presented on this occasion. \n The  registration  fee will be $80 for teachers of Italian and $30 for graduate students/prospective teachers. Registration fee includes Luncheon and Parking. \n We are looking forward to welcoming back past attendees and greeting new members of the teaching community! Please go ahead and  register  even if you have not as yet received formal authorization from your school district/Board of Ed \u2013 we understand that it takes time! \n REGISTER TODAY! \n If any questions arise, please do not hesitate to contact Mark Rotella, the Director of the Coccia Institute for the Italian Experience in America, at rotellam@montclair.edu or Cristina Latino, Program Coordinator of the Coccia Institute, at latinoc@montclair.edu."
+  },
+  {
     "title": "Group X - Kickboxing",
     "date": "2025-10-17T19:30:00+00:00",
     "organization": "Campus Recreation",
@@ -8053,7 +8093,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11600139",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 6pm - 7:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Quentin"
   },
   {
     "title": "Group X - Goodnight Yoga",
@@ -8190,6 +8230,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11615984",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+  },
+  {
+    "title": "Catch a Vibe at the Rec",
+    "date": "2025-11-05T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/11644752",
+    "description": "Catch a vibe at the Rec on the 1st Wednesday of the month from 2:00-4:00pm at the Student Recreation Center Lounge.\u00a0 Workout to a Live DJ, chill out with Minute To Win It games and who knows what other entertainment will show up! \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Wednesday, October 1, November 5, and December 3, 2025 \n 2:00-6:00pm \n Student Recreation Center Lobby"
   },
   {
     "title": "Group X - Kickboxing",
@@ -10726,6 +10774,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11615988",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+  },
+  {
+    "title": "Catch a Vibe at the Rec",
+    "date": "2025-12-03T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/11644753",
+    "description": "Catch a vibe at the Rec on the 1st Wednesday of the month from 2:00-4:00pm at the Student Recreation Center Lounge.\u00a0 Workout to a Live DJ, chill out with Minute To Win It games and who knows what other entertainment will show up! \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Wednesday, October 1, November 5, and December 3, 2025 \n 2:00-6:00pm \n Student Recreation Center Lobby"
   },
   {
     "title": "Group X - Kickboxing",
