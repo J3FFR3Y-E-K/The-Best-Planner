@@ -1,109 +1,5 @@
 [
   {
-    "title": "Meet the Brothers",
-    "date": "2025-09-16T00:00:00+00:00",
-    "organization": "Sigma Pi",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11638999",
-    "description": "Come meet the brothers of Sigma Pi"
-  },
-  {
-    "title": "InterVarsity Women's group",
-    "date": "2025-09-15T23:00:00+00:00",
-    "organization": "InterVarsity Christian Fellowship",
-    "location": "Student Center 416 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11571208",
-    "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our relationships with each other as sisters in Christ"
-  },
-  {
-    "title": "Popcorn & Bingo",
-    "date": "2025-09-16T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Williams Hall at The Village Apartments",
-    "link": "https://montclair.campuslabs.com/engage/event/11506114",
-    "description": "Popcorn & Bingo in the Williams Lounge!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Syllabus Mixer",
-    "date": "2025-09-16T00:45:00+00:00",
-    "organization": "Mu Sigma Upsilon Sorority, Incorporated",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11632280",
-    "description": "Kick off the semester with our Syllabus Mixer! This event will guide students on how to create a syllabus Excel sheet to stay organized, keep track of assignments, and plan ahead. We\u2019ll also share practical study tips to start the school year strong."
-  },
-  {
-    "title": "Ping Pong Tournament ",
-    "date": "2025-09-16T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11506122",
-    "description": "Go head to head against dorm mates in a ping pong tournament! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Rocky Horror Picture Show Auditions Day 1",
-    "date": "2025-09-15T22:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 417 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11599961",
-    "description": "Auditions for Players' 2025 annual tradition \"The Rocky Horror Picture Show\"; this year's theme is \"The Rocky Horror  Horror  Show\". Open to all undergraduate students."
-  },
-  {
-    "title": "Large Group Worship Night- Chi Alpha ",
-    "date": "2025-09-16T00:30:00+00:00",
-    "organization": "Chi Alpha Campus Ministries",
-    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11624770",
-    "description": "Our weekly Chi Alpha Large Group is a time for the whole community to come together for passionate worship, relevant teaching from God\u2019s Word, and authentic fellowship. It\u2019s a space where students can encounter Jesus, be encouraged in their faith, and connect with others who are pursuing God on campus."
-  },
-  {
-    "title": "Interest Meeting - Delta Xi Delta",
-    "date": "2025-09-16T00:30:00+00:00",
-    "organization": "Delta Xi Delta",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11599598",
-    "description": "Curious about Greek Life or Delta Xi Delta and want to know more? Join the sisters of Delta Xi Delta for an informational night where we lay out the basic and most important information on how greek orgs operate under Greek Life and what it means/requires to be a sister while debunking popular myths. Whether you know a lot or absolutely nothing about Greek Life we hope you come out to get any questions answered and maybe meet your potential sisters! \n Can't make it but still have questions? Contact us on instagram @deltaxidelta"
-  },
-  {
-    "title": "Montclair State University Trivia",
-    "date": "2025-09-16T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Sinatra Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11506116",
-    "description": "Want to test your knowledge on Montclair State University? Or want to learn more about your University? Come to Frank Sinatra Hall on September 15th at 8PM for the chance to win Montclair State University merch.\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Romeo & Juliet Auditions ",
-    "date": "2025-09-15T22:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Players Office, STCT 124",
-    "link": "https://montclair.campuslabs.com/engage/event/11624120",
-    "description": "Auditions for Players 2025 Classical production,  Romeo & Juliet ."
-  },
-  {
-    "title": "Delta Chi Chapter",
-    "date": "2025-09-16T00:30:00+00:00",
-    "organization": "Delta Chi",
-    "location": "University Hall 1060 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11599647",
-    "description": "Delta Chi Chapter"
-  },
-  {
-    "title": "MSDC practice",
-    "date": "2025-09-16T01:00:00+00:00",
-    "organization": "Montclair State Dance Company",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/11619892",
-    "description": "Rehearsal for Montclair State Dance Company"
-  },
-  {
-    "title": "MSDC practice",
-    "date": "2025-09-16T01:00:00+00:00",
-    "organization": "Montclair State Dance Company",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/11620782",
-    "description": "Rehearsal for Montclair State Dance Company"
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2025-09-16T12:00:00+00:00",
     "organization": "Campus Recreation",
@@ -384,20 +280,20 @@
     "description": "Join us at Stone Hall for a chill night with fire pits, s'mores, and friends. We'll have all ingredients ready -- you just show up, roast, and vibe! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "InterVarsity Music Bible Study ",
-    "date": "2025-09-17T00:00:00+00:00",
-    "organization": "InterVarsity Christian Fellowship",
-    "location": "Susan A. Cole Hall 141 - Admissions Presentation Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11602668",
-    "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sisters in Christ"
-  },
-  {
     "title": "Fairy Garden Jar",
     "date": "2025-09-17T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Freeman Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11506085",
     "description": "Stop by and create your own mini Fairy Garden Jar on September 16th from 8:00 PM to 10:00 PM in the Freeman Lounge! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "InterVarsity Music Bible Study ",
+    "date": "2025-09-17T00:00:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Susan A. Cole Hall 141 - Admissions Presentation Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11602668",
+    "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sisters in Christ"
   },
   {
     "title": "Game Night - Delta Xi Delta",
@@ -600,14 +496,6 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-09-17T18:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11600950",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "Audio Production Club General Body Meeting (September)",
     "date": "2025-09-17T18:00:00+00:00",
     "organization": "Audio Production Club",
@@ -622,6 +510,14 @@
     "location": "University Hall 2025 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11602660",
     "description": "Welcome to our first Garfield Club Meeting! For this meeting we will be going over our fun survey results, introduce our E-Board, and maybe an evil surprise. Feel free to drop by!"
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-09-17T18:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11600950",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Welcome Back SASA!",
@@ -1832,20 +1728,20 @@
     "description": "Cru is a caring community passionate about connecting people to Jesus Christ! \n We'll be going through scripture, having discussions, and fellowship in a safe space with the Lord."
   },
   {
-    "title": "InterVarsity Men's Bible Study ",
-    "date": "2025-09-22T18:00:00+00:00",
-    "organization": "InterVarsity Christian Fellowship",
-    "location": "University Hall 2007 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11612292",
-    "description": "An InterVarsity small that helps men follow Jesus with their whole lives, for the rest of their lives. We pray for revival together and get to do life together"
-  },
-  {
     "title": "History Club Tabling",
     "date": "2025-09-22T18:00:00+00:00",
     "organization": "The Historical Society at Montclair State",
     "location": "Student Center 2C03 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/11583402",
     "description": "Stop by the History Club\u2019s table in the Student Center to chat about history and our club. Spin the trivia wheel to test your knowledge of history, and win a small prize if luck\u2019s on your side!"
+  },
+  {
+    "title": "InterVarsity Men's Bible Study ",
+    "date": "2025-09-22T18:00:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "University Hall 2007 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11612292",
+    "description": "An InterVarsity small that helps men follow Jesus with their whole lives, for the rest of their lives. We pray for revival together and get to do life together"
   },
   {
     "title": "PASO's A La Marinera: A Dance Experience ",
@@ -4312,6 +4208,14 @@
     "description": "SLAM General Body Meetings are open to all undergraduate students at  Montclair State University and Bloomfield College  who are interested in getting involved. These meetings are a space for volunteers and members to connect, hear important updates from the Executive Board, and learn about upcoming events and opportunities. General Body Meetings are also a chance for students to share their ideas, contribute to event planning, and build community on campus. Attending regularly helps volunteers stay informed and gain priority for event participation and leadership opportunities throughout the year."
   },
   {
+    "title": "Group X - Cycling",
+    "date": "2025-10-02T21:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11617297",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-5:45pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
+  },
+  {
     "title": "Group X - BJJ",
     "date": "2025-10-02T21:00:00+00:00",
     "organization": "Campus Recreation",
@@ -5480,20 +5384,20 @@
     "description": "SLAM General Body Meetings are open to all undergraduate students at  Montclair State University and Bloomfield College  who are interested in getting involved. These meetings are a space for volunteers and members to connect, hear important updates from the Executive Board, and learn about upcoming events and opportunities. General Body Meetings are also a chance for students to share their ideas, contribute to event planning, and build community on campus. Attending regularly helps volunteers stay informed and gain priority for event participation and leadership opportunities throughout the year."
   },
   {
-    "title": "Group X - Cycling",
-    "date": "2025-10-09T21:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/11617298",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-5:45pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
-  },
-  {
     "title": "Group X - BJJ",
     "date": "2025-10-09T21:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11617452",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-6:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Quentin"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-09T21:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11617298",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-5:45pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
   },
   {
     "title": "Patriotic Trivia",
@@ -6424,20 +6328,20 @@
     "description": "SLAM General Body Meetings are open to all undergraduate students at  Montclair State University and Bloomfield College  who are interested in getting involved. These meetings are a space for volunteers and members to connect, hear important updates from the Executive Board, and learn about upcoming events and opportunities. General Body Meetings are also a chance for students to share their ideas, contribute to event planning, and build community on campus. Attending regularly helps volunteers stay informed and gain priority for event participation and leadership opportunities throughout the year."
   },
   {
-    "title": "Group X - Cycling",
-    "date": "2025-10-16T21:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/11617299",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-5:45pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
-  },
-  {
     "title": "Group X - BJJ",
     "date": "2025-10-16T21:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11617453",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-6:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Quentin"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-16T21:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11617299",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-5:45pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
   },
   {
     "title": "Montclair State University Wing Chun Club Training",
