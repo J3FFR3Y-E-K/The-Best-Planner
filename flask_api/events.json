@@ -6096,20 +6096,20 @@
     "description": "Join the Caribbean Student Organization for our upcoming meeting! We celebrate Caribbean culture, community, and heritage while creating a space for students to connect, share ideas, and get involved on campus. All are welcome \u2014 whether you\u2019re Caribbean or just interested in learning more!"
   },
   {
-    "title": "Bible Talk",
-    "date": "2025-10-15T18:00:00+00:00",
-    "organization": "Alpha Omega",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11662176",
-    "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
-  },
-  {
     "title": "Professional Styling Guide with Feliciano Women in Business",
     "date": "2025-10-15T18:00:00+00:00",
     "organization": "Feliciano Women in Business",
     "location": "School Of Business 124 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11665650",
     "description": "Come join the Feliciano Women in Business for a special styling session! Have you ever been stuck on the differences between business casual and professional attire? We will answer your questions and help you make a work appropriate outfit look-book."
+  },
+  {
+    "title": "Bible Talk",
+    "date": "2025-10-15T18:00:00+00:00",
+    "organization": "Alpha Omega",
+    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11662176",
+    "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
   },
   {
     "title": "CALI SCHOOL OF MUSIC MIDWEEK: Immersive Residency - \"Meet Samora Pinderhughes\"",
