@@ -1093,7 +1093,7 @@
     "organization": "Residence Life",
     "location": "Russ Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11505987",
-    "description": "Think you've got the best fashion sense on Roblox? Come join us on Dress to Impress Night and battle it out with your peers. Walk the runway, vote for your favorites, and win a prize!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+    "description": ""
   },
   {
     "title": "Jenga Night ",
@@ -1296,20 +1296,20 @@
     "description": "Join us on  Wednesday, September 24 from 2:00\u20133:30 pm in Schmitt Hall 327  for the very first gathering of the  CSAM Science Teaching Program ! This kickoff will give you a chance to meet other students who are curious about STEM teaching and to hear about the many opportunities the program offers, from  paid internships and tuition scholarships  to hands-on experiences working with teachers and children in real classrooms. You\u2019ll learn how the program can help you explore whether teaching science is the right path for you, while gaining skills, mentorship, and professional connections that will support your future. Plus, there will be  light refreshments  and a welcoming space to connect with peers who share your passion for science and making a difference. \n \u00a0 \n Learn more about the CSAM Science Teaching Program  here ! \n \u00a0 \n Follow us on  Instagram !"
   },
   {
-    "title": "Tres Leches Fest!! (Bake Sale)",
-    "date": "2025-09-24T18:00:00+00:00",
-    "organization": "Chi Upsilon Sigma National Latin Sorority, INC",
-    "location": "Dickson Hall 1C07 - Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/11662135",
-    "description": "Need a little treat to brighten up your school day? Stop by our Tres Leches Fest! \n Whether you're heading to class, or just got out, grab delicious slice of tres leches cake on the go. It's the perfect way to sweeten up your day!"
-  },
-  {
     "title": "Haitian Student Association General Body Meeting ",
     "date": "2025-09-24T18:00:00+00:00",
     "organization": "Haitian Student Association",
     "location": "University Hall 2026 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11640445",
     "description": "Sak Pas\u00e8! Welcome to HSA\u2019s General Body meetings, where we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in the Red Hawk Nest, on the lower floor of the Student Center every Wednesday, 3:15-4:30!"
+  },
+  {
+    "title": "Tres Leches Fest!! (Bake Sale)",
+    "date": "2025-09-24T18:00:00+00:00",
+    "organization": "Chi Upsilon Sigma National Latin Sorority, INC",
+    "location": "Dickson Hall 1C07 - Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/11662135",
+    "description": "Need a little treat to brighten up your school day? Stop by our Tres Leches Fest! \n Whether you're heading to class, or just got out, grab delicious slice of tres leches cake on the go. It's the perfect way to sweeten up your day!"
   },
   {
     "title": "Joint General Body Meeting",
@@ -6096,20 +6096,20 @@
     "description": "Join the Caribbean Student Organization for our upcoming meeting! We celebrate Caribbean culture, community, and heritage while creating a space for students to connect, share ideas, and get involved on campus. All are welcome \u2014 whether you\u2019re Caribbean or just interested in learning more!"
   },
   {
-    "title": "Professional Styling Guide with Feliciano Women in Business",
-    "date": "2025-10-15T18:00:00+00:00",
-    "organization": "Feliciano Women in Business",
-    "location": "School Of Business 124 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11665650",
-    "description": "Come join the Feliciano Women in Business for a special styling session! Have you ever been stuck on the differences between business casual and professional attire? We will answer your questions and help you make a work appropriate outfit look-book."
-  },
-  {
     "title": "Bible Talk",
     "date": "2025-10-15T18:00:00+00:00",
     "organization": "Alpha Omega",
     "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11662176",
     "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
+  },
+  {
+    "title": "Professional Styling Guide with Feliciano Women in Business",
+    "date": "2025-10-15T18:00:00+00:00",
+    "organization": "Feliciano Women in Business",
+    "location": "School Of Business 124 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11665650",
+    "description": "Come join the Feliciano Women in Business for a special styling session! Have you ever been stuck on the differences between business casual and professional attire? We will answer your questions and help you make a work appropriate outfit look-book."
   },
   {
     "title": "CALI SCHOOL OF MUSIC MIDWEEK: Immersive Residency - \"Meet Samora Pinderhughes\"",
