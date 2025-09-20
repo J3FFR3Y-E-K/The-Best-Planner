@@ -1,21 +1,5 @@
 [
   {
-    "title": "Friday Night Firepit",
-    "date": "2025-09-20T01:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Center",
-    "link": "https://montclair.campuslabs.com/engage/event/11448339",
-    "description": "RED HAWK NIGHT - FIRE PITS at the STUDENT CENTER \n Hang out with your friends on Friday night around the fire pit!\u00a0 Free snacks, such as s'mores and iced tea, will be provided.\u00a0 Lawn games, hammocks, and other items will also be available FREE via Equipment Checkout. \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Friday, September 19 \n 9:00 pm - 12:00 a.m. \n Student Center"
-  },
-  {
-    "title": "Red Hawk Night!",
-    "date": "2025-09-20T01:00:00+00:00",
-    "organization": "Campus Activities",
-    "location": "The Student Center",
-    "link": "https://montclair.campuslabs.com/engage/event/11368438",
-    "description": "Red Hawk Night is a can\u2019t-miss campus event!  We're taking over the entire  Student Center  for a night packed with free food, giveaways, entertainment, and nonstop fun.\u00a0Some of the activities include mini golf, arts & crafts, make your own Lego Rocky, karaoke, and make your own squishmallow! \n How do I sign up? \n \n Early registration is not required \n Check-in will take place at the front entrance of the Student Center\u00a0 \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n Where and when? \n \n Friday, September 19th \n 9 pm - 12 am \n Student Center"
-  },
-  {
     "title": "Intake Academy",
     "date": "2025-09-20T14:00:00+00:00",
     "organization": "Greek Life",
@@ -1136,20 +1120,20 @@
     "description": "Join us for a sweet and special event with Mango Lassi and lots of fun games, like Carroms, Uno, Monopoly, charades, and more! \n \u00a0 \n We would like to invite all Montclair State and Bloomfield College students to join us for some fun games and to get a taste of some delicious South Asian flavor! \n \u00a0 \n Hang out, have fun, and enjoy some delicious Mango Lassi!"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2025-09-24T18:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11661383",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "Music Club GBM",
     "date": "2025-09-24T18:00:00+00:00",
     "organization": "Montclair State Music Club",
     "location": "University Hall 2011 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11602726",
     "description": "General body meeting for the MSMC"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2025-09-24T18:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2008 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11661383",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "WMSC General Meeting",
@@ -5928,20 +5912,20 @@
     "description": "Join the Caribbean Student Organization for our upcoming meeting! We celebrate Caribbean culture, community, and heritage while creating a space for students to connect, share ideas, and get involved on campus. All are welcome \u2014 whether you\u2019re Caribbean or just interested in learning more!"
   },
   {
-    "title": "Bible Talk",
-    "date": "2025-10-15T18:00:00+00:00",
-    "organization": "Alpha Omega",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11662176",
-    "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
-  },
-  {
     "title": "Professional Styling Guide with Feliciano Women in Business",
     "date": "2025-10-15T18:00:00+00:00",
     "organization": "Feliciano Women in Business",
     "location": "School Of Business 124 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11665650",
     "description": "Come join the Feliciano Women in Business for a special styling session! Have you ever been stuck on the differences between business casual and professional attire? We will answer your questions and help you make a work appropriate outfit look-book."
+  },
+  {
+    "title": "Bible Talk",
+    "date": "2025-10-15T18:00:00+00:00",
+    "organization": "Alpha Omega",
+    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11662176",
+    "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
   },
   {
     "title": "CALI SCHOOL OF MUSIC MIDWEEK: Immersive Residency - \"Meet Samora Pinderhughes\"",
