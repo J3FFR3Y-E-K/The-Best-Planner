@@ -1,37 +1,5 @@
 [
   {
-    "title": "Complexions Practice",
-    "date": "2025-09-21T22:00:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/11523494",
-    "description": "Complexions Practice"
-  },
-  {
-    "title": "DIY Terrarium",
-    "date": "2025-09-22T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Machuga Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/11506007",
-    "description": "Bring a little greenery into your life at our DIY Terrarium Event! Join us to create your very own mini terrarium using plants, soil, and decorative materials provided. This hands-on activity is a fun, relaxing way to learn about plant care while designing a unique piece you can take home. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "NFL Watch Party",
-    "date": "2025-09-22T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Dinallo Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/11506005",
-    "description": "Come cheer on your favorite team at our NFL Watch Party! With Wings!  \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Theta Phi Alpha Chapter Meeting",
-    "date": "2025-09-21T21:00:00+00:00",
-    "organization": "Theta Phi Alpha",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11610459",
-    "description": "Weekly Chapter meeting for active sisters"
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2025-09-22T12:00:00+00:00",
     "organization": "Campus Recreation",
@@ -9616,20 +9584,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2025-11-12T19:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11661389",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2025-11-12T19:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11665709",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2008 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11661389",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "Music Club GBM",
@@ -10512,20 +10480,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11661390",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11665686",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2008 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11661390",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "Music Club GBM",
