@@ -1016,20 +1016,20 @@
     "description": "The third General Body Meeting of Montclair State Circle K International will be held in person. This meeting will consist of both a social and service-oriented project. We will be making welcome kits for our Welcome Kit Distribution event. It will also give members a chance to familiarize themselves with each other since this will be our second In person meeting."
   },
   {
-    "title": "Montclair State University Wing Chun Club Training",
-    "date": "2025-09-25T22:00:00+00:00",
-    "organization": "Montclair State University Wing Chun Club",
-    "location": "Student Recreation Center 2205 - Multipurpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/11618793",
-    "description": "The practicing and learning of Wing Chun, a martial art that originated in China over two hundred years ago. In this training individuals will learn this martial art, build up relationships with other members in class, and gain a deeper appreciation for this aspect of Chinese culture. Training sessions will typically include learning of forms, learning fundamentals of movement, incorporating said fundamental motions into various drills."
-  },
-  {
     "title": "Child Advocacy and Policy (MA) and Child Advocacy (Certificate) Virtual Information Session",
     "date": "2025-09-25T22:00:00+00:00",
     "organization": "The Office of Graduate Admissions",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11656809",
     "description": "Lead Change in Child Advocacy and Policy \u00a0 When children and families face complex challenges, they need informed, compassionate professionals to stand up, speak out, and shape solutions. If you're ready to turn your commitment into action, we're here to help.\u00a0 We're hosting a\u00a0 virtual information session\u00a0on September 25\u00a0at 6:00 PM (EST) .\u00a0This is a no-pressure, exploratory space to meet our team and determine if our program fits your goals.\u00a0This session will cover the following programs:\u00a0 \n \n Online Master of Arts in Child Advocacy and Policy \n Child Advocacy (Certificate) \u2013 Online \n \n Why Montclair? \u00a0Completing\u00a0the certificate program allows you to transfer all 15 credits towards the Master of Arts in Child Advocacy, in accordance with all related graduate policy."
+  },
+  {
+    "title": "Montclair State University Wing Chun Club Training",
+    "date": "2025-09-25T22:00:00+00:00",
+    "organization": "Montclair State University Wing Chun Club",
+    "location": "Student Recreation Center 2205 - Multipurpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11618793",
+    "description": "The practicing and learning of Wing Chun, a martial art that originated in China over two hundred years ago. In this training individuals will learn this martial art, build up relationships with other members in class, and gain a deeper appreciation for this aspect of Chinese culture. Training sessions will typically include learning of forms, learning fundamentals of movement, incorporating said fundamental motions into various drills."
   },
   {
     "title": "Industrial/Organizational Psychology (PhD) Virtual Information Session",
@@ -8469,7 +8469,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11615984",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+    "description": ""
   },
   {
     "title": "Catch a Vibe at the Rec",
@@ -9424,20 +9424,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-12T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665709",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-11-12T19:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661389",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665709",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
@@ -10328,20 +10328,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665686",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661390",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665686",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
