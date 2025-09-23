@@ -1,21 +1,5 @@
 [
   {
-    "title": "Alpha Chi Rho Meet The Brothers",
-    "date": "2025-09-23T02:00:00+00:00",
-    "organization": "Alpha Chi Rho",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11660481",
-    "description": "Alpha Chi Rho will be hosting a \u201cMeet the Brothers\u201d event during their recruitment week. Anyone and everyone is welcome to come! See you there!"
-  },
-  {
-    "title": "Weekly Chapter Meetings",
-    "date": "2025-09-23T00:30:00+00:00",
-    "organization": "Sigma Lambda Beta International Fraternity Inc.",
-    "location": "University Hall 2040 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11660856",
-    "description": "The brothers of Sigma Lambda Beta International Fraternity, Inc. will be meeting weekly to discuss chapter operations."
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2025-09-23T12:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1816,20 +1800,20 @@
     "description": "Join the Worship Warriors in fellowship as we honor the Lord through dance!"
   },
   {
-    "title": "DIY ID Holders",
-    "date": "2025-09-29T23:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Bohn Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11505945",
-    "description": "Need a safe place to store your ID? Head down to the Bohn Lounge and decorate an ID holder with other residents!  \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "InterVarsity Women's group",
     "date": "2025-09-29T23:00:00+00:00",
     "organization": "InterVarsity Christian Fellowship",
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/11626275",
     "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our relationships with each other as sisters in Christ"
+  },
+  {
+    "title": "DIY ID Holders",
+    "date": "2025-09-29T23:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11505945",
+    "description": "Need a safe place to store your ID? Head down to the Bohn Lounge and decorate an ID holder with other residents!  \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "create your own pet rock",
@@ -9440,20 +9424,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2025-11-12T19:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11661389",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2025-11-12T19:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11665709",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2008 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11661389",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "Music Club GBM",
@@ -10344,20 +10328,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11661390",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11665686",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2008 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11661390",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "Music Club GBM",
