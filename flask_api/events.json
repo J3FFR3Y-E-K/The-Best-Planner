@@ -653,7 +653,7 @@
     "organization": "Athletics",
     "location": "Sprague Field",
     "link": "https://montclair.campuslabs.com/engage/event/11465466",
-    "description": ""
+    "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
   },
   {
     "title": "MILF Round 1 Rehearsal",
@@ -3192,20 +3192,20 @@
     "description": "All Are Welcome! \n Asian Pacific Islander Caucus (APIC) invites you to our  Fall Festival Celebration  on Wednesday, October 8 from 2-3:30 p.m. in the ADP Commons (UNIV 1140).\u00a0 There's no better way to start the new semester than with community and nourishment! \n \u00a0 \n Please  register here , so that we can get an estimated headcount.\u00a0 And let us know if you would like to contribute to the potluck (optional). \n \u00a0 \n Check out our  APIC website  for more information about our organization.\u00a0 And feel free to contact us at  apic@montclair.edu  with any questions."
   },
   {
-    "title": "Haitian Student Association General Body Meeting ",
-    "date": "2025-10-08T18:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11640447",
-    "description": "Sak Pas\u00e8! Welcome to HSA\u2019s General Body meetings, where we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in the Red Hawk Nest, on the lower floor of the Student Center every Wednesday, 3:15-4:30!"
-  },
-  {
     "title": "Field Day with SASA!",
     "date": "2025-10-08T18:00:00+00:00",
     "organization": "South Asian Student Association",
     "location": "Freeman/Russ QUAD - Freeman/Russ Quad",
     "link": "https://montclair.campuslabs.com/engage/event/11662357",
     "description": "Come join us this Wednesday on the quad in front of Student Center to play some volleyball, badminton, cricket, and other sports!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2025-10-08T18:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11640447",
+    "description": "Sak Pas\u00e8! Welcome to HSA\u2019s General Body meetings, where we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in the Red Hawk Nest, on the lower floor of the Student Center every Wednesday, 3:15-4:30!"
   },
   {
     "title": "Ballot Guide Pop-Up: Know Before You Vote!",
@@ -5160,20 +5160,20 @@
     "description": "Members of the complexionette team will come together to learn and practice the taught dance material."
   },
   {
-    "title": "A.LIFE Ministry ",
-    "date": "2025-10-17T00:30:00+00:00",
-    "organization": "A.LIFE",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11602648",
-    "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
-  },
-  {
     "title": "Complexions Practice",
     "date": "2025-10-17T00:30:00+00:00",
     "organization": "Complexions",
     "location": "Student Center 250B - Ballroom B",
     "link": "https://montclair.campuslabs.com/engage/event/11681892",
     "description": "complexions practice"
+  },
+  {
+    "title": "A.LIFE Ministry ",
+    "date": "2025-10-17T00:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11602648",
+    "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
   },
   {
     "title": "Group X - Yoga",
@@ -6125,7 +6125,7 @@
     "organization": "Theta Phi Alpha",
     "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11685174",
-    "description": "Weekly Chapter meeting for active members"
+    "description": ""
   },
   {
     "title": "Group X - Yoga",
@@ -8816,20 +8816,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-12T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665709",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-11-12T19:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661389",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665709",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
