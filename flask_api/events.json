@@ -1472,20 +1472,20 @@
     "description": "What is this workshop for? \n \n \n Attending a Hazing Prevention workshop is a requirement for any Montclair State University student who\u00a0is interested in joining a fraternity/sorority on campus \n These workshops inform students of the dangers and repercussions\u00a0of Hazing \n \n Where and when? \n \n \n \n University Hall, Room 2010 \n 2 pm - 3 pm"
   },
   {
-    "title": "MSA Bakesale",
-    "date": "2025-10-01T18:00:00+00:00",
-    "organization": "Muslim Student Association",
-    "location": "Student Center Quad Information Table 1 - Information Table 1",
-    "link": "https://montclair.campuslabs.com/engage/event/11643696",
-    "description": "Join the MSA for their first ever bakesale of the semester!"
-  },
-  {
     "title": "General Body Meetings",
     "date": "2025-10-01T18:00:00+00:00",
     "organization": "The Women Of Color Alliance ",
     "location": "University Hall 2012 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11627250",
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
+  },
+  {
+    "title": "MSA Bakesale",
+    "date": "2025-10-01T18:00:00+00:00",
+    "organization": "Muslim Student Association",
+    "location": "Student Center Quad Information Table 1 - Information Table 1",
+    "link": "https://montclair.campuslabs.com/engage/event/11643696",
+    "description": "Join the MSA for their first ever bakesale of the semester!"
   },
   {
     "title": "Free Swim Lessons *Beginner*",
@@ -3192,20 +3192,20 @@
     "description": "All Are Welcome! \n Asian Pacific Islander Caucus (APIC) invites you to our  Fall Festival Celebration  on Wednesday, October 8 from 2-3:30 p.m. in the ADP Commons (UNIV 1140).\u00a0 There's no better way to start the new semester than with community and nourishment! \n \u00a0 \n Please  register here , so that we can get an estimated headcount.\u00a0 And let us know if you would like to contribute to the potluck (optional). \n \u00a0 \n Check out our  APIC website  for more information about our organization.\u00a0 And feel free to contact us at  apic@montclair.edu  with any questions."
   },
   {
-    "title": "Field Day with SASA!",
-    "date": "2025-10-08T18:00:00+00:00",
-    "organization": "South Asian Student Association",
-    "location": "Freeman/Russ QUAD - Freeman/Russ Quad",
-    "link": "https://montclair.campuslabs.com/engage/event/11662357",
-    "description": "Come join us this Wednesday on the quad in front of Student Center to play some volleyball, badminton, cricket, and other sports!"
-  },
-  {
     "title": "Haitian Student Association General Body Meeting ",
     "date": "2025-10-08T18:00:00+00:00",
     "organization": "Haitian Student Association",
     "location": "University Hall 2026 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11640447",
     "description": "Sak Pas\u00e8! Welcome to HSA\u2019s General Body meetings, where we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in the Red Hawk Nest, on the lower floor of the Student Center every Wednesday, 3:15-4:30!"
+  },
+  {
+    "title": "Field Day with SASA!",
+    "date": "2025-10-08T18:00:00+00:00",
+    "organization": "South Asian Student Association",
+    "location": "Freeman/Russ QUAD - Freeman/Russ Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/11662357",
+    "description": "Come join us this Wednesday on the quad in front of Student Center to play some volleyball, badminton, cricket, and other sports!"
   },
   {
     "title": "Ballot Guide Pop-Up: Know Before You Vote!",
@@ -6125,7 +6125,7 @@
     "organization": "Theta Phi Alpha",
     "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11685174",
-    "description": ""
+    "description": "Weekly Chapter meeting for active members"
   },
   {
     "title": "Group X - Yoga",
