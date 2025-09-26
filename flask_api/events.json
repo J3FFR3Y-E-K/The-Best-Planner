@@ -829,7 +829,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11517188",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Bridget"
+    "description": ""
   },
   {
     "title": "Weekly Food Recovery Initiative",
@@ -1120,20 +1120,20 @@
     "description": "What is this workshop for? \n \n \n Attending a Hazing Prevention workshop is a requirement for any Montclair State University student who\u00a0is interested in joining a fraternity/sorority on campus \n These workshops inform students of the dangers and repercussions\u00a0of Hazing \n \n Where and when? \n \n \n \n University Hall, Room 2010 \n 2 pm - 3 pm"
   },
   {
-    "title": "General Body Meetings",
-    "date": "2025-10-01T18:00:00+00:00",
-    "organization": "The Women Of Color Alliance ",
-    "location": "University Hall 2012 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11627250",
-    "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
-  },
-  {
     "title": "MSA Bakesale",
     "date": "2025-10-01T18:00:00+00:00",
     "organization": "Muslim Student Association",
     "location": "Student Center Quad Information Table 1 - Information Table 1",
     "link": "https://montclair.campuslabs.com/engage/event/11643696",
     "description": "Join the MSA for their first ever bakesale of the semester!"
+  },
+  {
+    "title": "General Body Meetings",
+    "date": "2025-10-01T18:00:00+00:00",
+    "organization": "The Women Of Color Alliance ",
+    "location": "University Hall 2012 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11627250",
+    "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
   },
   {
     "title": "Free Swim Lessons *Beginner*",
@@ -4456,20 +4456,20 @@
     "description": "Join us for an inspiring conversation with two trailblazing women entrepreneurs! Hear their stories, the personal struggles they've faced, and the challenges of being a woman in their field. Get real insights, honest advice, and motivations to chase your own dreams."
   },
   {
-    "title": "Professional Styling Guide with Feliciano Women in Business",
-    "date": "2025-10-15T18:00:00+00:00",
-    "organization": "Feliciano Women in Business",
-    "location": "School Of Business 124 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11665650",
-    "description": "Come join the Feliciano Women in Business for a special styling session! Have you ever been stuck on the differences between business casual and professional attire? We will answer your questions and help you make a work appropriate outfit look-book."
-  },
-  {
     "title": "Bible Talk",
     "date": "2025-10-15T18:00:00+00:00",
     "organization": "Alpha Omega",
     "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11662176",
     "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
+  },
+  {
+    "title": "Professional Styling Guide with Feliciano Women in Business",
+    "date": "2025-10-15T18:00:00+00:00",
+    "organization": "Feliciano Women in Business",
+    "location": "School Of Business 124 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11665650",
+    "description": "Come join the Feliciano Women in Business for a special styling session! Have you ever been stuck on the differences between business casual and professional attire? We will answer your questions and help you make a work appropriate outfit look-book."
   },
   {
     "title": "CALI SCHOOL OF MUSIC MIDWEEK: Immersive Residency - \"Meet Samora Pinderhughes\"",
@@ -4944,20 +4944,20 @@
     "description": "Members of the complexionette team will come together to learn and practice the taught dance material."
   },
   {
-    "title": "Complexions Practice",
-    "date": "2025-10-17T00:30:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/11681892",
-    "description": "complexions practice"
-  },
-  {
     "title": "A.LIFE Ministry ",
     "date": "2025-10-17T00:30:00+00:00",
     "organization": "A.LIFE",
     "location": "University Hall 1010 - James B. Todd Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11602648",
     "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
+  },
+  {
+    "title": "Complexions Practice",
+    "date": "2025-10-17T00:30:00+00:00",
+    "organization": "Complexions",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/11681892",
+    "description": "complexions practice"
   },
   {
     "title": "Group X - Yoga",
@@ -8445,7 +8445,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11599696",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Ashley"
+    "description": ""
   },
   {
     "title": "First Gen Drop-In Group ",
@@ -8688,20 +8688,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2025-11-12T19:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11661389",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2025-11-12T19:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11665709",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2008 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11661389",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "Music Club GBM",
