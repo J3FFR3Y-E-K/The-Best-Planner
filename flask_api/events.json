@@ -1032,20 +1032,20 @@
     "description": "What is this workshop for? \n \n \n Attending a Hazing Prevention workshop is a requirement for any Montclair State University student who\u00a0is interested in joining a fraternity/sorority on campus \n These workshops inform students of the dangers and repercussions\u00a0of Hazing \n \n Where and when? \n \n \n \n University Hall, Room 2010 \n 2 pm - 3 pm"
   },
   {
-    "title": "MSA Bakesale",
-    "date": "2025-10-01T18:00:00+00:00",
-    "organization": "Muslim Student Association",
-    "location": "Student Center Quad Information Table 1 - Information Table 1",
-    "link": "https://montclair.campuslabs.com/engage/event/11643696",
-    "description": "Join the MSA for their first ever bakesale of the semester!"
-  },
-  {
     "title": "General Body Meetings",
     "date": "2025-10-01T18:00:00+00:00",
     "organization": "The Women Of Color Alliance ",
     "location": "University Hall 2012 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11627250",
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
+  },
+  {
+    "title": "MSA Bakesale",
+    "date": "2025-10-01T18:00:00+00:00",
+    "organization": "Muslim Student Association",
+    "location": "Student Center Quad Information Table 1 - Information Table 1",
+    "link": "https://montclair.campuslabs.com/engage/event/11643696",
+    "description": "Join the MSA for their first ever bakesale of the semester!"
   },
   {
     "title": "Free Swim Lessons *Beginner*",
@@ -9437,7 +9437,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Pool\u00a0",
     "link": "https://montclair.campuslabs.com/engage/event/11663861",
-    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20 \n Monday: 9-10AM and 5-6PM \n Student Recreation Center - Pool"
+    "description": ""
   },
   {
     "title": "Free Swim Lessons - Intermediate",
