@@ -1,21 +1,5 @@
 [
   {
-    "title": "Field Hockey vs. Washington & Lee",
-    "date": "2025-09-28T15:00:00+00:00",
-    "organization": "Athletics",
-    "location": "Sprague Field",
-    "link": "https://montclair.campuslabs.com/engage/event/11465466",
-    "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
-  },
-  {
-    "title": "MILF Round 1 Rehearsal",
-    "date": "2025-09-28T17:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11619545",
-    "description": "MILF is the Players improv group. The theme is SpongeMILF, based on the show SpongeBob SquarePants."
-  },
-  {
     "title": "Art & Design Juried Exhibition",
     "date": "2025-09-28T14:00:00+00:00",
     "organization": "Art and Design",
@@ -40,20 +24,20 @@
     "description": "MILF is the Players improv group. The theme is SpongeMILF, based on the show SpongeBob SquarePants."
   },
   {
-    "title": "EO RUNCLUB WITH BSU",
-    "date": "2025-09-28T17:00:00+00:00",
-    "organization": "Black Student Union",
-    "location": "Student Center Quad123 - All Quad",
-    "link": "https://montclair.campuslabs.com/engage/event/11711272",
-    "description": "Come out on a Jog with the running club. Let\u2019s lose some LBs"
-  },
-  {
     "title": "Sunday Mass",
     "date": "2025-09-28T21:00:00+00:00",
     "organization": "Red Hawk Catholic",
     "location": " 4th Floor Student Center Rm 411",
     "link": "https://montclair.campuslabs.com/engage/event/11707822",
     "description": "Come Join us for Catholic\u00a0Sunday Mass at 5pm on the Student Center Ballroom. Confession will be from 4:00-4:40pm and the Rosary at 4:40pm"
+  },
+  {
+    "title": "EO RUNCLUB WITH BSU",
+    "date": "2025-09-28T17:00:00+00:00",
+    "organization": "Black Student Union",
+    "location": "Student Center Quad123 - All Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/11711272",
+    "description": "Come out on a Jog with the running club. Let\u2019s lose some LBs"
   },
   {
     "title": "Group X - HIIT",
@@ -8760,6 +8744,14 @@
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665709",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
     "title": "Music Club GBM",
     "date": "2025-11-12T19:00:00+00:00",
     "organization": "Montclair State Music Club",
@@ -9672,20 +9664,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665686",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661390",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665686",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
