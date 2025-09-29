@@ -208,20 +208,20 @@
     "description": "Step into history with the History Club\u2019s immersive Constitutional Convention Crisis Simulation. Become a delegate tasked with debating the most pressing issues of 1787 - representation, power, and the very structure of government - and experience firsthand the challenges of building a nation from the ground up. \n No need to be an expert; just bring your curiosity and be ready to play your part. It\u2019s a fun, interactive way to experience history and connect with others. \n Whether you are a history enthusiast or simply looking for a fun and engaging activity, all are welcome to join. Free pizza will be available to all participants! \n RSVPs highly encouraged."
   },
   {
-    "title": "Ice Cream Social \ud83c\udf66",
-    "date": "2025-09-29T18:00:00+00:00",
-    "organization": "Chi Upsilon Sigma National Latin Sorority, INC",
-    "location": "1908 ",
-    "link": "https://montclair.campuslabs.com/engage/event/11709340",
-    "description": "\ud83c\udf66\u2728 Join us for our  Annual Ice Cream Social  with  La Unidad Latina,\u00a0 Lambda Upsilon Lambda Fraternity, Inc.\u00a0 ! \u2728\ud83c\udf66 \n It\u2019s the sweetest tradition of the year \u2013 a fun way to meet new people, catch up with friends, and of course\u2026 enjoy some delicious ice cream while we do it. \ud83c\udf68\ud83d\udc9b\u2665\ufe0f \n Come for the vibes, stay for the scoops. Don\u2019t miss out on this fun and refreshing way to connect with the community!"
-  },
-  {
     "title": "Monster Speed Dating",
     "date": "2025-09-29T18:00:00+00:00",
     "organization": "MSU Horror Club",
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/11662229",
     "description": "Create a dating profile for the Horror character. Towards the end, it's speed dating time! Go around to present your profile and see who you'd be a good match with."
+  },
+  {
+    "title": "Ice Cream Social \ud83c\udf66",
+    "date": "2025-09-29T18:00:00+00:00",
+    "organization": "Chi Upsilon Sigma National Latin Sorority, INC",
+    "location": "1908 ",
+    "link": "https://montclair.campuslabs.com/engage/event/11709340",
+    "description": "\ud83c\udf66\u2728 Join us for our  Annual Ice Cream Social  with  La Unidad Latina,\u00a0 Lambda Upsilon Lambda Fraternity, Inc.\u00a0 ! \u2728\ud83c\udf66 \n It\u2019s the sweetest tradition of the year \u2013 a fun way to meet new people, catch up with friends, and of course\u2026 enjoy some delicious ice cream while we do it. \ud83c\udf68\ud83d\udc9b\u2665\ufe0f \n Come for the vibes, stay for the scoops. Don\u2019t miss out on this fun and refreshing way to connect with the community!"
   },
   {
     "title": "Eboard meeting",
@@ -4840,20 +4840,20 @@
     "description": "Members of the complexionette team will come together to learn and practice the taught dance material."
   },
   {
-    "title": "A.LIFE Ministry ",
-    "date": "2025-10-17T00:30:00+00:00",
-    "organization": "A.LIFE",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11602648",
-    "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
-  },
-  {
     "title": "Complexions Practice",
     "date": "2025-10-17T00:30:00+00:00",
     "organization": "Complexions",
     "location": "Student Center 250B - Ballroom B",
     "link": "https://montclair.campuslabs.com/engage/event/11681892",
     "description": "complexions practice"
+  },
+  {
+    "title": "A.LIFE Ministry ",
+    "date": "2025-10-17T00:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11602648",
+    "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
   },
   {
     "title": "Group X - Yoga",
@@ -9592,20 +9592,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665686",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661390",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665686",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
