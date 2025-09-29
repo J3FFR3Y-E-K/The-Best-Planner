@@ -1,53 +1,5 @@
 [
   {
-    "title": "EO RUNCLUB WITH BSU",
-    "date": "2025-09-28T17:00:00+00:00",
-    "organization": "Black Student Union",
-    "location": "Student Center Quad123 - All Quad",
-    "link": "https://montclair.campuslabs.com/engage/event/11711272",
-    "description": "Come out on a Jog with the running club. Let\u2019s lose some LBs"
-  },
-  {
-    "title": "Sunday Mass",
-    "date": "2025-09-28T21:00:00+00:00",
-    "organization": "Red Hawk Catholic",
-    "location": " 4th Floor Student Center Rm 411",
-    "link": "https://montclair.campuslabs.com/engage/event/11707822",
-    "description": "Come Join us for Catholic\u00a0Sunday Mass at 5pm on the Student Center Ballroom. Confession will be from 4:00-4:40pm and the Rosary at 4:40pm"
-  },
-  {
-    "title": "Group X - HIIT",
-    "date": "2025-09-28T21:45:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11514387",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Sunday, 09/02 - 12/17 \n 5:45pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
-  },
-  {
-    "title": "Yankees vs Orioles (FULL)",
-    "date": "2025-09-28T17:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Yankee Stadium",
-    "link": "https://montclair.campuslabs.com/engage/event/11387265",
-    "description": "Get ready for a classic American League East showdown as the New York Yankees host the Baltimore Orioles at Yankee Stadium on Sunday, September 28, 2025, at 3:05 PM! Feel the energy in the Bronx as these division rivals face off in a high-stakes battle that could shake up the playoff race.\u00a0 NY Yankees cap and $20 food voucher included! \n Yankees Stadium:\u00a0 Section 331; Rows 5-7; Seats 1-16. \n How do I sign up? \n \n $35 for students;  \n Tickets go on sale online on Monday, September 8 at 10 am. \n This event has been sold out. Thank you for your interest. \n \n Where and when? \n \n Sunday, September 28, 2025 \n \n 3:05 PM game start; 1:00 pm bus leaves from SRC \n \n \n Yankee Stadium, Bronx, NY \n \n Student Recreation Center Lounge"
-  },
-  {
-    "title": "Group X - Kickboxing",
-    "date": "2025-09-28T22:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11514623",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Sunday, 09/02 - 12/17 \n 6:30pm - 7:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
-  },
-  {
-    "title": "Group X - Goodnight Yoga",
-    "date": "2025-09-28T23:45:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11515193",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Sunday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n CJ"
-  },
-  {
     "title": "Complexions Practice",
     "date": "2025-09-28T22:00:00+00:00",
     "organization": "Complexions",
@@ -280,20 +232,20 @@
     "description": "Step into history with the History Club\u2019s immersive Constitutional Convention Crisis Simulation. Become a delegate tasked with debating the most pressing issues of 1787 - representation, power, and the very structure of government - and experience firsthand the challenges of building a nation from the ground up. \n No need to be an expert; just bring your curiosity and be ready to play your part. It\u2019s a fun, interactive way to experience history and connect with others. \n Whether you are a history enthusiast or simply looking for a fun and engaging activity, all are welcome to join. Free pizza will be available to all participants! \n RSVPs highly encouraged."
   },
   {
-    "title": "Monster Speed Dating",
-    "date": "2025-09-29T18:00:00+00:00",
-    "organization": "MSU Horror Club",
-    "location": "Student Center Underground - The Underground",
-    "link": "https://montclair.campuslabs.com/engage/event/11662229",
-    "description": "Create a dating profile for the Horror character. Towards the end, it's speed dating time! Go around to present your profile and see who you'd be a good match with."
-  },
-  {
     "title": "Ice Cream Social \ud83c\udf66",
     "date": "2025-09-29T18:00:00+00:00",
     "organization": "Chi Upsilon Sigma National Latin Sorority, INC",
     "location": "1908 ",
     "link": "https://montclair.campuslabs.com/engage/event/11709340",
     "description": "\ud83c\udf66\u2728 Join us for our  Annual Ice Cream Social  with  La Unidad Latina,\u00a0 Lambda Upsilon Lambda Fraternity, Inc.\u00a0 ! \u2728\ud83c\udf66 \n It\u2019s the sweetest tradition of the year \u2013 a fun way to meet new people, catch up with friends, and of course\u2026 enjoy some delicious ice cream while we do it. \ud83c\udf68\ud83d\udc9b\u2665\ufe0f \n Come for the vibes, stay for the scoops. Don\u2019t miss out on this fun and refreshing way to connect with the community!"
+  },
+  {
+    "title": "Monster Speed Dating",
+    "date": "2025-09-29T18:00:00+00:00",
+    "organization": "MSU Horror Club",
+    "location": "Student Center Underground - The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/11662229",
+    "description": "Create a dating profile for the Horror character. Towards the end, it's speed dating time! Go around to present your profile and see who you'd be a good match with."
   },
   {
     "title": "Eboard meeting",
@@ -1032,20 +984,20 @@
     "description": "General body meeting for the MSMC"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-10-01T18:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1060 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11627039",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "Garfield Show 'n Tell",
     "date": "2025-10-01T18:00:00+00:00",
     "organization": "Garfield club",
     "location": "University Hall 2025 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11627259",
     "description": "Welcome to our second Garfield Club meeting! We're doing Garfield Show 'n Tell, bring your favorite merchandise, or anything at all as long as you can relate it to Garfield! (Trust me, you can relate anything to Garfield)."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-10-01T18:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11627039",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "WMSC General Meeting",
@@ -2782,6 +2734,14 @@
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11457576",
     "description": "Cali Midweek Series: Piano and Guitar Studio Recitals \n Students perform works from the classical and contemporary repertoire. \n ------------ \n Cali Midweek Concerts 2025-26 Most Wednesdays at 2 PM Chapin Hall, Leshowitz Recital Hall \n FREE ADMISSION! \n Join us for the Cali Midweek Concerts at Montclair State University\u2019s John J. Cali School of Music, where we bring a diverse array of musical performances and educational events every Wednesday at 2PM in Leshowitz Recital Hall, Chapin Hall. Our concert series showcases the immense talent within our faculty, students, and esteemed guest artists. \n FULL SCHEDULE:\u00a0 https://www.montclair.edu/music/cali-midweek-series-schedule/"
+  },
+  {
+    "title": "CSAM Science Teaching Program - Program Meeting",
+    "date": "2025-10-08T18:00:00+00:00",
+    "organization": "College of Science and Mathematics (CSAM)",
+    "location": "SCHM 327",
+    "link": "https://montclair.campuslabs.com/engage/event/11712542",
+    "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
     "title": "Free Swim Lessons *Beginner*",
@@ -7616,6 +7576,14 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20 \n Wednesday: 2-3PM and 5-6PM \n Student Recreation Center - Pool"
   },
   {
+    "title": "CSAM Science Teaching Program - Program Meeting",
+    "date": "2025-11-05T19:00:00+00:00",
+    "organization": "College of Science and Mathematics (CSAM)",
+    "location": "SCHM 318",
+    "link": "https://montclair.campuslabs.com/engage/event/11712543",
+    "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
+  },
+  {
     "title": "Group X - Cycling",
     "date": "2025-11-05T19:15:00+00:00",
     "organization": "Campus Recreation",
@@ -9624,6 +9592,14 @@
     "description": "Cali Midweek Series: Chamber Music Recital \n Students perform works from the classical and contemporary repertoire. \n Cali Midweek Concerts 2025-26 Most Wednesdays at 2 PM Chapin Hall, Leshowitz Recital Hall \n FREE ADMISSION! \n Join us for the\u00a0 Cali Midweek Concerts at Montclair State University\u2019s John J. Cali School of Music , where we bring a diverse array of musical performances and educational events every Wednesday at 2PM in Leshowitz Recital Hall, Chapin Hall. Our concert series showcases the immense talent within our faculty, students, and esteemed guest artists. \n FULL SCHEDULE:\u00a0 https://www.montclair.edu/music/cali-midweek-series-schedule/"
   },
   {
+    "title": "CSAM Science Teaching Program - Program Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "College of Science and Mathematics (CSAM)",
+    "location": "SCHM 327",
+    "link": "https://montclair.campuslabs.com/engage/event/11712544",
+    "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
+  },
+  {
     "title": "Group X - Cycling",
     "date": "2025-11-19T19:15:00+00:00",
     "organization": "Campus Recreation",
@@ -9640,20 +9616,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11661390",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11665686",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2008 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11661390",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "Music Club GBM",
@@ -10966,6 +10942,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11615609",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
+  },
+  {
+    "title": "CSAM Science Teaching Program - Program Meeting",
+    "date": "2025-12-03T19:00:00+00:00",
+    "organization": "College of Science and Mathematics (CSAM)",
+    "location": "SCHM 318",
+    "link": "https://montclair.campuslabs.com/engage/event/11712545",
+    "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
     "title": "Group X - Cycling",
@@ -12336,6 +12320,14 @@
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
   },
   {
+    "title": "CSAM Science Teaching Program - Program Meeting",
+    "date": "2026-01-28T19:00:00+00:00",
+    "organization": "College of Science and Mathematics (CSAM)",
+    "location": "SCHM 327",
+    "link": "https://montclair.campuslabs.com/engage/event/11712546",
+    "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
+  },
+  {
     "title": "Women's Basketball vs. Ramapo",
     "date": "2026-02-04T22:00:00+00:00",
     "organization": "Athletics",
@@ -12358,6 +12350,14 @@
     "location": "Alexander Kasser Theatre",
     "link": "https://montclair.campuslabs.com/engage/event/11346550",
     "description": "Experience two distinct works by acclaimed songwriter and performer Gabriel Kahane in one unforgettable day.\u00a0 \n \u00a0 \n In this duo of intimate solo musical plays, composer Gabriel Kahane blends songwriting and storytelling for a singular, poignant theatrical event. Book of Travelers recounts the strangers he met on a 9,000-mile train journey through a divided America, and Magnificent Bird chronicles a year he spent entirely off-line, and the unexpected turbulence of living quietly. Performed on alternating nights, these two concept albums offer a relentless self-inquiry, and a searing portrait of a world in flux.\u00a0 To join us, be sure to pick up your free student ticket from the Alexander Kasser Theatre box office or our mobile box office in the student center lobby, Tuesday - Thursday, 11:30 AM to 2:00 PM, and show your student ID at the PEAK desk in the lobby when you arrive for a surprise gift from PEAK. \n \u00a0 \n Hailed as \u201cone of the finest songwriters of the day\u201d by The New Yorker, Gabriel Kahane is a musician and storyteller whose work spans the theater, club, and concert hall. Highlights of the 2024-25 season include a return to the New York stage in a production at Playwrights Horizons, performances at the Philharmonie de Paris, Wigmore Hall, and the Concertgebouw with fellow composer/performer Caroline Shaw, the premiere of a clarinet concerto for Anthony McGill, a solo debut with the Orchestre National de Lyon, and Kahane\u2019s San Francisco conducting debut in Carla Kihlstedt\u2019s Twenty-six Little Deaths. Kahane's collaborators range from Phoebe Bridgers, Paul Simon, Sufjan Stevens, and Sylvan Esso, to the Danish String Quartet, Roomful of Teeth, and Attacca Quartet. As a writer, he has been published by The New Yorker online and The New York Times; a newsletter and collection of essays on music, literature, and politics can be found at\u00a0 gabrielkahane.substack.com . \n \u00a0 \n 4:00 pm Magnificent Bird \n Run Time: \u00a074 minutes, no intermission. \n \u00a0 \n Magnificent Bird, is an intimate reflection on a year of self-imposed isolation during which the artist set out to write a song every day. With contributions from Andrew Bird, Chris Thile, Amelia Meath (Sylvan Esso), and Pulitzer Prize- winning composer Caroline Shaw, this collection explores the delicate balance between personal introspection and global crises. It\u2019s a vivid musical snapshot of life during a tumultuous period, offering both a personal and universal meditation on modern-day existence. Based on Kahane\u2019s fifth LP. \n \u00a0 \n 7:00 pm - Book of Travelers \n Run Time: \u00a070 minutes, no intermission \n \u00a0 \n In Book of Travelers, Gabriel Kahane embarks on a journey across the United States, exploring the intersections of American identity and personal connection through the people he meets along the way. This powerful and emotional piece blends folk, classical, and pop influences to create a nuanced reflection on contemporary life in America. The work is a poignant and intimate exploration of what it means to traverse a country at a crossroads."
+  },
+  {
+    "title": "CSAM Science Teaching Program - Program Meeting",
+    "date": "2026-02-11T19:00:00+00:00",
+    "organization": "College of Science and Mathematics (CSAM)",
+    "location": "SCHM 327",
+    "link": "https://montclair.campuslabs.com/engage/event/11712547",
+    "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
     "title": "Women's Basketball vs.  NJCU",
@@ -12408,6 +12408,14 @@
     "description": "Experience the iconic music of\u00a0 RENT \u00a0like never before. In this sweeping symphonic concert produced by AMP Worldwide, a powerhouse ensemble of vocalists and instrumentalists brings Jonathan Larson\u2019s groundbreaking rock musical to life in a sweeping symphonic concert. Featuring the full score\u2014including \u201cSeasons of Love,\u201d \u201cLa Vie Boh\u00e8me,\u201d and \u201cTake Me or Leave Me\u201d\u2014this electrifying performance celebrates the enduring spirit of love, loss, and chosen family. \n \u00a0 \n Set in New York City\u2019s East Village at the height of the HIV/AIDS crisis,\u00a0 RENT \u00a0follows a group of young artists as they chase their dreams, navigate heartbreak, and fight to live\u2014and love\u2014fully in the moment. Winner of the Tony Award for Best Musical and the Pulitzer Prize for Drama,\u00a0 RENT \u00a0remains a cultural touchstone with music that resonates across generations. \n \u00a0 \n To join us, be sure to pick up your free student ticket from the Alexander Kasser Theatre box office or our mobile box office in the student center lobby, Tuesdays and Thursdays, 11:30 AM to 2:00 PM, and show your student ID at the PEAK desk in the lobby when you arrive for a surprise gift from PEAK."
   },
   {
+    "title": "CSAM Science Teaching Program - Program Meeting",
+    "date": "2026-02-25T19:00:00+00:00",
+    "organization": "College of Science and Mathematics (CSAM)",
+    "location": "SCHM 327",
+    "link": "https://montclair.campuslabs.com/engage/event/11712548",
+    "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
+  },
+  {
     "title": "Safe Space Training",
     "date": "2026-02-25T19:00:00+00:00",
     "organization": "Advocacy and Outreach",
@@ -12424,12 +12432,44 @@
     "description": "Our Safe Space Training is an intensive, interactive training that provides attendees with information and tools to combat homophobia, biphobia, transphobia, cissexism and heterosexism, on campus and beyond. Through interactive activities and discussion, participants will personally reflect on their own experiences to enhance their personal and professional development, provide further education, and finally, identify ways to create change on campus and beyond. \n All sessions are three hours and are first-come, first-served. Pre-registration is required. Registrants are expected to attend the full session. Only individuals who have fully completed the Safe Space Program and have agreed to the expectations of its membership are able to display the sticker/button of our program. Refreshments are not provided; however, you are more than welcome to bring your lunch, coffee, snacks, etc."
   },
   {
+    "title": "CSAM Science Teaching Program - Program Meeting",
+    "date": "2026-03-25T18:00:00+00:00",
+    "organization": "College of Science and Mathematics (CSAM)",
+    "location": "SCHM 327",
+    "link": "https://montclair.campuslabs.com/engage/event/11712552",
+    "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
+  },
+  {
+    "title": "CSAM Science Teaching Program - Program Meeting",
+    "date": "2026-04-08T18:00:00+00:00",
+    "organization": "College of Science and Mathematics (CSAM)",
+    "location": "SCHM 327",
+    "link": "https://montclair.campuslabs.com/engage/event/11712549",
+    "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
+  },
+  {
     "title": "Safe Space Training",
     "date": "2026-04-20T16:00:00+00:00",
     "organization": "Advocacy and Outreach",
     "location": "Dickson Hall 178 (Cohen Lounge)",
     "link": "https://montclair.campuslabs.com/engage/event/11332856",
     "description": "Our Safe Space Training is an intensive, interactive training that provides attendees with information and tools to combat homophobia, biphobia, transphobia, cissexism and heterosexism, on campus and beyond. Through interactive activities and discussion, participants will personally reflect on their own experiences to enhance their personal and professional development, provide further education, and finally, identify ways to create change on campus and beyond. \n All sessions are three hours and are first-come, first-served. Pre-registration is required. Registrants are expected to attend the full session. Only individuals who have fully completed the Safe Space Program and have agreed to the expectations of its membership are able to display the sticker/button of our program. Refreshments are not provided; however, you are more than welcome to bring your lunch, coffee, snacks, etc."
+  },
+  {
+    "title": "CSAM Science Teaching Program - Program Meeting",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "College of Science and Mathematics (CSAM)",
+    "location": "SCHM 327",
+    "link": "https://montclair.campuslabs.com/engage/event/11712550",
+    "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
+  },
+  {
+    "title": "CSAM Science Teaching Program - Program Meeting",
+    "date": "2026-05-06T18:00:00+00:00",
+    "organization": "College of Science and Mathematics (CSAM)",
+    "location": "SCHM 327",
+    "link": "https://montclair.campuslabs.com/engage/event/11712551",
+    "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
     "title": "Safe Space Training",
