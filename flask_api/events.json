@@ -320,20 +320,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Rosalyn"
   },
   {
-    "title": "Art Forum featuring Nicole Archer",
-    "date": "2025-09-29T09:20:00+00:00",
-    "organization": "Art and Design",
-    "location": "Montclair State University ",
-    "link": "https://montclair.campuslabs.com/engage/event/11704020",
-    "description": "The Department of Art & Design presents the Fall 2025 Art Forum series. Art Forum is a speaker series featuring artists, designers, art historians, curators, and art critics from around the world presenting their work and ideas in an open forum.\u00a0\u00a0 \n \u00a0 \n The next speaker in this series is Dr. Nicole Archer, the new Chair of the Department of Art and Design and Associate Professor of Visual and Critical Studies here at Montclair State University, who will discuss her research on textiles, design, and social justice. \n \u00a0 \n Dr. Nicole Archer is Associate Professor of Visual and Critical Studies at Montclair State University, where she is also affiliated with Gender, Sexuality, and Women\u2019s Studies. A scholar, educator, and arts leader, she currently serves as Vice President of Publications and as an Executive Board Member of the College Art Association. Her research centers on contemporary art and design, with particular focus on textile and garment histories and the intersections of art, design, and social justice. \n \u00a0 \n Join us for a talk with Dr. Archer \n \u00a0 \n This speaker series is free and open to the public. \n \u00a0 \n Art Forum\u00a0 \n Monday, 9/29/25\u00a0 5:20pm-7pm \n Calcia Hall, Room 140"
-  },
-  {
     "title": "Art & Design Juried Exhibition",
     "date": "2025-09-29T15:00:00+00:00",
     "organization": "Art and Design",
     "location": "Finley Gallery, Finley Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11704155",
     "description": "The Art & Design Juried Exhibition at Finley Gallery has been extended through October 5, giving you even more time to experience the incredible creativity of our students. \n \u00a0 \n On view are projects chosen by faculty from Visual Arts, Fashion Design and Merchandising, Illustration, Product Design, and Visual Communication Design. Together, the works reveal the imagination, skill, and inventive spirit that define our students\u2019 practice. \n \u00a0 \n \ud83d\udccd Finley Gallery, Finley Hall \ud83d\uddd3 On view through October 5, 2025 \u23f0 Finley Gallery Hours: Mon\u2013Fri 11 AM\u20137 PM | Sun 10 AM\u20133 PM \n \u00a0 \n Don\u2019t miss this chance to see what the students in the Department of Art and Design have been creating in their classes."
+  },
+  {
+    "title": "Art Forum featuring Nicole Archer",
+    "date": "2025-09-29T09:20:00+00:00",
+    "organization": "Art and Design",
+    "location": "Montclair State University ",
+    "link": "https://montclair.campuslabs.com/engage/event/11704020",
+    "description": "The Department of Art & Design presents the Fall 2025 Art Forum series. Art Forum is a speaker series featuring artists, designers, art historians, curators, and art critics from around the world presenting their work and ideas in an open forum.\u00a0\u00a0 \n \u00a0 \n The next speaker in this series is Dr. Nicole Archer, the new Chair of the Department of Art and Design and Associate Professor of Visual and Critical Studies here at Montclair State University, who will discuss her research on textiles, design, and social justice. \n \u00a0 \n Dr. Nicole Archer is Associate Professor of Visual and Critical Studies at Montclair State University, where she is also affiliated with Gender, Sexuality, and Women\u2019s Studies. A scholar, educator, and arts leader, she currently serves as Vice President of Publications and as an Executive Board Member of the College Art Association. Her research centers on contemporary art and design, with particular focus on textile and garment histories and the intersections of art, design, and social justice. \n \u00a0 \n Join us for a talk with Dr. Archer \n \u00a0 \n This speaker series is free and open to the public. \n \u00a0 \n Art Forum\u00a0 \n Monday, 9/29/25\u00a0 5:20pm-7pm \n Calcia Hall, Room 140"
   },
   {
     "title": "End of Summer Bash - Presented by Bloomfield's Office of Residence Life",
@@ -4840,20 +4840,20 @@
     "description": "Members of the complexionette team will come together to learn and practice the taught dance material."
   },
   {
-    "title": "Complexions Practice",
-    "date": "2025-10-17T00:30:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/11681892",
-    "description": "complexions practice"
-  },
-  {
     "title": "A.LIFE Ministry ",
     "date": "2025-10-17T00:30:00+00:00",
     "organization": "A.LIFE",
     "location": "University Hall 1010 - James B. Todd Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11602648",
     "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
+  },
+  {
+    "title": "Complexions Practice",
+    "date": "2025-10-17T00:30:00+00:00",
+    "organization": "Complexions",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/11681892",
+    "description": "complexions practice"
   },
   {
     "title": "Group X - Yoga",
@@ -8429,7 +8429,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11599873",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Bridget"
+    "description": ""
   },
   {
     "title": "Weekly Food Recovery Initiative",
@@ -9598,14 +9598,6 @@
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661390",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665686",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
