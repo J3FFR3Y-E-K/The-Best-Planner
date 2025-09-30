@@ -1,117 +1,5 @@
 [
   {
-    "title": "Praise Dance Practice",
-    "date": "2025-09-29T23:00:00+00:00",
-    "organization": "Voices of Unity",
-    "location": "Student Center 417 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11581344",
-    "description": "Join the Worship Warriors in fellowship as we honor the Lord through dance!"
-  },
-  {
-    "title": "InterVarsity Women's group",
-    "date": "2025-09-29T23:00:00+00:00",
-    "organization": "InterVarsity Christian Fellowship",
-    "location": "Student Center Underground - The Underground",
-    "link": "https://montclair.campuslabs.com/engage/event/11626275",
-    "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our relationships with each other as sisters in Christ"
-  },
-  {
-    "title": "DIY ID Holders",
-    "date": "2025-09-29T23:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Bohn Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11505945",
-    "description": "Need a safe place to store your ID? Head down to the Bohn Lounge and decorate an ID holder with other residents!  \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Tau Phi Beta: Meet The Brothers ",
-    "date": "2025-09-30T00:45:00+00:00",
-    "organization": "Tau Phi Beta",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11703349",
-    "description": "Come Out to University Hall and Meet the Brothers of Tau Phi Beta fraternity, where you can connect with current brothers and learn more about our values and traditions. It's a great opportunity to ask questions, hear about our experiences, and find out what being part of Tau Phi Beta is all about. Whether you're interested in joining or just curious, come enjoy good vibes and great conversation with us!"
-  },
-  {
-    "title": "Delta Chi Chapter",
-    "date": "2025-09-30T00:30:00+00:00",
-    "organization": "Delta Chi",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11708514",
-    "description": "Delta Chi Chapter"
-  },
-  {
-    "title": "Lego Night",
-    "date": "2025-09-30T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Stone Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11505885",
-    "description": "Get ready to be creative and build whatever your heart desires at our LEGO building event! Collaborate with friends and other Montclair students to create LEGO buildings, shapes, and more!"
-  },
-  {
-    "title": "Informational Interest Meeting - Delta Xi Delta",
-    "date": "2025-09-30T00:30:00+00:00",
-    "organization": "Delta Xi Delta",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11624193",
-    "description": "Curious about Greek Life or Delta Xi Delta and want to know more? Join the sisters of Delta Xi Delta for an informational night where we lay out the basic and most important information on how greek orgs operate under Greek Life and what it means/requires to be a sister while debunking popular myths. Whether you know a lot or absolutely nothing about Greek Life we hope you come out to get any questions answered and maybe meet your potential sisters! \n Can't make it but still have questions? Contact us on instagram @deltaxidelta"
-  },
-  {
-    "title": "Large Group Worship Night- Chi Alpha ",
-    "date": "2025-09-30T00:30:00+00:00",
-    "organization": "Chi Alpha Campus Ministries",
-    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11624773",
-    "description": "Our weekly Chi Alpha Large Group is a time for the whole community to come together for passionate worship, relevant teaching from God\u2019s Word, and authentic fellowship. It\u2019s a space where students can encounter Jesus, be encouraged in their faith, and connect with others who are pursuing God on campus."
-  },
-  {
-    "title": "Miscellaneous Show Audition ",
-    "date": "2025-09-29T22:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/11525963",
-    "description": "Auditions for Players' 2025 miscellaneous show. More show and audition information to come. Open to all undergraduate students."
-  },
-  {
-    "title": "Cds and Music ",
-    "date": "2025-09-30T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Dinallo Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/11505943",
-    "description": "Unleash your creativity at our Painting CDs and Cards Event! Join us for a fun, hands-on session where you can paint your own designs on blank CDs and greeting cards. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "MILF Round 1 Tech",
-    "date": "2025-09-30T00:30:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11624322",
-    "description": "MILF is the Players improv group. The theme is SpongeMILF, based on the show SpongeBob SquarePants."
-  },
-  {
-    "title": "KOMPAHOLIX DANCE TROUPE TRYOUTS",
-    "date": "2025-09-30T00:30:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11708484",
-    "description": "Come join the Haitian Student Association's Dance troupe tryouts!"
-  },
-  {
-    "title": "MSDC practice",
-    "date": "2025-09-30T01:00:00+00:00",
-    "organization": "Montclair State Dance Company",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/11619894",
-    "description": "Rehearsal for Montclair State Dance Company"
-  },
-  {
-    "title": "MSDC practice",
-    "date": "2025-09-30T01:00:00+00:00",
-    "organization": "Montclair State Dance Company",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/11620784",
-    "description": "Rehearsal for Montclair State Dance Company"
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2025-09-30T12:00:00+00:00",
     "organization": "Campus Recreation",
@@ -960,6 +848,14 @@
     "description": "Not sure what\u2019s on the ballot this November? We\u2019ve got you covered! Stop by our  Ballot Guide Pop-Up  to get clear, nonpartisan information about the upcoming election and what you can expect to see when you vote. \n Learn about local races, statewide initiatives, and key issues that directly impact your community. Whether you\u2019re a first-time voter or just need a quick refresher, our team will be on hand to answer your questions and walk you through the ballot in a simple, stress-free way. \n This is your chance to feel confident and prepared before heading to the polls. Grab a guide, ask your questions, and empower yourself to make informed choices on Election Day!"
   },
   {
+    "title": "Pumpkin Spice Bites",
+    "date": "2025-10-02T16:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Dinallo Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/11720582",
+    "description": "Pumpkin Spice season is here! For our sweet tooth residents we're serving pumpkin donuts, munchkins, pie, and pumpkin spice coffee. Join the Dinallo community and come grab some pumpkin flavored treats at noon on Thursday October 2nd.  \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2025-10-02T18:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1152,6 +1048,14 @@
     "description": "Rehearsal for Players' Romeo & Juliet"
   },
   {
+    "title": "Tees & Pjs",
+    "date": "2025-10-03T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Machuga Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/11720575",
+    "description": "Come customize your own T-shirts in your PJ\u2019s!  Join us on October 2nd from 8PM to 10PM in Machuga MPR! All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Mini Pumpkin Painting ",
     "date": "2025-10-03T00:00:00+00:00",
     "organization": "Residence Life",
@@ -1336,6 +1240,14 @@
     "description": "Spend the evening listening to Taylor Swift\u2019s newest album, enjoying mocktails, and making friendship bracelets. A relaxed way to connect, unwind, and celebrate the release together! \n How do I sign up? Early registration is not required FREE for students with a valid Montclair State ID All students are welcome! \n Where and when? Day, Date: Friday, October 3rd Time Frame: 5pm \u2013 7pm Location: 1908, Student Center"
   },
   {
+    "title": "Destress with Fall Coloring",
+    "date": "2025-10-03T23:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Sinatra Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720581",
+    "description": "Take some time to destress with fall-themed coloring in Sinatra! Coloring pages will be provided, or draw up something of your own! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Lego Bingo",
     "date": "2025-10-03T23:00:00+00:00",
     "organization": "Campus Activities",
@@ -1480,6 +1392,14 @@
     "description": "MILF is the Players improv group. The theme is SpongeMILF, based on the show SpongeBob SquarePants."
   },
   {
+    "title": "Toasty Tea Making",
+    "date": "2025-10-05T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Russ Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720572",
+    "description": "Learn about the power of tea and drink the benefits in Freeman Hall from 8PM to 10PM. A variety of teas will be provided! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Grab and Go: School Supplies",
     "date": "2025-10-05T00:00:00+00:00",
     "organization": "Residence Life",
@@ -1544,6 +1464,14 @@
     "description": "complexions practice"
   },
   {
+    "title": "Just Dance Battle",
+    "date": "2025-10-06T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720573",
+    "description": "Prepare to bring the heat to the dance floor at the ultimate Just Dance Battle. Whether you\u2019ve got crazy moves, chaotic energy, or the courage to go all out in front of your fellow students, this is your time to shine. Compete solo or grab your friends and group to show off your style and unstoppable moves. No dance experience? No problem \u2014 it's all about the energy and the memories. Winner will receive a prize from ResLife. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Theta Phi Alpha- Chapter Meeting",
     "date": "2025-10-05T21:00:00+00:00",
     "organization": "Theta Phi Alpha",
@@ -1592,7 +1520,7 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20 \n Mondays, 9-10 a.m. \n Student Recreation Center - Pool"
   },
   {
-    "title": "Falling for STEM~CSAM Student Appreciation Drop-In!",
+    "title": "\ud83c\udf41 Falling for STEM ~ CSAM Student Appreciation Drop-In!",
     "date": "2025-10-06T13:00:00+00:00",
     "organization": "Red Hawk Central",
     "location": "Montclair State University Campus-CELS Atrium ",
@@ -2128,6 +2056,14 @@
     "description": "Try your luck to win a raffle for red hawk swag! The Office of Graduate Admissions will be giving away free candy along with raffle tickets to win prizes in honor of student appreciation week."
   },
   {
+    "title": "\ud83c\udf41 Falling for STEM - CSAM Student Appreciation Drop-In!",
+    "date": "2025-10-07T14:30:00+00:00",
+    "organization": "Red Hawk Central",
+    "location": "Richardson Hall Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/11720522",
+    "description": "Stop by, grab a treat, and know how much you\u2019re valued!"
+  },
+  {
     "title": "First Gen Drop-In Group ",
     "date": "2025-10-07T15:30:00+00:00",
     "organization": "CAPS (Counseling and Psychological Services)",
@@ -2182,6 +2118,22 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11599784",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 1pm - 1:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "Red Hawk Central Appreciation Table",
+    "date": "2025-10-07T15:00:00+00:00",
+    "organization": "Red Hawk Central",
+    "location": "Cole Hall Atrium",
+    "link": "https://montclair.campuslabs.com/engage/event/11720514",
+    "description": "Staff members from Red Hawk Central will be answering questions and handing out giveaways."
+  },
+  {
+    "title": "Red Hawk Central Appreciation Table",
+    "date": "2025-10-07T15:00:00+00:00",
+    "organization": "Red Hawk Central",
+    "location": "Bloomfield -  College Hall Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/11720511",
+    "description": "Staff members from Red Hawk Central will be answering questions and handing out giveaways."
   },
   {
     "title": "Become a Certified Swiftie!",
@@ -2406,6 +2358,22 @@
     "location": "Blanton Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11662483",
     "description": "Stop by the Blanton Hall Lounge on October 7th between 8:00 PM \u2013 10:00 PM to build your own ice cream sundae with a variety of fun toppings. Grab a bowl, hang out in the lounge, and enjoy a sweet treat with friends. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Playing Card House Making",
+    "date": "2025-10-08T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Freeman Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720569",
+    "description": "Be an architect for the night and create your own playing card house at Freeman Hall from 8PM to 10PM. Let the mind wander and create!  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Fall Garland Making",
+    "date": "2025-10-08T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Count Basie in The Village Apartments",
+    "link": "https://montclair.campuslabs.com/engage/event/11720579",
+    "description": "Want to decorate your space for fall? Join us in Sinatra to create your very own fall-themed garland, perfect for making any room feel a little extra cozy!  \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Open Play Pickleball",
@@ -2840,6 +2808,14 @@
     "description": "Mix & Mingle: A Graduate Student Social \n Take a break and connect with your grad community at Mix & Mingle: A Graduate Student Social! \ud83c\udf93 \n Stop by anytime during the event to meet The Graduate School team, chat with fellow graduate students, and enjoy a relaxed, welcoming atmosphere. We\u2019ll have fun outdoor games, snacks and refreshments, and plenty of free swag waiting for you inside. \n Whether you\u2019re looking to make new friends, chat with staff about resources and support, or just unwind with some lighthearted activities, this is the perfect chance to get involved and feel part of the grad student community. Stay for a few minutes or the whole time, everyone is welcome!"
   },
   {
+    "title": "Information Session- Wednesday, October 8, 2025",
+    "date": "2025-10-08T19:30:00+00:00",
+    "organization": "Residence Life",
+    "location": "Russ Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/11720542",
+    "description": "The Office of Residence Life is hiring Community Assistants (CA) for the 2026-2027 Academic Year!\u00a0 \n Applicants are required to attend one of our information sessions.\u00a0 \n The CA is responsible for the day-to-day interaction and development of the students who reside in the residence halls. CAs live in the halls and supervise a floor or area within the community. CAs take on many roles, such as community builders, role models, peer educators, crisis managers, team players, and administrators. They are student leaders who help our residential students feel acclimated and comfortable on campus. General responsibilities include: maintaining a safe and secure environment for resident students, overnight and weekennd on-call responsibilities, community development, and associated administrative duties.\u00a0 \n \u00a0 \n To be eligible to apply, you must have a 2.75 or higher semester and cumulative GPA, be in good conduct standing, have at least 50 credits, and be available for all of the student staff training and before and after the semester move-in responsibilities. \n For more information, visit  our website. \n If you have any questions, please email ORLjobs@montclair.edu."
+  },
+  {
     "title": "Group X - HIIT",
     "date": "2025-10-08T20:00:00+00:00",
     "organization": "Campus Recreation",
@@ -2958,6 +2934,30 @@
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11611263",
     "description": "Fall 2025 Brass Night 1 Cali School brass students present  a lively and  varied program  of solo works. \n Contact Brass Coordinator  Micah Killion  with  any questions at killionm@montclair.edu \n Brass Night 2  is  Tuesday, November 4  at 8pm, Room G55, Chapin Hall"
+  },
+  {
+    "title": "Pumpkin Pals",
+    "date": "2025-10-09T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Russ Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720570",
+    "description": "Give life to and customize your very own \u201cPumpkin Pal\u201d at Russ Hall from 8PM to 10 PM! All supplies will be provided.  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Fruit Nachos",
+    "date": "2025-10-09T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720568",
+    "description": "Come enjoy your favorite fruits and customize your toppings! Join us on October 8th from 8PM to 10PM in Bohn's Lounge! All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "DIY Grippy Socks",
+    "date": "2025-10-09T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Stone Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720567",
+    "description": "Do you need socks for Pilates? Or maybe you just want some cute custom grippy socks? Join us on October 8th from 8PM to 10PM in Stone Hall All students are welcome; Commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Tri Sigma New Member Education",
@@ -3088,20 +3088,20 @@
     "description": "Food, games, information and activities! \n We'll have BBQ style food for the students, informative tables set up, giveaways, activities and a fire safety demonstration"
   },
   {
-    "title": "Free Swag and Free Tickets to PEAK shows!",
-    "date": "2025-10-09T16:00:00+00:00",
-    "organization": "Red Hawk Central",
-    "location": "Student Center Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/11716322",
-    "description": "Join us at the Student Center to pick up your free tickets to PEAK shows (tickets to all PEAK performances are always free for students!). While there, get some snacks, games, and take Halloween pics at our photo booth!"
-  },
-  {
     "title": "Have a snack with Winter and Summer Sessions!",
     "date": "2025-10-09T16:00:00+00:00",
     "organization": "Red Hawk Central",
     "location": "Bloomfield -  College Hall Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/11716465",
     "description": "Join us for some refreshments and snacks to show our appreciation!"
+  },
+  {
+    "title": "Free Swag and Free Tickets to PEAK shows!",
+    "date": "2025-10-09T16:00:00+00:00",
+    "organization": "Red Hawk Central",
+    "location": "Student Center Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/11716322",
+    "description": "Join us at the Student Center to pick up your free tickets to PEAK shows (tickets to all PEAK performances are always free for students!). While there, get some snacks, games, and take Halloween pics at our photo booth!"
   },
   {
     "title": "Group X - Yoga",
@@ -3520,6 +3520,22 @@
     "description": "Click!Snap!Capture the moment and make it your own. Join us at our Polaroid Frame Decorating night! Snap some photos and get creative when personalizing your frame. Join us and end the night with a fun, customized keepsake! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "Turkey Craft ",
+    "date": "2025-10-11T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Russ Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720544",
+    "description": "Celebrate the season at Turkey Craft! A fun and festive activity where you can create your own turkey-themed decoration to kick off Thanksgiving spirit! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Karaoke Night ",
+    "date": "2025-10-11T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Williams Hall at The Village Apartments",
+    "link": "https://montclair.campuslabs.com/engage/event/11720566",
+    "description": "Sing your heart out at Karaoke Night!  Join us on October 10th at 8pm in the Williams Lounge at the Village for a night a music, laughter and unforgettable moments! Whether you want to support your friends, give a performance of a lifetime or the vibes --- there's something for everyone!  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Theta Phi Alpha- Informal Recruitment",
     "date": "2025-10-11T00:30:00+00:00",
     "organization": "Theta Phi Alpha",
@@ -3608,6 +3624,22 @@
     "description": "Disney Concerts and AMP Worldwide present Disney\u2019s Moana Live-To-Film Concert North American tour, featuring a full-length screening of the beloved movie accompanied by live performances of a unique on-stage musical ensemble of top Hollywood studio musicians, Polynesian rhythm masters and vocalists, celebrating the music and songs from this award-winning Walt Disney Animation Studios\u2019 classic. \n \u00a0 \n The film will begin at 7:30, but arrive early to visit food trucks, vendors, and to enjoy some outdoor games before the film!\u00a0 To attend, be sure to pick up your free student ticket from the Alexander Kasser Theatre box office or our mobile box office in the student center lobby, Tuesday - Thursday, 11:30 AM to 2:00 PM \u00a0from September 30th to October 9th. See you there!"
   },
   {
+    "title": "Paint & Sip",
+    "date": "2025-10-12T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720580",
+    "description": "Join us in the Blanton Atrium from 8-10 PM for a relaxing night of painting and drinks at our Paint & Sip!  \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Survive the Night: FNAF Challenge",
+    "date": "2025-10-12T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Sinatra Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720578",
+    "description": "Watch the live gameplay on the big screen, cheer on your friends, or take your turn as the night guard. Can you keep your cool when Freddy\u2019s watching? \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Harvest Festival",
     "date": "2025-10-12T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -3670,6 +3702,14 @@
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11680330",
     "description": "Phi Delta Theta Weekly Chapter"
+  },
+  {
+    "title": "Jack - O - lantern Floats",
+    "date": "2025-10-13T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Stone Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720565",
+    "description": "Come enjoy Jack - O - lantern Floats! Join us on October 12th from 8PM to 10PM in Stone Hall. All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Donuts and Conversations",
@@ -3904,6 +3944,14 @@
     "description": "Get into the spooky spirit while giving back! Join ALPFA as we come together to assemble Halloween goodie bags for the Office of Community Engagement & Partnership's first-ever Trunk or Treat on October 24th. Help us in spreading joy, supporting our community, and ensuring an enjoyable Halloween! All supplies will be provided."
   },
   {
+    "title": "Information Session- Monday, October 13, 2025",
+    "date": "2025-10-13T18:30:00+00:00",
+    "organization": "Residence Life",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720541",
+    "description": "The Office of Residence Life is hiring Community Assistants (CA) for the 2026-2027 Academic Year!\u00a0 \n Applicants are required to attend one of our information sessions.\u00a0 \n The CA is responsible for the day-to-day interaction and development of the students who reside in the residence halls. CAs live in the halls and supervise a floor or area within the community. CAs take on many roles, such as community builders, role models, peer educators, crisis managers, team players, and administrators. They are student leaders who help our residential students feel acclimated and comfortable on campus. General responsibilities include: maintaining a safe and secure environment for resident students, overnight and weekennd on-call responsibilities, community development, and associated administrative duties.\u00a0 \n \u00a0 \n To be eligible to apply, you must have a 2.75 or higher semester and cumulative GPA, be in good conduct standing, have at least 50 credits, and be available for all of the student staff training and before and after the semester move-in responsibilities. \n For more information, visit  our website. \n If you have any questions, please email ORLjobs@montclair.edu."
+  },
+  {
     "title": "Panhellenic Meeting ",
     "date": "2025-10-13T19:00:00+00:00",
     "organization": "National Panhellenic Conference",
@@ -4054,6 +4102,14 @@
     "location": "Panzer Feild",
     "link": "https://montclair.campuslabs.com/engage/event/11690090",
     "description": "Hosted by the Student Athlete Advisory Committee \n Join us for a night of team spirit, camaraderie, and cross-sport fun! SAAC\u2019s Sports Swap Night is your chance to step into the shoes (or cleats) of fellow athletes and try something new. Whether you're a lacrosse player curious about volleyball, or a runner ready to swing a bat, this event is all about celebrating the diversity of our athletic community. \n \ud83d\uddd3\ufe0f  Date: \u00a0October 13th \ud83d\udccd  Location: \u00a0Panzer Field \u23f0  Time: \u00a0Starts @7:30pm \n What to Expect: \n \n Fun, low-pressure mini games across different sports \n Mixed teams to encourage new connections \n \n No experience needed\u2014just bring your energy and an open mind. Let\u2019s swap jerseys, share laughs, and build stronger bonds across all teams."
+  },
+  {
+    "title": "Paint Your Stress",
+    "date": "2025-10-14T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Russ Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720564",
+    "description": "Painting is linked to relieving stress and helping overall mental health. Experience this firsthand in Russ Hall by painting out your stress and allowing yourself to express your feelings through art. Bring a friend to share this therapeutic experience with!  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Study with the Lambdas",
@@ -4352,12 +4408,28 @@
     "description": "A celebration of Hispanic Music, Dance, and Visual Art."
   },
   {
+    "title": "Make Spooky Dorm Decorations",
+    "date": "2025-10-15T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720577",
+    "description": "Come craft decorations to spruce up your dorm room in Blanton's lounge from 8 PM to 10 PM on October 14th. Your room needs a costume too! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Dirty Soda Bar",
     "date": "2025-10-15T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Machuga Heights",
     "link": "https://montclair.campuslabs.com/engage/event/11662489",
     "description": "Craving a late night treat on campus? Come down to the Machuga Kitchen and Lounge to have our community programmers whip you up a dirty soda! \n  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Origami Creations ",
+    "date": "2025-10-15T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Freeman Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720549",
+    "description": "Need a way to relax after countless hours of studying? Come join us at Freeman Hall on 8:00 PM, October 14th, for a relaxing night of origami! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Week of Wisdom ",
@@ -4496,20 +4568,20 @@
     "description": "Join us for an inspiring conversation with two trailblazing women entrepreneurs! Hear their stories, the personal struggles they've faced, and the challenges of being a woman in their field. Get real insights, honest advice, and motivations to chase your own dreams."
   },
   {
-    "title": "Bible Talk",
-    "date": "2025-10-15T18:00:00+00:00",
-    "organization": "Alpha Omega",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11662176",
-    "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
-  },
-  {
     "title": "Professional Styling Guide with Feliciano Women in Business",
     "date": "2025-10-15T18:00:00+00:00",
     "organization": "Feliciano Women in Business",
     "location": "School Of Business 124 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11665650",
     "description": "Come join the Feliciano Women in Business for a special styling session! Have you ever been stuck on the differences between business casual and professional attire? We will answer your questions and help you make a work appropriate outfit look-book."
+  },
+  {
+    "title": "Bible Talk",
+    "date": "2025-10-15T18:00:00+00:00",
+    "organization": "Alpha Omega",
+    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11662176",
+    "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
   },
   {
     "title": "CALI SCHOOL OF MUSIC MIDWEEK: Immersive Residency - \"Meet Samora Pinderhughes\"",
@@ -4606,6 +4678,14 @@
     "location": "Student Center 2C04 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/11662096",
     "description": "Showcase what our organization is about, invite people to join us, and have friendly conversations about Faith!"
+  },
+  {
+    "title": "Information Session - Wednesday, October 15, 2025",
+    "date": "2025-10-15T19:30:00+00:00",
+    "organization": "Residence Life",
+    "location": "Machuga MPR",
+    "link": "https://montclair.campuslabs.com/engage/event/11720540",
+    "description": "The Office of Residence Life is hiring Community Assistants (CA) for the 2026-2027 Academic Year!\u00a0 \n \u00a0 \n The CA is responsible for the day-to-day interaction and development of the students who reside in the residence halls. CAs live in the halls and supervise a floor or area within the community. CAs take on many roles, such as community builders, role models, peer educators, crisis managers, team players, and administrators. They are student leaders who help our residential students feel acclimated and comfortable on campus. General responsibilities include: maintaining a safe and secure environment for resident students, overnight and weekennd on-call responsibilities, community development, and associated administrative duties.\u00a0 \n \u00a0 \n To be eligible to apply, you must have a 2.75 or higher semester and cumulative GPA, be in good conduct standing, have at least 50 credits, and be available for all of the student staff training and before and after the semester move-in responsibilities. \n For more information, visit  our website. \n If you have any questions, please email ORLjobs@montclair.edu."
   },
   {
     "title": "Group X - HIIT",
@@ -4742,6 +4822,14 @@
     "location": "Russ Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11662491",
     "description": "Are you good at puzzles? Think you could survive a Zombie Apocalypse? Put that up to the test alone or with friends on October 15th in Kopp's Lounge and join us in our zombie themed escape room! 20-minute-long sessions begin at 8:00PM and continue until 10:00PM.  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Make & Take a Holographic Leaf",
+    "date": "2025-10-16T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Stone Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720563",
+    "description": "Join us at Stone Hall to create shiny, eye-catching holographic leaves! Draw your own design on the leaves to decorate your dorm with! Meet us at the Stone hall lounge, on October 15th at 8:00 PM. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Week of Wisdom",
@@ -4984,12 +5072,28 @@
     "description": "Step into the fabulous underworld of Daughta\u2019s Halloween Kiki Ball, a night for all the queerdos, ghouls, and rebels. Expect over-the-top looks and a runway crawling with creatures of the night. Come get weird, get fabulous, and let your inner freak flag fly!"
   },
   {
+    "title": "Throwback Thursday",
+    "date": "2025-10-17T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Dinallo Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/11720561",
+    "description": "Join us on October 16th from 8-10:30 pm in the Dinallo MPR for a blast from the past with snacks, drinks, music and more from your childhood! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Herbology and Scary Skincare Night",
     "date": "2025-10-17T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Fenwick Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11662493",
     "description": "As Midterms and Halloween are right around the corner, most students get stressed out around this time whether nervous about test taking or having their first real college Midterm. Though it is a stressful time, on October 16th in the Village Fenwick hall Reslife is holding a Herbology and Scary Skincare Night.\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Frosted Frights ",
+    "date": "2025-10-17T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Hawk Crossing",
+    "link": "https://montclair.campuslabs.com/engage/event/11720576",
+    "description": "Get ready for a spooky sweet treat! Join us for a Halloween cupcake grab-and-go where you can munch on delicious cupcakes decorated just for the season! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Cru Large Group! ",
@@ -5206,6 +5310,14 @@
     "location": "Sprague Field",
     "link": "https://montclair.campuslabs.com/engage/event/11465504",
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
+  },
+  {
+    "title": "Clay Day",
+    "date": "2025-10-19T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720560",
+    "description": "Come to Bohn Hall for our Clay Day! Create your own room decor with air dry clay at the Bohn MPR! We will be making our clay creations on October 18th, at 8:00 PM.  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Group X - Kickboxing",
@@ -5904,6 +6016,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 09/02 - 12/17 \n 3:30pm-4:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Angel"
   },
   {
+    "title": "Make Your Mark",
+    "date": "2025-10-25T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Machuga Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/11720558",
+    "description": "Join us on October 24th from 8-10pm in the Machuga MPR as we chill and make our own bookmarks. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Romeo & Juliet Rehearsal",
     "date": "2025-10-25T15:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -5934,6 +6054,14 @@
     "location": "Soccer Park",
     "link": "https://montclair.campuslabs.com/engage/event/11337991",
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
+  },
+  {
+    "title": "Paint a Pumpkin",
+    "date": "2025-10-26T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Dinallo Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/11720557",
+    "description": "It's pumpkin season! Come to Dinallo Heights to paint your own mini pumpkin! We will be painting our pumpkins on October 25th, 8:00 PM, located at the Dinallo MPR.  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Romeo & Juliet Rehearsal",
@@ -5982,6 +6110,14 @@
     "location": "Russ Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11662498",
     "description": "Join us in the Russ Hall Lounge on October 26th from 8:00 PM \u2013 10:00 PM for a night of mystery, strategy, and fun as we play the classic social deduction game Werewolf. Work together, uncover secrets, and see if you can \"survive\" the night! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "DIY Jar Lanterns ",
+    "date": "2025-10-27T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720556",
+    "description": "Come to our creative and relaxing DIY Jar Lantern activity for college students! From mason jars to LEDF tea lights, paints, and accessories, students can create their own personalized lanterns to bring home or use as a dorm room decorative piece. It's a great opportunity to unwind, get artistic, and socialize with fellow students in a casual setting. Whether you're a frequent DIYer or you just want to try something new, this event is the perfect way to lighten your week\u2014literally and emotionally! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Theta Phi Alpha- Chapter Meeting",
@@ -6150,6 +6286,14 @@
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/11662231",
     "description": "Come sit back, relax, and watch Michael Dougherty's Trick or Treat! Halloween is on Friday, so let's start the festivities early!"
+  },
+  {
+    "title": "Information Session- Monday, October 27, 2025",
+    "date": "2025-10-27T18:30:00+00:00",
+    "organization": "Residence Life",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/11720539",
+    "description": "The Office of Residence Life is hiring Community Assistants (CA) for the 2026-2027 Academic Year!\u00a0 \n \u00a0 \n The CA is responsible for the day-to-day interaction and development of the students who reside in the residence halls. CAs live in the halls and supervise a floor or area within the community. CAs take on many roles, such as community builders, role models, peer educators, crisis managers, team players, and administrators. They are student leaders who help our residential students feel acclimated and comfortable on campus. General responsibilities include: maintaining a safe and secure environment for resident students, overnight and weekennd on-call responsibilities, community development, and associated administrative duties.\u00a0 \n \u00a0 \n To be eligible to apply, you must have a 2.75 or higher semester and cumulative GPA, be in good conduct standing, have at least 50 credits, and be available for all of the student staff training and before and after the semester move-in responsibilities. \n For more information, visit  our website. \n If you have any questions, please email ORLjobs@montclair.edu."
   },
   {
     "title": "Panhellenic Meeting ",
@@ -6502,6 +6646,38 @@
     "location": "Student Recreation Center Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11572576",
     "description": "Trick your swing! Join us for a spooky twist on mini golf with haunted holes, eerie obstacles, and creepy course decorations. Come in costume (optional but encouraged!) and play through a frightfully fun setup under the glow of Halloween lights. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesday, October 28 \n 8pm-10pm, must be checked in by 9:30pm to participate \n Student Recreation Center Lounge"
+  },
+  {
+    "title": "Fall Leaf Decorating",
+    "date": "2025-10-29T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Fenwick Hall at the Village Apartments ",
+    "link": "https://montclair.campuslabs.com/engage/event/11720555",
+    "description": "Welcome the autumn with our Fall Leaf Decorating event! Join us for a cozy and creative evening when all students can craft and customize fall leaves with paint, markers, and other craft supplies. Whether you're adding some fall cheer to your home decor or creating a special seasonal present, this do-it-yourself project is the perfect activity to celebrate the colors and spirit of the season.\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "DIY Stuff Plushies",
+    "date": "2025-10-29T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720554",
+    "description": "Unleash your inner child and get crafty with our DIY Stuffed Plush Workshop \u2014 the ultimate cozy, creative escape from college stress! Choose from a variety of cute designs, colors, and accessories to bring your unique creation to life \u2014 no experience needed, just your imagination! We\u2019ll provide all the materials and, comfy crafting space. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Totes and Treats",
+    "date": "2025-10-29T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Freeman Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720553",
+    "description": "Join us on October 28th from 8 PM \u2013 10 PM in the Freeman Lounge as we paint totes, listen to spooky music and dig into some treats. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Midterm De-Stress",
+    "date": "2025-10-29T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Stone Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720552",
+    "description": "Take a Break at Midterm De-Stress!  Join us on October 28 from 8- 10 pm in Stone for a cozy night in to help you recharge during midterms. Relax with coloring, lofi music, and other stress-relieving activities that will give you the reset you need. Whether you\u2019re stopping by for a quick breather or hanging out for a while, this event is all about you de-stressing.  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "MILF Round 2 Rehearsal",
@@ -7072,6 +7248,22 @@
     "description": "We\u2019re flipping Halloween on its head \u2014 this time,  we bring the treats to you! \n When and Where:\u00a0 \n \n \n \n Friday, October 31st \n 11:30am-2pm \n Around Campus"
   },
   {
+    "title": "Treat Yourself Lounge - Stone",
+    "date": "2025-10-31T16:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Stone Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720551",
+    "description": "No Tricks, Just Treats! Join us on October 31st from 12- 2 pm in Sinatra and Stone Hall for a cozy afternoon with fall snacks and treats! Enjoy donuts, candy and more! Come hang out with us for a few minutes or the whole time and treat yourself! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration rules!"
+  },
+  {
+    "title": "Treat Yourself Lounge - Sinatra",
+    "date": "2025-10-31T16:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Sinatra Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720550",
+    "description": "No Tricks, Just Treats! Join us on October 31st from 12- 2 pm in Sinatra and Stone Hall for a cozy afternoon with fall snacks and treats! Enjoy donuts, candy and more! Come hang out with us for a few minutes or the whole time and treat yourself! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration rules!"
+  },
+  {
     "title": "Group X - Cycling",
     "date": "2025-10-31T17:30:00+00:00",
     "organization": "Campus Recreation",
@@ -7134,6 +7326,14 @@
     "location": "Student Recreation Center - MP1 & MP2",
     "link": "https://montclair.campuslabs.com/engage/event/11621075",
     "description": "Are you ready to commit to your goals, try something new, and earn rewards while you sweat? All October long, we\u2019re turning up the energy with Sweatober\u2014a month-long group fitness challenge designed to keep you moving, motivated, and having fun.\u00a0  Plus, this is a judgment-free zone: no matter your fitness level, our instructors and community are here to cheer you on. It\u2019s not about being perfect, it\u2019s about showing up for yourself! \n Here\u2019s how it works:   \n Attend group fitness classes throughout the month and earn class points toward a t-shirt.\u00a0 \u00a0Stay consistent and have a blast working out with us.  Attend 10 classes of your choosing  (like Zumba, Kickboxing, Yoga, HIIT, Pilates, Cycling, BJJ, and more!) over the course of the month and you\u2019ll be snagging a FREE exclusive t-shirt as prize!\u00a0 We'll contact you when you hit the goal so there's nothing you need to do; simply show up with your ID. \n \u00a0 \n Let October be the month you commit to YOU. One class at a time. \n When: \u00a0October 1-31 (month-long) - Reminder, there will be no classes Saturday, 10/18- Saturday, 10/25 for Fall Break- \n Where:  Student Recreation Center, MP1 and MP2 (Locations depend on the fall group x schedule) \n Who:\u00a0 Montclair Students\u00a0Drop-in is welcomed!"
+  },
+  {
+    "title": "Caramel Apple Making",
+    "date": "2025-11-01T16:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Hawk Crossing",
+    "link": "https://montclair.campuslabs.com/engage/event/11720548",
+    "description": "Get ready for a sweet fall treat at Caramel Apple Making Night! Stop by to dip your own apple in warm caramel and add fun toppings like sprinkles, chocolate drizzle, or crushed cookies. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "CALI SCHOOL OF MUSIC: University Symphony Orchestra With Cali Immersive Residency Guest Stefan Jackiw, violin",
@@ -7214,6 +7414,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11597487",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Sunday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n CJ"
+  },
+  {
+    "title": "DIY Tote Bag Decorating ",
+    "date": "2025-11-03T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Fenwick Hall at the Village Apartments ",
+    "link": "https://montclair.campuslabs.com/engage/event/11720547",
+    "description": "Get creative at DIY Tote Bag Decorating! Design your own reusable bag with paint and markers to show off your style while staying eco-friendly! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Complexions Practice",
@@ -7350,6 +7558,14 @@
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/11662232",
     "description": "Join us and the Music club in our event! Make your very own CD! You'll be able to create the cover and the soundtrack. Put any theme or genre you'd like."
+  },
+  {
+    "title": "Information Session-  Monday, November 3, 2025",
+    "date": "2025-11-03T19:30:00+00:00",
+    "organization": "Residence Life",
+    "location": "Sinatra Hall Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/11720538",
+    "description": "The Office of Residence Life is hiring Community Assistants (CA) for the 2026-2027 Academic Year!\u00a0 \n \u00a0 \n The CA is responsible for the day-to-day interaction and development of the students who reside in the residence halls. CAs live in the halls and supervise a floor or area within the community. CAs take on many roles, such as community builders, role models, peer educators, crisis managers, team players, and administrators. They are student leaders who help our residential students feel acclimated and comfortable on campus. General responsibilities include: maintaining a safe and secure environment for resident students, overnight and weekennd on-call responsibilities, community development, and associated administrative duties.\u00a0 \n \u00a0 \n To be eligible to apply, you must have a 2.75 or higher semester and cumulative GPA, be in good conduct standing, have at least 50 credits, and be available for all of the student staff training and before and after the semester move-in responsibilities. \n For more information, visit  our website. \n If you have any questions, please email ORLjobs@montclair.edu."
   },
   {
     "title": "Panhellenic Meeting ",
@@ -8880,20 +9096,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-12T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665709",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-11-12T19:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661389",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665709",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
@@ -8942,6 +9158,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11322502",
     "description": "Learn more about Curricular Practical Training (CPT) for F-1 students. Any student planning to apply for CPT is REQUIRED to attend a workshop before they can apply. This workshop is for CURRENT students ONLY - any other attendees will be removed."
+  },
+  {
+    "title": "Information Session- Wednesday, November 12, 2025",
+    "date": "2025-11-12T20:30:00+00:00",
+    "organization": "Residence Life",
+    "location": "Machuga Heights  MPR- ",
+    "link": "https://montclair.campuslabs.com/engage/event/11720537",
+    "description": "The Office of Residence Life is hiring Community Assistants (CA) for the 2026-2027 Academic Year!\u00a0 \n \u00a0 \n The CA is responsible for the day-to-day interaction and development of the students who reside in the residence halls. CAs live in the halls and supervise a floor or area within the community. CAs take on many roles, such as community builders, role models, peer educators, crisis managers, team players, and administrators. They are student leaders who help our residential students feel acclimated and comfortable on campus. General responsibilities include: maintaining a safe and secure environment for resident students, overnight and weekennd on-call responsibilities, community development, and associated administrative duties.\u00a0 \n \u00a0 \n To be eligible to apply, you must have a 2.75 or higher semester and cumulative GPA, be in good conduct standing, have at least 50 credits, and be available for all of the student staff training and before and after the semester move-in responsibilities. \n For more information, visit  our website. \n If you have any questions, please email ORLjobs@montclair.edu."
   },
   {
     "title": "Group X - HIIT",
@@ -9512,6 +9736,14 @@
     "description": "Step into one of the most pivotal moments of the Cold War with the History Club! Through a mix of roleplaying, interactive activities, and a short history lesson, you\u2019ll get the chance to experience how key figures shaped global events and influenced the world we live in today. \n No background knowledge is required! This is a fun and engaging way to dive into history, think critically about big decisions, and explore the human side of world-changing moments. \n All students are welcome to join, and free pizza will be available to everyone who stops by!"
   },
   {
+    "title": "Information Session- Monday, November 17, 2025",
+    "date": "2025-11-17T19:30:00+00:00",
+    "organization": "Residence Life",
+    "location": "Freeman",
+    "link": "https://montclair.campuslabs.com/engage/event/11720536",
+    "description": "The Office of Residence Life is hiring Community Assistants (CA) for the 2026-2027 Academic Year!\u00a0 \n \u00a0 \n The CA is responsible for the day-to-day interaction and development of the students who reside in the residence halls. CAs live in the halls and supervise a floor or area within the community. CAs take on many roles, such as community builders, role models, peer educators, crisis managers, team players, and administrators. They are student leaders who help our residential students feel acclimated and comfortable on campus. General responsibilities include: maintaining a safe and secure environment for resident students, overnight and weekennd on-call responsibilities, community development, and associated administrative duties.\u00a0 \n \u00a0 \n To be eligible to apply, you must have a 2.75 or higher semester and cumulative GPA, be in good conduct standing, have at least 50 credits, and be available for all of the student staff training and before and after the semester move-in responsibilities. \n For more information, visit  our website. \n If you have any questions, please email ORLjobs@montclair.edu."
+  },
+  {
     "title": "Tabling",
     "date": "2025-11-17T20:00:00+00:00",
     "organization": "First Love ",
@@ -9800,6 +10032,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Rosalyn"
   },
   {
+    "title": "Breakfast in Blanton",
+    "date": "2025-11-19T15:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720546",
+    "description": "Start your day right with Breakfast in Blanton. A cozy morning event with free food, good vibes, and a chance to connect with your fellow residents! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Free Swim Lessons - Intermediate",
     "date": "2025-11-19T16:00:00+00:00",
     "organization": "Campus Recreation",
@@ -9864,20 +10104,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11661390",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11665686",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2008 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11661390",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "Music Club GBM",
@@ -9902,6 +10142,14 @@
     "location": "Student Center 2C02 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/11665515",
     "description": "Showcase what our organization is about, invite people to join us, and have friendly conversations about Faith!"
+  },
+  {
+    "title": "Information Session- Wednesday, November 19, 2025",
+    "date": "2025-11-19T20:30:00+00:00",
+    "organization": "Residence Life",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/11720535",
+    "description": "The Office of Residence Life is hiring Community Assistants (CA) for the 2026-2027 Academic Year!\u00a0 \n \u00a0 \n The CA is responsible for the day-to-day interaction and development of the students who reside in the residence halls. CAs live in the halls and supervise a floor or area within the community. CAs take on many roles, such as community builders, role models, peer educators, crisis managers, team players, and administrators. They are student leaders who help our residential students feel acclimated and comfortable on campus. General responsibilities include: maintaining a safe and secure environment for resident students, overnight and weekennd on-call responsibilities, community development, and associated administrative duties.\u00a0 \n \u00a0 \n To be eligible to apply, you must have a 2.75 or higher semester and cumulative GPA, be in good conduct standing, have at least 50 credits, and be available for all of the student staff training and before and after the semester move-in responsibilities. \n For more information, visit  our website. \n If you have any questions, please email ORLjobs@montclair.edu."
   },
   {
     "title": "Group X - HIIT",
@@ -10494,6 +10742,14 @@
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/11665627",
     "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our relationships with each other as sisters in Christ"
+  },
+  {
+    "title": "Turkey Craft ",
+    "date": "2025-11-25T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Dinallo Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/11720533",
+    "description": "Celebrate the season at Turkey Craft! A fun and festive activity where you can create your own turkey-themed decoration to kick off Thanksgiving spirit! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Large Group Worship Night- Chi Alpha ",
