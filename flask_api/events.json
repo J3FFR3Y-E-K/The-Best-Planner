@@ -480,20 +480,20 @@
     "description": "General body meeting for the MSMC"
   },
   {
-    "title": "Garfield Show 'n Tell",
-    "date": "2025-10-01T18:00:00+00:00",
-    "organization": "Garfield club",
-    "location": "University Hall 2025 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11627259",
-    "description": "Welcome to our second Garfield Club meeting! We're doing Garfield Show 'n Tell, bring your favorite merchandise, or anything at all as long as you can relate it to Garfield! (Trust me, you can relate anything to Garfield)."
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2025-10-01T18:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1060 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11627039",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "Garfield Show 'n Tell",
+    "date": "2025-10-01T18:00:00+00:00",
+    "organization": "Garfield club",
+    "location": "University Hall 2025 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11627259",
+    "description": "Welcome to our second Garfield Club meeting! We're doing Garfield Show 'n Tell, bring your favorite merchandise, or anything at all as long as you can relate it to Garfield! (Trust me, you can relate anything to Garfield)."
   },
   {
     "title": "WMSC General Meeting",
@@ -1048,20 +1048,20 @@
     "description": "Rehearsal for Players' Romeo & Juliet"
   },
   {
-    "title": "Tees & Pjs",
-    "date": "2025-10-03T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Machuga Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/11720575",
-    "description": "Come customize your own T-shirts in your PJ\u2019s!  Join us on October 2nd from 8PM to 10PM in Machuga MPR! All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Mini Pumpkin Painting ",
     "date": "2025-10-03T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Blanton Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11662475",
     "description": "Get into the fall spirit at Mini Pumpkin Painting Night, a fun and creative event where you can design and decorate your own pumpkin! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Tees & Pjs",
+    "date": "2025-10-03T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Machuga Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/11720575",
+    "description": "Come customize your own T-shirts in your PJ\u2019s!  Join us on October 2nd from 8PM to 10PM in Machuga MPR! All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "More Than Letters: Being Latino in Greek Life",
@@ -3224,20 +3224,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-5:45pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
   },
   {
-    "title": "CALI SCHOOL OF MUSIC: Faculty Cello Recital with Christine Lamprea",
-    "date": "2025-10-09T21:00:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "Leshowitz Recital Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11674573",
-    "description": "Faculty Cello Recital with Christine Lamprea \n Christine Lamprea  celebrates her fifth year at Cali with a recital featuring two great works for cello, the  Cello Concerto in B Minor  by  Antonin Dvorak , and  Tan Dun 's  Sonata for Cello and Piano  from his musical score from the movie  Crouching Tiger Hidden Dragon . Please join Ms. Lamprea and pianist  Hyungjin Choi  for a recital celebrating some of the best works written for cello. \u00a0 \n Bio: \n Hailed a \u201cfirebrand\u201d (IncidentLight.com) and noted for her \u201csupreme panache\u201d (The Boston Musical Intelligencer), cellist and Sphinx Medal of Excellence winner Christine Lamprea made her Carnegie Hall debut as soloist in 2013. She has since performed with orchestras such as the Costa Rica National Symphony, Detroit Symphony, \u00a0Houston Symphony, New Jersey Symphony, and San Antonio Symphony, among others. In demand as a chamber musician, she has performed with such musicians as Shmuel Ashkenasi, Sarah Chang, Itzhak Perlman, Roger Tapping, and Carol Wincenc. Ms. Lamprea is cello professor at the John J. Cali School of Music at Montclair State University, the Longy School of Music of Bard College and Boston University's College of Fine Arts."
-  },
-  {
     "title": "An Evening of Silent Comedy Shorts with Live Music by Ben Model",
     "date": "2025-10-09T21:00:00+00:00",
     "organization": "College of Humanities and Social Sciences (CHSS)",
     "location": "Red Hawk Nest, Student Center (STCT 126)",
     "link": "https://montclair.campuslabs.com/engage/event/11705000",
     "description": "Thursday, October 9, 2025, Time 5:00 PM-6:30 PM, Location Student Center 126 (Red Hawk Nest) \n \u00a0 \n Open to everyone! Ben Model is a resident film accompanist at the Museum of Modern Art (NY) and the Library of Congress. Sponsored by the English Department (Jennifer Fleeger) \n \u00a0 \n All are welcome!"
+  },
+  {
+    "title": "CALI SCHOOL OF MUSIC: Faculty Cello Recital with Christine Lamprea",
+    "date": "2025-10-09T21:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Leshowitz Recital Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11674573",
+    "description": "Faculty Cello Recital with Christine Lamprea \n Christine Lamprea  celebrates her fifth year at Cali with a recital featuring two great works for cello, the  Cello Concerto in B Minor  by  Antonin Dvorak , and  Tan Dun 's  Sonata for Cello and Piano  from his musical score from the movie  Crouching Tiger Hidden Dragon . Please join Ms. Lamprea and pianist  Hyungjin Choi  for a recital celebrating some of the best works written for cello. \u00a0 \n Bio: \n Hailed a \u201cfirebrand\u201d (IncidentLight.com) and noted for her \u201csupreme panache\u201d (The Boston Musical Intelligencer), cellist and Sphinx Medal of Excellence winner Christine Lamprea made her Carnegie Hall debut as soloist in 2013. She has since performed with orchestras such as the Costa Rica National Symphony, Detroit Symphony, \u00a0Houston Symphony, New Jersey Symphony, and San Antonio Symphony, among others. In demand as a chamber musician, she has performed with such musicians as Shmuel Ashkenasi, Sarah Chang, Itzhak Perlman, Roger Tapping, and Carol Wincenc. Ms. Lamprea is cello professor at the John J. Cali School of Music at Montclair State University, the Longy School of Music of Bard College and Boston University's College of Fine Arts."
   },
   {
     "title": "Montclair State University Wing Chun Club Training",
@@ -4416,20 +4416,20 @@
     "description": "Come craft decorations to spruce up your dorm room in Blanton's lounge from 8 PM to 10 PM on October 14th. Your room needs a costume too! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Dirty Soda Bar",
-    "date": "2025-10-15T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Machuga Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/11662489",
-    "description": "Craving a late night treat on campus? Come down to the Machuga Kitchen and Lounge to have our community programmers whip you up a dirty soda! \n  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Origami Creations ",
     "date": "2025-10-15T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Freeman Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11720549",
     "description": "Need a way to relax after countless hours of studying? Come join us at Freeman Hall on 8:00 PM, October 14th, for a relaxing night of origami! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Dirty Soda Bar",
+    "date": "2025-10-15T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Machuga Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/11662489",
+    "description": "Craving a late night treat on campus? Come down to the Machuga Kitchen and Lounge to have our community programmers whip you up a dirty soda! \n  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Week of Wisdom ",
@@ -10104,20 +10104,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665686",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661390",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665686",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
