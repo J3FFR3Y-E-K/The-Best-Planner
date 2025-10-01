@@ -1472,20 +1472,20 @@
     "description": "All meetings are held on\u00a0 Mondays from 2:00 PM \u2013 3:30 PM \n Location: \u00a0Room of Excellence, Talbott Hall (lower level, Student Center) \n Dress Code: \u00a0Business casual is required unless otherwise stated. \n \n \n All are Welcome!"
   },
   {
-    "title": "Spin to Win with the Profs!",
-    "date": "2025-10-06T18:00:00+00:00",
-    "organization": "Red Hawk Central",
-    "location": "Montclair State University- University Hall Lobby (1st Floor)",
-    "link": "https://montclair.campuslabs.com/engage/event/11717190",
-    "description": "See if the Professors can stump you with some Red Hawk Trivia and then Spin to Win fun prizes!"
-  },
-  {
     "title": "Rocky's Birthday Party ",
     "date": "2025-10-06T18:00:00+00:00",
     "organization": "Rocky the Red Hawk",
     "location": "Student Center Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/11656400",
     "description": "Don't miss your chance to wish Rocky a happy birthday at his party! \n (his ACTUAL birthday October 5 FYI) \n What to expect: \n Rocky's friends and family (yes, Ricky too). Mascots from other colleges and organizations as well as two different funny mascot games you can watch! \n Tables hosted by other departments with freebees, snacks and good info all around! \n The chance to win a limited edition t-shirt, mini Rocky lego, Rocky doll and more. \n Come anytime during the two hours!!"
+  },
+  {
+    "title": "Spin to Win with the Profs!",
+    "date": "2025-10-06T18:00:00+00:00",
+    "organization": "Red Hawk Central",
+    "location": "Montclair State University- University Hall Lobby (1st Floor)",
+    "link": "https://montclair.campuslabs.com/engage/event/11717190",
+    "description": "See if the Professors can stump you with some Red Hawk Trivia and then Spin to Win fun prizes!"
   },
   {
     "title": "Add Your Voice to Our Education Mural!",
@@ -3000,6 +3000,14 @@
     "description": "Thursday, October 9, 2025, Time 5:00 PM-6:30 PM, Location Student Center 126 (Red Hawk Nest) \n \u00a0 \n Open to everyone! Ben Model is a resident film accompanist at the Museum of Modern Art (NY) and the Library of Congress. Sponsored by the English Department (Jennifer Fleeger) \n \u00a0 \n All are welcome!"
   },
   {
+    "title": "CALI SCHOOL OF MUSIC: Faculty Cello Recital with Christine Lamprea",
+    "date": "2025-10-09T21:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Leshowitz Recital Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11674573",
+    "description": "Faculty Cello Recital with Christine Lamprea \n Christine Lamprea  celebrates her fifth year at Cali with a recital featuring two great works for cello, the  Cello Concerto in B Minor  by  Antonin Dvorak , and  Tan Dun 's  Sonata for Cello and Piano  from his musical score from the movie  Crouching Tiger Hidden Dragon . Please join Ms. Lamprea and pianist  Hyungjin Choi  for a recital celebrating some of the best works written for cello. \u00a0 \n Bio: \n Hailed a \u201cfirebrand\u201d (IncidentLight.com) and noted for her \u201csupreme panache\u201d (The Boston Musical Intelligencer), cellist and Sphinx Medal of Excellence winner Christine Lamprea made her Carnegie Hall debut as soloist in 2013. She has since performed with orchestras such as the Costa Rica National Symphony, Detroit Symphony, \u00a0Houston Symphony, New Jersey Symphony, and San Antonio Symphony, among others. In demand as a chamber musician, she has performed with such musicians as Shmuel Ashkenasi, Sarah Chang, Itzhak Perlman, Roger Tapping, and Carol Wincenc. Ms. Lamprea is cello professor at the John J. Cali School of Music at Montclair State University, the Longy School of Music of Bard College and Boston University's College of Fine Arts."
+  },
+  {
     "title": "Montclair State University Wing Chun Club Training",
     "date": "2025-10-09T22:00:00+00:00",
     "organization": "Montclair State University Wing Chun Club",
@@ -4344,20 +4352,20 @@
     "description": "Join us for an inspiring conversation with two trailblazing women entrepreneurs! Hear their stories, the personal struggles they've faced, and the challenges of being a woman in their field. Get real insights, honest advice, and motivations to chase your own dreams."
   },
   {
-    "title": "Bible Talk",
-    "date": "2025-10-15T18:00:00+00:00",
-    "organization": "Alpha Omega",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11662176",
-    "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
-  },
-  {
     "title": "Professional Styling Guide with Feliciano Women in Business",
     "date": "2025-10-15T18:00:00+00:00",
     "organization": "Feliciano Women in Business",
     "location": "School Of Business 124 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11665650",
     "description": "Come join the Feliciano Women in Business for a special styling session! Have you ever been stuck on the differences between business casual and professional attire? We will answer your questions and help you make a work appropriate outfit look-book."
+  },
+  {
+    "title": "Bible Talk",
+    "date": "2025-10-15T18:00:00+00:00",
+    "organization": "Alpha Omega",
+    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11662176",
+    "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
   },
   {
     "title": "CALI SCHOOL OF MUSIC MIDWEEK: Immersive Residency - \"Meet Samora Pinderhughes\"",
@@ -6405,7 +6413,7 @@
     "organization": "Bloomfield Swing Phi Swing Social Fellowship, Inc.",
     "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
     "link": "https://montclair.campuslabs.com/engage/event/11467061",
-    "description": ""
+    "description": "Halloween is almost here! Come decorate pumpkins with paint, stickers, and all the creative flare you've got. Bring your friends, bring your ideas, and leave with a pumpkin Masterpiece (and memories). Fun, Laughs, and Creativity Guaranteed!"
   },
   {
     "title": "Newman Night",
@@ -8936,20 +8944,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-12T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665709",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-11-12T19:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661389",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665709",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
@@ -9960,20 +9968,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11661390",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11665686",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2008 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11661390",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "Music Club GBM",
