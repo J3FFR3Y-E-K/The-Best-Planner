@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Pilates",
-    "date": "2025-10-01T13:45:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11615239",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 9:45am - 10:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
-  },
-  {
     "title": "Group X - Cycling",
     "date": "2025-10-01T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -46,6 +38,14 @@
     "location": "Cole Hall 340",
     "link": "https://montclair.campuslabs.com/engage/event/11417244",
     "description": "Not sure what major to choose or where your career path is headed? You\u2019re not alone! Join us for Major & Career Exploration Talks: What We Wish We Knew Before Declaring!, a dynamic panel event where upperclassmen students share their real, unfiltered experiences about choosing their majors and navigating their career journeys. Hear firsthand what they wish they knew before declaring, the challenges they faced, and how they found their passions. Whether you're feeling undecided, overwhelmed, or just curious about different paths, this event will give you insights, inspiration, and practical advice to help you make informed decisions. Don\u2019t miss this opportunity to gain valuable perspectives and take the next step in your academic and career journey! * Food and refreshments will be served! \n Event Details:  \ud83d\udcc5 Date: October 1, 2025 \ud83d\udd52 Time: 12:30pm - 1:30pm \ud83d\udccd Location: Susan A. Cole Hall, Suite 340 (3rd Floor) \n Presented by the University College Academic Programming Team"
+  },
+  {
+    "title": "Craft & Connect",
+    "date": "2025-10-01T16:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center room 160",
+    "link": "https://montclair.campuslabs.com/engage/event/11728638",
+    "description": "Join us for a relaxed and supportive event where you can unwind with some crafts, and connect with others. Whether you want to chat or just take a break, come stop by! \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Friday, October 10 \n 12-2pm \n Student Center, Underground, Room 160"
   },
   {
     "title": "Food Recovery Network General Body Meeting",
@@ -328,20 +328,20 @@
     "description": "The General body meeting of the RSO"
   },
   {
-    "title": "Art & Design Juried Exhibition",
-    "date": "2025-10-01T15:00:00+00:00",
-    "organization": "Art and Design",
-    "location": "Finley Gallery, Finley Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11704157",
-    "description": "The Art & Design Juried Exhibition at Finley Gallery has been extended through October 5, giving you even more time to experience the incredible creativity of our students. \n \u00a0 \n On view are projects chosen by faculty from Visual Arts, Fashion Design and Merchandising, Illustration, Product Design, and Visual Communication Design. Together, the works reveal the imagination, skill, and inventive spirit that define our students\u2019 practice. \n \u00a0 \n \ud83d\udccd Finley Gallery, Finley Hall \ud83d\uddd3 On view through October 5, 2025 \u23f0 Finley Gallery Hours: Mon\u2013Fri 11 AM\u20137 PM | Sun 10 AM\u20133 PM \n \u00a0 \n Don\u2019t miss this chance to see what the students in the Department of Art and Design have been creating in their classes."
-  },
-  {
     "title": "Franklin Hall Rooftop Social Presented by RA Jill",
     "date": "2025-10-01T21:00:00+00:00",
     "organization": "Bloomfield's Office of Residence Life",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11704483",
     "description": "Location: Franklin Hall - Roof Top (414) - Fourth Floor \n \u00a0 \n This program will take place on the Franklin Hall Rooftop. There will be games, activities, music, and refreshments for residents to enjoy. Some examples of potential games and activities include the jumbo connect four, chalk, and possibly cornhole. There would be music playing as well, creating a welcoming environment for residents. Ice Cream and Snacks will be included. This program aims to bring students together and have them build connections with other residents of the building."
+  },
+  {
+    "title": "Art & Design Juried Exhibition",
+    "date": "2025-10-01T15:00:00+00:00",
+    "organization": "Art and Design",
+    "location": "Finley Gallery, Finley Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11704157",
+    "description": "The Art & Design Juried Exhibition at Finley Gallery has been extended through October 5, giving you even more time to experience the incredible creativity of our students. \n \u00a0 \n On view are projects chosen by faculty from Visual Arts, Fashion Design and Merchandising, Illustration, Product Design, and Visual Communication Design. Together, the works reveal the imagination, skill, and inventive spirit that define our students\u2019 practice. \n \u00a0 \n \ud83d\udccd Finley Gallery, Finley Hall \ud83d\uddd3 On view through October 5, 2025 \u23f0 Finley Gallery Hours: Mon\u2013Fri 11 AM\u20137 PM | Sun 10 AM\u20133 PM \n \u00a0 \n Don\u2019t miss this chance to see what the students in the Department of Art and Design have been creating in their classes."
   },
   {
     "title": "Group X - Zumba",
@@ -1880,20 +1880,20 @@
     "description": "Staff members from Red Hawk Central will be answering questions and handing out giveaways."
   },
   {
-    "title": "Become a Certified Swiftie!",
-    "date": "2025-10-07T16:00:00+00:00",
-    "organization": "Red Hawk Central",
-    "location": "Montclair State University- Lawn Circle between Feliciano School of Business and University Hall/ Rain Location: University Hall (Main Entrance)  ",
-    "link": "https://montclair.campuslabs.com/engage/event/11717945",
-    "description": "Have the best day living the life of a Red Hawk by becoming \"certified\" by the University Certification Officer for your Swiftie knowledge. Enjoy giveaways that will make the whole campus Shimmer!"
-  },
-  {
     "title": "Inaugural Italian American Heritage Month Flag Raising",
     "date": "2025-10-07T17:00:00+00:00",
     "organization": "College of Humanities and Social Sciences (CHSS)",
     "location": "Student Center Flagpole",
     "link": "https://montclair.campuslabs.com/engage/event/11643100",
     "description": "The Coccia Institute for the Italian Experience in America is thrilled to host the inaugural Italian American Heritage Month Flag Raising at Montclair State University. Join us for a celebration of Italian American culture as we recognize the contributions of Italian American students, faculty, and staff to our campus community. \n This event will take place on  Tuesday, October 7th at 1pm  in the Student Center Flagpole area (right next to the Student Center building). All members of the university community and beyond are invited to attend this celebration. A reception following the flag raising will take place in the Student Center. \n RSVP HERE"
+  },
+  {
+    "title": "BSU Meeting",
+    "date": "2025-10-07T17:00:00+00:00",
+    "organization": "Bloomfield Black Student Union",
+    "location": "Bloomfield - Talbott Hall TM04 - Room of Excellence",
+    "link": "https://montclair.campuslabs.com/engage/event/11729068",
+    "description": "Black Student Union of Bloomfield College of Montclair State University will be holding their weekly BSU Meeting."
   },
   {
     "title": "Group X - Pilates",
@@ -1947,7 +1947,7 @@
     "title": "Have a snack with Winter and Summer Sessions!",
     "date": "2025-10-07T18:00:00+00:00",
     "organization": "Red Hawk Central",
-    "location": "Montclair State University- Cole Hall Lobby (Red Hawk Central)",
+    "location": "Montclair State University- Student Center, in Front of the Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/11717837",
     "description": "Join us for some refreshments and snacks to show our appreciation!"
   },
@@ -2275,9 +2275,9 @@
     "title": "Become a Certified Swiftie!",
     "date": "2025-10-08T16:00:00+00:00",
     "organization": "Red Hawk Central",
-    "location": "Lawn circle between Feliciano, Dickson and University Hall (rain location: UN main entrance)",
-    "link": "https://montclair.campuslabs.com/engage/event/11720385",
-    "description": "Have the Best Day living The Life of a Red Hawk by becoming \"certified\" by the University Certification Officer for your Swiftie knowledge. \n Enjoy giveaways that will make the whole campus shimmer."
+    "location": "Montclair State University- Lawn Circle between Feliciano School of Business and University Hall/ Rain Location: University Hall (Main Entrance)  ",
+    "link": "https://montclair.campuslabs.com/engage/event/11717945",
+    "description": "Have the best day living the life of a Red Hawk by becoming \"certified\" by the University Certification Officer for your Swiftie knowledge. Enjoy giveaways that will make the whole campus Shimmer!"
   },
   {
     "title": "Sweets & Treats ",
@@ -2878,6 +2878,14 @@
     "location": "Student Center Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/11716322",
     "description": "Join us at the Student Center to pick up your free tickets to PEAK shows (tickets to all PEAK performances are always free for students!). While there, get some snacks, games, and take Halloween pics at our photo booth!"
+  },
+  {
+    "title": "Become a Certified Swiftie!",
+    "date": "2025-10-09T16:00:00+00:00",
+    "organization": "Red Hawk Central",
+    "location": "Lawn circle between Feliciano, Dickson and University Hall (rain location: UN main entrance)",
+    "link": "https://montclair.campuslabs.com/engage/event/11720385",
+    "description": "Have the Best Day living The Life of a Red Hawk by becoming \"certified\" by the University Certification Officer for your Swiftie knowledge. \n Enjoy giveaways that will make the whole campus shimmer."
   },
   {
     "title": "Group X - Yoga",
@@ -9968,20 +9976,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665686",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661390",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665686",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
