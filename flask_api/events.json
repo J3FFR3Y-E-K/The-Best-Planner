@@ -1632,20 +1632,20 @@
     "description": "Rehearsal for Players' Romeo & Juliet"
   },
   {
-    "title": "Playing Card House Making",
-    "date": "2025-10-08T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Freeman Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11720569",
-    "description": "Be an architect for the night and create your own playing card house at Freeman Hall from 8PM to 10PM. Let the mind wander and create!  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Sundae Funday",
     "date": "2025-10-08T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Blanton Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11662483",
     "description": "Stop by the Blanton Hall Lounge on October 7th between 8:00 PM \u2013 10:00 PM to build your own ice cream sundae with a variety of fun toppings. Grab a bowl, hang out in the lounge, and enjoy a sweet treat with friends. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Playing Card House Making",
+    "date": "2025-10-08T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Freeman Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720569",
+    "description": "Be an architect for the night and create your own playing card house at Freeman Hall from 8PM to 10PM. Let the mind wander and create!  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Fall Garland Making",
@@ -2416,20 +2416,20 @@
     "description": "Food, games, information and activities! \n We'll have BBQ style food for the students, informative tables set up, giveaways, activities and a fire safety demonstration"
   },
   {
-    "title": "Free Swag and Free Tickets to PEAK shows!",
-    "date": "2025-10-09T16:00:00+00:00",
-    "organization": "Red Hawk Central",
-    "location": "Student Center Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/11716322",
-    "description": "Join us at the Student Center to pick up your free tickets to PEAK shows (tickets to all PEAK performances are always free for students!). While there, get some snacks, games, and take Halloween pics at our photo booth!"
-  },
-  {
     "title": "Have a snack with Winter and Summer Sessions!",
     "date": "2025-10-09T16:00:00+00:00",
     "organization": "Red Hawk Central",
     "location": "Bloomfield -  College Hall Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/11716465",
     "description": "Join us for some refreshments and snacks to show our appreciation!"
+  },
+  {
+    "title": "Free Swag and Free Tickets to PEAK shows!",
+    "date": "2025-10-09T16:00:00+00:00",
+    "organization": "Red Hawk Central",
+    "location": "Student Center Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/11716322",
+    "description": "Join us at the Student Center to pick up your free tickets to PEAK shows (tickets to all PEAK performances are always free for students!). While there, get some snacks, games, and take Halloween pics at our photo booth!"
   },
   {
     "title": "Become a Certified Swiftie!",
