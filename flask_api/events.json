@@ -1309,7 +1309,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Pool\u00a0",
     "link": "https://montclair.campuslabs.com/engage/event/11663891",
-    "description": ""
+    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20 \n Tuesday: 5-6PM \n Student Recreation Center - Pool"
   },
   {
     "title": "Free Swim Lessons - Intermediate",
@@ -2296,20 +2296,20 @@
     "description": "\ud83d\udd25\ud83c\udf54  F ood, games, information and activities! \ud83c\udf89 \ud83c\udfb2 \n \u00a0 \n Join us and enjoy delicious BBQ-style food, where students can explore  informative\u00a0tables , grab some  giveaways , and don't miss the  fire safety demonstration!"
   },
   {
-    "title": "Become a Certified Swiftie!",
-    "date": "2025-10-09T16:00:00+00:00",
-    "organization": "Red Hawk Central",
-    "location": "Lawn circle between Feliciano, Dickson and University Hall (rain location: UN main entrance)",
-    "link": "https://montclair.campuslabs.com/engage/event/11720385",
-    "description": "\u2728 \ud83e\udd85 Have the best day living the life of a  Red Hawk  by becoming  \"certified\"  by the University Certification Officer for your Swiftie knowledge! \n Enjoy giveaways that will make the whole campus  Shimmer!\u00a0 \u2728"
-  },
-  {
     "title": "Have a Snack with Winter and Summer Sessions!",
     "date": "2025-10-09T16:00:00+00:00",
     "organization": "Red Hawk Central",
     "location": "Bloomfield -  College Hall Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/11716465",
     "description": "\ud83c\udf6a\ud83e\udd64\u2615Join the  Winter and Summer Sessions Team \u00a0for some refreshments and snacks as we show our appreciation for YOU!\u00a0 \u2b50"
+  },
+  {
+    "title": "Become a Certified Swiftie!",
+    "date": "2025-10-09T16:00:00+00:00",
+    "organization": "Red Hawk Central",
+    "location": "Lawn circle between Feliciano, Dickson and University Hall (rain location: UN main entrance)",
+    "link": "https://montclair.campuslabs.com/engage/event/11720385",
+    "description": "\u2728 \ud83e\udd85 Have the best day living the life of a  Red Hawk  by becoming  \"certified\"  by the University Certification Officer for your Swiftie knowledge! \n Enjoy giveaways that will make the whole campus  Shimmer!\u00a0 \u2728"
   },
   {
     "title": "Free Swag and Free Tickets to PEAK shows!",
@@ -4680,20 +4680,20 @@
     "description": "Members of the complexionette team will come together to learn and practice the taught dance material."
   },
   {
-    "title": "A.LIFE Ministry ",
-    "date": "2025-10-17T00:30:00+00:00",
-    "organization": "A.LIFE",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11602648",
-    "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
-  },
-  {
     "title": "Complexions Practice",
     "date": "2025-10-17T00:30:00+00:00",
     "organization": "Complexions",
     "location": "Student Center 250B - Ballroom B",
     "link": "https://montclair.campuslabs.com/engage/event/11681892",
     "description": "complexions practice"
+  },
+  {
+    "title": "A.LIFE Ministry ",
+    "date": "2025-10-17T00:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11602648",
+    "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
   },
   {
     "title": "Group X - Yoga",
@@ -12645,7 +12645,7 @@
     "organization": "Athletics",
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/11342617",
-    "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
+    "description": ""
   },
   {
     "title": "Women's Basketball vs. Rutgers-Camden",
