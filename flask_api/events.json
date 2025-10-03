@@ -624,20 +624,20 @@
     "description": "Have you ever wanted to stand on water? Well, now is your chance with Paddleboard Yoga! Grab your friends and come on down to the Student Recreation Center Pool and enjoy a time of fun and relaxation. Spots are limited so make sure to RSVP on Engage and save your paddleboard. This is something you won\u2019t want to miss! \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, October 6 \n 2pm - 3pm \n Student Recreation Center Pool"
   },
   {
-    "title": "Bake Sale ",
-    "date": "2025-10-06T18:00:00+00:00",
-    "organization": "Voices of Unity",
-    "location": "Student Center 2C01 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/11718385",
-    "description": "Come join and stop by our table in the Student Center to grab a treat to support us!"
-  },
-  {
     "title": "Hazing Prevention Workshop",
     "date": "2025-10-06T18:00:00+00:00",
     "organization": "Greek Life",
     "location": "University Hall, Room 2010",
     "link": "https://montclair.campuslabs.com/engage/event/11382955",
     "description": "What is this workshop for? \n \n \n Attending a Hazing Prevention workshop is a requirement for any Montclair State University student who\u00a0is interested in joining a fraternity/sorority on campus \n These workshops inform students of the dangers and repercussions\u00a0of Hazing \n \n Where and when? \n \n \n \n University Hall, Room 2010 \n 2 pm - 3 pm"
+  },
+  {
+    "title": "Bake Sale ",
+    "date": "2025-10-06T18:00:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "Student Center 2C01 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/11718385",
+    "description": "Come join and stop by our table in the Student Center to grab a treat to support us!"
   },
   {
     "title": "Study Abroad 101",
@@ -1309,7 +1309,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Pool\u00a0",
     "link": "https://montclair.campuslabs.com/engage/event/11663891",
-    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20 \n Tuesday: 5-6PM \n Student Recreation Center - Pool"
+    "description": ""
   },
   {
     "title": "Free Swim Lessons - Intermediate",
@@ -1424,20 +1424,20 @@
     "description": "Closed rehearsal for A Jukebox Musical"
   },
   {
-    "title": "Sundae Funday",
-    "date": "2025-10-08T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11662483",
-    "description": "Stop by the Blanton Hall Lounge on October 7th between 8:00 PM \u2013 10:00 PM to build your own ice cream sundae with a variety of fun toppings. Grab a bowl, hang out in the lounge, and enjoy a sweet treat with friends. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Playing Card House Making",
     "date": "2025-10-08T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Freeman Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11720569",
     "description": "Be an architect for the night and create your own playing card house at Freeman Hall from 8PM to 10PM. Let the mind wander and create!  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Sundae Funday",
+    "date": "2025-10-08T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11662483",
+    "description": "Stop by the Blanton Hall Lounge on October 7th between 8:00 PM \u2013 10:00 PM to build your own ice cream sundae with a variety of fun toppings. Grab a bowl, hang out in the lounge, and enjoy a sweet treat with friends. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "InterVarsity Music Bible Study ",
@@ -4680,20 +4680,20 @@
     "description": "Members of the complexionette team will come together to learn and practice the taught dance material."
   },
   {
-    "title": "Complexions Practice",
-    "date": "2025-10-17T00:30:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/11681892",
-    "description": "complexions practice"
-  },
-  {
     "title": "A.LIFE Ministry ",
     "date": "2025-10-17T00:30:00+00:00",
     "organization": "A.LIFE",
     "location": "University Hall 1010 - James B. Todd Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11602648",
     "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
+  },
+  {
+    "title": "Complexions Practice",
+    "date": "2025-10-17T00:30:00+00:00",
+    "organization": "Complexions",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/11681892",
+    "description": "complexions practice"
   },
   {
     "title": "Group X - Yoga",
