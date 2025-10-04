@@ -8,12 +8,12 @@
     "description": "Visiting the Pantry: \n Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 \n \u00a0 \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n Fall 2025 Hours- \n \n Mondays: 1:30-3:30pm \n Tuesdays: 5-7pm \n Saturdays: 11-1pm"
   },
   {
-    "title": "A Jukebox Musical Rehearsal",
-    "date": "2025-10-04T14:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 417 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11730986",
-    "description": "Closed rehearsal for A Jukebox Musical"
+    "title": "Field Hockey vs. Ramapo",
+    "date": "2025-10-04T16:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Sprague Field",
+    "link": "https://montclair.campuslabs.com/engage/event/11465487",
+    "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
   },
   {
     "title": "Romeo & Juliet Rehearsal ",
@@ -24,11 +24,19 @@
     "description": "Rehearsal for Players' Romeo & Juliet"
   },
   {
-    "title": "Field Hockey vs. Ramapo",
-    "date": "2025-10-04T16:00:00+00:00",
+    "title": "A Jukebox Musical Rehearsal",
+    "date": "2025-10-04T14:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 417 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11730986",
+    "description": "Closed rehearsal for A Jukebox Musical"
+  },
+  {
+    "title": "Women's Soccer vs. TCNJ",
+    "date": "2025-10-04T17:00:00+00:00",
     "organization": "Athletics",
-    "location": "Sprague Field",
-    "link": "https://montclair.campuslabs.com/engage/event/11465487",
+    "location": "Soccer Park",
+    "link": "https://montclair.campuslabs.com/engage/event/11342513",
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
   },
   {
@@ -38,14 +46,6 @@
     "location": "Amphiteather",
     "link": "https://montclair.campuslabs.com/engage/event/11630519",
     "description": "We are absolutely thrilled to share some exciting news \u2014 the  Center for Latino Heritage and Spanish Language Excellence  at Montclair State University is launching its  very first Festival de los Andes , and you are invited! \n This will be a joyful day of celebration, culture, and community \u2014 right here on campus. Here\u2019s what we have planned: \n Ten incredible dance groups  bringing the colors and rhythms of Colombia, Peru, Ecuador, Bolivia, Argentina, and Chile to life. Live Andean music  with authentic instruments that will fill the air with energy. Beautiful  arts and crafts  featuring local Andean artists. A special  opening ceremony , where together we will build a  chakana (Andean cross)  \u2014 a powerful symbol of connection. Delicious food  and interactive workshops for all ages to enjoy. \n This free, family-friendly festival will take place at the  amphitheater  on  Saturday, October 4th , from  10:00 a.m. to 3:00 p.m."
-  },
-  {
-    "title": "Women's Soccer vs. TCNJ",
-    "date": "2025-10-04T17:00:00+00:00",
-    "organization": "Athletics",
-    "location": "Soccer Park",
-    "link": "https://montclair.campuslabs.com/engage/event/11342513",
-    "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
   },
   {
     "title": "Sunflower Farm",
@@ -512,20 +512,20 @@
     "description": "All meetings are held on\u00a0 Mondays from 2:00 PM \u2013 3:30 PM \n Location: \u00a0Room of Excellence, Talbott Hall (lower level, Student Center) \n Dress Code: \u00a0Business casual is required unless otherwise stated. \n \n \n All are Welcome!"
   },
   {
-    "title": "Rocky's Birthday Party ",
-    "date": "2025-10-06T18:00:00+00:00",
-    "organization": "Rocky the Red Hawk",
-    "location": "Student Center Ballrooms",
-    "link": "https://montclair.campuslabs.com/engage/event/11656400",
-    "description": "Don't miss your chance to wish Rocky a happy birthday at his party! \n (his ACTUAL birthday October 5 FYI) \n What to expect: \n Rocky's friends and family (yes, Ricky too). Mascots from other colleges and organizations as well as two different funny mascot games you can watch! \n Tables hosted by other departments with freebees, snacks and good info all around! \n The chance to win a limited edition t-shirt, mini Rocky lego, Rocky doll and more. \n Come anytime during the two hours!!"
-  },
-  {
     "title": "Spin to Win with the Profs!",
     "date": "2025-10-06T18:00:00+00:00",
     "organization": "Red Hawk Central",
     "location": "Montclair State University- University Hall Lobby (1st Floor)",
     "link": "https://montclair.campuslabs.com/engage/event/11717190",
     "description": "See if the Professors can stump you\u00a0\ud83e\udde0\u2728 \n Join us for some  Red Hawk Trivia  and then Spin to win fun prizes!\u00a0 \ud83c\udfa1 \n \u00a0 \n \u00a0 \n **\ud83d\udce2 Keep an eye out\u00a0 Red Hawk Trivia \u00a0will be back at our  Bloomfield Campus  on  Monday, October 13th, 3pm-4pm! \u00a0 Mark your calendars and join us   for another fun afternoon! * *"
+  },
+  {
+    "title": "Rocky's Birthday Party ",
+    "date": "2025-10-06T18:00:00+00:00",
+    "organization": "Rocky the Red Hawk",
+    "location": "Student Center Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/11656400",
+    "description": "Don't miss your chance to wish Rocky a happy birthday at his party! \n (his ACTUAL birthday October 5 FYI) \n What to expect: \n Rocky's friends and family (yes, Ricky too). Mascots from other colleges and organizations as well as two different funny mascot games you can watch! \n Tables hosted by other departments with freebees, snacks and good info all around! \n The chance to win a limited edition t-shirt, mini Rocky lego, Rocky doll and more. \n Come anytime during the two hours!!"
   },
   {
     "title": "CCHL Recharge Zone",
@@ -4464,20 +4464,20 @@
     "description": "Members of the complexionette team will come together to learn and practice the taught dance material."
   },
   {
-    "title": "A.LIFE Ministry ",
-    "date": "2025-10-17T00:30:00+00:00",
-    "organization": "A.LIFE",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11602648",
-    "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
-  },
-  {
     "title": "Complexions Practice",
     "date": "2025-10-17T00:30:00+00:00",
     "organization": "Complexions",
     "location": "Student Center 250B - Ballroom B",
     "link": "https://montclair.campuslabs.com/engage/event/11681892",
     "description": "complexions practice"
+  },
+  {
+    "title": "A.LIFE Ministry ",
+    "date": "2025-10-17T00:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11602648",
+    "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
   },
   {
     "title": "Group X - Yoga",
@@ -5653,7 +5653,7 @@
     "organization": "Montclair Unraveled",
     "location": "Calcia Hall 230 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11665727",
-    "description": "Come to our spooky themed Unraveled Meeting!"
+    "description": ""
   },
   {
     "title": "Cru Bible Study! ",
