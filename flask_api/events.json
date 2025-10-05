@@ -1088,20 +1088,20 @@
     "description": "Be an architect for the night and create your own playing card house at Freeman Hall from 8PM to 10PM. Let the mind wander and create!  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Sundae Funday",
-    "date": "2025-10-08T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11662483",
-    "description": "Stop by the Blanton Hall Lounge on October 7th between 8:00 PM \u2013 10:00 PM to build your own ice cream sundae with a variety of fun toppings. Grab a bowl, hang out in the lounge, and enjoy a sweet treat with friends. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "InterVarsity Music Bible Study ",
     "date": "2025-10-08T00:00:00+00:00",
     "organization": "InterVarsity Christian Fellowship",
     "location": "Susan A. Cole Hall 141 - Admissions Presentation Room",
     "link": "https://montclair.campuslabs.com/engage/event/11738559",
     "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sisters in Christ"
+  },
+  {
+    "title": "Sundae Funday",
+    "date": "2025-10-08T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11662483",
+    "description": "Stop by the Blanton Hall Lounge on October 7th between 8:00 PM \u2013 10:00 PM to build your own ice cream sundae with a variety of fun toppings. Grab a bowl, hang out in the lounge, and enjoy a sweet treat with friends. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Fall Garland Making",
@@ -1368,20 +1368,20 @@
     "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
   },
   {
-    "title": "Podcast Meeting",
-    "date": "2025-10-08T18:00:00+00:00",
-    "organization": "The Montclair English Club",
-    "location": "Dickson Hall 270 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11661273",
-    "description": "Discuss ideas with our podcast team to be featured on our student-run podcast!"
-  },
-  {
     "title": "Hazing Prevention Workshop",
     "date": "2025-10-08T18:00:00+00:00",
     "organization": "Greek Life",
     "location": "University Hall, Room 2010",
     "link": "https://montclair.campuslabs.com/engage/event/11382956",
     "description": "What is this workshop for? \n \n \n Attending a Hazing Prevention workshop is a requirement for any Montclair State University student who\u00a0is interested in joining a fraternity/sorority on campus \n These workshops inform students of the dangers and repercussions\u00a0of Hazing \n \n Where and when? \n \n \n \n University Hall, Room 2010 \n 2 pm - 3 pm"
+  },
+  {
+    "title": "Podcast Meeting",
+    "date": "2025-10-08T18:00:00+00:00",
+    "organization": "The Montclair English Club",
+    "location": "Dickson Hall 270 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11661273",
+    "description": "Discuss ideas with our podcast team to be featured on our student-run podcast!"
   },
   {
     "title": "CALI SCHOOL OF MUSIC: Midweek Series: Piano and Guitar",
@@ -3629,7 +3629,7 @@
     "organization": "Residence Life",
     "location": "Machuga Heights",
     "link": "https://montclair.campuslabs.com/engage/event/11662489",
-    "description": "Craving a late night treat on campus? Come down to the Machuga Kitchen and Lounge to have our community programmers whip you up a dirty soda! \n  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+    "description": ""
   },
   {
     "title": "Week of Wisdom ",
@@ -12397,7 +12397,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 2",
     "link": "https://montclair.campuslabs.com/engage/event/11597801",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 12:30pm - 01:15pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Bridget"
   },
   {
     "title": "Group X - Kickboxing",
