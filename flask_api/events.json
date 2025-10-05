@@ -1,21 +1,5 @@
 [
   {
-    "title": "Volleyball Tri-Match",
-    "date": "2025-10-04T16:00:00+00:00",
-    "organization": "Athletics",
-    "location": "Panzer Athletic Center",
-    "link": "https://montclair.campuslabs.com/engage/event/11342583",
-    "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
-  },
-  {
-    "title": "Open Play Pickleball",
-    "date": "2025-10-04T21:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center Gym",
-    "link": "https://montclair.campuslabs.com/engage/event/11722689",
-    "description": "Pickleball at The Rec \u2013 Now on Saturdays! \n We\u2019ve added more chances to play! In addition to our regular sessions, join us for  Open Play Pickleball on Saturdays from 5\u20137 PM, starting October 4 . \n Come solo or bring a friend\u2014no experience needed and all skill levels welcome! Sessions are drop-in style, so just swipe your Student ID when you arrive and hit the courts for some fun, friendly competition. \n Open Play sessions will be drop-in style and open to ALL skill levels - come solo or bring a friend! No pre-registration required, swipe Student ID upon arrival.\u00a0\u00a0 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm \n Saturdays - 5pm-7pm \n \n Student Recreation Center Gym"
-  },
-  {
     "title": "Saturday Sundaes",
     "date": "2025-10-04T23:00:00+00:00",
     "organization": "Campus Activities",
@@ -32,22 +16,6 @@
     "description": "NIGHT 1: Friday, October 3, 2025 @ 7:30pm;  TICKETS NIGHT 2 : Saturday, October 4, 2025 @ 8pm  The Cali School\u2019s season opening concert,  Kaleidoscope  is a non-stop extravaganza featuring large ensembles  Wind Symphony, Symphonic Band, Chorale, University Singers, Jazz Ensemble,  and  Symphony Orchestra  interspersed with  chamber performances  and  solo artists."
   },
   {
-    "title": "MILF Round 1 Rehearsal",
-    "date": "2025-10-04T22:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11628328",
-    "description": "MILF is the Players improv group. The theme is SpongeMILF, based on the show SpongeBob SquarePants."
-  },
-  {
-    "title": "MILF Round 1",
-    "date": "2025-10-04T22:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11628327",
-    "description": "MILF is the Players improv group. The theme is SpongeMILF, based on the show SpongeBob SquarePants."
-  },
-  {
     "title": "Toasty Tea Making",
     "date": "2025-10-05T00:00:00+00:00",
     "organization": "Residence Life",
@@ -62,6 +30,22 @@
     "location": "Hawk Crossing",
     "link": "https://montclair.campuslabs.com/engage/event/11662471",
     "description": "Pull up to the Hawks Crossing office for free supplies for your classes! All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "MILF Round 1 Rehearsal",
+    "date": "2025-10-04T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11628328",
+    "description": "MILF is the Players improv group. The theme is SpongeMILF, based on the show SpongeBob SquarePants."
+  },
+  {
+    "title": "MILF Round 1",
+    "date": "2025-10-04T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11628327",
+    "description": "MILF is the Players improv group. The theme is SpongeMILF, based on the show SpongeBob SquarePants."
   },
   {
     "title": "General Body Meeting ",
@@ -1424,20 +1408,20 @@
     "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
   },
   {
-    "title": "Podcast Meeting",
-    "date": "2025-10-08T18:00:00+00:00",
-    "organization": "The Montclair English Club",
-    "location": "Dickson Hall 270 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11661273",
-    "description": "Discuss ideas with our podcast team to be featured on our student-run podcast!"
-  },
-  {
     "title": "Hazing Prevention Workshop",
     "date": "2025-10-08T18:00:00+00:00",
     "organization": "Greek Life",
     "location": "University Hall, Room 2010",
     "link": "https://montclair.campuslabs.com/engage/event/11382956",
     "description": "What is this workshop for? \n \n \n Attending a Hazing Prevention workshop is a requirement for any Montclair State University student who\u00a0is interested in joining a fraternity/sorority on campus \n These workshops inform students of the dangers and repercussions\u00a0of Hazing \n \n Where and when? \n \n \n \n University Hall, Room 2010 \n 2 pm - 3 pm"
+  },
+  {
+    "title": "Podcast Meeting",
+    "date": "2025-10-08T18:00:00+00:00",
+    "organization": "The Montclair English Club",
+    "location": "Dickson Hall 270 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11661273",
+    "description": "Discuss ideas with our podcast team to be featured on our student-run podcast!"
   },
   {
     "title": "CALI SCHOOL OF MUSIC: Midweek Series: Piano and Guitar",
@@ -4408,20 +4392,20 @@
     "description": "Members of the complexionette team will come together to learn and practice the taught dance material."
   },
   {
-    "title": "Complexions Practice",
-    "date": "2025-10-17T00:30:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/11681892",
-    "description": "complexions practice"
-  },
-  {
     "title": "A.LIFE Ministry ",
     "date": "2025-10-17T00:30:00+00:00",
     "organization": "A.LIFE",
     "location": "University Hall 1010 - James B. Todd Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11602648",
     "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
+  },
+  {
+    "title": "Complexions Practice",
+    "date": "2025-10-17T00:30:00+00:00",
+    "organization": "Complexions",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/11681892",
+    "description": "complexions practice"
   },
   {
     "title": "Group X - Yoga",
@@ -8664,20 +8648,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-12T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665709",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-11-12T19:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661389",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665709",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
