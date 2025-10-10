@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2025-10-10T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11618628",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 09/02 - 12/17 \n 9am-9:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
-  },
-  {
     "title": "Group X - Kickboxing",
     "date": "2025-10-10T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -48,14 +40,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 09/02 - 12/17 \n 1pm-1:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Bridget"
   },
   {
-    "title": "Belong Here: A Collage Zine",
-    "date": "2025-10-10T15:00:00+00:00",
-    "organization": "Red Hawk Central",
-    "location": "Calcia Hall - Room 130",
-    "link": "https://montclair.campuslabs.com/engage/event/11713157",
-    "description": "\ud83c\udfa8\u2728 What does belonging look like to you? \n Drop in to  cut, paste, and remix images  into your own collage page. Together, we\u2019ll build a growing wall of artwork that will be collected into a collaborative zine wall celebrating  community, identity, and connection. \n No experience needed \u2014 just bring yourself and your idea.\u00a0 \ud83d\udd8c \u2b50"
-  },
-  {
     "title": "Fryday Treats: Fried Oreos Bake Sale",
     "date": "2025-10-10T16:00:00+00:00",
     "organization": "Sigma Lambda Beta International Fraternity Inc.",
@@ -78,6 +62,14 @@
     "location": "Student Center room 160",
     "link": "https://montclair.campuslabs.com/engage/event/11728638",
     "description": "Join us for a relaxed and supportive event where you can unwind with some crafts, and connect with others. Whether you want to chat or just take a break, come stop by! \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Friday, October 10 \n 12-2pm \n Student Center, Underground, Room 160"
+  },
+  {
+    "title": "Belong Here: A Collage Zine",
+    "date": "2025-10-10T15:00:00+00:00",
+    "organization": "Red Hawk Central",
+    "location": "Calcia Hall - Room 130",
+    "link": "https://montclair.campuslabs.com/engage/event/11713157",
+    "description": "\ud83c\udfa8\u2728 What does belonging look like to you? \n Drop in to  cut, paste, and remix images  into your own collage page. Together, we\u2019ll build a growing wall of artwork that will be collected into a collaborative zine wall celebrating  community, identity, and connection. \n No experience needed \u2014 just bring yourself and your idea.\u00a0 \ud83d\udd8c \u2b50"
   },
   {
     "title": "Group X - Cycling",
@@ -648,20 +640,20 @@
     "description": "General body meeting to inform students of events."
   },
   {
-    "title": "Linguistics Book Club: Algospeak",
-    "date": "2025-10-13T18:00:00+00:00",
-    "organization": "College of Humanities and Social Sciences (CHSS)",
-    "location": "Schmitt Hall 204",
-    "link": "https://montclair.campuslabs.com/engage/event/11737980",
-    "description": "We are excited to launch the Linguistics Book Club this semester! The goal is to bring folks who like to talk about language and linguistics together to chat about engaging, accessible books that connect to themes in linguistics. \n Here\u2019s the plan for this fall: 1\ufe0f\u20e3 October 13, 2:00\u20133:00 pm \u2014 AlgoSpeak by Adam Aleksic We are sharing this now so you have time to read. We will follow up with the room details closer to the date. \n All students, undergraduate and graduate, are very welcome. Bring your curiosity, your questions, and your favorite passages. \n If you are interested, go ahead and start AlgoSpeak. You can access the book through the library!"
-  },
-  {
     "title": "CALI SCHOOL OF MUSIC: Jazz Drums Masterclass with Billy Hart",
     "date": "2025-10-13T18:00:00+00:00",
     "organization": "The College of the Arts",
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11694160",
     "description": "Faculty  Jazz Drums  Masterclass with BILLY HART \n Legendary jazz drummer  Billy Hart ,  known for his work with Herbie Hancock, Stan Getz, and countless others, leads a dynamic masterclass at the Cali School of Music. \n Billy Hart  is one of the most influential jazz drummers of his generation, celebrated for his versatility across straight-ahead, avant-garde, and popular styles. He has released 12 albums as a leader and appeared on more than 600 recordings, working with legends such as  Herbie Hancock, Miles Davis, Wes Montgomery, Stan Getz,  and  Charles Lloyd.  A founding member of  Quest  and a longtime member of the  Cookers , Hart also leads his own acclaimed quartet. Born in Washington, D.C., he began performing as a teenager with  Buck Hill  and  Shirley Horn  before touring in the 1960s with  Jimmy Smith, Wes Montgomery,  and  Eddie Harris.  Since then, his career has spanned collaborations with both jazz icons and experimental innovators. \n Don\u2019t miss this rare opportunity to learn from one of the most influential voices in modern jazz drumming!"
+  },
+  {
+    "title": "Linguistics Book Club: Algospeak",
+    "date": "2025-10-13T18:00:00+00:00",
+    "organization": "College of Humanities and Social Sciences (CHSS)",
+    "location": "Schmitt Hall 204",
+    "link": "https://montclair.campuslabs.com/engage/event/11737980",
+    "description": "We are excited to launch the Linguistics Book Club this semester! The goal is to bring folks who like to talk about language and linguistics together to chat about engaging, accessible books that connect to themes in linguistics. \n Here\u2019s the plan for this fall: 1\ufe0f\u20e3 October 13, 2:00\u20133:00 pm \u2014 AlgoSpeak by Adam Aleksic We are sharing this now so you have time to read. We will follow up with the room details closer to the date. \n All students, undergraduate and graduate, are very welcome. Bring your curiosity, your questions, and your favorite passages. \n If you are interested, go ahead and start AlgoSpeak. You can access the book through the library!"
   },
   {
     "title": "Study Abroad 101",
@@ -846,6 +838,14 @@
     "location": "Student Center 2C01 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/11718412",
     "description": "Montclair State University Circle K International will be hosting a \u201cGrab and Go: Essential Kits\u201d event. At this event, members will staff a table on campus to distribute pre-assembled essential kits to students. The purpose of this initiative is to provide students with basic hygiene and self-care items in a convenient and accessible manner."
+  },
+  {
+    "title": "Week of Wisdom ",
+    "date": "2025-10-13T20:00:00+00:00",
+    "organization": "Chi Upsilon Sigma National Latin Sorority, INC",
+    "location": "Student Center Quad Information Table 2 - Information Table 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11770919",
+    "description": "Get ready for a week of fun and insight! Our Week of Wisdom is packed with political, educational, cultural, and social awareness talks.\u00a0 \n Join us and dive into a week of learning and lively discussions."
   },
   {
     "title": "Group X - Kickboxing",
@@ -1752,6 +1752,14 @@
     "description": "Sak Pas\u00e8! Welcome to HSA\u2019s General Body meetings, where we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in University Hall room 2026 every Wednesday 2:00pm- 3:30pm!"
   },
   {
+    "title": "NAIS GBM #1",
+    "date": "2025-10-15T18:00:00+00:00",
+    "organization": "Native American and Indigenous Studies Club",
+    "location": "DKSN 430",
+    "link": "https://montclair.campuslabs.com/engage/event/11770809",
+    "description": "The first club meeting for the Native American and Indigenous Studies Club for Fall 2025."
+  },
+  {
     "title": "Garfield Karaoke",
     "date": "2025-10-15T18:00:00+00:00",
     "organization": "Garfield club",
@@ -2509,7 +2517,7 @@
     "organization": "University College",
     "location": "Various Classroom Locations",
     "link": "https://montclair.campuslabs.com/engage/event/11417259",
-    "description": "Ever wonder what it's like in that class everyone's been talking about? Curious about what you'll learn in different majors across campus? You're in luck! \n \u00a0 \n Running  Monday, October 13 through Friday, October 17 ,\u00a0 \"Crash-A-Class\" \u00a0is the perfect opportunity to experience and explore different courses you may consider taking in the future and with Fall 2025 Registration\u00a0 right around the corner , there's no better time to try!\u00a0 \n \u00a0 \n CLICK HERE TO CHECK OUT THE SELECTION OF COURSES & SIGN UP TODAY! \n \u00a0 \n \"Crash-a-Class\" is an exclusive opportunity for students to sit in on a class for a day to learn more about specific programs from a seat\u00a0 right inside \u00a0the classroom! Held just before spring registration, this program offers students a chance to try out a class\u00a0 before \u00a0registering for it for the coming semester! Like what you've learned? Consider trying out another course in the same subject or speaking with your academic advisor to learn more about adding it to your academic plan!\u00a0 \n \u00a0 \n \"Crash-a-Class\" is a free program hosted by University College in collaboration with all of the unrestricted, undergraduate Colleges and Schools on campus. There is no fee or penalty to attend or participate. Students participating in \"Crash-a-Class\"\u00a0 will not be excused from their regularly scheduled classes\u00a0 to attend a course they've registered to \"crash.\""
+    "description": "Ever wonder what it's like in that class everyone's been talking about? Curious about what you'll learn in different majors across campus? You're in luck! \n \u00a0 \n Running  Monday, October 13 through Friday, October 17 ,\u00a0 \"Crash-A-Class\" \u00a0is the perfect opportunity to experience and explore different courses you may consider taking in the future and with Fall 2025 Registration\u00a0 right around the corner , there's no better time to try!\u00a0 \n \u00a0 \n CLICK HERE TO CHECK OUT THE SELECTION OF COURSES & SIGN UP TODAY! Last day to Sign up is Friday, October 10th. \n \u00a0 \n \"Crash-a-Class\" is an exclusive opportunity for students to sit in on a class for a day to learn more about specific programs from a seat\u00a0 right inside \u00a0the classroom! Held just before spring registration, this program offers students a chance to try out a class\u00a0 before \u00a0registering for it for the coming semester! Like what you've learned? Consider trying out another course in the same subject or speaking with your academic advisor to learn more about adding it to your academic plan!\u00a0 \n \u00a0 \n \"Crash-a-Class\" is a free program hosted by University College in collaboration with all of the unrestricted, undergraduate Colleges and Schools on campus. There is no fee or penalty to attend or participate. Students participating in \"Crash-a-Class\"\u00a0 will not be excused from their regularly scheduled classes\u00a0 to attend a course they've registered to \"crash.\""
   },
   {
     "title": "MYO: Stain Glass",
@@ -3565,7 +3573,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11597486",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Sunday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n CJ"
   },
   {
     "title": "complexions practice",
@@ -4288,20 +4296,20 @@
     "description": "Welcome the autumn with our Fall Leaf Decorating event! Join us for a cozy and creative evening when all students can craft and customize fall leaves with paint, markers, and other craft supplies. Whether you're adding some fall cheer to your home decor or creating a special seasonal present, this do-it-yourself project is the perfect activity to celebrate the colors and spirit of the season.\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "DIY Stuff Plushies",
-    "date": "2025-10-29T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Bohn Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11720554",
-    "description": "Unleash your inner child and get crafty with our DIY Stuffed Plush Workshop \u2014 the ultimate cozy, creative escape from college stress! Choose from a variety of cute designs, colors, and accessories to bring your unique creation to life \u2014 no experience needed, just your imagination! We\u2019ll provide all the materials and, comfy crafting space. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "A Jukebox Musical Rehearsal",
     "date": "2025-10-29T00:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/11747881",
     "description": "Closed rehearsal for A Jukebox Musical"
+  },
+  {
+    "title": "DIY Stuff Plushies",
+    "date": "2025-10-29T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720554",
+    "description": "Unleash your inner child and get crafty with our DIY Stuffed Plush Workshop \u2014 the ultimate cozy, creative escape from college stress! Choose from a variety of cute designs, colors, and accessories to bring your unique creation to life \u2014 no experience needed, just your imagination! We\u2019ll provide all the materials and, comfy crafting space. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Totes and Treats",
@@ -4408,20 +4416,20 @@
     "description": "Conversation Avec Assane K! Tous les mercredis  \n TIME:  2:00PM - 3:00PM WHERE:  Schmitt Lounge, 218 WHEN:  Wednesdays \n Join us for: SNACKS! FREE FRENCH CONVERSATION! BOARD GAMES! \n All are welcome! \n Questions? \u00a0Elizabeth Emery\u00a0 emerye@montclair.edu"
   },
   {
-    "title": "CALI SCHOOL MIDWEEK SERIES: Immersive Residency Guest Violinist Stefan Jackiw - Performance",
-    "date": "2025-10-29T18:00:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "Leshowitz Recital Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11696928",
-    "description": "2:00 PM \u00a0Cali Midweek Series: Stefan Jackiw\u00a0 Leshowitz Recital Hall, Chapin Hall, Cali School of Music \n Stefan Jackiw \u00a0performs solo violin works and the dynamic opening movement of Mendelssohn\u2019s String Octet with Cali Graduate String Students. Hailed for playing that \u201ccombines poetry and purity with impeccable technique\u201d (Boston Globe), Jackiw has appeared with leading U.S. symphonies, tours internationally, and is a founding member of the Junction Trio. Artistic Director of the Hawaii Chamber Music Festival, his performances are praised as intelligent, sensitive, and deeply moving. Leshowitz Recital Hall, Chapin Hall, Cali School of Music \n FREE TICKETS \n More about Stefan Jackiw's Cali Immersive Residency Schedule"
-  },
-  {
     "title": "General Body Meetings",
     "date": "2025-10-29T18:00:00+00:00",
     "organization": "The Women Of Color Alliance ",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11627252",
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
+  },
+  {
+    "title": "CALI SCHOOL MIDWEEK SERIES: Immersive Residency Guest Violinist Stefan Jackiw - Performance",
+    "date": "2025-10-29T18:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Leshowitz Recital Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11696928",
+    "description": "2:00 PM \u00a0Cali Midweek Series: Stefan Jackiw\u00a0 Leshowitz Recital Hall, Chapin Hall, Cali School of Music \n Stefan Jackiw \u00a0performs solo violin works and the dynamic opening movement of Mendelssohn\u2019s String Octet with Cali Graduate String Students. Hailed for playing that \u201ccombines poetry and purity with impeccable technique\u201d (Boston Globe), Jackiw has appeared with leading U.S. symphonies, tours internationally, and is a founding member of the Junction Trio. Artistic Director of the Hawaii Chamber Music Festival, his performances are praised as intelligent, sensitive, and deeply moving. Leshowitz Recital Hall, Chapin Hall, Cali School of Music \n FREE TICKETS \n More about Stefan Jackiw's Cali Immersive Residency Schedule"
   },
   {
     "title": "LinkedIn and Resume Workshop",
@@ -5774,14 +5782,6 @@
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11457584",
     "description": "Cali Midweek Series: Strings and Voice \n Students perform works from the classical and contemporary repertoire. \n Cali Midweek Concerts 2025-26 Most Wednesdays at 2 PM Chapin Hall, Leshowitz Recital Hall \n FREE ADMISSION! \n Join us for the\u00a0 Cali Midweek Concerts at Montclair State University\u2019s John J. Cali School of Music , where we bring a diverse array of musical performances and educational events every Wednesday at 2PM in Leshowitz Recital Hall, Chapin Hall. Our concert series showcases the immense talent within our faculty, students, and esteemed guest artists. \n FULL SCHEDULE:\u00a0 https://www.montclair.edu/music/cali-midweek-series-schedule/"
-  },
-  {
-    "title": "Caribbean Student Organization General. Body Meetings",
-    "date": "2025-11-05T19:00:00+00:00",
-    "organization": "Caribbean Students' Organization",
-    "location": "University Hall 2040 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11739296",
-    "description": "Join the Caribbean Student Organization for our upcoming meeting! We celebrate Caribbean culture, community, and heritage while creating a space for students to connect, share ideas, and get involved on campus. All are welcome \u2014 whether you\u2019re Caribbean or just interested in learning more!"
   },
   {
     "title": "Podcast Meeting",
@@ -8352,20 +8352,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11661390",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11665686",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2008 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11661390",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "Music Club GBM",
@@ -8816,6 +8816,14 @@
     "description": "Unleash your creativity at our Nail Decorating Bar! Pick your polish, add some sparkle, and design a set of nails that\u2019s fabulously you. All supplies provided with a donation to our clothing drive!"
   },
   {
+    "title": " LASO Birthday",
+    "date": "2025-11-22T00:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "Student Center 250ABC - Ballrooms A, B, and C",
+    "link": "https://montclair.campuslabs.com/engage/event/11771500",
+    "description": "Join us as we celebrate an incredible milestone\u2014L.A.S.O. Club\u2019s 55th anniversary! Founded in 1970, L.A.S.O. Over the past five and a half decades, we\u2019ve grown stronger together, building lifelong friendships, supporting each other, and creating memories that will last a lifetime."
+  },
+  {
     "title": "Open Mic & Mug",
     "date": "2025-11-22T00:00:00+00:00",
     "organization": "Campus Activities",
@@ -8878,6 +8886,14 @@
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11717229",
     "description": "Bonding events for the sisters of Theta Phi Alpha"
+  },
+  {
+    "title": "Swipe Out Hunger",
+    "date": "2025-10-20T04:00:00+00:00",
+    "organization": "Dean of Students",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/11771381",
+    "description": "As part of Montclair State University\u2019s continuous commitment to eliminate student food insecurity, Auxiliary Services, Gourmet Dining, and the Office of the Dean of Students began investigating the implementation of a meal plan donation program. The goal also included getting the program recognized by the National Swipe Out Hunger network and establishing an ongoing collaboration with them. In January 2020, Montclair State became an official  Swipe Out Hunger Organization \u00a0campus partner. The university has once again teamed up with our resident dining provider, Gourmet Dining, to continue with The Swipe Out Hunger program encompassing both campuses, Montclair and Bloomfield, this semester. \n Every Montclair State University or Bloomfield College student who is enrolled in a block meal plan (excluding unlimited meal plan holders) will be able to designate up to two (2) swipes per semester to the meal donation program. This drive will be active from October 20 until November 22. No additional meal swipes will be accepted after this date for the Fall 2025 semester.  Fill out this form  to make a difference!"
   },
   {
     "title": "Players Miscellaneous Production Performance ",
