@@ -1,13 +1,5 @@
 [
   {
-    "title": "Montclair Online Student Appreciation Week Activity: What Inspires You?",
-    "date": "2025-10-05T04:00:00+00:00",
-    "organization": "Montclair Online",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/11740794",
-    "description": "As a part of Student Appreciation Week, Montclair Online recognizes and celebrates the outstanding accomplishments and determination of our online students.\u00a0 \n \u00a0 \n We invite online program students to participate in our easy, online activity throughout the week for a chance to win Montclair prizes! Get started by visiting the  Montclair Online Student Center !"
-  },
-  {
     "title": "Threads of Us - Integrative Studio II Student-Led Exhibition",
     "date": "2025-10-12T14:00:00+00:00",
     "organization": "Art and Design",
@@ -2088,20 +2080,20 @@
     "description": "Members of the complexionette team will come together to learn and practice the taught dance material."
   },
   {
-    "title": "Complexions Practice",
-    "date": "2025-10-17T00:30:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/11681892",
-    "description": "complexions practice"
-  },
-  {
     "title": "A.LIFE Ministry ",
     "date": "2025-10-17T00:30:00+00:00",
     "organization": "A.LIFE",
     "location": "University Hall 1010 - James B. Todd Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11602648",
     "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
+  },
+  {
+    "title": "Complexions Practice",
+    "date": "2025-10-17T00:30:00+00:00",
+    "organization": "Complexions",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/11681892",
+    "description": "complexions practice"
   },
   {
     "title": "Group X - Yoga",
@@ -8184,20 +8176,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665686",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661390",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665686",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
@@ -11029,7 +11021,7 @@
     "organization": "Athletics",
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/11342687",
-    "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
+    "description": ""
   },
   {
     "title": "Open Play Pickleball",
