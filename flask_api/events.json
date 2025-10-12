@@ -264,20 +264,20 @@
     "description": "General body meeting to inform students of events."
   },
   {
-    "title": "Linguistics Book Club: Algospeak",
-    "date": "2025-10-13T18:00:00+00:00",
-    "organization": "College of Humanities and Social Sciences (CHSS)",
-    "location": "Schmitt Hall 204",
-    "link": "https://montclair.campuslabs.com/engage/event/11737980",
-    "description": "We are excited to launch the Linguistics Book Club this semester! The goal is to bring folks who like to talk about language and linguistics together to chat about engaging, accessible books that connect to themes in linguistics. \n Here\u2019s the plan for this fall: 1\ufe0f\u20e3 October 13, 2:00\u20133:00 pm \u2014 AlgoSpeak by Adam Aleksic We are sharing this now so you have time to read. We will follow up with the room details closer to the date. \n All students, undergraduate and graduate, are very welcome. Bring your curiosity, your questions, and your favorite passages. \n If you are interested, go ahead and start AlgoSpeak. You can access the book through the library!"
-  },
-  {
     "title": "CALI SCHOOL OF MUSIC: Jazz Drums Masterclass with Billy Hart",
     "date": "2025-10-13T18:00:00+00:00",
     "organization": "The College of the Arts",
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11694160",
     "description": "Faculty  Jazz Drums  Masterclass with BILLY HART \n Legendary jazz drummer  Billy Hart ,  known for his work with Herbie Hancock, Stan Getz, and countless others, leads a dynamic masterclass at the Cali School of Music. \n Billy Hart  is one of the most influential jazz drummers of his generation, celebrated for his versatility across straight-ahead, avant-garde, and popular styles. He has released 12 albums as a leader and appeared on more than 600 recordings, working with legends such as  Herbie Hancock, Miles Davis, Wes Montgomery, Stan Getz,  and  Charles Lloyd.  A founding member of  Quest  and a longtime member of the  Cookers , Hart also leads his own acclaimed quartet. Born in Washington, D.C., he began performing as a teenager with  Buck Hill  and  Shirley Horn  before touring in the 1960s with  Jimmy Smith, Wes Montgomery,  and  Eddie Harris.  Since then, his career has spanned collaborations with both jazz icons and experimental innovators. \n Don\u2019t miss this rare opportunity to learn from one of the most influential voices in modern jazz drumming!"
+  },
+  {
+    "title": "Linguistics Book Club: Algospeak",
+    "date": "2025-10-13T18:00:00+00:00",
+    "organization": "College of Humanities and Social Sciences (CHSS)",
+    "location": "Schmitt Hall 204",
+    "link": "https://montclair.campuslabs.com/engage/event/11737980",
+    "description": "We are excited to launch the Linguistics Book Club this semester! The goal is to bring folks who like to talk about language and linguistics together to chat about engaging, accessible books that connect to themes in linguistics. \n Here\u2019s the plan for this fall: 1\ufe0f\u20e3 October 13, 2:00\u20133:00 pm \u2014 AlgoSpeak by Adam Aleksic We are sharing this now so you have time to read. We will follow up with the room details closer to the date. \n All students, undergraduate and graduate, are very welcome. Bring your curiosity, your questions, and your favorite passages. \n If you are interested, go ahead and start AlgoSpeak. You can access the book through the library!"
   },
   {
     "title": "Study Abroad 101",
@@ -2080,20 +2080,20 @@
     "description": "Members of the complexionette team will come together to learn and practice the taught dance material."
   },
   {
-    "title": "A.LIFE Ministry ",
-    "date": "2025-10-17T00:30:00+00:00",
-    "organization": "A.LIFE",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11602648",
-    "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
-  },
-  {
     "title": "Complexions Practice",
     "date": "2025-10-17T00:30:00+00:00",
     "organization": "Complexions",
     "location": "Student Center 250B - Ballroom B",
     "link": "https://montclair.campuslabs.com/engage/event/11681892",
     "description": "complexions practice"
+  },
+  {
+    "title": "A.LIFE Ministry ",
+    "date": "2025-10-17T00:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11602648",
+    "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
   },
   {
     "title": "Group X - Yoga",
@@ -3685,7 +3685,7 @@
     "organization": "Montclair State University Players",
     "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/11768273",
-    "description": "Rehearsal for Players' Romeo & Juliet"
+    "description": ""
   },
   {
     "title": "Sweet Talk - Dinallo",
@@ -11021,7 +11021,7 @@
     "organization": "Athletics",
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/11342687",
-    "description": ""
+    "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
   },
   {
     "title": "Open Play Pickleball",
