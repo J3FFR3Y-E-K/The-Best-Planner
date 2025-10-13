@@ -1,53 +1,5 @@
 [
   {
-    "title": "Phi Delta Theta Chapter",
-    "date": "2025-10-12T22:30:00+00:00",
-    "organization": "Phi Delta Theta",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11680330",
-    "description": "Phi Delta Theta Weekly Chapter"
-  },
-  {
-    "title": "Chapter Meeting",
-    "date": "2025-10-12T23:30:00+00:00",
-    "organization": "Kappa Sigma",
-    "location": "University Hall 2006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11763527",
-    "description": "Kappa Sigma Chapter Meeting"
-  },
-  {
-    "title": "Church on Campus: Montclair State Takeover",
-    "date": "2025-10-12T14:00:00+00:00",
-    "organization": "First Love ",
-    "location": "Student Center Underground - The Underground",
-    "link": "https://montclair.campuslabs.com/engage/event/11768839",
-    "description": "Get Excited for Ready @ 20 Church on Campus Montclair State Takeover! \ud83d\udd25\ud83c\udf89 \n Join us for a fun-filled time of singing, dancing, laughter, and the Word of God! Ready @ 20 is all about experiencing real joy and freedom in Jesus \u2014 not just religion, but a relationship. \n This is your invitation to experience Jesus in a fresh way. See\u00a0you\u00a0there!"
-  },
-  {
-    "title": "Jack - O - lantern Floats",
-    "date": "2025-10-13T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Stone Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11720565",
-    "description": "Come enjoy Jack - O - lantern Floats! Join us on October 12th from 8PM to 10PM in Stone Hall. All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Donuts and Conversations",
-    "date": "2025-10-13T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Bohn Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665949",
-    "description": "Join us on October 12th in the Bohn Lounge enjoying a night for a good conversation, jokes, and laughs! While snacking on yummy donuts! Whether you're here for the vibes, the snacks, or just to get out the room--join us! All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Theta Phi Alpha- Chapter Meeting",
-    "date": "2025-10-12T21:00:00+00:00",
-    "organization": "Theta Phi Alpha",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11680380",
-    "description": "Weekly chapter meeting with active members"
-  },
-  {
     "title": "Art Forum featuring Ellie Krakow",
     "date": "2025-10-13T09:20:00+00:00",
     "organization": "Art and Design",
@@ -224,20 +176,20 @@
     "description": "Join us every week for our PASO General Board Meetings, where culture, community, and leadership come together! These meetings are open to all members and students interested in learning more about Peruvian culture, supporting Latinx representation, and getting involved. \n \n \n All Montclair / Bloomfield Campus Students are Invited to Attend!"
   },
   {
-    "title": "Cru Bible Study! ",
-    "date": "2025-10-13T18:15:00+00:00",
-    "organization": "Cru",
-    "location": "Student Center 415 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11536919",
-    "description": "Cru is a caring community passionate about connecting people to Jesus Christ! \n We'll be going through scripture, having discussions, and fellowship in a safe space with the Lord."
-  },
-  {
     "title": "MUFASA Monday!",
     "date": "2025-10-13T18:15:00+00:00",
     "organization": "Montclair Unified Filipino American Student Association",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11717420",
     "description": "Join us for our weekly general body meetings every Monday!"
+  },
+  {
+    "title": "Cru Bible Study! ",
+    "date": "2025-10-13T18:15:00+00:00",
+    "organization": "Cru",
+    "location": "Student Center 415 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11536919",
+    "description": "Cru is a caring community passionate about connecting people to Jesus Christ! \n We'll be going through scripture, having discussions, and fellowship in a safe space with the Lord."
   },
   {
     "title": "Montclair Unraveled General Body Meeting!!!",
@@ -1184,20 +1136,20 @@
     "description": "Join us for an inspiring conversation with two trailblazing women entrepreneurs! Hear their stories, the personal struggles they've faced, and the challenges of being a woman in their field. Get real insights, honest advice, and motivations to chase your own dreams."
   },
   {
-    "title": "Bible Talk",
-    "date": "2025-10-15T18:00:00+00:00",
-    "organization": "Alpha Omega",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11662176",
-    "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
-  },
-  {
     "title": "Professional Styling Guide with Feliciano Women in Business",
     "date": "2025-10-15T18:00:00+00:00",
     "organization": "Feliciano Women in Business",
     "location": "School Of Business 124 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11665650",
     "description": "Come join the Feliciano Women in Business for a special styling session! Have you ever been stuck on the differences between business casual and professional attire? We will answer your questions and help you make a work appropriate outfit look-book."
+  },
+  {
+    "title": "Bible Talk",
+    "date": "2025-10-15T18:00:00+00:00",
+    "organization": "Alpha Omega",
+    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11662176",
+    "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
   },
   {
     "title": "Korean skin care",
@@ -1272,20 +1224,20 @@
     "description": "Join us for the 5th annual\u00a0Hispanic Heritage Month Block Party! DJ Music & live performances!"
   },
   {
-    "title": "Whiplash Watch Party",
-    "date": "2025-10-15T18:00:00+00:00",
-    "organization": "Montclair State Music Club",
-    "location": "Dickson Hall 177 - Brantl Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11602729",
-    "description": "Watch Chazelle\u2019s 2014 film  Whiplash  with us! Popcorn and light refreshments provided. \n \u00a0 \n Synopsis:\u00a0Andrew Neiman (Miles Teller) is an ambitious young jazz drummer, in pursuit of rising to the top of his elite music conservatory. Terence Fletcher (J.K. Simmons), an instructor known for his terrifying teaching methods, discovers Andrew and transfers the aspiring drummer into the top jazz ensemble, forever changing the young man's life. But Andrew's passion to achieve perfection quickly spirals into obsession, as his ruthless teacher pushes him to the brink of his ability and his sanity. ( IMDB )"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-10-15T18:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661386",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "Whiplash Watch Party",
+    "date": "2025-10-15T18:00:00+00:00",
+    "organization": "Montclair State Music Club",
+    "location": "Dickson Hall 177 - Brantl Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11602729",
+    "description": "Watch Chazelle\u2019s 2014 film  Whiplash  with us! Popcorn and light refreshments provided. \n \u00a0 \n Synopsis:\u00a0Andrew Neiman (Miles Teller) is an ambitious young jazz drummer, in pursuit of rising to the top of his elite music conservatory. Terence Fletcher (J.K. Simmons), an instructor known for his terrifying teaching methods, discovers Andrew and transfers the aspiring drummer into the top jazz ensemble, forever changing the young man's life. But Andrew's passion to achieve perfection quickly spirals into obsession, as his ruthless teacher pushes him to the brink of his ability and his sanity. ( IMDB )"
   },
   {
     "title": "Haitian Student Association General Body Meeting",
@@ -1808,20 +1760,20 @@
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20 \n Thursday: 11-12PM and 4-5PM \n Student Recreation Center - Pool"
   },
   {
-    "title": "Group X - Cycling",
-    "date": "2025-10-16T21:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/11617299",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-5:45pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
-  },
-  {
     "title": "Group X - BJJ",
     "date": "2025-10-16T21:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11617453",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-6:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Quentin"
+  },
+  {
+    "title": "Group X - Cycling",
+    "date": "2025-10-16T21:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11617299",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-5:45pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
   },
   {
     "title": "(UN)DOING (IN)JUSTICE: A Panel Discussion with Exoneree Lee Clark & the Proof Podcast Team",
@@ -2008,20 +1960,20 @@
     "description": "Members of the complexionette team will come together to learn and practice the taught dance material."
   },
   {
-    "title": "A.LIFE Ministry ",
-    "date": "2025-10-17T00:30:00+00:00",
-    "organization": "A.LIFE",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11602648",
-    "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
-  },
-  {
     "title": "Complexions Practice",
     "date": "2025-10-17T00:30:00+00:00",
     "organization": "Complexions",
     "location": "Student Center 250B - Ballroom B",
     "link": "https://montclair.campuslabs.com/engage/event/11681892",
     "description": "complexions practice"
+  },
+  {
+    "title": "A.LIFE Ministry ",
+    "date": "2025-10-17T00:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11602648",
+    "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
   },
   {
     "title": "Group X - Yoga",
@@ -2496,14 +2448,6 @@
     "description": "Delta Chi Chapter"
   },
   {
-    "title": "KOMPAHOLIX PRACTICE ",
-    "date": "2025-10-21T00:30:00+00:00",
-    "organization": "Caribbean Students' Organization",
-    "location": "Life Hall 1402 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11754612",
-    "description": "Dance troupe Practice"
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2025-10-21T12:00:00+00:00",
     "organization": "Campus Recreation",
@@ -2814,14 +2758,6 @@
     "location": "Soccer Park",
     "link": "https://montclair.campuslabs.com/engage/event/11342521",
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
-  },
-  {
-    "title": "KOMPAHOLIX PRACTICE ",
-    "date": "2025-10-23T00:30:00+00:00",
-    "organization": "Caribbean Students' Organization",
-    "location": "Life Hall 1402 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11754614",
-    "description": "Dance troupe Practice"
   },
   {
     "title": "Group X - Yoga",
@@ -3656,14 +3592,6 @@
     "description": "New Member Ceremony for the new members of Theta Phi Alpha"
   },
   {
-    "title": "KOMPAHOLIX PRACTICE ",
-    "date": "2025-10-28T00:30:00+00:00",
-    "organization": "Caribbean Students' Organization",
-    "location": "Life Hall 1402 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11754613",
-    "description": "Dance troupe Practice"
-  },
-  {
     "title": "MSDC practice",
     "date": "2025-10-28T01:00:00+00:00",
     "organization": "Montclair State Dance Company",
@@ -3904,20 +3832,20 @@
     "description": "Welcome the autumn with our Fall Leaf Decorating event! Join us for a cozy and creative evening when all students can craft and customize fall leaves with paint, markers, and other craft supplies. Whether you're adding some fall cheer to your home decor or creating a special seasonal present, this do-it-yourself project is the perfect activity to celebrate the colors and spirit of the season.\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "A Jukebox Musical Rehearsal",
-    "date": "2025-10-29T00:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11747881",
-    "description": "Closed rehearsal for A Jukebox Musical"
-  },
-  {
     "title": "DIY Stuff Plushies",
     "date": "2025-10-29T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Bohn Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11720554",
     "description": "Unleash your inner child and get crafty with our DIY Stuffed Plush Workshop \u2014 the ultimate cozy, creative escape from college stress! Choose from a variety of cute designs, colors, and accessories to bring your unique creation to life \u2014 no experience needed, just your imagination! We\u2019ll provide all the materials and, comfy crafting space. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "A Jukebox Musical Rehearsal",
+    "date": "2025-10-29T00:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11747881",
+    "description": "Closed rehearsal for A Jukebox Musical"
   },
   {
     "title": "Totes and Treats",
@@ -4030,14 +3958,6 @@
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11627252",
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
-  },
-  {
-    "title": "CALI SCHOOL MIDWEEK SERIES: Immersive Residency Guest Violinist Stefan Jackiw - Performance",
-    "date": "2025-10-29T18:00:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "Leshowitz Recital Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11696928",
-    "description": "2:00 PM \u00a0Cali Midweek Series: Stefan Jackiw\u00a0 Leshowitz Recital Hall, Chapin Hall, Cali School of Music \n Stefan Jackiw \u00a0performs solo violin works and the dynamic opening movement of Mendelssohn\u2019s String Octet with Cali Graduate String Students. Hailed for playing that \u201ccombines poetry and purity with impeccable technique\u201d (Boston Globe), Jackiw has appeared with leading U.S. symphonies, tours internationally, and is a founding member of the Junction Trio. Artistic Director of the Hawaii Chamber Music Festival, his performances are praised as intelligent, sensitive, and deeply moving. Leshowitz Recital Hall, Chapin Hall, Cali School of Music \n FREE TICKETS \n More about Stefan Jackiw's Cali Immersive Residency Schedule"
   },
   {
     "title": "LinkedIn and Resume Workshop",
@@ -6824,20 +6744,20 @@
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
   },
   {
-    "title": "Coffee and Connections",
-    "date": "2025-11-12T19:00:00+00:00",
-    "organization": "Feliciano Women in Business",
-    "location": "Feliciano School of Business - Center for Entrepreneurship & Innovation",
-    "link": "https://montclair.campuslabs.com/engage/event/11454787",
-    "description": "Looking for tips on how to master coffee chats? Looking for a networking opportunity with other ladies in business? Come and join the Feliciano Women in Business for a good cup of coffee and connections!"
-  },
-  {
     "title": "Free Swim Lessons *Beginner*",
     "date": "2025-11-12T19:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Pool\u00a0",
     "link": "https://montclair.campuslabs.com/engage/event/11663934",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20 \n Wednesday: 2-3PM and 5-6PM \n Student Recreation Center - Pool"
+  },
+  {
+    "title": "Coffee and Connections",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Feliciano Women in Business",
+    "location": "Feliciano School of Business - Center for Entrepreneurship & Innovation",
+    "link": "https://montclair.campuslabs.com/engage/event/11454787",
+    "description": "Looking for tips on how to master coffee chats? Looking for a networking opportunity with other ladies in business? Come and join the Feliciano Women in Business for a good cup of coffee and connections!"
   },
   {
     "title": "French Conversation Hour With Assane K! Every Wednesday",
