@@ -1,61 +1,5 @@
 [
   {
-    "title": "Group X - Pilates",
-    "date": "2025-10-13T14:45:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11597707",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 10:45am - 11:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
-  },
-  {
-    "title": "Midterm tabling Event",
-    "date": "2025-10-13T15:00:00+00:00",
-    "organization": "Student Government Association, Inc.",
-    "location": "Dickson Hall 1C07 - Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/11738499",
-    "description": "Come out to our Midterm Tabling! Come grab De-Stress toys and other goodies"
-  },
-  {
-    "title": "Empanada Sale",
-    "date": "2025-10-13T13:45:00+00:00",
-    "organization": "Lambda Upsilon Lambda",
-    "location": "University Hall 1C01 - Lobby Table",
-    "link": "https://montclair.campuslabs.com/engage/event/11612244",
-    "description": "Empanada Fundraiser Sale! \ud83c\udf1f Support a great cause and enjoy delicious, homemade empanadas! \n The Hermanos Of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc., are hosting a special empanada sale to raise funds for our Spring 2025 scholarship and The Florence Immigrant & Refugee Rights Project. Every bite helps make a difference! \n \ud83e\udd5f What\u2019s on the menu? \n \n \n Beef Empanadas \n \n \n Chicken Empanadas \n \n \n Cheese Empanadas \n \n \n \u00a0 \n \ud83d\udcb5 Price: $3 each or $5 for 2 \n Come hungry, bring your friends, and help us reach our fundraising goal\u2014one empanada at a time! \n The Hermanos Of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc."
-  },
-  {
-    "title": "Group X - Cycling",
-    "date": "2025-10-13T16:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/11597792",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 12:30pm - 01:15pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Bridget"
-  },
-  {
-    "title": "BAKE SALES",
-    "date": "2025-10-13T16:00:00+00:00",
-    "organization": "Montclair State Dance Company",
-    "location": "University Hall 1C01 - Lobby Table",
-    "link": "https://montclair.campuslabs.com/engage/event/11602616",
-    "description": "Come buy a sweet treat from Montclair State Dance Company!"
-  },
-  {
-    "title": "OPT Workshop - International Students (F-1 Visa Holders) Only",
-    "date": "2025-10-13T17:00:00+00:00",
-    "organization": "Office of Global Engagement",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/11322485",
-    "description": "Learn more about pre-completion and post-completion Optional Practical Training (OPT) for F-1 students. Any student planning to apply for OPT is REQUIRED to attend a workshop before they can apply. This workshop is for CURRENT students ONLY - any other attendees will be removed."
-  },
-  {
-    "title": "Free Swim Lessons - Intermediate",
-    "date": "2025-10-13T17:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Pool",
-    "link": "https://montclair.campuslabs.com/engage/event/11664356",
-    "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20 \n Mondays, 1-2 p.m and 5-6 p.m. \n Student Recreation Center - Pool"
-  },
-  {
     "title": "Group X - Kickboxing",
     "date": "2025-10-13T18:00:00+00:00",
     "organization": "Campus Recreation",
@@ -112,14 +56,6 @@
     "description": "This overview will help familiarize you with APA citations\u2014an important part of academic writing in social science fields such as Business, Nursing, Psychology, Linguistics, Sociology, Economics, and Justice Studies. Bring your Reference pages and questions for extra help."
   },
   {
-    "title": "MSUPENSA OUTREACH",
-    "date": "2025-10-13T17:30:00+00:00",
-    "organization": "MSU Pensa",
-    "location": "Student Center Quad Information Table 2 - Information Table 2",
-    "link": "https://montclair.campuslabs.com/engage/event/11756158",
-    "description": "This event is an outreach to talk about Jesus and our club."
-  },
-  {
     "title": "PASO General Board Meeting",
     "date": "2025-10-13T18:15:00+00:00",
     "organization": "Peruvian-American Student Organization",
@@ -144,6 +80,14 @@
     "description": "Cru is a caring community passionate about connecting people to Jesus Christ! \n We'll be going through scripture, having discussions, and fellowship in a safe space with the Lord."
   },
   {
+    "title": "MSUPENSA OUTREACH",
+    "date": "2025-10-13T17:30:00+00:00",
+    "organization": "MSU Pensa",
+    "location": "Student Center Quad Information Table 2 - Information Table 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11756158",
+    "description": "This event is an outreach to talk about Jesus and our club."
+  },
+  {
     "title": "Montclair Unraveled General Body Meeting!!!",
     "date": "2025-10-13T18:15:00+00:00",
     "organization": "Montclair Unraveled",
@@ -152,12 +96,20 @@
     "description": "Do you want to learn a new knitting or crochet pattern? Do you want to make a cool craft but can't pick one or figure out where to start? Then come to the Montclair Unraveled!\u00a0 \n Join us and learn how to make something new like accessories, decor, or plushies! Already have something you're working on? Feel free to make some progress here! All are welcome, whether you have the most craft experience possible or none at all. Come by and enjoy the company of others who share your passions for the fiber arts!"
   },
   {
-    "title": "Fade the Stigma: Free Haircuts + Real Conversations",
-    "date": "2025-10-13T17:00:00+00:00",
-    "organization": "Sigma Lambda Beta International Fraternity Inc.",
-    "location": "Student Center Quad1 - Upper Quad",
-    "link": "https://montclair.campuslabs.com/engage/event/11747973",
-    "description": "On Monday, October 13th, the brothers of Sigma Lambda Beta International Fraternity, Inc. will partner with Mane FX Hair Gallery to host a pop-up event offering free haircuts to students in exchange for their participation in a candid conversation about mental health. \n While receiving their haircut, students will be invited to engage in thoughtful dialogue with fraternity brothers, exploring mental health from both personal and communal perspectives. These conversations aim to foster vulnerability, awareness, and connection within the campus community. \n Throughout the event, interviews, behind-the-scenes moments, and b-roll footage will be captured to produce a compelling recap and awareness for World Mental Health Awareness video as a tribute to the stories shared and a call to prioritize mental well-being."
+    "title": "Panhellenic Meeting ",
+    "date": "2025-10-13T19:00:00+00:00",
+    "organization": "National Panhellenic Conference",
+    "location": "University Hall 2008 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11708530",
+    "description": "Panhellenic Weekly Meeting"
+  },
+  {
+    "title": "Stem Squid Games Part 2",
+    "date": "2025-10-13T18:15:00+00:00",
+    "organization": "STEM Synergy",
+    "location": "University Hall 2009 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11763491",
+    "description": "STEM squid games part 2."
   },
   {
     "title": "Red Hawk Pantry",
@@ -192,6 +144,14 @@
     "description": "Join the Production Staff of\u00a0 The Normal Review , MSU's Creative Arts Magazine, to participate in reviews and voting of the past week's student submissions."
   },
   {
+    "title": "Boo-lunteer Bags",
+    "date": "2025-10-13T18:15:00+00:00",
+    "organization": "Association of Latino Professionals For America",
+    "location": "Student Center 2C01 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/11718404",
+    "description": "Get into the spooky spirit while giving back! Join ALPFA as we come together to assemble Halloween goodie bags for the Office of Community Engagement & Partnership's first-ever Trunk or Treat on October 24th. Help us in spreading joy, supporting our community, and ensuring an enjoyable Halloween! All supplies will be provided."
+  },
+  {
     "title": "General Body Meeting",
     "date": "2025-10-13T18:00:00+00:00",
     "organization": "Pakistani Student Organization",
@@ -206,30 +166,6 @@
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/11662230",
     "description": "The Aliens are invading! Quickly plan your escape and figure out how you're going to survive. You can be alone but we strongly encourage group work. We're strong in numbers after all."
-  },
-  {
-    "title": "Stem Squid Games Part 2",
-    "date": "2025-10-13T18:15:00+00:00",
-    "organization": "STEM Synergy",
-    "location": "University Hall 2009 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11763491",
-    "description": "STEM squid games part 2."
-  },
-  {
-    "title": "Boo-lunteer Bags",
-    "date": "2025-10-13T18:15:00+00:00",
-    "organization": "Association of Latino Professionals For America",
-    "location": "Student Center 2C01 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/11718404",
-    "description": "Get into the spooky spirit while giving back! Join ALPFA as we come together to assemble Halloween goodie bags for the Office of Community Engagement & Partnership's first-ever Trunk or Treat on October 24th. Help us in spreading joy, supporting our community, and ensuring an enjoyable Halloween! All supplies will be provided."
-  },
-  {
-    "title": "Panhellenic Meeting ",
-    "date": "2025-10-13T19:00:00+00:00",
-    "organization": "National Panhellenic Conference",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11708530",
-    "description": "Panhellenic Weekly Meeting"
   },
   {
     "title": "Tabling",
@@ -254,14 +190,6 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11599052",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
-  },
-  {
-    "title": "\"Grab & Go: Essential Kits\"",
-    "date": "2025-10-13T20:00:00+00:00",
-    "organization": "Montclair State Circle K",
-    "location": "Student Center 2C01 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/11718412",
-    "description": "Montclair State University Circle K International will be hosting a \u201cGrab and Go: Essential Kits\u201d event. At this event, members will staff a table on campus to distribute pre-assembled essential kits to students. The purpose of this initiative is to provide students with basic hygiene and self-care items in a convenient and accessible manner."
   },
   {
     "title": "Week of Wisdom ",
@@ -944,20 +872,20 @@
     "description": "Come craft decorations to spruce up your dorm room in Blanton's lounge from 8 PM to 10 PM on October 14th. Your room needs a costume too! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Origami Creations ",
-    "date": "2025-10-15T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Freeman Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11720549",
-    "description": "Need a way to relax after countless hours of studying? Come join us at Freeman Hall on 8:00 PM, October 14th, for a relaxing night of origami! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Dirty Soda Bar",
     "date": "2025-10-15T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Machuga Heights",
     "link": "https://montclair.campuslabs.com/engage/event/11662489",
     "description": "Craving a late night treat on campus? Come down to the Machuga Kitchen and Lounge to have our community programmers whip you up a dirty soda! \n  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Origami Creations ",
+    "date": "2025-10-15T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Freeman Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720549",
+    "description": "Need a way to relax after countless hours of studying? Come join us at Freeman Hall on 8:00 PM, October 14th, for a relaxing night of origami! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Week of Wisdom ",
@@ -1120,20 +1048,20 @@
     "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
   },
   {
-    "title": "Professional Styling Guide with Feliciano Women in Business",
-    "date": "2025-10-15T18:00:00+00:00",
-    "organization": "Feliciano Women in Business",
-    "location": "School Of Business 124 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11665650",
-    "description": "Come join the Feliciano Women in Business for a special styling session! Have you ever been stuck on the differences between business casual and professional attire? We will answer your questions and help you make a work appropriate outfit look-book."
-  },
-  {
     "title": "Korean skin care",
     "date": "2025-10-15T18:00:00+00:00",
     "organization": "Korean Culture & Language Association",
     "location": "University Hall 2011 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11763529",
     "description": "Come Glow up with us! Are you ready to unlock the secrets to radiant glass skin? Join Kcla for a fun filled Korean skin care event where beauty meets tradition! Enjoy free samples and skincare tips !"
+  },
+  {
+    "title": "Professional Styling Guide with Feliciano Women in Business",
+    "date": "2025-10-15T18:00:00+00:00",
+    "organization": "Feliciano Women in Business",
+    "location": "School Of Business 124 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11665650",
+    "description": "Come join the Feliciano Women in Business for a special styling session! Have you ever been stuck on the differences between business casual and professional attire? We will answer your questions and help you make a work appropriate outfit look-book."
   },
   {
     "title": "Korean skin care",
@@ -1224,20 +1152,20 @@
     "description": "Watch Chazelle\u2019s 2014 film  Whiplash  with us! Popcorn and light refreshments provided. \n \u00a0 \n Synopsis:\u00a0Andrew Neiman (Miles Teller) is an ambitious young jazz drummer, in pursuit of rising to the top of his elite music conservatory. Terence Fletcher (J.K. Simmons), an instructor known for his terrifying teaching methods, discovers Andrew and transfers the aspiring drummer into the top jazz ensemble, forever changing the young man's life. But Andrew's passion to achieve perfection quickly spirals into obsession, as his ruthless teacher pushes him to the brink of his ability and his sanity. ( IMDB )"
   },
   {
-    "title": "Haitian Student Association General Body Meeting",
-    "date": "2025-10-15T18:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11763506",
-    "description": "Sak Pas\u00e8! Welcome to HSA\u2019s General Body meetings, where we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in University Hall room 2026 every Wednesday 2:00pm- 3:30pm!"
-  },
-  {
     "title": "NAIS GBM #1",
     "date": "2025-10-15T18:00:00+00:00",
     "organization": "Native American and Indigenous Studies Club",
     "location": "DKSN 430",
     "link": "https://montclair.campuslabs.com/engage/event/11770809",
     "description": "The first club meeting for the Native American and Indigenous Studies Club for Fall 2025."
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting",
+    "date": "2025-10-15T18:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11763506",
+    "description": "Sak Pas\u00e8! Welcome to HSA\u2019s General Body meetings, where we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in University Hall room 2026 every Wednesday 2:00pm- 3:30pm!"
   },
   {
     "title": "Garfield Karaoke",
@@ -1448,20 +1376,20 @@
     "description": "Sing your heart out or put on a show, while enjoying a selection of Bubble Tea provided by yours truly."
   },
   {
-    "title": "Ghost in The Graveyard",
-    "date": "2025-10-15T23:00:00+00:00",
-    "organization": "Bloomfield Black Student Union",
-    "location": "Bloomfield - Talbott Hall Quad - Main Campus Quad",
-    "link": "https://montclair.campuslabs.com/engage/event/11775037",
-    "description": "Something spooky is creeping into Spirit Week... and it\u2019s faster than you think! \ud83d\udca8 Get ready for a night of thrills, chills, and chasing  with a twist . Who\u2019s the ghost? Who\u2019s in the graveyard? You\u2019ll have to come and find out... Wear your sneakers, bring your energy, and prepare for a hauntingly good time!"
-  },
-  {
     "title": "Family Feud",
     "date": "2025-10-15T23:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Center Gym",
     "link": "https://montclair.campuslabs.com/engage/event/11574427",
     "description": "Get ready for an unforgettable night of laughs and competition at our Campus Recreation Center\u2019s College Edition: Family Feud Night! Bring your A-game and team up with friends as you battle it out in a fun version of the classic game show \u2014 with a campus twist. The stakes? A chance to win tickets to an NBA game! Don\u2019t miss out! \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Wednesday, October 15, 2025 \n 7:00p.m. \u2013 9:00p.m. \n Student Recreation Center Gym"
+  },
+  {
+    "title": "Ghost in The Graveyard",
+    "date": "2025-10-15T23:00:00+00:00",
+    "organization": "Bloomfield Black Student Union",
+    "location": "Bloomfield - Talbott Hall Quad - Main Campus Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/11775037",
+    "description": "Something spooky is creeping into Spirit Week... and it\u2019s faster than you think! \ud83d\udca8 Get ready for a night of thrills, chills, and chasing  with a twist . Who\u2019s the ghost? Who\u2019s in the graveyard? You\u2019ll have to come and find out... Wear your sneakers, bring your energy, and prepare for a hauntingly good time!"
   },
   {
     "title": "Praise Dance Practice",
@@ -1888,6 +1816,14 @@
     "description": "\ud83c\udfac  Join us for a thrilling double feature night filled with suspense, scares, and snacks!  \ud83c\udfac \n \ud83d\udcc5  Date:  October 16th, 2025 \ud83d\udccd  Location:  Center for Computing and Information Science (CCIS) 133 \u2013 Lecture Hall \n \ud83d\udcb8  Admission:   Free! \ud83c\udf7f  Food, snacks, and drinks  will be available for purchase during the event. \ud83d\udcf8  Capture the memories!  A digital camera and Polaroid photos will be available for a small fee during intermission. \n \ud83c\udfad  Wear your best costume! There will be a  costume contest  \u2014 the best costume will be announced at the end of the night, and the winner will receive a spooky prize! \ud83d\udc7b \n \ud83c\udfa5  Movie Lineup: \n \n \n Coraline  \u2013 5:00 PM \n \n \n Intermission  \u2013 6:40 PM to 7:35 PM \n \n \n Scream  \u2013 7:35 PM \n \n \n \u2728 Come support the  Medical Case & Diagnostics Club , enjoy back-to-back movies, grab some treats, and make memories with friends at this chillingly fun event!"
   },
   {
+    "title": "Firebringer Rehearsal",
+    "date": "2025-10-16T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center Underground - The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/11776720",
+    "description": "Rehearsal for Players' Comedy, Firebringer."
+  },
+  {
     "title": "Daughta's Halloween Kiki Ball ",
     "date": "2025-10-16T22:00:00+00:00",
     "organization": "Daughta Speaks",
@@ -1936,6 +1872,14 @@
     "description": "Chi Upsilon Sigma is spreading warmth this season with our Winter Care Packages for the homeless. \u2744\ufe0f\ud83e\udde3 Each bundle is filled with cozy essentials and care to bring comfort during the cold months. Together, we\u2019re wrapping our community in love, one package at a time. \u2665\ufe0f\u2728"
   },
   {
+    "title": "A Jukebox Musical Rehearsal",
+    "date": "2025-10-17T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 417 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11776738",
+    "description": "Closed rehearsal for A Jukebox Musical"
+  },
+  {
     "title": "Cru Large Group! ",
     "date": "2025-10-17T00:45:00+00:00",
     "organization": "Cru",
@@ -1968,20 +1912,20 @@
     "description": "Members of the complexionette team will come together to learn and practice the taught dance material."
   },
   {
-    "title": "A.LIFE Ministry ",
-    "date": "2025-10-17T00:30:00+00:00",
-    "organization": "A.LIFE",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11602648",
-    "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
-  },
-  {
     "title": "Complexions Practice",
     "date": "2025-10-17T00:30:00+00:00",
     "organization": "Complexions",
     "location": "Student Center 250B - Ballroom B",
     "link": "https://montclair.campuslabs.com/engage/event/11681892",
     "description": "complexions practice"
+  },
+  {
+    "title": "A.LIFE Ministry ",
+    "date": "2025-10-17T00:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11602648",
+    "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
   },
   {
     "title": "Group X - Yoga",
@@ -2032,14 +1976,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 09/02 - 12/17 \n 12pm-12:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
   },
   {
-    "title": "Crash-A-Class Fall 2025",
-    "date": "2025-10-13T16:00:00+00:00",
-    "organization": "University College",
-    "location": "Various Classroom Locations",
-    "link": "https://montclair.campuslabs.com/engage/event/11417259",
-    "description": "Ever wonder what it's like in that class everyone's been talking about? Curious about what you'll learn in different majors across campus? You're in luck! \n \u00a0 \n Running  Monday, October 13 through Friday, October 17 ,\u00a0 \"Crash-A-Class\" \u00a0is the perfect opportunity to experience and explore different courses you may consider taking in the future and with Fall 2025 Registration\u00a0 right around the corner , there's no better time to try!\u00a0 \n \u00a0 \n CLICK HERE TO CHECK OUT THE SELECTION OF COURSES & SIGN UP TODAY! Last day to Sign up is Friday, October 10th. \n \u00a0 \n \"Crash-a-Class\" is an exclusive opportunity for students to sit in on a class for a day to learn more about specific programs from a seat\u00a0 right inside \u00a0the classroom! Held just before spring registration, this program offers students a chance to try out a class\u00a0 before \u00a0registering for it for the coming semester! Like what you've learned? Consider trying out another course in the same subject or speaking with your academic advisor to learn more about adding it to your academic plan!\u00a0 \n \u00a0 \n \"Crash-a-Class\" is a free program hosted by University College in collaboration with all of the unrestricted, undergraduate Colleges and Schools on campus. There is no fee or penalty to attend or participate. Students participating in \"Crash-a-Class\"\u00a0 will not be excused from their regularly scheduled classes\u00a0 to attend a course they've registered to \"crash.\""
-  },
-  {
     "title": "MYO: Stain Glass",
     "date": "2025-10-17T15:00:00+00:00",
     "organization": "EATS by Gourmet Dining",
@@ -2054,6 +1990,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11352362",
     "description": "Ready to compete, connect and have fun? Join our intramural 3v3 Basketball or Volleyball leagues this fall that are open to everyone with no experience! \n \n League Registration Deadline: \n - October 17, 2025;\u00a0 Games begin AFTER Fall Break \n \u00a0 \n Registration Info: \n - Create a team by October 17, 2025 on\u00a0 IMLeagues.com/Montclairstate \u00a0and make payment at rec.montclair.edu or in the Student Recreation Center main office.\u00a0 \n - Join a team at any time until the last game of the regular season! \n - Payment is $10/player or $60/team (for Montclair organizations only)."
+  },
+  {
+    "title": "Crash-A-Class Fall 2025",
+    "date": "2025-10-13T16:00:00+00:00",
+    "organization": "University College",
+    "location": "Various Classroom Locations",
+    "link": "https://montclair.campuslabs.com/engage/event/11417259",
+    "description": "Ever wonder what it's like in that class everyone's been talking about? Curious about what you'll learn in different majors across campus? You're in luck! \n \u00a0 \n Running  Monday, October 13 through Friday, October 17 ,\u00a0 \"Crash-A-Class\" \u00a0is the perfect opportunity to experience and explore different courses you may consider taking in the future and with Fall 2025 Registration\u00a0 right around the corner , there's no better time to try!\u00a0 \n \u00a0 \n CLICK HERE TO CHECK OUT THE SELECTION OF COURSES & SIGN UP TODAY! Last day to Sign up is Friday, October 10th. \n \u00a0 \n \"Crash-a-Class\" is an exclusive opportunity for students to sit in on a class for a day to learn more about specific programs from a seat\u00a0 right inside \u00a0the classroom! Held just before spring registration, this program offers students a chance to try out a class\u00a0 before \u00a0registering for it for the coming semester! Like what you've learned? Consider trying out another course in the same subject or speaking with your academic advisor to learn more about adding it to your academic plan!\u00a0 \n \u00a0 \n \"Crash-a-Class\" is a free program hosted by University College in collaboration with all of the unrestricted, undergraduate Colleges and Schools on campus. There is no fee or penalty to attend or participate. Students participating in \"Crash-a-Class\"\u00a0 will not be excused from their regularly scheduled classes\u00a0 to attend a course they've registered to \"crash.\""
   },
   {
     "title": "Group X - Pilates",
@@ -2072,6 +2016,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 09/02 - 12/17 \n 1:30pm-2:15pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
   },
   {
+    "title": "Pie A Mu ",
+    "date": "2025-10-17T16:00:00+00:00",
+    "organization": "Mu Sigma Upsilon Sorority, Incorporated",
+    "location": "Student Center Quad1 - Upper Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/11776799",
+    "description": "Come pie some of your favorite Mu's ;)"
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2025-10-17T18:15:00+00:00",
     "organization": "Campus Recreation",
@@ -2085,7 +2037,7 @@
     "organization": "College of Humanities and Social Sciences (CHSS)",
     "location": "University Hall 7th Floor Conference Center",
     "link": "https://montclair.campuslabs.com/engage/event/11643347",
-    "description": "The 18th annual professional development program organized by the Coccia Institute for the Italian Experience in America and Prof.ssa Enza Antenos, Dept. of World Languages & Cultures, at Montclair State University. This year\u2019s event will be held on  Friday, October 17, 9:00 am-3:30 pm , in the University Hall Conference Center (7th Floor) at Montclair State University. The annual unveiling of the national Coccia-Inserra Award for Excellence and Innovation in the Teaching of Italian (K-12) will be presented on this occasion. \n The  registration  fee will be $80 for teachers of Italian and $30 for graduate students/prospective teachers. Registration fee includes Luncheon and Parking. \n We are looking forward to welcoming back past attendees and greeting new members of the teaching community! Please go ahead and  register  even if you have not as yet received formal authorization from your school district/Board of Ed \u2013 we understand that it takes time! \n REGISTER TODAY! \n If any questions arise, please do not hesitate to contact Mark Rotella, the Director of the Coccia Institute for the Italian Experience in America, at rotellam@montclair.edu or Cristina Latino, Program Coordinator of the Coccia Institute, at latinoc@montclair.edu."
+    "description": ""
   },
   {
     "title": "Group X - Kickboxing",
@@ -2142,6 +2094,14 @@
     "location": "Russ Hall KOPS Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11613728",
     "description": "Coffeehouse is our live music event where students can sign up to perform in Russ Lounge. Whether you\u2019re playing, singing, or just coming to hang out, it\u2019s always a great night of creativity and community. \n \u00a0 \n The goal of the event is to turn Russ Lounge into a performance space that can accommodate an audience, but it\u2019s also a hands-on opportunity to learn how to set up a performance from start to finish. We will be mixing on a Midas M32R, so it's also an opportunity to learn how digital mixers for live audio work. All that prep work culminates in a show featuring Montclair State students from 7 PM to 9:15 PM. We go through the process of setup, performance, and breakdown. IF this interests you, please fill out\u00a0 this form \u00a0for more information on how to join the crew. \n \u00a0 \n For those interested in performing in the upcoming\u00a0coffeehouse, we implore you to fill out \u00a0this google form , all applicants\u00a0will receive an email with the setlist once all responses have been sent out! \n \u00a0 \n See you soon, stay groovy!! \n \u00a0 \n All students are welcome, commuters need to be signed in a with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "BSU Tryout ",
+    "date": "2025-10-17T21:30:00+00:00",
+    "organization": "Black Student Union",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/11776745",
+    "description": "Pianist Tryouts"
   },
   {
     "title": " Lip-Sync For Your Life Night",
@@ -3830,6 +3790,14 @@
     "location": "Student Center 250AB - Ballrooms A and B",
     "link": "https://montclair.campuslabs.com/engage/event/11690880",
     "description": "Players tech rehearsal for the The Rocky Horror, Horror Picture Show"
+  },
+  {
+    "title": "Firebringer Rehearsal",
+    "date": "2025-10-28T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center Underground - The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/11776721",
+    "description": "Rehearsal for Players' Comedy, Firebringer."
   },
   {
     "title": "Halloween Mini Golf",
@@ -8624,6 +8592,14 @@
     "description": "Test out your knowledge of the world at our Worldwide Trivia at the Count Basie lounge! We will have fun learning all sorts of new facts about different places at 8:00 PM on November 21st. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "WORSHIP NIGHT (REVIVE US AGAIN)",
+    "date": "2025-11-22T00:00:00+00:00",
+    "organization": "I lift Jesus",
+    "location": "Dickson Hall 177 - Brantl Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11777578",
+    "description": "Join us for a powerful and refreshing  Night of Worship  hosted by the I LIFT JESUS Movement at Montclair State University! \n This semester\u2019s theme,  \u201cRevive Us Again\u201d , draws inspiration from  Colossians 3:16 , calling students to a deeper experience with God through spirit-filled worship, community, and truth from the Word of God. \n Whether you're longing for revival in your personal life, seeking a vibrant faith community, or just curious to explore, this night is for  you . \n Expect: \ud83c\udfb6 Live Worship \ud83d\udcd6 Encouraging Word \ud83d\ude4f Prayer & Impartation \ud83c\udf7d\ufe0f Free food & community fellowship \n Come with an open heart \u2014 leave  empowered, revived, and refreshed . All students are welcome!"
+  },
+  {
     "title": "Theta Phi Alpha- New Member Education Program: Week 1",
     "date": "2025-11-22T01:30:00+00:00",
     "organization": "Theta Phi Alpha",
@@ -10886,6 +10862,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11617462",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-6:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Quentin"
+  },
+  {
+    "title": "Wipeout",
+    "date": "2025-12-11T22:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center 1200 - Natatorium",
+    "link": "https://montclair.campuslabs.com/engage/event/11777896",
+    "description": "Have you ever watched the show WipeOut on TV and laughed at everyone who would just\u2026 Wipeout? It's your turn to step up to the plate! Stop by the Recreation Center and see if you have what it takes to win! Bring all your speed and have a chance to win the grand prize! Bring a friend and see who the real Wipeout champion is. You wouldn\u2019t want to miss out on this splashing event, try not to WIPEOUT! *bathing suits encouraged* \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Thursday, December 11 \n 5pm-7pm \n Student Recreation Center Pool"
   },
   {
     "title": "Group X - Pilates",
