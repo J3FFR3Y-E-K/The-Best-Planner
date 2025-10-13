@@ -1,13 +1,5 @@
 [
   {
-    "title": "Art Forum featuring Ellie Krakow",
-    "date": "2025-10-13T09:20:00+00:00",
-    "organization": "Art and Design",
-    "location": "Calcia 140, Calcia Hall ",
-    "link": "https://montclair.campuslabs.com/engage/event/11753135",
-    "description": "The Department of Art & Design presents the Fall 2025 Art Forum series. Art Forum is a speaker series featuring artists, designers, art historians, curators, and art critics from around the world presenting their work and ideas in an open forum.\u00a0\u00a0 \n \u00a0 \n The next speaker in this engaging series is Ellie Krakow, an interdisciplinary artist whose practice spans sculpture, drawing, and photography. Ellie will be discussing her art, process, and share insights into her latest work.\u00a0\u00a0 \n \u00a0 \n Ellie Krakow\u2019s latest body of work features abstract figurative sculptures that merge human forms with elements inspired by medical instruments and hospital architecture. Exploring themes of vulnerability and intervention, her work examines how screening and treatment shape bodily experience, inviting reflection on the complex relationship between the individual, technology, and medical environments. \n \u00a0 \n Parallel to her studio practice, Krakow engages in text-based and curatorial projects that foster dialogue around themes such as bodily and environmental loss, mirroring as a site of transformation, and displaced or disabled communication. These projects have been presented and published through organizations including The Whitney Museum of American Art, VECTOR Artist Journal, Printed Matter, Thomas Hunter Project Space, Drain Magazine, Lookie Lookie, and Skowhegan Public Programs. \n \u00a0 \n Krakow earned her MFA from Hunter College and her BA through study at Yale University and the Rhode Island School of Design. She currently teaches sculpture and serves as the director of Mazmanian Gallery at Framingham State University. \n \u00a0 \n This speaker series is free and open to the public. \n \u00a0 \n Art Forum\u00a0 \n Monday, 10/13/25\u00a0 5:20pm-7pm \n Calcia Hall, Room 140"
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2025-10-13T12:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1973,7 +1965,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11618629",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 09/02 - 12/17 \n 9am-9:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
   },
   {
     "title": "Database Research Strategies and Advanced Search Tips",
@@ -5821,7 +5813,7 @@
     "organization": "Campus Activities",
     "location": "Student Center, 1908 Pizzeria",
     "link": "https://montclair.campuslabs.com/engage/event/11368925",
-    "description": ""
+    "description": "Gather your friends and head to 1908 for a night of sharp eyes, quick thinking, and friendly competition at Hidden Image Trivia Night! Compete for the chance to win awesome prizes \u2014 or just come for some pizza, wings, and maybe a few surprises. \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n Where and when? \n \n Thursday, November 6th \n 7 pm - 9 pm \n Student Center, 1908 Pizzeria \n \n Prizes \n \n 1st, 2nd, and 3rd place prizes  for top players tonight! 1st- $20 dining dollars, 2nd- $15 dining dollars, 3rd- $10 dining dollars! \n Everyone here is also entered for our  weekly door prize , which we\u2019ll give out at the end of the night.\u00a0 \n \n And don\u2019t forget our  mega raffle at the end of the trivia series  \u2013 the more nights you attend, the better your chances of winning something big!"
   },
   {
     "title": "A Jukebox Musical Rehearsal",
@@ -6784,20 +6776,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-12T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665709",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-11-12T19:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661389",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665709",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
