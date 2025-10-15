@@ -253,7 +253,7 @@
     "organization": "Native American and Indigenous Studies Club",
     "location": "DKSN 430",
     "link": "https://montclair.campuslabs.com/engage/event/11770809",
-    "description": ""
+    "description": "The first club meeting for the Native American and Indigenous Studies Club for Fall 2025."
   },
   {
     "title": "Garfield Karaoke",
@@ -464,20 +464,20 @@
     "description": "Sing your heart out or put on a show, while enjoying a selection of Bubble Tea provided by yours truly."
   },
   {
-    "title": "Family Feud",
-    "date": "2025-10-15T23:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center Gym",
-    "link": "https://montclair.campuslabs.com/engage/event/11574427",
-    "description": "Get ready for an unforgettable night of laughs and competition at our Campus Recreation Center\u2019s College Edition: Family Feud Night! Bring your A-game and team up with friends as you battle it out in a fun version of the classic game show \u2014 with a campus twist. The stakes? A chance to win tickets to an NBA game! Don\u2019t miss out! \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Wednesday, October 15, 2025 \n 7:00p.m. \u2013 9:00p.m. \n Student Recreation Center Gym"
-  },
-  {
     "title": "Ghost in The Graveyard",
     "date": "2025-10-15T23:00:00+00:00",
     "organization": "Bloomfield Black Student Union",
     "location": "Bloomfield - Talbott Hall Quad - Main Campus Quad",
     "link": "https://montclair.campuslabs.com/engage/event/11775037",
     "description": "Something spooky is creeping into Spirit Week... and it\u2019s faster than you think! \ud83d\udca8 Get ready for a night of thrills, chills, and chasing  with a twist . Who\u2019s the ghost? Who\u2019s in the graveyard? You\u2019ll have to come and find out... Wear your sneakers, bring your energy, and prepare for a hauntingly good time!"
+  },
+  {
+    "title": "Family Feud",
+    "date": "2025-10-15T23:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center Gym",
+    "link": "https://montclair.campuslabs.com/engage/event/11574427",
+    "description": "Get ready for an unforgettable night of laughs and competition at our Campus Recreation Center\u2019s College Edition: Family Feud Night! Bring your A-game and team up with friends as you battle it out in a fun version of the classic game show \u2014 with a campus twist. The stakes? A chance to win tickets to an NBA game! Don\u2019t miss out! \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Wednesday, October 15, 2025 \n 7:00p.m. \u2013 9:00p.m. \n Student Recreation Center Gym"
   },
   {
     "title": "Praise Dance Practice",
@@ -2912,20 +2912,20 @@
     "description": "Welcome the autumn with our Fall Leaf Decorating event! Join us for a cozy and creative evening when all students can craft and customize fall leaves with paint, markers, and other craft supplies. Whether you're adding some fall cheer to your home decor or creating a special seasonal present, this do-it-yourself project is the perfect activity to celebrate the colors and spirit of the season.\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "DIY Stuff Plushies",
-    "date": "2025-10-29T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Bohn Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11720554",
-    "description": "Unleash your inner child and get crafty with our DIY Stuffed Plush Workshop \u2014 the ultimate cozy, creative escape from college stress! Choose from a variety of cute designs, colors, and accessories to bring your unique creation to life \u2014 no experience needed, just your imagination! We\u2019ll provide all the materials and, comfy crafting space. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "A Jukebox Musical Rehearsal",
     "date": "2025-10-29T00:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/11747881",
     "description": "Closed rehearsal for A Jukebox Musical"
+  },
+  {
+    "title": "DIY Stuff Plushies",
+    "date": "2025-10-29T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11720554",
+    "description": "Unleash your inner child and get crafty with our DIY Stuffed Plush Workshop \u2014 the ultimate cozy, creative escape from college stress! Choose from a variety of cute designs, colors, and accessories to bring your unique creation to life \u2014 no experience needed, just your imagination! We\u2019ll provide all the materials and, comfy crafting space. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Totes and Treats",
@@ -6056,20 +6056,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-12T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665709",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-11-12T19:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661389",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665709",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
@@ -6677,7 +6677,7 @@
     "organization": "Montclair State University Players",
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/11747861",
-    "description": ""
+    "description": "Closed rehearsal for A Jukebox Musical"
   },
   {
     "title": "Open Play Pickleball",
@@ -7344,20 +7344,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11661390",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11665686",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2008 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11661390",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "Music Club GBM",
@@ -9125,7 +9125,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11616151",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+    "description": ""
   },
   {
     "title": "Brotherhood GBM",
