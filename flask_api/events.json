@@ -1,13 +1,5 @@
 [
   {
-    "title": "BSU Tryouts ",
-    "date": "2025-10-18T00:30:00+00:00",
-    "organization": "Black Student Union",
-    "location": "University Hall 2046 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11763521",
-    "description": "Tryouts for Harvest Ball"
-  },
-  {
     "title": "Red Hawk Pantry",
     "date": "2025-10-18T15:00:00+00:00",
     "organization": "Red Hawk Pantry",
@@ -557,7 +549,7 @@
     "organization": "Sprague Library",
     "location": "Sprague Library Instruction Room 203",
     "link": "https://montclair.campuslabs.com/engage/event/11668528",
-    "description": ""
+    "description": "Struggling to come up with a research topic? Join us at a hands-on workshop where you'll explore strategies (and library tools) to help you brainstorm ideas and narrow or broaden your focus to identify a topic that\u2019s both interesting and researchable. \n Register Here: \u00a0https://montclair.libcal.com/event/15416691"
   },
   {
     "title": "Group X - Zumba",
@@ -816,14 +808,6 @@
     "description": "Join us on October 24th from 8-10pm in the Machuga MPR as we chill and make our own bookmarks. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Romeo & Juliet Rehearsal",
-    "date": "2025-10-25T15:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665813",
-    "description": "Rehearsal for Players' Romeo & Juliet"
-  },
-  {
     "title": "Apple Picking",
     "date": "2025-10-25T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -854,14 +838,6 @@
     "location": "Dinallo Heights",
     "link": "https://montclair.campuslabs.com/engage/event/11720557",
     "description": "It's pumpkin season! Come to Dinallo Heights to paint your own mini pumpkin! We will be painting our pumpkins on October 25th, 8:00 PM, located at the Dinallo MPR.  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Romeo & Juliet Rehearsal",
-    "date": "2025-10-26T15:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665816",
-    "description": "Rehearsal for Players' Romeo & Juliet"
   },
   {
     "title": "Group X - Kickboxing",
@@ -3640,20 +3616,20 @@
     "description": "Graduate Student Voice Night \n Students perform works  from the classical and contemporary repertoire"
   },
   {
-    "title": "Open Play Pickleball",
-    "date": "2025-11-05T01:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center 1300 - Main Gym",
-    "link": "https://montclair.campuslabs.com/engage/event/11753696",
-    "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
-  },
-  {
     "title": "Soup & Sandwich Night",
     "date": "2025-11-05T01:00:00+00:00",
     "organization": "Residence Life",
     "location": "Sinatra Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11772440",
     "description": "Warm up and grab a bite! Stop by the Sinatra Hall Lounge on November 4th from 8:00 PM \u2013 10:00 PM to enjoy a comforting combo of soup and sandwiches. Relax with friends, take a break from the day, and enjoy a cozy meal together. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Open Play Pickleball",
+    "date": "2025-11-05T01:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center 1300 - Main Gym",
+    "link": "https://montclair.campuslabs.com/engage/event/11753696",
+    "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
   },
   {
     "title": "Pool Tournament",
@@ -3840,6 +3816,14 @@
     "description": "General body meeting for the MSMC"
   },
   {
+    "title": "Painting Diyas with SASA!",
+    "date": "2025-11-05T19:00:00+00:00",
+    "organization": "South Asian Student Association",
+    "location": "School Of Business 422 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11702178",
+    "description": "Before our biggest event of the year, Diwali, come learn more about the holiday and paint Diyas with us! \n Join us for some painting, food, and much more.\u00a0 \n All are welcome!"
+  },
+  {
     "title": "Haitian Student Association General Body Meeting ",
     "date": "2025-11-05T19:00:00+00:00",
     "organization": "Haitian Student Association",
@@ -3958,6 +3942,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11754333",
     "description": "Discover What\u2019s Possible in Our\u00a0MSW Program Our\u00a0 MSW program \u00a0prepares leaders in social work to help\u00a0children, youth and families in a diverse local and global society. The program aims to prepare advanced practitioners to provide a range of clinical and advocacy services to vulnerable children, adolescents and their families. We're hosting a \u00a0 virtual current student panel November 5 at 7:00 PM\u00a0(EST) .\u00a0This is a no-pressure, exploratory space to meet our team and determine if our program fits your goals. Program Snapshot \n \n Credits: On-campus and\u00a0 online \u00a0- 60 | Advanced Standing - 33 \n Program Length: 2 - 4 years\u00a0 \n Modality: On-campus or online\u00a0 \n Cohort:\u00a0Day option or evening option ( synchronous and asynchronous in online program ) \n \n Meet the Panelists\u00a0 \n \n Allegra Addeo, Maywood School District \n Alanna Matos, St. Mary's General Hospital \n Tim Nee, Mental Health Association, Center for Behavioral Health \n Skyler Segal, Mental Health Association of Essex/Morris"
+  },
+  {
+    "title": "Pillow Talk",
+    "date": "2025-11-06T00:15:00+00:00",
+    "organization": "Bloomfield Zeta Phi Beta Sorority, Inc.",
+    "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
+    "link": "https://montclair.campuslabs.com/engage/event/11665690",
+    "description": "Join the KaptiVating Kappa Phi Chapter of Zeta Phi Beta Sorority, Inc. for an intimate and open conversation space where real topics meet real talk. Pillow Talk creates a comfortable, judgment-free zone to discuss relationships, self-care, mental health, campus life, and everything in between."
   },
   {
     "title": "Choir Practice",
@@ -6516,7 +6508,7 @@
     "date": "2025-11-17T23:30:00+00:00",
     "organization": "Sprague Library",
     "location": "Sprague Library Instruction Room 203",
-    "link": "https://montclair.campuslabs.com/engage/event/11788925",
+    "link": "https://montclair.campuslabs.com/engage/event/11786545",
     "description": "Learn where and how to find books, articles, and more! We\u2019ll break down the differences between primary and secondary sources; when to use books vs. newspapers vs. scholarly journals vs. the internet; and share search strategies so you are locating sources smarter (not harder). Perfect if you\u2019re new to college-level research or just want to sharpen your skills before your next assignment. \n Register Here:\u00a0https://montclair.libcal.com/event/15561922"
   },
   {
@@ -6524,7 +6516,7 @@
     "date": "2025-11-17T23:30:00+00:00",
     "organization": "Sprague Library",
     "location": "Sprague Library Instruction Room 203",
-    "link": "https://montclair.campuslabs.com/engage/event/11786545",
+    "link": "https://montclair.campuslabs.com/engage/event/11788925",
     "description": "Learn where and how to find books, articles, and more! We\u2019ll break down the differences between primary and secondary sources; when to use books vs. newspapers vs. scholarly journals vs. the internet; and share search strategies so you are locating sources smarter (not harder). Perfect if you\u2019re new to college-level research or just want to sharpen your skills before your next assignment. \n Register Here:\u00a0https://montclair.libcal.com/event/15561922"
   },
   {
@@ -10749,7 +10741,7 @@
     "organization": "Athletics",
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/11342695",
-    "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
+    "description": ""
   },
   {
     "title": "Men's Basketball vs. NJCU",
