@@ -1,13 +1,5 @@
 [
   {
-    "title": "Field Hockey vs. TCNJ",
-    "date": "2025-10-18T20:30:00+00:00",
-    "organization": "Athletics",
-    "location": "Sprague Field",
-    "link": "https://montclair.campuslabs.com/engage/event/11465504",
-    "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
-  },
-  {
     "title": "Clay Day",
     "date": "2025-10-19T00:00:00+00:00",
     "organization": "Residence Life",
@@ -261,7 +253,7 @@
     "organization": "Art and Design",
     "location": "Finley Gallery, Finley Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11746649",
-    "description": ""
+    "description": "The Department of Art & Design is delighted to announce the Integrative Studio II Student-Led Exhibition for the Fall 2025 semester. This exhibition will feature 3 sections of ISII course:  Threads of Us - Origins,   Pathways , and  New Horizon.  This exhibition will be on view in Finley Gallery from October 07 to November 4, 2025.\u00a0 The opening reception is Tuesday, Oct. 7 from 2:30-4:30pm.\u00a0 \n \u00a0 \n The ISII exhibition is the culmination of a six-week journey shared by visual arts majors across three sections of Integrative Studio II. Using the pi\u00f1ata as a point of origin for their investigation, the artists delved deeply into the subject to expand their understanding of its history, materiality, and cultural significance. Building on this initial research, they created artworks across media exploring a range of themes, including construction, deconstruction, regeneration, and transformation. The student-artists collectively organized this public sharing of their work, together they met the challenge of presenting a visual throughline within the shared gallery spaces while still highlighting the unique voices of each class section. \n \u00a0 \n SECTION 01:   Pathways   led by Professor Jess Blaustein \n Andy Bermudez, Christian Campoverde, Rose Perez Cruz, Duy-Minh Do, Steven Jackson, Trevor Jennings, Will Kliment, Valerie Luxama, Tasir Plant, Luz Plata, Emmanuella Ponzio, Daniel Portillo, Denilson Raez, Shyeann Rapley, Fabrizio Rufasto, Giacomo Valerin \n \u00a0 \n SECTION 02:  Origins   led by Professor Simone Couto \n Edwin Acevedo, Mari Ahmed, Chez Amos, Rebecca Atwood, Lloyd Zheng, Veronica Avignone, Sarena Campos, Emily Garces, Keaoh Gonzalez, Katelin Guaman, Aj Malabunga, Jenna Mcdonough, Teiona Mcnair, Angeline Ortiz, Dante Ricci, Javier Salas, Ashly Solorzano \n \u00a0 \n SECTION 03 :  New Horizons   led by Professor Genevieve Lowe \n Timothy Andras, Janelsy Caceres, Marisol Coliente-izelo, Catalina Ferraro, Matthew Ferraro, Dylan Forbes, Alexa Grasso, Amanda Lerner, Keita Mcfarlane, Melanie Medina, Jeremiah Molin, Kevin Pena, Rosie Santos, Swetha Sivakumar, Diana Valdes, Beyza Yildiz \n \u00a0 \n Don\u2019t miss your chance to see the work of our talented Art & Design students!"
   },
   {
     "title": "Group X - Zumba",
@@ -3584,20 +3576,20 @@
     "description": "Graduate Student Voice Night \n Students perform works  from the classical and contemporary repertoire"
   },
   {
-    "title": "Open Play Pickleball",
-    "date": "2025-11-05T01:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center 1300 - Main Gym",
-    "link": "https://montclair.campuslabs.com/engage/event/11753696",
-    "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
-  },
-  {
     "title": "Soup & Sandwich Night",
     "date": "2025-11-05T01:00:00+00:00",
     "organization": "Residence Life",
     "location": "Sinatra Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11772440",
     "description": "Warm up and grab a bite! Stop by the Sinatra Hall Lounge on November 4th from 8:00 PM \u2013 10:00 PM to enjoy a comforting combo of soup and sandwiches. Relax with friends, take a break from the day, and enjoy a cozy meal together. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Open Play Pickleball",
+    "date": "2025-11-05T01:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center 1300 - Main Gym",
+    "link": "https://montclair.campuslabs.com/engage/event/11753696",
+    "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
   },
   {
     "title": "Pool Tournament",
@@ -4325,7 +4317,7 @@
     "organization": "Montclair State University Players",
     "location": "Student Center 250ABC - Ballrooms A, B, and C",
     "link": "https://montclair.campuslabs.com/engage/event/11690884",
-    "description": "Players Production of Romeo & Juliet's tech rehearsal"
+    "description": ""
   },
   {
     "title": "A.LIFE Ministry ",
@@ -6476,7 +6468,7 @@
     "date": "2025-11-17T23:30:00+00:00",
     "organization": "Sprague Library",
     "location": "Sprague Library Instruction Room 203",
-    "link": "https://montclair.campuslabs.com/engage/event/11786545",
+    "link": "https://montclair.campuslabs.com/engage/event/11788925",
     "description": "Learn where and how to find books, articles, and more! We\u2019ll break down the differences between primary and secondary sources; when to use books vs. newspapers vs. scholarly journals vs. the internet; and share search strategies so you are locating sources smarter (not harder). Perfect if you\u2019re new to college-level research or just want to sharpen your skills before your next assignment. \n Register Here:\u00a0https://montclair.libcal.com/event/15561922"
   },
   {
@@ -6484,7 +6476,7 @@
     "date": "2025-11-17T23:30:00+00:00",
     "organization": "Sprague Library",
     "location": "Sprague Library Instruction Room 203",
-    "link": "https://montclair.campuslabs.com/engage/event/11788925",
+    "link": "https://montclair.campuslabs.com/engage/event/11786545",
     "description": "Learn where and how to find books, articles, and more! We\u2019ll break down the differences between primary and secondary sources; when to use books vs. newspapers vs. scholarly journals vs. the internet; and share search strategies so you are locating sources smarter (not harder). Perfect if you\u2019re new to college-level research or just want to sharpen your skills before your next assignment. \n Register Here:\u00a0https://montclair.libcal.com/event/15561922"
   },
   {
@@ -6952,20 +6944,20 @@
     "description": "Curious to see how entrepreneurs are thriving in today\u2019s society? Come and join Feliciano Women in Business in shining the spotlight on local entrepreneurs who are up and coming in the business world for Women\u2019s Entrepreneurship Day!"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11661390",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11665686",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2008 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11661390",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "Music Club GBM",
@@ -9821,7 +9813,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11600429",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n CJ"
   },
   {
     "title": "Holiday Social",
@@ -9941,7 +9933,7 @@
     "organization": "Unified Asian American Student Organization",
     "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11640208",
-    "description": ""
+    "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
     "title": "Music Club GBM",
@@ -10677,7 +10669,7 @@
     "organization": "Athletics",
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/11342692",
-    "description": ""
+    "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
   },
   {
     "title": "Men's Basketball vs. Ramapo",
