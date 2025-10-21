@@ -1,29 +1,5 @@
 [
   {
-    "title": "Group X - Pilates",
-    "date": "2025-10-21T18:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11599870",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Bridget"
-  },
-  {
-    "title": "Group X - Cycling",
-    "date": "2025-10-21T20:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/11600019",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
-  },
-  {
-    "title": "Group X - Kickboxing",
-    "date": "2025-10-21T20:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11600084",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Jayla"
-  },
-  {
     "title": "Free Swim Lessons - Intermediate",
     "date": "2025-10-21T21:00:00+00:00",
     "organization": "Campus Recreation",
@@ -784,20 +760,20 @@
     "description": "Refuel, relax, and expand your knowledge! \ud83d\ude80\u2728 \n Join us for our in-person\u00a0 Fall Workshop Snack & Learn  on  Monday, October 27 at 2pm  to learn how to navigate\u00a0 MyGlobal Portal  and\u00a0explore opportunities in  Montclair Graduate Programs!!"
   },
   {
-    "title": "Montclair Unraveled Halloween Party!!!",
-    "date": "2025-10-27T18:15:00+00:00",
-    "organization": "Montclair Unraveled",
-    "location": "Calcia Hall 230 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11665727",
-    "description": "Come to our spooky themed Unraveled Meeting!"
-  },
-  {
     "title": "PASO General Board Meeting",
     "date": "2025-10-27T18:15:00+00:00",
     "organization": "Peruvian-American Student Organization",
     "location": "University Hall 3004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11632271",
     "description": "Join us every week for our PASO General Board Meetings, where culture, community, and leadership come together! These meetings are open to all members and students interested in learning more about Peruvian culture, supporting Latinx representation, and getting involved. \n \n \n All Montclair / Bloomfield Campus Students are Invited to Attend!"
+  },
+  {
+    "title": "Montclair Unraveled Halloween Party!!!",
+    "date": "2025-10-27T18:15:00+00:00",
+    "organization": "Montclair Unraveled",
+    "location": "Calcia Hall 230 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11665727",
+    "description": "Come to our spooky themed Unraveled Meeting!"
   },
   {
     "title": "Cru Bible Study! ",
@@ -3344,20 +3320,20 @@
     "description": "Graduate Student Voice Night \n Students perform works  from the classical and contemporary repertoire"
   },
   {
-    "title": "Open Play Pickleball",
-    "date": "2025-11-05T01:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center 1300 - Main Gym",
-    "link": "https://montclair.campuslabs.com/engage/event/11753696",
-    "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
-  },
-  {
     "title": "Soup & Sandwich Night",
     "date": "2025-11-05T01:00:00+00:00",
     "organization": "Residence Life",
     "location": "Sinatra Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11772440",
     "description": "Warm up and grab a bite! Stop by the Sinatra Hall Lounge on November 4th from 8:00 PM \u2013 10:00 PM to enjoy a comforting combo of soup and sandwiches. Relax with friends, take a break from the day, and enjoy a cozy meal together. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Open Play Pickleball",
+    "date": "2025-11-05T01:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center 1300 - Main Gym",
+    "link": "https://montclair.campuslabs.com/engage/event/11753696",
+    "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
   },
   {
     "title": "Pool Tournament",
@@ -3813,7 +3789,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11616496",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 8:45am - 9:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
+    "description": ""
   },
   {
     "title": "Group X - Cycling",
@@ -3998,6 +3974,14 @@
     "location": "University Hall 3052 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11792650",
     "description": "Join us for a night full of energy, culture, and creativity! Celebrate Caribbean talent through singing, dancing, and performing. Come cheer, and show love to the amazing talent!"
+  },
+  {
+    "title": "CONNIE CONVERSE: America\u2019s Cassandra",
+    "date": "2025-11-06T23:00:00+00:00",
+    "organization": "College of Humanities and Social Sciences (CHSS)",
+    "location": "Dickson Hall, Cohen Lounge, Room 178",
+    "link": "https://montclair.campuslabs.com/engage/event/11810716",
+    "description": "CONNIE CONVERSE: America\u2019s Cassandra Join us for a multimedia presentation by author and musician Howard Fishman \n Thursday, November 6 6:00 - 8:00 PM \n Dickson Hall, Cohen Lounge, Room 178 \n All are welcome! \n Sponsored by the Department of English and The Cali School of Music"
   },
   {
     "title": "Brazilian Film Series: The Motorcycle Diaries",
@@ -5843,7 +5827,7 @@
     "title": "CALI SCHOOL OF MUSIC: Trumpet Masterclass with Dr. Javian Brabham",
     "date": "2025-11-14T19:00:00+00:00",
     "organization": "The College of the Arts",
-    "location": "Room 201",
+    "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11806119",
     "description": "Join us for a brass masterclass with  Dr. Javian Brabham ,  Director of Brass Studies at New York University. \n Dr. Javian Brabham  is Assistant Professor of Music and Music Education and Director of Brass Studies at New York University. Previously, he taught at Valdosta State University and Young Harris College. A South Carolina native and graduate of the SC Governor\u2019s School for the Arts and Humanities, he earned degrees from Florida State University and the University of New Mexico. \n An active performer, he is Principal Trumpet of the Albany (GA) Symphony Orchestra and has appeared with the American Composers Orchestra, New York Pops, Boise Philharmonic, and Gateways Music Festival Orchestra. He has presented masterclasses nationwide and performed at major national and international conferences. \n A founding member of the Brookwood Trio, he has toured regionally and appeared at international festivals. His students have been accepted to top programs, earned ITG scholarships, and been finalists at the National Trumpet Competition. He is an active member of the International Trumpet Guild, NAfME, CMS, NACWPI, and NTC."
   },
@@ -6768,20 +6752,20 @@
     "description": "Curious to see how entrepreneurs are thriving in today\u2019s society? Come and join Feliciano Women in Business in shining the spotlight on local entrepreneurs who are up and coming in the business world for Women\u2019s Entrepreneurship Day!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665686",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661390",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665686",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
