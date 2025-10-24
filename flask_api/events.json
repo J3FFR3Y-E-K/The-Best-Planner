@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2025-10-24T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11618630",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 09/02 - 12/17 \n 9am-9:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
-  },
-  {
     "title": "Group X - Kickboxing",
     "date": "2025-10-24T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1216,20 +1208,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
   },
   {
-    "title": "Bible Talk",
-    "date": "2025-10-29T18:00:00+00:00",
-    "organization": "Alpha Omega",
-    "location": "University Hall 2002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11662177",
-    "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
-  },
-  {
     "title": "General Body Meeting",
     "date": "2025-10-29T18:00:00+00:00",
     "organization": "Epsilon Delta Epsilon",
     "location": "School Of Business 221 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11792694",
     "description": "General body meeting with e-board and members."
+  },
+  {
+    "title": "Bible Talk",
+    "date": "2025-10-29T18:00:00+00:00",
+    "organization": "Alpha Omega",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11662177",
+    "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
   },
   {
     "title": "French Conversation Hour With Assane K! Every Wednesday",
@@ -1240,20 +1232,20 @@
     "description": "Conversation Avec Assane K! Tous les mercredis  \n TIME:  2:00PM - 3:00PM WHERE:  Schmitt Lounge, 218 WHEN:  Wednesdays \n Join us for: SNACKS! FREE FRENCH CONVERSATION! BOARD GAMES! \n All are welcome! \n Questions? \u00a0Elizabeth Emery\u00a0 emerye@montclair.edu"
   },
   {
-    "title": "General Body Meetings",
-    "date": "2025-10-29T18:00:00+00:00",
-    "organization": "The Women Of Color Alliance ",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11627252",
-    "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
-  },
-  {
     "title": "CALI SCHOOL MIDWEEK SERIES: Immersive Residency Guest Violinist Stefan Jackiw - Performance",
     "date": "2025-10-29T18:00:00+00:00",
     "organization": "The College of the Arts",
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11696928",
     "description": "2:00 PM \u00a0Cali Midweek Series: Stefan Jackiw\u00a0 Leshowitz Recital Hall, Chapin Hall, Cali School of Music \n Stefan Jackiw \u00a0performs solo violin works and the dynamic opening movement of Mendelssohn\u2019s String Octet with Cali Graduate String Students. Hailed for playing that \u201ccombines poetry and purity with impeccable technique\u201d (Boston Globe), Jackiw has appeared with leading U.S. symphonies, tours internationally, and is a founding member of the Junction Trio. Artistic Director of the Hawaii Chamber Music Festival, his performances are praised as intelligent, sensitive, and deeply moving. Leshowitz Recital Hall, Chapin Hall, Cali School of Music \n FREE TICKETS \n More about Stefan Jackiw's Cali Immersive Residency Schedule"
+  },
+  {
+    "title": "General Body Meetings",
+    "date": "2025-10-29T18:00:00+00:00",
+    "organization": "The Women Of Color Alliance ",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11627252",
+    "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
   },
   {
     "title": "LinkedIn and Resume Workshop",
@@ -2256,6 +2248,14 @@
     "description": "Celebrate the flavors of fall! Stop by the Blanton Hall Lounge on November 1st between 8:00 PM \u2013 10:00 PM to enjoy a cup of apple cider paired with a delicious apple cider donut. Treat yourself to a cozy night in with sweet seasonal favorites. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "Ancestor Scrapbooking Event",
+    "date": "2025-11-02T17:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822303",
+    "description": "On November 2nd in Bohn Hall from 2pm to 4pm, in honor of our passed loved ones, we are hosting an Ancestor Scrapbooking Event. At this event, you could bring in your own photos of your loved ones and create a scrapbook or photo album to honor and remember your family members.\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Romeo & Juliet Rehearsal",
     "date": "2025-11-02T16:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -2278,6 +2278,14 @@
     "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11665804",
     "description": "Fall 2025 Montclair Improv League of Friends Round 2 (Best of Both MILF) rehearsal"
+  },
+  {
+    "title": "Ancestor Scrapbooking Event",
+    "date": "2025-11-02T19:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822235",
+    "description": "On November 2nd in Bohn Hall from 2pm to 4pm, in honor of our passed loved ones, we are hosting an Ancestor Scrapbooking Event.\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "CALI SCHOOL OF MUSIC: Choral Fall Concert 2025",
@@ -3040,20 +3048,20 @@
     "description": "Graduate Student Voice Night \n Students perform works  from the classical and contemporary repertoire"
   },
   {
-    "title": "Open Play Pickleball",
-    "date": "2025-11-05T01:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center 1300 - Main Gym",
-    "link": "https://montclair.campuslabs.com/engage/event/11753696",
-    "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
-  },
-  {
     "title": "Soup & Sandwich Night",
     "date": "2025-11-05T01:00:00+00:00",
     "organization": "Residence Life",
     "location": "Sinatra Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11772440",
     "description": "Warm up and grab a bite! Stop by the Sinatra Hall Lounge on November 4th from 8:00 PM \u2013 10:00 PM to enjoy a comforting combo of soup and sandwiches. Relax with friends, take a break from the day, and enjoy a cozy meal together. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Open Play Pickleball",
+    "date": "2025-11-05T01:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center 1300 - Main Gym",
+    "link": "https://montclair.campuslabs.com/engage/event/11753696",
+    "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
   },
   {
     "title": "Pool Tournament",
@@ -4032,6 +4040,14 @@
     "description": "Players Production of Romeo & Juliet"
   },
   {
+    "title": "Grateful Goody Bags",
+    "date": "2025-11-08T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Hawk Crossings",
+    "link": "https://montclair.campuslabs.com/engage/event/11822256",
+    "description": "Join us for Grateful Goody Bags on November 7th from 8:00 PM to 10:00 PM in Hawk Crossings.\u2028 All students are welcome; Commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Fall Leaf Door Decs",
     "date": "2025-11-08T01:00:00+00:00",
     "organization": "Residence Life",
@@ -4046,6 +4062,14 @@
     "location": "Student Center 417 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/11747873",
     "description": "Closed Photoshoot for A Jukebox Musical"
+  },
+  {
+    "title": "Little Notes, Big Thanks ",
+    "date": "2025-11-08T17:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Stone Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822247",
+    "description": "Stop by and write down what or who you're thankful for then drop it off into our community Gratitude jar. Come help us fill the jar with positive notes that remind everyone of the good things in like. Come share your gratitude, spread good vibes, and leave feeling a little more thankful. Stone Hall 12pm-2pm on November 8th!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Horseback Riding Trip",
@@ -4174,6 +4198,22 @@
     "location": "University Hall 7500 - Conference Center",
     "link": "https://montclair.campuslabs.com/engage/event/11820928",
     "description": "You\u2019re invited to an unforgettable night where elegance meets comfort! Come dressed in your best formal or semi-formal look \u2014 but don\u2019t forget to pair it with your freshest sneakers. Enjoy great music, dancing, and a celebration of Caribbean culture and community. This is a night for everyone to come together, vibe, and make memories!"
+  },
+  {
+    "title": "Origami Night",
+    "date": "2025-11-10T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822246",
+    "description": "Have you ever wanted to learn how to make an origami crane? How about a ninja star? Come decompress with other residents and make origami crafts in Bohn at 8 PM on November 9th. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Slime Making",
+    "date": "2025-11-10T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Williams Hall at The Village Apartments",
+    "link": "https://montclair.campuslabs.com/engage/event/11822298",
+    "description": "Show off your slime making skills or learn some new ones at our Slime Making event in The Village in Williams Hall Lounge! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Theta Phi Alpha- Chapter Meeting",
@@ -4552,6 +4592,22 @@
     "description": "Rehearsal for Montclair Sate Dance Company."
   },
   {
+    "title": "Paint a Partner",
+    "date": "2025-11-11T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Freeman Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822268",
+    "description": "Come to Freeman Lounge and paint a portrait of a buddy on November 10th at 8PM!  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Ping Pong Tournament",
+    "date": "2025-11-11T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Dinallo Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/11822291",
+    "description": "Test your Ping Pong skills against other students for a prize on 11/10 in Dinallo Nights at 8PM! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Large Group Worship Night- Chi Alpha ",
     "date": "2025-11-11T01:30:00+00:00",
     "organization": "Chi Alpha Campus Ministries",
@@ -4806,6 +4862,14 @@
     "location": "Student Center 251 - Dining Room",
     "link": "https://montclair.campuslabs.com/engage/event/11766501",
     "description": "Come help us bring joy to kids as we create 100+ Baskets to donate to the St Josephs Hospital for Kids"
+  },
+  {
+    "title": "Coloring and Chill",
+    "date": "2025-11-12T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Stone Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822308",
+    "description": "Join us on November 11th in the Stone Lounge from 8pm-10pm for a night of coloring and chilling!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "InterVarsity Music Bible Study ",
@@ -5488,6 +5552,22 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 7:45pm-8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
   },
   {
+    "title": "Cookies and Affirmations",
+    "date": "2025-11-14T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Dinallo Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/11822244",
+    "description": "Not feeling the best? Turn that frown to a smile with some cookies and affirmations! Join us on November 13th in the Dinallo MPR for a snack and conversation. Whether you're here for the vibes, the snacks, or engaging in meaningful conversations \u2014 there's something for everyone. All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Mac n' Cheese Buffet ",
+    "date": "2025-11-14T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Sinatra Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822243",
+    "description": "Enjoy a delicious bowl of mac n' cheese with toppings to go along with it! A perfect way to relax and casually connect with friends + residents. In Sinatra Hall 7PM-9PM on November 13th."
+  },
+  {
     "title": "Stuff a Plushie",
     "date": "2025-11-14T00:00:00+00:00",
     "organization": "Campus Recreation",
@@ -5510,6 +5590,14 @@
     "location": "Room G55",
     "link": "https://montclair.campuslabs.com/engage/event/11714151",
     "description": "Undergraduate Student Voice Night \n Students perform works  from the classical and contemporary repertoire"
+  },
+  {
+    "title": "Grab and Go: Essentials",
+    "date": "2025-11-14T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822294",
+    "description": "Running low on what you need? Come to the Bohn Lounge and restock! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Theta Phi Alpha- Big/Little Events",
@@ -5720,6 +5808,14 @@
     "description": "Come join SASA for the annual Diwali celebration, one of our biggest events of the year! \n We invite you to the Student Center ballrooms for some great food, performances, and a night of dancing away with friends and family!"
   },
   {
+    "title": "Karaoke Night ",
+    "date": "2025-11-15T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Machuga Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/11822296",
+    "description": "Got a voice? Show it out at Karaoke Night! Join us on November 14th in Machuga's MPR for a night full of food, music, and fun! Whether you're here for the vibes, the snacks, or the dancing \u2014 there's something for everyone. All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "MILF Round 2 Show ",
     "date": "2025-11-15T01:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -5752,6 +5848,14 @@
     "description": "A Heels Klass because confidence is Key"
   },
   {
+    "title": "Leaf Decorating Day",
+    "date": "2025-11-15T15:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Freeman Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822266",
+    "description": "Come and join us by collecting leaves and then decorating them in and outside Freeman Hall on Saturday November 15th 10am to 12pm, where you can have some fun with some leaves. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "A Jukebox Musical",
     "date": "2025-11-15T15:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -5766,6 +5870,14 @@
     "location": "Student Recreation Center Gym",
     "link": "https://montclair.campuslabs.com/engage/event/11737054",
     "description": "Pickleball at The Rec \u2013 Now on Saturdays! \n We\u2019ve added more chances to play! In addition to our regular sessions, join us for  Open Play Pickleball on Saturdays from 5\u20137 PM, starting October 4 . \n Come solo or bring a friend\u2014no experience needed and all skill levels welcome! Sessions are drop-in style, so just swipe your Student ID when you arrive and hit the courts for some fun, friendly competition. \n Open Play sessions will be drop-in style and open to ALL skill levels - come solo or bring a friend! No pre-registration required, swipe Student ID upon arrival.\u00a0\u00a0 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm \n Saturdays - 5pm-7pm \n \n Student Recreation Center Gym"
+  },
+  {
+    "title": "Build Your Own Care Package",
+    "date": "2025-11-16T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822241",
+    "description": "Get ready for a cozy and creative night of care! At this event, you\u2019ll design and pack your very own personalized care package filled with snacks, self-care goodies, school essentials, and a few comfort items to help you power through the semester. In Blanton Hall on November 15th, 8PM-10PM! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "MILF Round 2 Show ",
@@ -5830,6 +5942,22 @@
     "location": "Room 201",
     "link": "https://montclair.campuslabs.com/engage/event/11808469",
     "description": "Percussion Ensemble Studio Recital \n Cali School percussion students present an energetic and dynamic program featuring solo and small ensemble works that showcase rhythm, color, and creativity."
+  },
+  {
+    "title": "Pie & Pajamas",
+    "date": "2025-11-17T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Stone Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822297",
+    "description": "Join us in Stone for a cozy night of Pie & Pajamas! Wear your comfy clothes, grab a slice of pie, and enjoy a fall night with us!"
+  },
+  {
+    "title": "Grab and Go Fall Goodies",
+    "date": "2025-11-17T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Count Basie at The Village Apartments",
+    "link": "https://montclair.campuslabs.com/engage/event/11822307",
+    "description": "On November 16th from 8PM-10PM in Count Basie Lounge, stop by and grab our fun Fall goodie bags! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Theta Phi Alpha- Chapter Meeting",
@@ -6128,6 +6256,22 @@
     "description": "Players Miscellaneous Production's tech rehearsal"
   },
   {
+    "title": "Flavors of the World",
+    "date": "2025-11-18T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822240",
+    "description": "Whether you're a foodie, a culture lover, or just looking for a fun night, this event has something for everyone \u2014 from street food to fine flavors, from family-friendly activities to late-night entertainment. Join us on November 17th in Bohn Hall 8PM-10PM.\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Potion Making Night",
+    "date": "2025-11-18T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Russ Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822292",
+    "description": "Bubble bubble toil and trouble, something magical and mysterious is brewing at Montclair State University. On November 17th at Russ Hall in the Kops Lounge at 8pm to 10pm, we will hold Potion Making Night where you get to make your own potions!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "DIY Sticker Rooms",
     "date": "2025-11-18T01:00:00+00:00",
     "organization": "Residence Life",
@@ -6392,12 +6536,36 @@
     "description": "Rehearsal for Players' Comedy, Firebringer."
   },
   {
+    "title": "Twilight at Night",
+    "date": "2025-11-19T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Machuga Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/11822306",
+    "description": "Join us November 18th from 8pm-10pm in Machugas MPR as we paint and choose whether we are team Edward and team Jacob."
+  },
+  {
     "title": "Open Play Pickleball",
     "date": "2025-11-19T01:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Center 1300 - Main Gym",
     "link": "https://montclair.campuslabs.com/engage/event/11753700",
     "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
+  },
+  {
+    "title": "Collage Corner",
+    "date": "2025-11-19T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Freeman Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822239",
+    "description": "Put together and customize your own funky collage at Freeman Lounge on November 18th 8PM-10PM, bring your own photos and scraps! All other materials will be provided.  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Soap Making",
+    "date": "2025-11-19T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Stone Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822238",
+    "description": "Join us for a relaxing and creative Soap Making Night! \ud83e\uddfc\u2728 Learn how to make your very own custom soap using fun molds, colors, and scents. Whether you want to make something for yourself or as a gift, this hands-on event is the perfect way to unwind and get crafty. All materials will be provided \u2014 just bring your creativity and friends! Stone Hall on November 18th 8PM-10PM.\u00a0 All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Informational",
@@ -6560,20 +6728,20 @@
     "description": "Curious to see how entrepreneurs are thriving in today\u2019s society? Come and join Feliciano Women in Business in shining the spotlight on local entrepreneurs who are up and coming in the business world for Women\u2019s Entrepreneurship Day!"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11661390",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11665686",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2008 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11661390",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "Music Club GBM",
@@ -6832,6 +7000,14 @@
     "description": "Empanada Fundraiser Sale! \ud83c\udf1f Support a great cause and enjoy delicious, homemade empanadas! \n The Hermanos Of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc., are hosting a special empanada sale to raise funds for our Spring 2025 scholarship and The Florence Immigrant & Refugee Rights Project. Every bite helps make a difference! \n \ud83e\udd5f What\u2019s on the menu? \n \n \n Beef Empanadas \n \n \n Chicken Empanadas \n \n \n Cheese Empanadas \n \n \n \u00a0 \n \ud83d\udcb5 Price: $3 each or $5 for 2 \n Come hungry, bring your friends, and help us reach our fundraising goal\u2014one empanada at a time! \n The Hermanos Of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc."
   },
   {
+    "title": "Morning Muffins",
+    "date": "2025-11-20T15:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Freeman Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822237",
+    "description": "Need early morning fuel? Drop in for a quick chat and a muffin at Freeman from 10 AM to 12 PM on November 20th!"
+  },
+  {
     "title": "Free Swim Lessons - Intermediate",
     "date": "2025-11-20T16:00:00+00:00",
     "organization": "Campus Recreation",
@@ -7038,6 +7214,22 @@
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/11789007",
     "description": "Rehearsal for Players' Comedy, Firebringer."
+  },
+  {
+    "title": "Board Game Night",
+    "date": "2025-11-21T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Hawk Crossings",
+    "link": "https://montclair.campuslabs.com/engage/event/11822299",
+    "description": "Bring some friends and a competitive spirit to play at our Board Game Night in Hawk Crossings! Feel like a kid again by playing these classic childhood games. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Celebrating Cultural Diversity",
+    "date": "2025-11-21T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Dinallo Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/11822267",
+    "description": "Take Pride in Your Culture! Join us on November 20th for a night full of food, music, and fun! Whether you're here for the vibes, the snacks, or building connections\u2014 there's something for everyone. Bring a dish of your culture background! Or anything that represents you! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Cru Large Group! ",
@@ -7832,6 +8024,14 @@
     "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sisters in Christ."
   },
   {
+    "title": "Get to Know You Bingo",
+    "date": "2025-11-26T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822262",
+    "description": "New faces, new friends, and a little friendly competition! Join us on Tuesday November 25 from 8-10 pm in Blanton for a fun twist on bingo. Where every square helps you learn something new about the people around you. The perfect way to break the ice, meet your neighbors, and have a few laughs along the way! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Group X - Pilates",
     "date": "2025-11-26T14:45:00+00:00",
     "organization": "Campus Recreation",
@@ -8166,6 +8366,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11597491",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Sunday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n CJ"
+  },
+  {
+    "title": " Craft Night: Holiday Cards",
+    "date": "2025-12-01T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822264",
+    "description": "With the holiday season right around the corner and the college Fall semester coming to an end, it's time to get into the holiday mood! We invite you to come to Craft Night: Holiday Cards event at Bohn Hall on November 30th from 8pm to 10pm to have some jolly fun creating some fun Holiday Cards!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Theta Phi Alpha- Chapter Meeting",
@@ -9160,6 +9368,14 @@
     "description": "Join LASO in celebrating the rich colors and patterns of Latin art. Enjoy bright colors, food, and dance!"
   },
   {
+    "title": "Paper Snowflake Making",
+    "date": "2025-12-07T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Alice Paul at The Village Apartments ",
+    "link": "https://montclair.campuslabs.com/engage/event/11822257",
+    "description": "Come to the Alice Paul Lounge in the Village to make paper snowflakes and enjoy some dessert snacks. All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Friends Day: Be a Buddy",
     "date": "2025-12-07T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -9574,6 +9790,14 @@
     "location": "Student Recreation Center 1300 - Main Gym",
     "link": "https://montclair.campuslabs.com/engage/event/11753706",
     "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
+  },
+  {
+    "title": "Hot Chocolate & Cookies",
+    "date": "2025-12-10T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Stone Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11822260",
+    "description": "Join us for a cozy night in with Hot Chocolate & Cookies on Tuesday, December 9 from 8-10 pm in Stone Hall! Keep warm and relax with us! Chat with friends, take a break from homework, or both, whatever you do, treat yourself!! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Pajama Pilates",
