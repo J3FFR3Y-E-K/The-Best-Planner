@@ -1,13 +1,5 @@
 [
   {
-    "title": "Trunk or Treat",
-    "date": "2025-10-24T20:00:00+00:00",
-    "organization": "Volunteer Center",
-    "location": "Lot 24",
-    "link": "https://montclair.campuslabs.com/engage/event/11766358",
-    "description": "Get ready for some spooky fun! We will be having a Trunk or Treat on October 24th, starting at 4 PM! Come dressed in your best costume, enjoy some candy, games, and Halloween fun for everyone!\u00a0 \n \u00a0 \n We're looking for some boo-tiful volunteers to help us make this event a good time! If you'd like to help out, fill out the volunteer form:\u00a0 https://forms.gle/RTFssakLgN8o xf1f6"
-  },
-  {
     "title": "Make Your Mark",
     "date": "2025-10-25T00:00:00+00:00",
     "organization": "Residence Life",
@@ -680,20 +672,20 @@
     "description": "Our weekly Chi Alpha Large Group is a time for the whole community to come together for passionate worship, relevant teaching from God\u2019s Word, and authentic fellowship. It\u2019s a space where students can encounter Jesus, be encouraged in their faith, and connect with others who are pursuing God on campus."
   },
   {
-    "title": "E3 Meeting ",
-    "date": "2025-10-28T00:30:00+00:00",
-    "organization": "Black Student Union",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11818840",
-    "description": "This is a Private meeting for all E3 organizations to come up with planning for the following semester."
-  },
-  {
     "title": "Family Feud",
     "date": "2025-10-28T00:30:00+00:00",
     "organization": "Haitian Student Association",
     "location": "University Hall 2046 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11792610",
     "description": "\u201c The Survey Says\u2026.\u201d Join HSA for a fun night of FAMILY FEUD! where we will be playing the game with our own HSA spin on it. Bring your best guesses, your pettiest comebacks, and your competitive spirit!.Teams will battle for bragging rights, eternal glory, and maybe a snack prize if our own Steve Harvey(s) approve!"
+  },
+  {
+    "title": "E3 Meeting ",
+    "date": "2025-10-28T00:30:00+00:00",
+    "organization": "Black Student Union",
+    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11818840",
+    "description": "This is a Private meeting for all E3 organizations to come up with planning for the following semester."
   },
   {
     "title": "Delta Chi Chapter",
