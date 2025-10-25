@@ -480,6 +480,14 @@
     "description": "Celebrate Halloween with us by getting together and watching a movie."
   },
   {
+    "title": "#BallotBasics",
+    "date": "2025-10-27T20:00:00+00:00",
+    "organization": "Bloomfield College Student Government Association (BCSGA)",
+    "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
+    "link": "https://montclair.campuslabs.com/engage/event/11825717",
+    "description": "Do you know who you're voting for? Do you even know who's on the ballot? Meet us in the Den at Talbott Hall to research and compare candidates. We'll learn who's on ballot, their accomplishments, obstacles, and plans for our furture here in New Jersey. Come out and support your Bloomfield SGA while getting informed on out current political climate."
+  },
+  {
     "title": "Group X - Kickboxing",
     "date": "2025-10-27T21:00:00+00:00",
     "organization": "Campus Recreation",
@@ -664,20 +672,20 @@
     "description": "Our weekly Chi Alpha Large Group is a time for the whole community to come together for passionate worship, relevant teaching from God\u2019s Word, and authentic fellowship. It\u2019s a space where students can encounter Jesus, be encouraged in their faith, and connect with others who are pursuing God on campus."
   },
   {
-    "title": "Family Feud",
-    "date": "2025-10-28T00:30:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2046 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11792610",
-    "description": "\u201c The Survey Says\u2026.\u201d Join HSA for a fun night of FAMILY FEUD! where we will be playing the game with our own HSA spin on it. Bring your best guesses, your pettiest comebacks, and your competitive spirit!.Teams will battle for bragging rights, eternal glory, and maybe a snack prize if our own Steve Harvey(s) approve!"
-  },
-  {
     "title": "E3 Meeting ",
     "date": "2025-10-28T00:30:00+00:00",
     "organization": "Black Student Union",
     "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11818840",
     "description": "This is a Private meeting for all E3 organizations to come up with planning for the following semester."
+  },
+  {
+    "title": "Family Feud",
+    "date": "2025-10-28T00:30:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2046 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11792610",
+    "description": "\u201c The Survey Says\u2026.\u201d Join HSA for a fun night of FAMILY FEUD! where we will be playing the game with our own HSA spin on it. Bring your best guesses, your pettiest comebacks, and your competitive spirit!.Teams will battle for bragging rights, eternal glory, and maybe a snack prize if our own Steve Harvey(s) approve!"
   },
   {
     "title": "Delta Chi Chapter",
@@ -1144,20 +1152,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
   },
   {
-    "title": "General Body Meeting",
-    "date": "2025-10-29T18:00:00+00:00",
-    "organization": "Epsilon Delta Epsilon",
-    "location": "School Of Business 221 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11792694",
-    "description": "General body meeting with e-board and members."
-  },
-  {
     "title": "Bible Talk",
     "date": "2025-10-29T18:00:00+00:00",
     "organization": "Alpha Omega",
     "location": "University Hall 2002 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11662177",
     "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
+  },
+  {
+    "title": "General Body Meeting",
+    "date": "2025-10-29T18:00:00+00:00",
+    "organization": "Epsilon Delta Epsilon",
+    "location": "School Of Business 221 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11792694",
+    "description": "General body meeting with e-board and members."
   },
   {
     "title": "French Conversation Hour With Assane K! Every Wednesday",
@@ -1494,6 +1502,14 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/11784397",
     "description": "Rehearsal for Players' Romeo & Juliet"
+  },
+  {
+    "title": "Nightmare on Austin Place",
+    "date": "2025-10-29T23:00:00+00:00",
+    "organization": "Bloomfield College Student Government Association (BCSGA)",
+    "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
+    "link": "https://montclair.campuslabs.com/engage/event/11721036",
+    "description": "Join us in Talbott Hall for our Halloween PJ Party, a cross-club celebration with something different in every room. Clubs will be hosting activities like game tournaments, karaoke, crafts, dance contests, music, and more. There will be free food, mysterious music, and poppin' prizes. Come in your pajamas and enjoy a spooky night of fun, creativity, and community!"
   },
   {
     "title": "Ladies Night Informational",
@@ -1854,14 +1870,6 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/11784583",
     "description": "Rehearsal for Players' Romeo & Juliet"
-  },
-  {
-    "title": "Nightmare on Austin Place",
-    "date": "2025-10-30T23:00:00+00:00",
-    "organization": "Bloomfield College Student Government Association (BCSGA)",
-    "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
-    "link": "https://montclair.campuslabs.com/engage/event/11721036",
-    "description": "Join us in Talbott Hall for our Halloween PJ Party, a cross-club celebration with something different in every room. Clubs will be hosting activities like game tournaments, karaoke, crafts, dance contests, music, and more. There will be free food, mysterious music, and poppin' prizes. Come in your pajamas and enjoy a spooky night of fun, creativity, and community!"
   },
   {
     "title": "Sweet Talk - Hawk Crossings",
@@ -2997,7 +3005,7 @@
     "organization": "The College of the Arts",
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11714093",
-    "description": ""
+    "description": "Graduate Student Voice Night \n Students perform works  from the classical and contemporary repertoire"
   },
   {
     "title": "Soup & Sandwich Night",
@@ -4976,6 +4984,14 @@
     "description": "chill with us and write something"
   },
   {
+    "title": " Letters of Gratitude \ud83d\udc8c ",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Bloomfield College Student Government Association (BCSGA)",
+    "location": "Bloomfield - Talbott Hall TM04 - Room of Excellence",
+    "link": "https://montclair.campuslabs.com/engage/event/11825720",
+    "description": "Students write thank-you letters to mentors, professors, or friends to spread positivity and appreciation"
+  },
+  {
     "title": "General Body Meetings",
     "date": "2025-11-12T19:00:00+00:00",
     "organization": "The Women Of Color Alliance ",
@@ -6680,20 +6696,20 @@
     "description": "Curious to see how entrepreneurs are thriving in today\u2019s society? Come and join Feliciano Women in Business in shining the spotlight on local entrepreneurs who are up and coming in the business world for Women\u2019s Entrepreneurship Day!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665686",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661390",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665686",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
@@ -8744,6 +8760,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
   },
   {
+    "title": "Create your Visions ",
+    "date": "2025-12-03T19:00:00+00:00",
+    "organization": "Bloomfield College Student Government Association (BCSGA)",
+    "location": "Bloomfield - Talbott Hall TM04 - Room of Excellence",
+    "link": "https://montclair.campuslabs.com/engage/event/11825719",
+    "description": "Write a poem to express your dreams and goals. \n \n \n Paint your vision using colors and creativity. \n \n \n Make a vision board with pictures and words that inspire you. \n \n \n Bring your dreams to life and stay motivated to achieve them."
+  },
+  {
     "title": "CSAM Science Teaching Program - Program Meeting",
     "date": "2025-12-03T19:00:00+00:00",
     "organization": "College of Science and Mathematics (CSAM)",
@@ -9718,6 +9742,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11600429",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n CJ"
+  },
+  {
+    "title": "Hide + Seek Lazer Tag",
+    "date": "2025-12-09T23:00:00+00:00",
+    "organization": "Bloomfield College Student Government Association (BCSGA)",
+    "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
+    "link": "https://montclair.campuslabs.com/engage/event/11825718",
+    "description": "Blast the finals stress into oblivion with SGA in Talbott Hall. Gear up for a night of neon lights and fun to relax your mind before finals comes in full speed. Hide with your friends or ride solo, your choice! May the best players win! \n This event will come as first come, first serve. We will be asking for name and phone number to call or text you when it is your time to play. Thank you in advance, we hope to see you there!"
   },
   {
     "title": "Holiday Social",
