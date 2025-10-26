@@ -640,20 +640,20 @@
     "description": "Our weekly Chi Alpha Large Group is a time for the whole community to come together for passionate worship, relevant teaching from God\u2019s Word, and authentic fellowship. It\u2019s a space where students can encounter Jesus, be encouraged in their faith, and connect with others who are pursuing God on campus."
   },
   {
-    "title": "E3 Meeting ",
-    "date": "2025-10-28T00:30:00+00:00",
-    "organization": "Black Student Union",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11818840",
-    "description": "This is a Private meeting for all E3 organizations to come up with planning for the following semester."
-  },
-  {
     "title": "Family Feud",
     "date": "2025-10-28T00:30:00+00:00",
     "organization": "Haitian Student Association",
     "location": "University Hall 2046 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11792610",
     "description": "\u201c The Survey Says\u2026.\u201d Join HSA for a fun night of FAMILY FEUD! where we will be playing the game with our own HSA spin on it. Bring your best guesses, your pettiest comebacks, and your competitive spirit!.Teams will battle for bragging rights, eternal glory, and maybe a snack prize if our own Steve Harvey(s) approve!"
+  },
+  {
+    "title": "E3 Meeting ",
+    "date": "2025-10-28T00:30:00+00:00",
+    "organization": "Black Student Union",
+    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11818840",
+    "description": "This is a Private meeting for all E3 organizations to come up with planning for the following semester."
   },
   {
     "title": "Delta Chi Chapter",
@@ -789,7 +789,7 @@
     "organization": "Montclair State University Chess Club",
     "location": "Student Center 415 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/11824088",
-    "description": "Come play some chess and meet your fellow club members and E-Board Leaders! Enjoy a great afternoon of chess and socialization! Chess boards are provided and you may come at your own leisure, however we recommend you arrive 30 minutes before the end of the meeting at the LATEST, this way you still have time to enjoy! We look forward to having you!"
+    "description": ""
   },
   {
     "title": "Chess Club General SB Meeting!",
@@ -1120,20 +1120,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
   },
   {
-    "title": "Bible Talk",
-    "date": "2025-10-29T18:00:00+00:00",
-    "organization": "Alpha Omega",
-    "location": "University Hall 2002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11662177",
-    "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
-  },
-  {
     "title": "General Body Meeting",
     "date": "2025-10-29T18:00:00+00:00",
     "organization": "Epsilon Delta Epsilon",
     "location": "School Of Business 221 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11792694",
     "description": "General body meeting with e-board and members."
+  },
+  {
+    "title": "Bible Talk",
+    "date": "2025-10-29T18:00:00+00:00",
+    "organization": "Alpha Omega",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11662177",
+    "description": "Public bible discussion open to all who are looking to grow in their relationship with God / Jesus. It's a great opportunity to come with questions and engage with students also looking to develop their faith. This is typically a 30 minute discussion (with snacks)."
   },
   {
     "title": "French Conversation Hour With Assane K! Every Wednesday",
@@ -2976,20 +2976,20 @@
     "description": "Graduate Student Voice Night \n Students perform works  from the classical and contemporary repertoire"
   },
   {
-    "title": "Open Play Pickleball",
-    "date": "2025-11-05T01:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center 1300 - Main Gym",
-    "link": "https://montclair.campuslabs.com/engage/event/11753696",
-    "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
-  },
-  {
     "title": "Soup & Sandwich Night",
     "date": "2025-11-05T01:00:00+00:00",
     "organization": "Residence Life",
     "location": "Sinatra Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11772440",
     "description": "Warm up and grab a bite! Stop by the Sinatra Hall Lounge on November 4th from 8:00 PM \u2013 10:00 PM to enjoy a comforting combo of soup and sandwiches. Relax with friends, take a break from the day, and enjoy a cozy meal together. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Open Play Pickleball",
+    "date": "2025-11-05T01:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center 1300 - Main Gym",
+    "link": "https://montclair.campuslabs.com/engage/event/11753696",
+    "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
   },
   {
     "title": "Pool Tournament",
@@ -6124,7 +6124,7 @@
     "date": "2025-11-17T23:30:00+00:00",
     "organization": "Sprague Library",
     "location": "Sprague Library Instruction Room 203",
-    "link": "https://montclair.campuslabs.com/engage/event/11786545",
+    "link": "https://montclair.campuslabs.com/engage/event/11788925",
     "description": "Learn where and how to find books, articles, and more! We\u2019ll break down the differences between primary and secondary sources; when to use books vs. newspapers vs. scholarly journals vs. the internet; and share search strategies so you are locating sources smarter (not harder). Perfect if you\u2019re new to college-level research or just want to sharpen your skills before your next assignment. \n Register Here:\u00a0https://montclair.libcal.com/event/15561922"
   },
   {
@@ -6132,7 +6132,7 @@
     "date": "2025-11-17T23:30:00+00:00",
     "organization": "Sprague Library",
     "location": "Sprague Library Instruction Room 203",
-    "link": "https://montclair.campuslabs.com/engage/event/11788925",
+    "link": "https://montclair.campuslabs.com/engage/event/11786545",
     "description": "Learn where and how to find books, articles, and more! We\u2019ll break down the differences between primary and secondary sources; when to use books vs. newspapers vs. scholarly journals vs. the internet; and share search strategies so you are locating sources smarter (not harder). Perfect if you\u2019re new to college-level research or just want to sharpen your skills before your next assignment. \n Register Here:\u00a0https://montclair.libcal.com/event/15561922"
   },
   {
@@ -6373,7 +6373,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Pool",
     "link": "https://montclair.campuslabs.com/engage/event/11451549",
-    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20, 2025 \n Tuesday, 5-6 p.m. \n Student Recreation Center - Pool"
+    "description": ""
   },
   {
     "title": "Free Swim Lessons *Beginner*",
@@ -6656,20 +6656,20 @@
     "description": "Curious to see how entrepreneurs are thriving in today\u2019s society? Come and join Feliciano Women in Business in shining the spotlight on local entrepreneurs who are up and coming in the business world for Women\u2019s Entrepreneurship Day!"
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2025-11-19T19:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11665686",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661390",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2025-11-19T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11665686",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Music Club GBM",
@@ -7533,7 +7533,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 2",
     "link": "https://montclair.campuslabs.com/engage/event/11597798",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 12:30pm - 01:15pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Bridget"
+    "description": ""
   },
   {
     "title": "Tiramisu Sale",
@@ -7637,7 +7637,7 @@
     "organization": "First Love ",
     "location": "Student Center 2C02 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/11665516",
-    "description": "Showcase what our organization is about, invite people to join us, and have friendly conversations about Faith!"
+    "description": ""
   },
   {
     "title": "Group X - Pilates",
