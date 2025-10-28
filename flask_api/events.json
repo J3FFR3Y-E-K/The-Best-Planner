@@ -1,21 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2025-10-28T12:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11599475",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 8am - 8:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
-  },
-  {
-    "title": "Group X - Cycling",
-    "date": "2025-10-28T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/11599589",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 10am - 10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
-  },
-  {
     "title": "Group X - Pilates",
     "date": "2025-10-28T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1472,6 +1456,14 @@
     "description": "Get ready for a sweet fall treat at Caramel Apple Making Night! Stop by to dip your own apple in warm caramel and add fun toppings like sprinkles, chocolate drizzle, or crushed cookies. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "Firebringer Rehearsal",
+    "date": "2025-11-01T14:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11832606",
+    "description": "Firebringer rehearsal."
+  },
+  {
     "title": "Romeo & Juliet Rehearsal & Photoshoot",
     "date": "2025-11-01T16:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -1510,6 +1502,14 @@
     "location": "Student Recreation Center Gym",
     "link": "https://montclair.campuslabs.com/engage/event/11737052",
     "description": "Pickleball at The Rec \u2013 Now on Saturdays! \n We\u2019ve added more chances to play! In addition to our regular sessions, join us for  Open Play Pickleball on Saturdays from 5\u20137 PM, starting October 4 . \n Come solo or bring a friend\u2014no experience needed and all skill levels welcome! Sessions are drop-in style, so just swipe your Student ID when you arrive and hit the courts for some fun, friendly competition. \n Open Play sessions will be drop-in style and open to ALL skill levels - come solo or bring a friend! No pre-registration required, swipe Student ID upon arrival.\u00a0\u00a0 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm \n Saturdays - 5pm-7pm \n \n Student Recreation Center Gym"
+  },
+  {
+    "title": "Trunk or Treat Car Show",
+    "date": "2025-11-01T19:30:00+00:00",
+    "organization": "Montclair State Car Club",
+    "location": "Lot 23S",
+    "link": "https://montclair.campuslabs.com/engage/event/11832716",
+    "description": "The Montclair State Car Club will be hosting a Trunk or Treat style Car Show in collaboration with the MSU Horror Club. Ticket sales will be available via Eventbrite. All details will be posted on our Instagram page @montclairstate_carclub \n Date: Saturday, November 1, 2025 \n Time: 4 pm - 8 pm \n Location: Lot 23S - Next to Dinallo Heights dorm - Between CarParc Diem and Yogi Berra Stadium"
   },
   {
     "title": "Mock Dholki",
@@ -1768,6 +1768,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
   },
   {
+    "title": "Create-Your-Own-Manga",
+    "date": "2025-11-03T19:00:00+00:00",
+    "organization": "Japan Club",
+    "location": "University Hall 2011 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11832844",
+    "description": "Create your own short 4-koma, and learn a little about the seemingly very simple and short manga!"
+  },
+  {
     "title": "Paddleboard Yoga",
     "date": "2025-11-03T19:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1814,6 +1822,14 @@
     "location": "University Hall 2007 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11686298",
     "description": "An InterVarsity small that helps men follow Jesus with their whole lives, for the rest of their lives. We pray for revival together and get to do life together"
+  },
+  {
+    "title": "Line Dancing for Liberation ",
+    "date": "2025-11-03T19:00:00+00:00",
+    "organization": "Black Student Union",
+    "location": "Student Center Quad123 - All Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/11832854",
+    "description": "Come out and Line Dance with BSU for voters Promotion."
   },
   {
     "title": "Information Session ",
@@ -2453,7 +2469,7 @@
     "organization": "College of Humanities and Social Sciences (CHSS)",
     "location": "Presentation Hall, College of Communication and Media",
     "link": "https://montclair.campuslabs.com/engage/event/11806086",
-    "description": "The College of Humanities and Social Sciences is launching a new AI  Distinguished Speaker Series \u2014a yearlong exploration of how artificial intelligence is reshaping human systems, knowledge, and society. Designed to be inclusive and engaging, the series will bring thought leaders to campus who not only explain emerging technologies but also invite students and the wider community into critical conversations about their impact. By blending expert insight with student-centered formats, the series aims to spark new ways of learning, questioning, and participating in AI\u2019s future. \n The Truth of the Matter in the Age of Generative AI,  with Tina Eliassi-Rad, PhD \n Abstract We live in the age of algorithmically infused societies where human and algorithmic behavior are intertwined. Consider generative AI tools (such as ChatGPT and Gemini). Their use across a broad spectrum of our society is undeniable. How can we shape their use to improve our society? As it stands, such tools often increase epistemic instability in our society. Generative AI tools, for example, are not experts in any field and are prone to falsehoods (a.k.a. hallucinations) and adversarial attacks, yet they are treated like experts. The relationship between a person and a generative AI tool is also exaggerated by the sense of familiarity one feels when using such tools. The lack of effective oversight and accountability for this technology exacerbates these issues. How can we govern a technology that is mutating so rapidly? A digitally savvy public is an essential part of the solution. \n Speaker Bio Tina Eliassi-Rad is a Professor of Computer Science and  The Inaugural Joseph E. Aoun Chair at Northeastern University . She is also a core faculty member at  Northeastern\u2019s Network Science Institute . In addition, she is an external faculty member at the  Santa Fe Institute  and the  Vermont Complex Systems Institute . Prior to joining Northeastern, Tina was an Associate Professor of Computer Science at Rutgers University; and before that she was a member of technical staff and principal investigator at Lawrence Livermore National Laboratory. Tina earned her Ph.D. in Computer Sciences (with a minor in Mathematical Statistics) at the University of Wisconsin-Madison. Her research is at the intersection of data mining, machine learning, and network science. She has over 150 peer-reviewed publications (including a few best paper and best paper runner-up awards); and has given over 300 invited talks and 14 tutorials. \n Tina\u2019s work has been applied to personalized search on the World-Wide Web, statistical indices of large-scale scientific simulation data, fraud detection, mobile ad targeting, cyber situational awareness, drug discovery, democracy and online discourse, and ethics in machine learning. Her algorithms have been incorporated into systems used by governments and industry (e.g., IBM System G Graph Analytics), as well as open-source software (e.g., Stanford Network Analysis Project). Tina received an Outstanding Mentor Award from the U.S. Department of Energy\u2019s Office of Science in 2010, became an ISI Foundation Fellow in 2019, was named one of the  100 Brilliant Women in AI Ethics  in 2021, received  Northeastern University\u2019s Excellence in Research and Creative Activity Award  in 2022, was awarded the  Lagrange Prize in 2023 , and was elected  Fellow of the Network Science Society  in 2023. \n View her  website  or  LinkedIn ."
+    "description": "The College of Humanities and Social Sciences is launching a new AI  Distinguished Speaker Series \u2014a yearlong exploration of how artificial intelligence is reshaping human systems, knowledge, and society. Designed to be inclusive and engaging, the series will bring thought leaders to campus who not only explain emerging technologies but also invite students and the wider community into critical conversations about their impact. By blending expert insight with student-centered formats, the series aims to spark new ways of learning, questioning, and participating in AI\u2019s future. \n Register to Attend! \n The Truth of the Matter in the Age of Generative AI,  with Tina Eliassi-Rad, PhD \n Abstract We live in the age of algorithmically infused societies where human and algorithmic behavior are intertwined. Consider generative AI tools (such as ChatGPT and Gemini). Their use across a broad spectrum of our society is undeniable. How can we shape their use to improve our society? As it stands, such tools often increase epistemic instability in our society. Generative AI tools, for example, are not experts in any field and are prone to falsehoods (a.k.a. hallucinations) and adversarial attacks, yet they are treated like experts. The relationship between a person and a generative AI tool is also exaggerated by the sense of familiarity one feels when using such tools. The lack of effective oversight and accountability for this technology exacerbates these issues. How can we govern a technology that is mutating so rapidly? A digitally savvy public is an essential part of the solution. \n Speaker Bio Tina Eliassi-Rad is a Professor of Computer Science and  The Inaugural Joseph E. Aoun Chair at Northeastern University . She is also a core faculty member at  Northeastern\u2019s Network Science Institute . In addition, she is an external faculty member at the  Santa Fe Institute  and the  Vermont Complex Systems Institute . Prior to joining Northeastern, Tina was an Associate Professor of Computer Science at Rutgers University; and before that she was a member of technical staff and principal investigator at Lawrence Livermore National Laboratory. Tina earned her Ph.D. in Computer Sciences (with a minor in Mathematical Statistics) at the University of Wisconsin-Madison. Her research is at the intersection of data mining, machine learning, and network science. She has over 150 peer-reviewed publications (including a few best paper and best paper runner-up awards); and has given over 300 invited talks and 14 tutorials. \n Tina\u2019s work has been applied to personalized search on the World-Wide Web, statistical indices of large-scale scientific simulation data, fraud detection, mobile ad targeting, cyber situational awareness, drug discovery, democracy and online discourse, and ethics in machine learning. Her algorithms have been incorporated into systems used by governments and industry (e.g., IBM System G Graph Analytics), as well as open-source software (e.g., Stanford Network Analysis Project). Tina received an Outstanding Mentor Award from the U.S. Department of Energy\u2019s Office of Science in 2010, became an ISI Foundation Fellow in 2019, was named one of the  100 Brilliant Women in AI Ethics  in 2021, received  Northeastern University\u2019s Excellence in Research and Creative Activity Award  in 2022, was awarded the  Lagrange Prize in 2023 , and was elected  Fellow of the Network Science Society  in 2023. \n View her  website  or  LinkedIn ."
   },
   {
     "title": "Group X - Cycling",
@@ -2694,6 +2710,14 @@
     "location": "Sprague Library Instruction Room 203",
     "link": "https://montclair.campuslabs.com/engage/event/11788938",
     "description": "Learn where and how to find books, articles, and more! We\u2019ll break down the differences between primary and secondary sources; when to use books vs. newspapers vs. scholarly journals vs. the internet; and share search strategies so you are locating sources smarter (not harder). Perfect if you\u2019re new to college-level research or just want to sharpen your skills before your next assignment. \n Register Here:\u00a0https://montclair.libcal.com/event/15562955"
+  },
+  {
+    "title": "Actors Meeting ",
+    "date": "2025-11-05T22:30:00+00:00",
+    "organization": "Sketch Comedy Club",
+    "location": "Student Center 416 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11832879",
+    "description": "Sketch Comedy"
   },
   {
     "title": "Group X - Zumba",
@@ -3880,6 +3904,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Rosalyn"
   },
   {
+    "title": "Sketch Comedy ",
+    "date": "2025-11-10T22:30:00+00:00",
+    "organization": "Sketch Comedy Club",
+    "location": "Student Center 416 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11832887",
+    "description": "Meeting"
+  },
+  {
     "title": "Choir Practice",
     "date": "2025-11-10T23:00:00+00:00",
     "organization": "Voices of Unity",
@@ -4416,6 +4448,22 @@
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
   },
   {
+    "title": "Korean snacks ",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Korean Culture & Language Association",
+    "location": "University Hall 2007 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11832916",
+    "description": "Come join kcla for a game of bingo to see if you can win some great Korean snacks"
+  },
+  {
+    "title": "Korean snacks ",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Korean Culture & Language Association",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11832915",
+    "description": "Come join kcla for a game of bingo to see if you can win some great Korean snacks"
+  },
+  {
     "title": "Free Swim Lessons *Beginner*",
     "date": "2025-11-12T19:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4536,6 +4584,14 @@
     "description": "Embark on your own interstellar voyage in  The Age of Black Metal  by Afrotectopia. Admission is free, open to the public. \n \u00a0 \n Segal Gallery \n Tuesday \u2013 Friday, 12 \u2013 4 pm \n \u00a0 \n Kasser Lobby \n Monday \u2013 Friday, 12 \u2013 6 pm \n \u00a0 \n We're also open on select Saturdays of the month and  by appointment . \n \u00a0 \n About the Exhibition: \n On view through December 14, 2025 \n Segal Gallery and Kasser Lobby \n Black Metal  originated as a kitchen table art book that pushes the boundaries of space travel, science fiction, speculative design, Black culture, art, technology, and spirituality. The book emerged from an Afrotectopia-led incubator, in collaboration with MIT Media Lab\u2019s Space Exploration Initiative and NYU\u2019s Interactive Telecommunications Program. The project features contributions from artists Jordan Caldwell, Kordae Jatafa Henry, Jeremy Kamal, and Ari Melenciano. \n \u00a0 \n The Age of Black Metal  builds upon the foundational ideas of the book and translates the text into a fully immersive experience for visitors to explore each conceptual chapter\u2013from metaphysical training manuals, botanical consciousness, and self-alignment protocols\u2013through participatory installations. The exhibition is set centuries in the future, imagining a timeline where society has been profoundly shaped by the principles of Black Metal. Ultimately, visitors will not only bear witness to the societal effects of Black Metal, but also leave transformed in some way."
   },
   {
+    "title": "CALI SCHOOL OF MUSIC Midweek Series: Kronos Quartet Performance and Cali Conversation",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Leshowitz Recital Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11832952",
+    "description": "Kronos Quartet\u00a0 to perform a selection of works and Cali Conversation, followed immediately by the five Cali Student Quartets performing \u00a050 For the Future\u00a0 works. FREE - Reservations Suggested:\u00a0https://www.tix.com/ticket-sales/Kasser/1631/event/1438358 \n Full Cali Immersive Residency Schedule \n Join us for the\u00a0 fifth annual \u00a0reimagined professional residency program at the John J. Cali School of Music, where week-long residencies with top artists and ensembles offer students immersive opportunities to collaborate, learn, and explore the evolving, often nontraditional landscape of music today. (Subscribe to the\u00a0 full residency \u00a0Google Calendar )"
+  },
+  {
     "title": "Tabling",
     "date": "2025-11-12T20:00:00+00:00",
     "organization": "First Love ",
@@ -4622,6 +4678,14 @@
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/11784378",
     "description": "GBM"
+  },
+  {
+    "title": "Writers Meeting ",
+    "date": "2025-11-12T22:30:00+00:00",
+    "organization": "Sketch Comedy Club",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11832932",
+    "description": "Sketch"
   },
   {
     "title": "Library 101",
@@ -4864,6 +4928,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 4pm-4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
   },
   {
+    "title": "Toni\u2019s Kitchen Food Drive",
+    "date": "2025-11-13T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center Gym",
+    "link": "https://montclair.campuslabs.com/engage/event/11833032",
+    "description": "Join us at the Montclair State Rec Center Holiday Flea Market on Thursday, November 20th, and support our Food Drive in collaboration with Toni\u2019s Kitchen! We\u2019re collecting shelf-stable, non-expired food items to help fight food insecurity in our community. Suggested donation items can be found on the Toni\u2019s Kitchen website Every donation earns you raffle tickets for a chance to win a prize! Bring your items, do some holiday shopping, and give back\u2014all in one place. See you there! \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and When? \n \n Thursday, November 11 - 20 \n 2 - 5pm \n Student Recreation Center Gym"
+  },
+  {
     "title": "Mario Party Minigame Hangout",
     "date": "2025-11-13T19:00:00+00:00",
     "organization": "Bloomfield Game Club",
@@ -5029,7 +5101,7 @@
     "organization": "Complexions",
     "location": "University Hall 2040 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11739308",
-    "description": ""
+    "description": "The MSU student body will take part in a nice meditation session with the complexions giving them a moment to relax and center themselves before Thanksgiving break."
   },
   {
     "title": "A.LIFE Ministry ",
@@ -5150,6 +5222,22 @@
     "location": "The National Museum of the American Indian",
     "link": "https://montclair.campuslabs.com/engage/event/11718509",
     "description": "In honor of National Native American Heritage Month, The\u00a0History Club is taking a trip to the Smithsonian\u2019s National Museum of the American Indian at the historic Alexander Hamilton U.S. Custom House in Lower Manhattan. \n Students will have the chance to explore powerful exhibitions that highlight the histories, traditions, and contemporary voices of Native peoples from across the Americas. From art and artifacts to modern storytelling, this visit is a unique opportunity to celebrate Indigenous heritage and reflect on the lasting impact of Native nations."
+  },
+  {
+    "title": "Indigenous Communities: Their History & Heritage",
+    "date": "2025-11-14T20:30:00+00:00",
+    "organization": "Coalition for Collective Liberation",
+    "location": "Dickson Hall 175 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11832951",
+    "description": "November's monthly teaching will be regarding our indigenous communities. The purpose of the event is to bridge a path to their culture, explaining the origin of their existence and how they live day-to-day. Additionally, we desire to showcase the oppression and mistreatment that many indigenous communities face. In doing so, we hope to educate our peers and possibly promote community with those who may come."
+  },
+  {
+    "title": "BSA Movie Time ",
+    "date": "2025-11-14T18:30:00+00:00",
+    "organization": "Bangladesh Student Association ",
+    "location": "School Of Business 324 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11832955",
+    "description": "BSA is hosting a Movie Evening! Join us for a fun-filled night of film, friends, and good vibes. Bring your crew and enjoy the evening!!!"
   },
   {
     "title": "Pipe Cleaner Crafts",
@@ -5413,7 +5501,7 @@
     "organization": "Campus Recreation",
     "location": "Rec Center Gym",
     "link": "https://montclair.campuslabs.com/engage/event/11721705",
-    "description": "Think you got what it takes to win an NBA Jersey? Enter to win an NBA Jersey of YOUR choice through a monetary donation or a non-perishable food item. Make a difference and give back to the community! All donations will support Red Hawk Pantry during Hunger and Homelessness week\u00a0 \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Monday, November 17, 2025 (Hunger and Homelessness Week) \n 11:00 am \u2013 1:00 pm \n Rec Center Gym"
+    "description": ""
   },
   {
     "title": "Group X - Cycling",
@@ -5542,6 +5630,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11599057",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
+  },
+  {
+    "title": "Toni\u2019s Kitchen Food Drive",
+    "date": "2025-11-17T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center Gym",
+    "link": "https://montclair.campuslabs.com/engage/event/11833051",
+    "description": "Join us at the Montclair State Rec Center Holiday Flea Market on Thursday, November 20th, and support our Food Drive in collaboration with Toni\u2019s Kitchen! We\u2019re collecting shelf-stable, non-expired food items to help fight food insecurity in our community. Suggested donation items can be found on the Toni\u2019s Kitchen website Every donation earns you raffle tickets for a chance to win a prize! Bring your items, do some holiday shopping, and give back\u2014all in one place. See you there! \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and When? \n \n Monday, November 11 - 20 \n 2 - 5pm \n Student Recreation Center Gym"
   },
   {
     "title": "Group X - Kickboxing",
@@ -6264,6 +6360,14 @@
     "description": "GBM"
   },
   {
+    "title": "Actors Meeting",
+    "date": "2025-11-19T22:30:00+00:00",
+    "organization": "Sketch Comedy Club",
+    "location": "Student Center 250C - Ballroom C",
+    "link": "https://montclair.campuslabs.com/engage/event/11832972",
+    "description": "Sketch Comedy"
+  },
+  {
     "title": "Group X - Zumba",
     "date": "2025-11-19T23:45:00+00:00",
     "organization": "Campus Recreation",
@@ -6456,6 +6560,14 @@
     "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
   },
   {
+    "title": "AURORA Boba & Brownies Fundraiser ",
+    "date": "2025-11-20T16:30:00+00:00",
+    "organization": "Korean Dance Cover Group",
+    "location": "Student Center Quad Information Table 2 - Information Table 2",
+    "link": "https://montclair.campuslabs.com/engage/event/11833126",
+    "description": "\u2661 Join us for Boba & Brownies Fundraiser!\u00a0\u2661 \n We will be selling chocolate brownies with pink frosting for $3, and Boba will be $5! \n The types of boba we will be selling are Thai Tea, Green Matcha Tea, and Taro Tea!"
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2025-11-20T19:00:00+00:00",
     "organization": "Campus Recreation",
@@ -6534,6 +6646,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11617222",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 4pm-4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+  },
+  {
+    "title": "Toni\u2019s Kitchen Food Drive",
+    "date": "2025-11-20T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center Gym",
+    "link": "https://montclair.campuslabs.com/engage/event/11833033",
+    "description": "Join us at the Montclair State Rec Center Holiday Flea Market on Thursday, November 20th, and support our Food Drive in collaboration with Toni\u2019s Kitchen! We\u2019re collecting shelf-stable, non-expired food items to help fight food insecurity in our community. Suggested donation items can be found on the Toni\u2019s Kitchen website Every donation earns you raffle tickets for a chance to win a prize! Bring your items, do some holiday shopping, and give back\u2014all in one place. See you there! \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and When? \n \n Thursday, November 11 - 20 \n 2 - 5pm \n Student Recreation Center Gym"
   },
   {
     "title": "Free Swim Lessons - Intermediate",
@@ -6776,6 +6896,14 @@
     "description": "Unleash your creativity at our Nail Decorating Bar! Pick your polish, add some sparkle, and design a set of nails that\u2019s fabulously you. All supplies provided with a donation to our clothing drive!"
   },
   {
+    "title": "Greeksgiving",
+    "date": "2025-11-21T23:00:00+00:00",
+    "organization": "Greek Council",
+    "location": "Student Center 280 - Cafeteria",
+    "link": "https://montclair.campuslabs.com/engage/event/11833194",
+    "description": "Join us in a Thanksgiving celebration with fellow Greeks! \n \u00a0 \n Enjoy Free Food, Prizes, and Activities! \n Bring non-perishable food & hygiene items to donate to the Red Hawk Pantry."
+  },
+  {
     "title": " LASO Birthday",
     "date": "2025-11-22T00:00:00+00:00",
     "organization": "Latin American Student Organization",
@@ -6808,20 +6936,20 @@
     "description": "Players Miscellaneous Production's performance"
   },
   {
-    "title": "World Wide Trivia",
-    "date": "2025-11-22T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Count Basie at The Village Apartments",
-    "link": "https://montclair.campuslabs.com/engage/event/11772456",
-    "description": "Test out your knowledge of the world at our Worldwide Trivia at the Count Basie lounge! We will have fun learning all sorts of new facts about different places at 8:00 PM on November 21st. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Fingerpaint De-Stress Night",
     "date": "2025-11-22T01:00:00+00:00",
     "organization": "Residence Life",
     "location": "Stone Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11821066",
     "description": "Relieve stress and paint your very own masterpiece using nothing but paint and your hands On November 21st in Stone Hall 8PM-10PM. All materials will be provided.\u00a0 All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "World Wide Trivia",
+    "date": "2025-11-22T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Count Basie at The Village Apartments",
+    "link": "https://montclair.campuslabs.com/engage/event/11772456",
+    "description": "Test out your knowledge of the world at our Worldwide Trivia at the Count Basie lounge! We will have fun learning all sorts of new facts about different places at 8:00 PM on November 21st. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "WORSHIP NIGHT (REVIVE US AGAIN)",
@@ -8160,14 +8288,6 @@
     "description": "It's the holiday season! Come over to the Freeman Hall lounge where we will be creating foam crafts of Santa and the penguins! We will be crafting at 8:00 P.M, on December 2nd. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Open Play Pickleball",
-    "date": "2025-12-03T01:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center 1300 - Main Gym",
-    "link": "https://montclair.campuslabs.com/engage/event/11753704",
-    "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
-  },
-  {
     "title": "Theta Phi Alpha- End of Semester Sisterhood Events",
     "date": "2025-12-03T01:30:00+00:00",
     "organization": "Theta Phi Alpha",
@@ -9214,14 +9334,6 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/11536795",
     "description": "Let\u2019s get in the holiday spirit with our way of giving back in light of the season. Cima Sabor is an event full of love and cheer as we enjoy spending time together as well as donating gifts together for children in need. There will be all of the Cima Sabor Navide\u00f1o tunes along with some karaoke, good food, Christmas treats, and fun games.  This event is open to all Montclair State University and Bloomfield Undergraduate students!"
-  },
-  {
-    "title": "Open Play Pickleball",
-    "date": "2025-12-10T01:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center 1300 - Main Gym",
-    "link": "https://montclair.campuslabs.com/engage/event/11753706",
-    "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
   },
   {
     "title": "Hot Chocolate & Cookies",
