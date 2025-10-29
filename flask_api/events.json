@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Pilates",
-    "date": "2025-10-29T13:45:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11615243",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 9:45am - 10:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
-  },
-  {
     "title": "Group X - Cycling",
     "date": "2025-10-29T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -80,6 +72,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 2:00pm-2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
   },
   {
+    "title": "Physics Club Meeting ",
+    "date": "2025-10-29T17:30:00+00:00",
+    "organization": "Physics Club",
+    "location": "Richardson Hall Rm 256",
+    "link": "https://montclair.campuslabs.com/engage/event/11838079",
+    "description": "Join us to learn about analysis of gravitational waves through LIGO!"
+  },
+  {
     "title": "General Body Meeting",
     "date": "2025-10-29T18:00:00+00:00",
     "organization": "Epsilon Delta Epsilon",
@@ -136,14 +136,6 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20 \n Wednesday: 2-3PM and 5-6PM \n Student Recreation Center - Pool"
   },
   {
-    "title": "spooky rhw gbm",
-    "date": "2025-10-29T18:00:00+00:00",
-    "organization": "Red Hawk Writers",
-    "location": "Dickson Hall 175 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11721618",
-    "description": "come chill with us and get some goosebumps. fall writing challenge winners will be announced!"
-  },
-  {
     "title": "Group X - Cycling",
     "date": "2025-10-29T18:15:00+00:00",
     "organization": "Campus Recreation",
@@ -184,6 +176,14 @@
     "description": "Join SASA this Wednesday for some fun South Asian culture inspired games, like draping a saree, movie charades, and a trivia game!"
   },
   {
+    "title": "General Miembro Meeting",
+    "date": "2025-10-29T18:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "Dickson Hall 177 - Brantl Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11838075",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
     "title": "MSU Republicans General Meeting",
     "date": "2025-10-29T18:00:00+00:00",
     "organization": "Montclair State Republican Party",
@@ -208,12 +208,28 @@
     "description": "(OPTIONAL) Dress up as an artist and give a rockin\u2019 performance to one of their songs. Get in the Halloween spirit by embodying a musician (\u2026 or their ghost)! Costumes/ dressing up is optional and we\u2019ll have a few props ready as well. If not, then just come enjoy some fun Halloween karaoke\u2026 \ud83d\udc7b"
   },
   {
+    "title": "Caribbean Student Organization General Body Meeting ",
+    "date": "2025-10-29T18:15:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2040 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11838073",
+    "description": "Join us for our Caribbean Student meetings to share ideas, plan events, and celebrate vibrant Caribbean culture!"
+  },
+  {
     "title": "Crumble w/ Complexions",
     "date": "2025-10-29T18:30:00+00:00",
     "organization": "Complexions",
     "location": "Student Center 2C03 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/11722293",
     "description": "Come and enjoy a variety of cookies and other sweet treats from our bake sale!!!"
+  },
+  {
+    "title": "NASO General Body Meeting",
+    "date": "2025-10-29T18:30:00+00:00",
+    "organization": "Native African Student Organization",
+    "location": "University Hall 2012 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11838086",
+    "description": "Join us for the Native African Student Organization's General Body Meeting! This is a space where we come together to celebrate and explore the richness of African cultures, while also connecting with other cultures from around the world. At each meeting, we'll engage in lively discussions, learn about Africa\u2019s diverse history, traditions, and current events, and empower each other to understand and embrace our heritage. Whether you're looking to deepen your cultural knowledge, make meaningful connections, or simply have fun with fellow students who share a passion for Africa and global cultures, this is the place to be! Let\u2019s build a supportive community, amplify African voices on campus, and create lasting friendships. All are welcome, come, learn, share, and connect!"
   },
   {
     "title": "Group X - Yoga",
@@ -824,14 +840,6 @@
     "description": "Cali School woodwind students present  a lively and varied program of solo and  small ensemble works."
   },
   {
-    "title": "Firebringer Rehearsal",
-    "date": "2025-10-31T00:30:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 3002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11828125",
-    "description": "Rehearsal for Players' Comedy, Firebringer."
-  },
-  {
     "title": "Cru Large Group! ",
     "date": "2025-10-31T00:45:00+00:00",
     "organization": "Cru",
@@ -878,6 +886,14 @@
     "location": "University Hall 4052 - Classroom ESPE",
     "link": "https://montclair.campuslabs.com/engage/event/11828077",
     "description": "Rehearsal for Players' Comedy, Firebringer."
+  },
+  {
+    "title": "Lip Sync Battle \ud83c\udf83\ud83c\udfa4",
+    "date": "2025-10-31T01:00:00+00:00",
+    "organization": "Montclair Unified Filipino American Student Association",
+    "location": "Dickson Hall 177 - Brantl Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11838071",
+    "description": "Get\u00a0ready to drop the mic (without actually singing)! Join us for a night of dramatic performances and Halloween chaos. \n Whether you\u2019re performing solo, as a duo, or with your entire friend group, the stage is yours! Expect candy, costumes, and crowd voting that\u2019ll decide who reigns champion. \n Ready to get onstage? Fill our form out before noon on the day of: \n https://forms.gle/yG7bY2LHdaerMBks7"
   },
   {
     "title": "KOMPAHOLIX DANCE PRACTICE ",
@@ -1024,6 +1040,14 @@
     "description": "Embark on your own interstellar voyage in  The Age of Black Metal  by Afrotectopia. Admission is free, open to the public. \n \u00a0 \n Segal Gallery \n Tuesday \u2013 Friday, 12 \u2013 4 pm \n \u00a0 \n Kasser Lobby \n Monday \u2013 Friday, 12 \u2013 6 pm \n \u00a0 \n We're also open on select Saturdays of the month and  by appointment . \n \u00a0 \n About the Exhibition: \n On view through December 14, 2025 \n Segal Gallery and Kasser Lobby \n Black Metal  originated as a kitchen table art book that pushes the boundaries of space travel, science fiction, speculative design, Black culture, art, technology, and spirituality. The book emerged from an Afrotectopia-led incubator, in collaboration with MIT Media Lab\u2019s Space Exploration Initiative and NYU\u2019s Interactive Telecommunications Program. The project features contributions from artists Jordan Caldwell, Kordae Jatafa Henry, Jeremy Kamal, and Ari Melenciano. \n \u00a0 \n The Age of Black Metal  builds upon the foundational ideas of the book and translates the text into a fully immersive experience for visitors to explore each conceptual chapter\u2013from metaphysical training manuals, botanical consciousness, and self-alignment protocols\u2013through participatory installations. The exhibition is set centuries in the future, imagining a timeline where society has been profoundly shaped by the principles of Black Metal. Ultimately, visitors will not only bear witness to the societal effects of Black Metal, but also leave transformed in some way."
   },
   {
+    "title": "Halloween Bake Sale",
+    "date": "2025-10-31T17:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "Student Center 2C01 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/11837370",
+    "description": "Come out and support HSA\u2019s bake sale! Enjoy delicious baked goods, Haitian pastries, Halloween boo-grams, and more!"
+  },
+  {
     "title": "Group X - Kickboxing",
     "date": "2025-10-31T19:30:00+00:00",
     "organization": "Campus Recreation",
@@ -1094,6 +1118,14 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/11786664",
     "description": "Rehearsal & Photoshoot for Players' Romeo & Juliet"
+  },
+  {
+    "title": "A Jukebox Musical Rehearsal",
+    "date": "2025-11-01T16:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11838069",
+    "description": "Closed rehearsal for a Jukebox Musical"
   },
   {
     "title": "CALI SCHOOL OF MUSIC: University Symphony Orchestra With Cali Immersive Residency Guest Stefan Jackiw, violin",
@@ -2464,20 +2496,20 @@
     "description": "Rehearsal for Players' Comedy, Firebringer."
   },
   {
-    "title": "Mini Pumpkin Painting",
-    "date": "2025-11-06T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Bohn Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11772425",
-    "description": "Get into the fall spirit with a cozy afternoon of creativity! Join us for a Mini Pumpkin Painting Party, where you\u2019ll get your own pumpkin and all the supplies you need to design something festive, spooky, or unique. Paint, glitter, and decorate \u2014 no carving required! Perfect for a dorm room or apartment-friendly fall decor. Come visit us at the Bohn Hall Lounge from 8-10 pm on November 5th! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Paint & Sip",
     "date": "2025-11-06T01:00:00+00:00",
     "organization": "Residence Life",
     "location": "Fenwick Hall at the Village Apartments",
     "link": "https://montclair.campuslabs.com/engage/event/11821075",
     "description": "Craving a drink and want to express your creativity? Join us for Paint & Sip on November 5th from 8:00 PM to 10:00 PM in The Village in Fenwick Hall.\u2028All students are welcome; Commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Mini Pumpkin Painting",
+    "date": "2025-11-06T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11772425",
+    "description": "Get into the fall spirit with a cozy afternoon of creativity! Join us for a Mini Pumpkin Painting Party, where you\u2019ll get your own pumpkin and all the supplies you need to design something festive, spooky, or unique. Paint, glitter, and decorate \u2014 no carving required! Perfect for a dorm room or apartment-friendly fall decor. Come visit us at the Bohn Hall Lounge from 8-10 pm on November 5th! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Custom Rhinestones",
@@ -3414,6 +3446,14 @@
     "location": "University Hall 2007 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11704369",
     "description": "An InterVarsity small that helps men follow Jesus with their whole lives, for the rest of their lives. We pray for revival together and get to do life together"
+  },
+  {
+    "title": "Dabkeh Class ",
+    "date": "2025-11-10T19:00:00+00:00",
+    "organization": "Arab Student Association",
+    "location": "Student Center 411-414 ",
+    "link": "https://montclair.campuslabs.com/engage/event/11837648",
+    "description": "Join us for an exciting Dabkeh Class hosted by the Arab Student Association (ASA) in collaboration with the Arabic Program! Dabkeh is a traditional Arab dance that celebrates unity, rhythm, and cultural pride through synchronized steps and lively music. \n This session will be taught by our talented Event Coordinator, Tanya Abu Kamal, and Social Media Manager, Lila Baladi, who will guide you through the basics and teach you how to move with the rhythm like a pro! Whether you\u2019re new to Dabkeh or already know a few steps, everyone is welcome to join in, dance, and have fun."
   },
   {
     "title": "MVP Horror Fantasy",
@@ -4846,6 +4886,14 @@
     "location": "The National Museum of the American Indian",
     "link": "https://montclair.campuslabs.com/engage/event/11718509",
     "description": "In honor of National Native American Heritage Month, The\u00a0History Club is taking a trip to the Smithsonian\u2019s National Museum of the American Indian at the historic Alexander Hamilton U.S. Custom House in Lower Manhattan. \n Students will have the chance to explore powerful exhibitions that highlight the histories, traditions, and contemporary voices of Native peoples from across the Americas. From art and artifacts to modern storytelling, this visit is a unique opportunity to celebrate Indigenous heritage and reflect on the lasting impact of Native nations."
+  },
+  {
+    "title": "UAASO Photocard Making",
+    "date": "2025-11-14T20:00:00+00:00",
+    "organization": "Unified Asian American Student Organization",
+    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11837298",
+    "description": "Come make your own personal photocards just like your favorite idols!"
   },
   {
     "title": "Indigenous Communities: Their History & Heritage",
@@ -7720,6 +7768,22 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Rosalyn"
   },
   {
+    "title": "Sketch Comedy Club",
+    "date": "2025-12-01T22:30:00+00:00",
+    "organization": "Sketch Comedy Club",
+    "location": "Student Center 417 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11838027",
+    "description": "Meeting"
+  },
+  {
+    "title": "Actors Sketch Comedy Meeting",
+    "date": "2025-12-01T22:30:00+00:00",
+    "organization": "Sketch Comedy Club",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11838040",
+    "description": "Meeting for actors"
+  },
+  {
     "title": "SAAC General Body Meeting 12/3/2025",
     "date": "2025-12-01T23:00:00+00:00",
     "organization": "Student Athlete Advisory Committee: Talon",
@@ -7736,6 +7800,14 @@
     "description": "After a very successful first edition of our Kichwa Language and Culture classes last spring, we are thrilled to launch a new workshop series starting September 15. This year\u2019s program continues to pair Kichwa language learning with rich cultural experiences: and we\u2019re adding something special. Students will have the opportunity to engage with an acclaimed Indigenous artist, exploring their paintings, the deep connection to nature behind their work, the meaning of colors and subjects, and more. \n \n Space is limited.\u00a0 \n Class is starting on Monday, September 15th, every Monday from 5:30pm-7:30pm for the duration of 10 weeks. \n REGISTRATION IS REQUIRED by contacting Dr. Calarota-Ninman at calarotaa@montclair.edu"
   },
   {
+    "title": "Choir Practice",
+    "date": "2025-12-01T23:00:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11838011",
+    "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
+  },
+  {
     "title": "Group X - Goodnight Yoga",
     "date": "2025-12-02T00:45:00+00:00",
     "organization": "Campus Recreation",
@@ -7750,6 +7822,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11737650",
     "description": "Location: Franklin Hall - Game Room (Second Floor - Room 218) \n \u00a0 \n Join RA Juan for some end of semester fun! Students will enjoy board games and connecting with their community!"
+  },
+  {
+    "title": "Praise Dance Practice",
+    "date": "2025-12-02T00:00:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "Student Center 417 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11838036",
+    "description": "Join the Worship Warriors in fellowship as we honor the Lord through dance!"
   },
   {
     "title": "Firebringer Tech",
@@ -7918,6 +7998,14 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/11665790",
     "description": "Closed tech rehearsal for Firebringer."
+  },
+  {
+    "title": "Stroll for a Cause",
+    "date": "2025-12-03T00:00:00+00:00",
+    "organization": "Mu Sigma Upsilon Sorority, Incorporated",
+    "location": "Student Center 250AB - Ballrooms A and B",
+    "link": "https://montclair.campuslabs.com/engage/event/11838051",
+    "description": "Stroll for a Cause is a community event where all Greek organizations come together in unity to showcase their talent through strolling and stepping, while supporting\u00a0 Mu Sigma Upsilon Sorority Incorporated philanthropy, the NAACP. This celebration not only highlights Greek culture and tradition but also serves as a time for fellowship, fun, and collective impact in giving back to the community."
   },
   {
     "title": "Penguin and Santa Foam Craft",
@@ -8136,12 +8224,36 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 6:45pm - 7:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Pamela"
   },
   {
+    "title": "Choir Practice",
+    "date": "2025-12-03T23:00:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11838012",
+    "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
+  },
+  {
     "title": "Group X - Goodnight Yoga",
     "date": "2025-12-04T00:45:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11616375",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
+  },
+  {
+    "title": "Praise Dance Practice",
+    "date": "2025-12-04T00:00:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "Student Center 417 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11838037",
+    "description": "Join the Worship Warriors in fellowship as we honor the Lord through dance!"
+  },
+  {
+    "title": "Hot Cocoa and the History of Christianity",
+    "date": "2025-12-04T00:00:00+00:00",
+    "organization": "The Good Samaritan Club",
+    "location": "Student Center Underground - The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/11838270",
+    "description": "Come join us to understand the history as to why there are so many denominations of Christianity today and how we can recognize the true church."
   },
   {
     "title": "Men's Basketball vs. William Paterson",
