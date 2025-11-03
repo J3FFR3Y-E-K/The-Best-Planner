@@ -1,21 +1,5 @@
 [
   {
-    "title": "Complexions Practice",
-    "date": "2025-11-03T01:30:00+00:00",
-    "organization": "Complexions",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11685940",
-    "description": "Montclair State Complexions will be meeting and going over choreography for upcoming performances."
-  },
-  {
-    "title": "Theta Phi Alpha- November Sisterhood Events",
-    "date": "2025-11-03T01:30:00+00:00",
-    "organization": "Theta Phi Alpha",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11717223",
-    "description": "Bonding events for the sisters of Theta Phi Alpha"
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2025-11-03T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -792,20 +776,20 @@
     "description": "Graduate Student Voice Night \n Students perform works  from the classical and contemporary repertoire"
   },
   {
-    "title": "Open Play Pickleball",
-    "date": "2025-11-05T01:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center 1300 - Main Gym",
-    "link": "https://montclair.campuslabs.com/engage/event/11753696",
-    "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
-  },
-  {
     "title": "Soup & Sandwich Night",
     "date": "2025-11-05T01:00:00+00:00",
     "organization": "Residence Life",
     "location": "Sinatra Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11772440",
     "description": "Warm up and grab a bite! Stop by the Sinatra Hall Lounge on November 4th from 8:00 PM \u2013 10:00 PM to enjoy a comforting combo of soup and sandwiches. Relax with friends, take a break from the day, and enjoy a cozy meal together. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Open Play Pickleball",
+    "date": "2025-11-05T01:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center 1300 - Main Gym",
+    "link": "https://montclair.campuslabs.com/engage/event/11753696",
+    "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
   },
   {
     "title": "Pool Tournament",
@@ -1016,20 +1000,20 @@
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
-    "title": "National First-Gen Day Celebration",
-    "date": "2025-11-05T19:00:00+00:00",
-    "organization": "First Generation Initiatives",
-    "location": "Student Center Ballrooms ABC",
-    "link": "https://montclair.campuslabs.com/engage/event/11826342",
-    "description": "Join us as we celebrate  National First-Generation College Student Day  on  Wednesday, November 5, 2025 , from  2:00 PM to 3:30 PM  in  Student Center Ballrooms ABC! \n Hosted by First-Generation Initiatives, this annual event honors the achievements, resilience, and pride of first-generation students, faculty, and staff at Montclair State University. The celebration will feature motivational speaker Dr. Melissa Baralt, along with music, raffles, prizes, and more! \n Come connect with fellow first-gen students, enjoy the festivities, and celebrate being Rooted in Resilience! \ud83c\udf1f"
-  },
-  {
     "title": "Painting Diyas with SASA!",
     "date": "2025-11-05T19:00:00+00:00",
     "organization": "South Asian Student Association",
     "location": "School Of Business 422 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11702178",
     "description": "Before our biggest event of the year, Diwali, come learn more about the holiday and paint Diyas with us! \n Join us for some painting, food, and much more.\u00a0 \n All are welcome!"
+  },
+  {
+    "title": "National First-Gen Day Celebration",
+    "date": "2025-11-05T19:00:00+00:00",
+    "organization": "First Generation Initiatives",
+    "location": "Student Center Ballrooms ABC",
+    "link": "https://montclair.campuslabs.com/engage/event/11826342",
+    "description": "Join us as we celebrate  National First-Generation College Student Day  on  Wednesday, November 5, 2025 , from  2:00 PM to 3:30 PM  in  Student Center Ballrooms ABC! \n Hosted by First-Generation Initiatives, this annual event honors the achievements, resilience, and pride of first-generation students, faculty, and staff at Montclair State University. The celebration will feature motivational speaker Dr. Melissa Baralt, along with music, raffles, prizes, and more! \n Come connect with fellow first-gen students, enjoy the festivities, and celebrate being Rooted in Resilience! \ud83c\udf1f"
   },
   {
     "title": "Haitian Student Association General Body Meeting ",
@@ -4168,20 +4152,20 @@
     "description": "Are you passionate about history? Love visiting interesting places, watching movies, participating in trivia, winning cool prizes, or attending engaging lectures? Then the History Club is for you!"
   },
   {
-    "title": "Information Session- Monday, November 17, 2025",
-    "date": "2025-11-17T19:30:00+00:00",
-    "organization": "Residence Life",
-    "location": "Freeman",
-    "link": "https://montclair.campuslabs.com/engage/event/11720536",
-    "description": "The Office of Residence Life is hiring Community Assistants (CA) for the 2026-2027 Academic Year!\u00a0 \n \u00a0 \n The CA is responsible for the day-to-day interaction and development of the students who reside in the residence halls. CAs live in the halls and supervise a floor or area within the community. CAs take on many roles, such as community builders, role models, peer educators, crisis managers, team players, and administrators. They are student leaders who help our residential students feel acclimated and comfortable on campus. General responsibilities include: maintaining a safe and secure environment for resident students, overnight and weekennd on-call responsibilities, community development, and associated administrative duties.\u00a0 \n \u00a0 \n To be eligible to apply, you must have a 2.75 or higher semester and cumulative GPA, be in good conduct standing, have at least 50 credits, and be available for all of the student staff training and before and after the semester move-in responsibilities. \n For more information, visit  our website. \n If you have any questions, please email ORLjobs@montclair.edu."
-  },
-  {
     "title": "HSCI: Mentor Informational ",
     "date": "2025-11-17T19:30:00+00:00",
     "organization": "Office for Hispanic Initiatives",
     "location": "University Hall 1020",
     "link": "https://montclair.campuslabs.com/engage/event/11834259",
     "description": "Interested in mentorship and making a difference? \ud83c\udf1f Join us to learn all about the Hispanic Student College Institute (HSCI) and how you can become part of this impactful summer experience! Discover how HSCI Mentors inspire future college students, build leadership skills, and create memories that last a lifetime. \ud83d\udcab #HSCI #Mentorship #Leadership\u00a0 \n Join us  in person or on Zoom  for this hybrid info session and see how you can make an impact this summer."
+  },
+  {
+    "title": "Information Session- Monday, November 17, 2025",
+    "date": "2025-11-17T19:30:00+00:00",
+    "organization": "Residence Life",
+    "location": "Freeman",
+    "link": "https://montclair.campuslabs.com/engage/event/11720536",
+    "description": "The Office of Residence Life is hiring Community Assistants (CA) for the 2026-2027 Academic Year!\u00a0 \n \u00a0 \n The CA is responsible for the day-to-day interaction and development of the students who reside in the residence halls. CAs live in the halls and supervise a floor or area within the community. CAs take on many roles, such as community builders, role models, peer educators, crisis managers, team players, and administrators. They are student leaders who help our residential students feel acclimated and comfortable on campus. General responsibilities include: maintaining a safe and secure environment for resident students, overnight and weekennd on-call responsibilities, community development, and associated administrative duties.\u00a0 \n \u00a0 \n To be eligible to apply, you must have a 2.75 or higher semester and cumulative GPA, be in good conduct standing, have at least 50 credits, and be available for all of the student staff training and before and after the semester move-in responsibilities. \n For more information, visit  our website. \n If you have any questions, please email ORLjobs@montclair.edu."
   },
   {
     "title": "International Education Week: Rep Your Flag",
