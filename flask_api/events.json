@@ -1,29 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2025-11-03T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11597625",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 8am - 8:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
-  },
-  {
-    "title": "Free Swim Lessons - *Beginner*",
-    "date": "2025-11-03T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Pool",
-    "link": "https://montclair.campuslabs.com/engage/event/11451452",
-    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20 \n Mondays, 9-10 a.m. \n Student Recreation Center - Pool"
-  },
-  {
-    "title": "Free Swim Lessons *Beginner*",
-    "date": "2025-11-03T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Pool\u00a0",
-    "link": "https://montclair.campuslabs.com/engage/event/11663826",
-    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20 \n Monday: 9-10AM and 5-6PM \n Student Recreation Center - Pool"
-  },
-  {
     "title": "Group X - Pilates",
     "date": "2025-11-03T15:45:00+00:00",
     "organization": "Campus Recreation",
@@ -776,20 +752,20 @@
     "description": "Graduate Student Voice Night \n Students perform works  from the classical and contemporary repertoire"
   },
   {
-    "title": "Soup & Sandwich Night",
-    "date": "2025-11-05T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Sinatra Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11772440",
-    "description": "Warm up and grab a bite! Stop by the Sinatra Hall Lounge on November 4th from 8:00 PM \u2013 10:00 PM to enjoy a comforting combo of soup and sandwiches. Relax with friends, take a break from the day, and enjoy a cozy meal together. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Open Play Pickleball",
     "date": "2025-11-05T01:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Center 1300 - Main Gym",
     "link": "https://montclair.campuslabs.com/engage/event/11753696",
     "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
+  },
+  {
+    "title": "Soup & Sandwich Night",
+    "date": "2025-11-05T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Sinatra Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11772440",
+    "description": "Warm up and grab a bite! Stop by the Sinatra Hall Lounge on November 4th from 8:00 PM \u2013 10:00 PM to enjoy a comforting combo of soup and sandwiches. Relax with friends, take a break from the day, and enjoy a cozy meal together. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Pool Tournament",
@@ -830,6 +806,14 @@
     "location": "University Hall 2011 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11784059",
     "description": "Mentorship events and programming for the Fall 2025 new member class"
+  },
+  {
+    "title": "Back 2 school drive/ game night",
+    "date": "2025-11-05T01:30:00+00:00",
+    "organization": "Panther Progress: Community Compassion Collective",
+    "location": "University Hall 2025 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11849293",
+    "description": "We will be having a game night where we come together as a community and collecting school supplies to donate to families that are struggling financially and cannot get these supplies independently."
   },
   {
     "title": "MILF Round 2 Rehearsal",
@@ -920,6 +904,14 @@
     "description": "Cali Midweek Series: Strings and Voice \n Students perform works from the classical and contemporary repertoire. \n Cali Midweek Concerts 2025-26 Most Wednesdays at 2 PM Chapin Hall, Leshowitz Recital Hall \n FREE ADMISSION! \n Join us for the\u00a0 Cali Midweek Concerts at Montclair State University\u2019s John J. Cali School of Music , where we bring a diverse array of musical performances and educational events every Wednesday at 2PM in Leshowitz Recital Hall, Chapin Hall. Our concert series showcases the immense talent within our faculty, students, and esteemed guest artists. \n FULL SCHEDULE:\u00a0 https://www.montclair.edu/music/cali-midweek-series-schedule/"
   },
   {
+    "title": "General Body Meetings",
+    "date": "2025-11-05T19:00:00+00:00",
+    "organization": "The Women Of Color Alliance ",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11849313",
+    "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
+  },
+  {
     "title": "Podcast Meeting",
     "date": "2025-11-05T19:00:00+00:00",
     "organization": "The Montclair English Club",
@@ -998,6 +990,14 @@
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11661388",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "General Miembro Meeting ",
+    "date": "2025-11-05T19:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11849319",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Painting Diyas with SASA!",
@@ -1120,6 +1120,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
   },
   {
+    "title": "General Body Meeting",
+    "date": "2025-11-05T22:30:00+00:00",
+    "organization": "The Brotherhood/La Hermandad",
+    "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11849327",
+    "description": "Weekly General Body Meeting."
+  },
+  {
     "title": "Brotherhood GBM",
     "date": "2025-11-05T22:30:00+00:00",
     "organization": "The Brotherhood/La Hermandad",
@@ -1174,6 +1182,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11754333",
     "description": "Discover What\u2019s Possible in Our\u00a0MSW Program Our\u00a0 MSW program \u00a0prepares leaders in social work to help\u00a0children, youth and families in a diverse local and global society. The program aims to prepare advanced practitioners to provide a range of clinical and advocacy services to vulnerable children, adolescents and their families. We're hosting a \u00a0 virtual current student panel November 5 at 7:00 PM\u00a0(EST) .\u00a0This is a no-pressure, exploratory space to meet our team and determine if our program fits your goals. Program Snapshot \n \n Credits: On-campus and\u00a0 online \u00a0- 60 | Advanced Standing - 33 \n Program Length: 2 - 4 years\u00a0 \n Modality: On-campus or online\u00a0 \n Cohort:\u00a0Day option or evening option ( synchronous and asynchronous in online program ) \n \n Meet the Panelists\u00a0 \n \n Allegra Addeo, Maywood School District \n Alanna Matos, St. Mary's General Hospital \n Tim Nee, Mental Health Association, Center for Behavioral Health \n Skyler Segal, Mental Health Association of Essex/Morris"
+  },
+  {
+    "title": "The Gather ",
+    "date": "2025-11-06T00:00:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Susan A. Cole Hall 141 - Admissions Presentation Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11849344",
+    "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sister in Christ."
   },
   {
     "title": "Pillow Talk",
@@ -1744,6 +1760,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 09/02 - 12/17 \n 12pm-12:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
   },
   {
+    "title": "Walk With FoMSF \u2013 Miles for Medicine",
+    "date": "2025-11-07T17:00:00+00:00",
+    "organization": "Friends of Doctors Without Borders",
+    "location": "Montclair State university",
+    "link": "https://montclair.campuslabs.com/engage/event/11849443",
+    "description": "Join us for a fun, relaxing, and meaningful Walkathon to promote wellness, community, and school spirit \u2014 all while making a difference! Lace up your sneakers and walk (or run!) alongside friends, faculty, and members of the MSU Run for Fun Club. \n This year, we\u2019re fundraising to support Doctors Without Borders in bringing humanitarian relief to Gaza. Together, we can make every step count toward hope and healing. \n While you\u2019re there, enjoy our Bake Sale featuring delicious homemade treats - all proceeds will go toward this important cause. \n We\u2019ll also have a Vitals Information Booth, where two EMTs will be available to take vitals and share helpful health and wellness tips. Plus, check out our informative posters, music, and chill vibes throughout the event. \n A donation jar will also be available for anyone who\u2019d like to contribute further to the relief efforts. \n Come out, have fun, and walk for a purpose , every step and every cookie helps! \ud83c\udf0d\ud83d\udc9a"
+  },
+  {
     "title": "CALI SCHOOL OF MUSIC: Viola Masterclass with Lawrence Dutton of the Emerson String Quartet",
     "date": "2025-11-07T17:00:00+00:00",
     "organization": "The College of the Arts",
@@ -1806,6 +1830,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11619185",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 09/02 - 12/17 \n 3:30pm-4:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Angel"
+  },
+  {
+    "title": "Freeman Friday",
+    "date": "2025-11-07T20:30:00+00:00",
+    "organization": "EATS by Gourmet Dining",
+    "location": "Freeman Dining Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11849926",
+    "description": "Join us at Freeman for smooth jazz music during dinner!"
   },
   {
     "title": "BOARD MEETINGS BROTHERHOOD",
@@ -3104,6 +3136,14 @@
     "description": "Join the Apple Core Community and The Future Educators Association in celebrating literature in schools through our on-campus book fair! Discover new reads, access free and reduced academic resources, and browse selections from student artists and small businesses!"
   },
   {
+    "title": "Carribean Student Organization ",
+    "date": "2025-11-12T21:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/11849457",
+    "description": "Join us for our Carribbean Student meetings a space to connect, share ideas, plan events, and celebrate our vibrant Caribbean culture!"
+  },
+  {
     "title": "Caribbean Student Organization General Body Meetings",
     "date": "2025-11-12T21:30:00+00:00",
     "organization": "Caribbean Students' Organization",
@@ -3182,6 +3222,14 @@
     "location": "Sprague Library Instruction Room 203",
     "link": "https://montclair.campuslabs.com/engage/event/11786527",
     "description": "Welcome to the Montclair State University Libraries! This workshop will give you an introduction to the university library, including: \n \n Introduction to\u00a0scholarly sources \n Library collections (including books, multimedia, and databases) \n Finding full text articles \n How to get research assistance \n \n Register Here:\u00a0https://montclair.libcal.com/event/15220074"
+  },
+  {
+    "title": "Friendsgiving: VIV Edition",
+    "date": "2025-11-12T20:00:00+00:00",
+    "organization": "EATS by Gourmet Dining",
+    "location": "Freeman Dining Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11849957",
+    "description": "Save the date! Join us at Freeman's Friendsgiving: VIV Edition... perfect way to share a meal with friends!"
   },
   {
     "title": "Choir Practice",
@@ -3472,6 +3520,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-6:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Quentin"
   },
   {
+    "title": "Meet the Freeman and Russ Hall Council - Pizza and Pool",
+    "date": "2025-11-13T21:00:00+00:00",
+    "organization": "Freeman Hall & Russ Hall",
+    "location": "Freeman Hall First Floor Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/11849465",
+    "description": "Join us for an afternoon of fun and connection! Come meet your Freeman and Russ Hall Council members, learn how you can get involved in upcoming events, and enjoy free pizza while playing a few rounds of pool with your neighbors. It\u2019s a great way to relax, connect, and get to know your community! \n All students are welcome, commuters need to be signed in a with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Clinical Psychology (MA) Virtual Information Session",
     "date": "2025-11-13T22:30:00+00:00",
     "organization": "The Office of Graduate Admissions",
@@ -3734,6 +3790,14 @@
     "location": "Dickson Hall 175 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11832951",
     "description": "November's monthly teaching will be regarding our indigenous communities. The purpose of the event is to bridge a path to their culture, explaining the origin of their existence and how they live day-to-day. Additionally, we desire to showcase the oppression and mistreatment that many indigenous communities face. In doing so, we hope to educate our peers and possibly promote community with those who may come."
+  },
+  {
+    "title": "Freeman Friday",
+    "date": "2025-11-14T20:30:00+00:00",
+    "organization": "EATS by Gourmet Dining",
+    "location": "Freeman Dining Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11849931",
+    "description": "Join us at Freeman for smooth jazz music during dinner!"
   },
   {
     "title": "BSA Movie Time ",
@@ -4744,6 +4808,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 1:15pm-2:00pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
   },
   {
+    "title": "Kcla fall treats ",
+    "date": "2025-11-19T17:00:00+00:00",
+    "organization": "Korean Culture & Language Association",
+    "location": "Student Center 2C04 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/11849473",
+    "description": "Come stop by and grab some fall treats in university lobby!"
+  },
+  {
     "title": "Bible Talk",
     "date": "2025-11-19T19:00:00+00:00",
     "organization": "Alpha Omega",
@@ -5656,6 +5728,14 @@
     "description": "Players Miscellaneous Production's performance"
   },
   {
+    "title": "A.LIFE Friends Giving",
+    "date": "2025-11-22T22:00:00+00:00",
+    "organization": "A.LIFE",
+    "location": "Student Center 280 - Cafeteria",
+    "link": "https://montclair.campuslabs.com/engage/event/11849692",
+    "description": "This season, let\u2019s celebrate friendship and gratitude by giving back to our community! Join us for a Friendsgiving Give Back event filled with good vibes, connection, and purpose. \n \u2728 Entry: One canned or non-perishable food item \n All donations will go directly to the Rutgers Food Pantry to support students and community members in need. \n Come enjoy the spirit of giving, share laughs with friends, and help make a difference\u2014one can at a time. \ud83e\udd6b\u2764\ufe0f"
+  },
+  {
     "title": "Harvest Ball 25",
     "date": "2025-11-22T23:00:00+00:00",
     "organization": "Black Student Union",
@@ -5968,6 +6048,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
   },
   {
+    "title": "Thanksgiving Dinner",
+    "date": "2025-11-24T23:30:00+00:00",
+    "organization": "Bangladesh Student Association ",
+    "location": "Student Center 251 - Dining Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11849705",
+    "description": "\ud83c\udf42 Thanksgiving Dinner! \ud83c\udf57 \n Thanksgiving is all about food, friends, and pretending we didn\u2019t eat three plates in a row. So come feast with us! No one should be stuck eating frozen pizza alone on Thanksgiving. Pull up a chair, grab a fork, and join us for a yummy dinner, good company, and zero judgment on how many times you go back for seconds. \ud83d\ude04 \n \u00a0 \n Come hungry. Leave happy. See you there!"
+  },
+  {
     "title": "Production Team Workshop",
     "date": "2025-11-25T00:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -6142,6 +6230,14 @@
     "location": "Blanton Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11848537",
     "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Tuesdays: 5-7pm \n Saturdays: 11-1pm"
+  },
+  {
+    "title": "Karaoke Night!",
+    "date": "2025-11-25T23:00:00+00:00",
+    "organization": "Japan Club",
+    "location": "Student Center Underground - The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/11849725",
+    "description": "Karaoke but only Japanese music! Sing any of your favorite Japanese songs with friends"
   },
   {
     "title": "Group X - BJJ",
@@ -6782,6 +6878,14 @@
     "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/11838011",
     "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
+  },
+  {
+    "title": "Master Dance Class",
+    "date": "2025-12-01T23:30:00+00:00",
+    "organization": "Dynasty Dance Collective",
+    "location": "Student Center 250BC - Ballrooms B and C",
+    "link": "https://montclair.campuslabs.com/engage/event/11849750",
+    "description": "Xavier Mack will be our Guest Choreographer of the Semester!\u00a0 \n His credits include: Brickhouse Teacher (Saturdays @8PM), Montsters Dance Class of 2025, Kaos Squad 24/25, Usher Met Gala, Macys Thanksgiving Day Parade 2024 \n Tickets will be sold on Eventbrite \n Montclair State and Bloomfield Students FREE! PLEASE THOUGH, PURCHASE YOUR TICKET, AS YOU WILL NOT BE ACCEPTED IN WITHOUT YOUR TICKET. \n PLEASE ARRIVE ON TIME!  EARLY IS ON TIME AND ON TIME IS LATE."
   },
   {
     "title": "Group X - Goodnight Yoga",
