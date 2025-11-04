@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2025-11-04T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11599476",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 8am - 8:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Group X - Cycling",
     "date": "2025-11-04T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -2837,7 +2829,7 @@
     "organization": "Office of Sustainability",
     "location": "Student Center, 4th Floor, Room 419",
     "link": "https://montclair.campuslabs.com/engage/event/11852669",
-    "description": "Join us for a thoughtful evening of tea, pizza, conversation, and connection as we explore how federal policies shape sustainability from the environment, to the economy, to our everyday lives. \n This \u201cTea & Talk\u201d will unpack how changes in clean air and water protections, healthcare access, and immigration enforcement ripple through communities, influencing both social equity and environmental well-being. Together, we\u2019ll also take a closer look at the lasting social impacts of systemic inequality and redlining, and how they continue to affect health, housing, and trust in public institutions today. \n Come ready, spilling some sustainabiliTEA to share your thoughts, listen to others, and imagine what true sustainability can look like in our communities."
+    "description": "Join us for a thoughtful evening of tea, pizza, conversation, and connection as we explore how federal policies shape sustainability from the environment, to the economy, to our everyday lives. \n This \u201cTea & Talk\u201d will unpack how changes in clean air and water protections, healthcare access, and immigration enforcement ripple through communities, influencing both social equity and environmental well-being. Together, we\u2019ll also take a closer look at the lasting social impacts of systemic inequality and redlining, and how they continue to affect health, housing, and trust in public institutions today. \n Come ready, spilling some sustainabiliTEA to share your thoughts, listen to others, and imagine what true sustainability can look like in our communities.\u00a0 \n All are welcome!"
   },
   {
     "title": "Choir Practice",
@@ -2854,6 +2846,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11616372",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 7:45pm - 8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa G"
+  },
+  {
+    "title": "Leadership & Opportunities, Liderazgo y Oportunidades ",
+    "date": "2025-11-12T23:15:00+00:00",
+    "organization": "Office for Hispanic Initiatives",
+    "location": "Feliciano School of Business, Room 140 ",
+    "link": "https://montclair.campuslabs.com/engage/event/11855539",
+    "description": "The Office for Hispanic Initiatives, in collaboration with MASA and Citi, invites you to an evening of networking and professional growth. Join a panel of Professionals as they share their experiences, lessons learned, and key opportunities that helped shape their success."
   },
   {
     "title": "Mother Found in All Creation",
@@ -4206,6 +4206,14 @@
     "location": "Student Recreation Center - Pool",
     "link": "https://montclair.campuslabs.com/engage/event/11451549",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20, 2025 \n Tuesday, 5-6 p.m. \n Student Recreation Center - Pool"
+  },
+  {
+    "title": "International Candy Tasting & Tea Hour!",
+    "date": "2025-11-18T22:00:00+00:00",
+    "organization": "Bloomfield Office of International Student Services",
+    "location": "College Hall Main Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/11855211",
+    "description": "\ud83c\udf0dA World of Sweets and Sips!\ud83c\udf6c\u2615\u00a0Join us for the international candy and tea tasting event, where you can experience sweet treats and teas from across the globe.\u00a0Discover new flavors, learn about different cultures, and enjoy a world of tastes in one place!"
   },
   {
     "title": "Free Swim Lessons *Beginner*",
@@ -5872,14 +5880,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Jayla"
   },
   {
-    "title": "Women's Basketball vs. Rowan",
-    "date": "2025-11-25T22:00:00+00:00",
-    "organization": "Athletics",
-    "location": "Panzer Athletic Center",
-    "link": "https://montclair.campuslabs.com/engage/event/11342677",
-    "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
-  },
-  {
     "title": "Red Hawk Pantry",
     "date": "2025-11-25T22:00:00+00:00",
     "organization": "Red Hawk Pantry",
@@ -7302,6 +7302,14 @@
     "location": "University Hall 1010 - James B. Todd Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11602643",
     "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
+  },
+  {
+    "title": "Theta Kappa Chi Presents: Bingo for PICU!",
+    "date": "2025-12-05T02:00:00+00:00",
+    "organization": "Theta Kappa Chi",
+    "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11855141",
+    "description": "The sisters of Theta Kappa Chi will be hosting a Bingo to fundraise for the St. Joseph\u2019s PICU in Paterson, NJ."
   },
   {
     "title": "Group X - Yoga",
