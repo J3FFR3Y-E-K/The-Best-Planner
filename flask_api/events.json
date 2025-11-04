@@ -1,13 +1,5 @@
 [
   {
-    "title": "MSDC Practice ",
-    "date": "2025-11-04T02:00:00+00:00",
-    "organization": "Montclair State Dance Company",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/11786815",
-    "description": "Montclair State Dance Company rehearsal."
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2025-11-04T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -832,6 +824,14 @@
     "description": "Rehearsal for Players' Comedy, Firebringer."
   },
   {
+    "title": "Mini Pumpkin Painting",
+    "date": "2025-11-06T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11772425",
+    "description": "Get into the fall spirit with a cozy afternoon of creativity! Join us for a Mini Pumpkin Painting Party, where you\u2019ll get your own pumpkin and all the supplies you need to design something festive, spooky, or unique. Paint, glitter, and decorate \u2014 no carving required! Perfect for a dorm room or apartment-friendly fall decor. Come visit us at the Bohn Hall Lounge from 8-10 pm on November 5th! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Paint & Sip",
     "date": "2025-11-06T01:00:00+00:00",
     "organization": "Residence Life",
@@ -1144,20 +1144,20 @@
     "description": "Join us on  Thursday, November 6, 2025 , from  6:00 PM to 9:00 PM  in  Student Center Room 411  for an evening of learning and connection! \n Hosted by the Office of Student Belonging and First-Generation Initiatives, this event will guide students through the essentials of formal and business dining etiquette\u00a0from table settings to professional conversation tips. \n Whether you're preparing for networking dinners, interviews, or formal events, this experience will help you feel confident and prepared in any setting. \n Reservation required. Don\u2019t miss this opportunity to dine, learn, and elevate your professional presence! \ud83c\udf1f"
   },
   {
-    "title": "Movie Night",
-    "date": "2025-11-07T00:00:00+00:00",
-    "organization": "International Student Association",
-    "location": "University Hall 1060 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11792621",
-    "description": "Fall is here! Join us for a cozy evening. Sit back and enjoy a movie with ISA."
-  },
-  {
     "title": "Cheer Practice",
     "date": "2025-11-07T00:00:00+00:00",
     "organization": "Bloomfield Cheer Team",
     "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
     "link": "https://montclair.campuslabs.com/engage/event/11851494",
     "description": "Cheer practice"
+  },
+  {
+    "title": "Movie Night",
+    "date": "2025-11-07T00:00:00+00:00",
+    "organization": "International Student Association",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11792621",
+    "description": "Fall is here! Join us for a cozy evening. Sit back and enjoy a movie with ISA."
   },
   {
     "title": "Unplugged: 5th Grade Trivia",
