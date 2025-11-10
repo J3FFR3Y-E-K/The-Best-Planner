@@ -1,13 +1,5 @@
 [
   {
-    "title": "Theta Phi Alpha- Chapter Meeting",
-    "date": "2025-11-09T22:00:00+00:00",
-    "organization": "Theta Phi Alpha",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11704299",
-    "description": "Weekly chapter meeting for active members"
-  },
-  {
     "title": "Art Forum featuring Mary Mattingly",
     "date": "2025-11-10T10:20:00+00:00",
     "organization": "Art and Design",
@@ -496,20 +488,20 @@
     "description": "Rehearsal for Players' Comedy, Firebringer."
   },
   {
-    "title": "MSDC Practice ",
-    "date": "2025-11-11T01:00:00+00:00",
-    "organization": "Montclair State Dance Company",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/11789462",
-    "description": "Rehearsal for Montclair Sate Dance Company."
-  },
-  {
     "title": "Paint a Partner",
     "date": "2025-11-11T01:00:00+00:00",
     "organization": "Residence Life",
     "location": "Freeman Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11822268",
     "description": "Come to Freeman Lounge and paint a portrait of a buddy on November 10th at 8PM!  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "MSDC Practice ",
+    "date": "2025-11-11T01:00:00+00:00",
+    "organization": "Montclair State Dance Company",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/11789462",
+    "description": "Rehearsal for Montclair Sate Dance Company."
   },
   {
     "title": "Ping Pong Tournament",
@@ -4566,14 +4558,6 @@
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/11786799",
     "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
-  },
-  {
-    "title": "Production Team Workshop (Directing/Stage Management/Proposals)",
-    "date": "2025-11-24T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/11820388",
-    "description": "Players is hosting a workshop on what it means to direct, stage manage, and propose a Players production."
   },
   {
     "title": "Group X - Goodnight Yoga",
