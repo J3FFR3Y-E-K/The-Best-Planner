@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2025-11-11T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11599477",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 8am - 8:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Group X - Cycling",
     "date": "2025-11-11T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -24,20 +16,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Ashley"
   },
   {
-    "title": "Coffee Mixer",
-    "date": "2025-11-11T15:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11821085",
-    "description": "Need a midweek pick-me-up? Come sip, chat, and connect at our cozy Coffee Mixer on Tuesday November 11 from 10am- 12 pm. Whether you\u2019re a latte lover or a donut fan, this is the perfect grab n' go event before your class! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Award Winners Exhibition",
     "date": "2025-11-11T16:00:00+00:00",
     "organization": "Art and Design",
     "location": "Finley Gallery, Finley Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11869169",
     "description": "The Department of Art & Design is proud to present the  Award Winners Exhibition . \n \u00a0 \n The exhibition will be on view in Finley Gallery from  November 7 through December 1, 2025 , with an opening reception on  Wednesday, November 12, from 2:00\u20134:00 PM . \n \u00a0 \n Finley Gallery will showcase a curated selection of works that highlight the artistry, hard work, and commitment of these emerging creators, offering an inspiring glimpse into the diverse ideas and approaches shaping our students\u2019 practices. \n \u00a0 \n We invite the public to join us for a reception at Finley Gallery on Wednesday, November 12, to celebrate the accomplishments of these talented makers and the bright futures ahead of them. \n \u00a0 \n Exhibiting artists include: Jelena Wall (Illustration), winner of the Donald and Judy Miller Scholarship, the Cento Amici Scholarship, and the Ina Golub Scholarship Brett Diese (Visual Communication Design), Dean\u2019s Advisory Board Award and Ina Golub Scholarship Bralen Jones (Visual Arts), Richard Carboni Thesis Materials Award Marlena Holston (Visual Arts), Richard Carboni Thesis Materials Award Santiago Arcila (Visual Arts), Richard Carboni Thesis Materials Award Ashley Ortiz (Illustration), Cento Amici Award Sabrina Saroza (Visual Arts and Art Education), Cento Amici Award Camila Garcia (Visual Communication Design), Dean\u2019s Advisory Board Award Giacomo Valerin (Visual Arts), recognized for Outstanding Work in Integrative Studio I Mari Ahmed (Visual Arts), recognized for Outstanding Work in Integrative Studio I Maurice Tobias (Visual Arts), recognized for Outstanding Work in Integrative Studio II Sadie Vizcaino (Visual Arts), recognized for Outstanding Work in Integrative Studio III Kelly Arita (Visual Arts), recognized for Outstanding Work in Integrative Studio III Jivon Batres (Visual Arts), recognized for Outstanding Thesis in Integrative Studio III \n \u00a0 \n Award Winners Exhibition Finley Gallery, Finley Hall Exhibition dates: November 7\u2013December 1, 2025 Reception: Wednesday, November 12, 2025, 2:00\u20134:00 PM"
+  },
+  {
+    "title": "Coffee Mixer",
+    "date": "2025-11-11T15:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11821085",
+    "description": "Need a midweek pick-me-up? Come sip, chat, and connect at our cozy Coffee Mixer on Tuesday November 11 from 10am- 12 pm. Whether you\u2019re a latte lover or a donut fan, this is the perfect grab n' go event before your class! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "The Leadership Lounge",
@@ -131,9 +123,9 @@
     "title": "Red Hawk Warrior Challenge",
     "date": "2025-11-11T19:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Student Recreation Center Lounge",
+    "location": "Student Recreation Center Gym",
     "link": "https://montclair.campuslabs.com/engage/event/11624455",
-    "description": "Show your strength and spirit at the Red Hawk Warrior Challenge on Tuesday, November 11, from 2 to 4 p.m. at the Student Recreation Center. Take on six exciting challenges that test your strength and physical ability in honor of our veterans. Compete for prizes awarded to the top three performers and celebrate your effort with a well-earned treat at the finish line. Volunteers will also receive a free shirt as a thank-you for supporting the event. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesday, November 11 \n 2pm-4pm, must be checked in by 3:30pm to participate \n Student Recreation Center Lounge"
+    "description": "Show your strength and spirit at the Red Hawk Warrior Challenge on Tuesday, November 11, from 2 to 4 p.m. at the Student Recreation Center. Take on six exciting challenges that test your strength and physical ability in honor of our veterans. Compete for prizes awarded to the top three performers and celebrate your effort with a well-earned treat at the finish line. Competitors will also receive a free shirt as a thank-you for supporting the event. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesday, November 11 \n 2pm-4pm, must be checked in by 3:30pm to participate \n Student Recreation Center Gym"
   },
   {
     "title": "Group X - Kickboxing",
@@ -3096,14 +3088,6 @@
     "description": "Our Safe Space Training is an intensive, interactive training that provides attendees with information and tools to combat homophobia, biphobia, transphobia, cissexism and heterosexism, on campus and beyond. Through interactive activities and discussion, participants will personally reflect on their own experiences to enhance their personal and professional development, provide further education, and finally, identify ways to create change on campus and beyond. \n All sessions are three hours and are first-come, first-served. Pre-registration is required. Registrants are expected to attend the full session. Only individuals who have fully completed the Safe Space Program and have agreed to the expectations of its membership are able to display the sticker/button of our program. Refreshments are not provided; however, you are more than welcome to bring your lunch, coffee, snacks, etc."
   },
   {
-    "title": "Open Play Pickleball",
-    "date": "2025-11-20T16:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center 1300 - Main Gym",
-    "link": "https://montclair.campuslabs.com/engage/event/11753701",
-    "description": "We\u2019re excited to add Pickleball to our Intramural Sports lineup this fall! Whether you\u2019re a seasoned player or trying it for the first time, join us for Open Play sessions from September 2 \u2013 December 11. \n Open Play is drop-in style and open to all skill levels\u2014come solo or bring a friend! No pre-registration required; just swipe your Student ID when you arrive. \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesdays & Thursdays: September 2 - December 11 \n Saturdays: October 4 - December 13 \n Tuesdays - 8:00pm-10:00pm \n Thursdays - 11:00am-1:00pm\u00a0 \n Saturdays - 5pm-7pm \n \n \n Student Recreation Center Gym"
-  },
-  {
     "title": "Roots and Recipes: Learning from Indigenous Cuisine and Language with Chef Irwin S\u00e1nchez",
     "date": "2025-11-20T16:00:00+00:00",
     "organization": "Center for Latino Heritage & Spanish Language Excellence",
@@ -3518,6 +3502,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11619187",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 09/02 - 12/17 \n 3:30pm-4:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Angel"
+  },
+  {
+    "title": "4th Annual Student Photo Exhibition ",
+    "date": "2025-11-17T15:30:00+00:00",
+    "organization": "Bloomfield Office of International Student Services",
+    "location": "Scott H. Kaplan \u201902 Art Gallery at Bloomfield College Library",
+    "link": "https://montclair.campuslabs.com/engage/event/11879030",
+    "description": "Picture the World!  Enter our annual student photo contest to showcase your unique experiences at BCMSU, cultural moments, or international travels. All entries will be displayed at Scott H. Kaplan \u201902 Art Gallery in Bloomfield campus library from 11/17 through 11/21."
   },
   {
     "title": "Free Trip to the National Museum of the American Indian ",
@@ -3942,14 +3934,6 @@
     "location": "University Hall 2007 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11665624",
     "description": "An InterVarsity small that helps men follow Jesus with their whole lives, for the rest of their lives. We pray for revival together and get to do life together"
-  },
-  {
-    "title": "Production Staff Meeting",
-    "date": "2025-11-24T19:00:00+00:00",
-    "organization": "The Normal Review",
-    "location": "Dickson Hall 175 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11665664",
-    "description": "Join the Production Staff of The Normal Review, MSU's Creative Arts Magazine, to participate in reviews and voting of the past week's student submissions."
   },
   {
     "title": "Monster Court",
@@ -6296,6 +6280,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Brian"
   },
   {
+    "title": "RED HAWK STUDIO - Screening Event",
+    "date": "2025-12-08T18:00:00+00:00",
+    "organization": "Red Hawk Studio",
+    "location": "College of Communication and Media Building - Room (1040)",
+    "link": "https://montclair.campuslabs.com/engage/event/11879368",
+    "description": "Join Us - Red Hawk Studio, will be hosting our end of semester screening the event.\u00a0 All of our members who have participated in any of our events are welcomed to be able to network as well, see our work that we have\u00a0 made during our Semester Long Production.\u00a0 We will have food provided for FREE!!!"
+  },
+  {
     "title": "Study Abroad 101",
     "date": "2025-12-08T19:00:00+00:00",
     "organization": "Office of International Academic Initiatives",
@@ -6366,14 +6358,6 @@
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/11662237",
     "description": "Come take a break with us. Relax as we chat and host our last meeting for the fall semester. Winter is coming, so let's have one last spooky, hooray!"
-  },
-  {
-    "title": "Magazine Release Party",
-    "date": "2025-12-08T19:00:00+00:00",
-    "organization": "The Normal Review",
-    "location": "Dickson Hall 178 - Cohen Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/11624243",
-    "description": "Join\u00a0 The Normal Review  in celebrating the release of our Fall 2025 Issue!\u00a0Enjoy free food while listening to readings and/or artist comments from our contributors this semester.\u00a0 \n \u00a0 \n Contributors and production staff will be able to pick up a copy of the magazine."
   },
   {
     "title": "Garfield club Lasagna Day featuring HRT resources \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
