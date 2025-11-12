@@ -24,20 +24,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Rosalyn"
   },
   {
-    "title": "La Tiendita de ALPFA",
-    "date": "2025-11-12T15:00:00+00:00",
-    "organization": "Association of Latino Professionals For America",
-    "location": "University Hall 1C01 - Lobby Table",
-    "link": "https://montclair.campuslabs.com/engage/event/11690984",
-    "description": "Hungry? Swing by La Tiendita de ALPFA, our campus fundraiser, filled with delicious bites and good vibes."
-  },
-  {
     "title": "Free Swim Lessons - Intermediate",
     "date": "2025-11-12T16:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Pool",
     "link": "https://montclair.campuslabs.com/engage/event/11664529",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with valid Montclair State ID \n \n When and Where? \n \n From 09/8 - 11/20 \n Wednesday:11-12 PM and 5-6PM \n Student Recreation Center - Pool"
+  },
+  {
+    "title": "La Tiendita de ALPFA",
+    "date": "2025-11-12T15:00:00+00:00",
+    "organization": "Association of Latino Professionals For America",
+    "location": "University Hall 1C01 - Lobby Table",
+    "link": "https://montclair.campuslabs.com/engage/event/11690984",
+    "description": "Hungry? Swing by La Tiendita de ALPFA, our campus fundraiser, filled with delicious bites and good vibes."
   },
   {
     "title": "Award Winners Exhibition",
@@ -104,14 +104,6 @@
     "description": "The brothers of the The Gamma Iota Chapter are using gently used blankets and clothing to donate to the homeless"
   },
   {
-    "title": "rhw gbm",
-    "date": "2025-11-12T19:00:00+00:00",
-    "organization": "Red Hawk Writers",
-    "location": "Dickson Hall 175 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11792459",
-    "description": "chill with us and write something"
-  },
-  {
     "title": " Letters of Gratitude \ud83d\udc8c ",
     "date": "2025-11-12T19:00:00+00:00",
     "organization": "Bloomfield College Student Government Association (BCSGA)",
@@ -126,6 +118,14 @@
     "location": "Richardson Hall Rm 256",
     "link": "https://montclair.campuslabs.com/engage/event/11873639",
     "description": "Learn about the graduate school experience as a STEM major!"
+  },
+  {
+    "title": "rhw gbm",
+    "date": "2025-11-12T19:00:00+00:00",
+    "organization": "Red Hawk Writers",
+    "location": "Dickson Hall 175 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11792459",
+    "description": "chill with us and write something"
   },
   {
     "title": "Bible Talk",
@@ -264,14 +264,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 3pm-3:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
   },
   {
-    "title": "Stop by our Flu Clinic !! ",
-    "date": "2025-11-12T15:00:00+00:00",
-    "organization": "Student Health Center",
-    "location": "Student Center - Ballroom B ",
-    "link": "https://montclair.campuslabs.com/engage/event/11310705",
-    "description": "*ATTENTION MONTCLAIR STATE UNIVERSITY STUDENTS!* \n MAKE SURE YOU GET YOUR FLU VACCINE!\u00a0 \n For Appointments visit :\u00a0 https://www.acmemarkets.com/vaccinations/group-clinic/Montclair25 \n \u00a0 \n Walk-ins are welcome, while supplies last. Remember to bring your\u00a0 insurance card . \n (Most insurance accepted) and\u00a0 University ID card . \n \u00a0 \n **The Student Health Center is partnering up with Occupational Health for our annual flu clinics! If you cannot make this event, keep an eye out for more upcoming dates this Fall!**"
-  },
-  {
     "title": "On View: The Age of Black Metal by Afrotectopia",
     "date": "2025-11-12T17:00:00+00:00",
     "organization": "Montclair State University Galleries",
@@ -310,6 +302,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11322502",
     "description": "Learn more about Curricular Practical Training (CPT) for F-1 students. Any student planning to apply for CPT is REQUIRED to attend a workshop before they can apply. This workshop is for CURRENT students ONLY - any other attendees will be removed."
+  },
+  {
+    "title": "Stop by our Flu Clinic !! ",
+    "date": "2025-11-12T15:00:00+00:00",
+    "organization": "Student Health Center",
+    "location": "Student Center - Ballroom B ",
+    "link": "https://montclair.campuslabs.com/engage/event/11310705",
+    "description": "*ATTENTION MONTCLAIR STATE UNIVERSITY STUDENTS!* \n MAKE SURE YOU GET YOUR FLU VACCINE!\u00a0 \n For Appointments visit :\u00a0 https://www.acmemarkets.com/vaccinations/group-clinic/Montclair25 \n \u00a0 \n Walk-ins are welcome, while supplies last. Remember to bring your\u00a0 insurance card . \n (Most insurance accepted) and\u00a0 University ID card . \n \u00a0 \n **The Student Health Center is partnering up with Occupational Health for our annual flu clinics! If you cannot make this event, keep an eye out for more upcoming dates this Fall!**"
   },
   {
     "title": "Information Session- Wednesday, November 12, 2025",
@@ -734,14 +734,6 @@
     "location": "Student Recreation Center Gym",
     "link": "https://montclair.campuslabs.com/engage/event/11833032",
     "description": "Join us at the Montclair State Rec Center Holiday Flea Market on Thursday, November 20th, and support our Food Drive in collaboration with Toni\u2019s Kitchen! We\u2019re collecting shelf-stable, non-expired food items to help fight food insecurity in our community. Suggested donation items can be found on the Toni\u2019s Kitchen website Every donation earns you raffle tickets for a chance to win a prize! Bring your items, do some holiday shopping, and give back\u2014all in one place. See you there! \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and When? \n \n Thursday, November 11 - 20 \n 2 - 5pm \n Student Recreation Center Gym"
-  },
-  {
-    "title": "America\u2019s Next Top AKActivist",
-    "date": "2025-11-13T19:00:00+00:00",
-    "organization": "Alpha Kappa Alpha Sorority, Inc. ",
-    "location": "Bloomfield - Talbott Hall Info3 - Information Table 3",
-    "link": "https://montclair.campuslabs.com/engage/event/11739288",
-    "description": "Voter's Registration"
   },
   {
     "title": "Free Swim Lessons - Intermediate",
@@ -1518,6 +1510,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11739580",
     "description": "A well-edited final draft makes all the difference so your hard work can shine. Learn how to polish, proofread, and edit your own work for excellent final papers and projects."
+  },
+  {
+    "title": "STEM & Sweets: Mini Pie Decorating and Trivia",
+    "date": "2025-11-17T19:00:00+00:00",
+    "organization": "The Association of Women in Science at Montclair State University",
+    "location": "Schmitt 327",
+    "link": "https://montclair.campuslabs.com/engage/event/11882968",
+    "description": "Join the Association of Women in STEM for a sweet and spirited evening of creativity and competition at our STEM & Sweets: Mini Pie Decorating and Trivia Night! Attendees can decorate their own mini pies with a variety of delicious toppings while testing their knowledge in a lively STEM-themed trivia game. Prizes will be awarded to the first, second, and third place trivia winners, so bring your best team and your best brainpower. It\u2019s the perfect mix of sugar and science \u2014 a chance to relax, connect with fellow STEM enthusiasts, and show off both your artistic and intellectual skills. Everyone is welcome, so come join us for an evening of fun, flavor, and friendly competition!"
   },
   {
     "title": "W.I.R.E.S. November General Body Meeting",
@@ -2518,6 +2518,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11616149",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 5:30pm - 6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+  },
+  {
+    "title": "Voice of Hunger: A Reality Check",
+    "date": "2025-11-19T21:30:00+00:00",
+    "organization": "Bonner Leader Program ",
+    "location": "University Hall 1030",
+    "link": "https://montclair.campuslabs.com/engage/event/11882938",
+    "description": "This a hunger simulation aimed to raise awareness about food insecurity in our communities. During this simulation, participants will engage in activities designed to highlight the challenges faced by those experiencing hunger. This immersive experience will allow students to have meaningful discussions about food access and learn about current state of food insecurity in our communities. We will also have a community service opportunity to take action in alleviating food insecurity: by making sandwiches and snack kits that will be donated to a local food pantry. \n *This will count for service hours*"
   },
   {
     "title": "Brotherhood GBM",
