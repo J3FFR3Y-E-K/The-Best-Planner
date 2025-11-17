@@ -1,29 +1,5 @@
 [
   {
-    "title": "Firebringer Rehearsal",
-    "date": "2025-11-16T15:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11838885",
-    "description": "Rehearsal for Players' Comedy, Firebringer."
-  },
-  {
-    "title": "Group X - HIIT",
-    "date": "2025-11-16T22:45:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11597281",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Sunday, 09/02 - 12/17 \n 5:45pm-6:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
-  },
-  {
-    "title": "Group X - Kickboxing",
-    "date": "2025-11-16T23:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11597355",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Sunday, 09/02 - 12/17 \n 6:30pm - 7:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
-  },
-  {
     "title": "Group X - Goodnight Yoga",
     "date": "2025-11-17T00:45:00+00:00",
     "organization": "Campus Recreation",
@@ -48,20 +24,20 @@
     "description": "Complexions will be practicing for an upcoming performance."
   },
   {
-    "title": "Phi Delta Theta Chapter",
-    "date": "2025-11-16T23:30:00+00:00",
-    "organization": "Phi Delta Theta",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11690907",
-    "description": "Phi Delta Theta Chapter meeting"
-  },
-  {
     "title": "CALI SCHOOL OF MUSIC: Percussion Ensemble Studio Recital",
     "date": "2025-11-17T01:00:00+00:00",
     "organization": "The College of the Arts",
     "location": "Room 201",
     "link": "https://montclair.campuslabs.com/engage/event/11808469",
     "description": "Percussion Ensemble Studio Recital \n Cali School percussion students present an energetic and dynamic program featuring solo and small ensemble works that showcase rhythm, color, and creativity."
+  },
+  {
+    "title": "Phi Delta Theta Chapter",
+    "date": "2025-11-16T23:30:00+00:00",
+    "organization": "Phi Delta Theta",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11690907",
+    "description": "Phi Delta Theta Chapter meeting"
   },
   {
     "title": "Grab and Go Fall Goodies",
@@ -312,20 +288,20 @@
     "description": "Join Advocacy & Outreach in the Office of Student Belonging\u00a0at our Trans Awareness Week flag raising to commemorate the start of Trans Awareness Week. \n We will receive words from some of our students, with special guest speaker Bernie Wagenblast \n The flag raising is at the Student Center Flag poles from 2:00pm - 2:30pm \n The gathering after is at the Advocacy & Outreach Office, Suite 113 of the Student Center from 2:30pm - 3:30pm \n All are welcome! \n Co-Sponsored by: Gender, Sexuality & Women's Studies, Office of Health Promotion, Office of Community Resilience and Officer Wellness, Counseling and Psychological Services (CAPS), and the Student Health Center"
   },
   {
-    "title": "Historical Society General Board Meetings",
-    "date": "2025-11-17T19:00:00+00:00",
-    "organization": "The Historical Society at Montclair State",
-    "location": "University Hall 2002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11665680",
-    "description": "Are you passionate about history? Love visiting interesting places, watching movies, participating in trivia, winning cool prizes, or attending engaging lectures? Then the History Club is for you!"
-  },
-  {
     "title": "HSCI: Mentor Informational ",
     "date": "2025-11-17T19:00:00+00:00",
     "organization": "Office for Hispanic Initiatives",
     "location": "University Hall 1020",
     "link": "https://montclair.campuslabs.com/engage/event/11834259",
     "description": "Interested in mentorship and making a difference? \ud83c\udf1f Join us to learn all about the Hispanic Student College Institute (HSCI) and how you can become part of this impactful summer experience! Discover how HSCI Mentors inspire future college students, build leadership skills, and create memories that last a lifetime. \ud83d\udcab #HSCI #Mentorship #Leadership\u00a0 \n Join us  in person or on Zoom  for this hybrid info session and see how you can make an impact this summer."
+  },
+  {
+    "title": "Historical Society General Board Meetings",
+    "date": "2025-11-17T19:00:00+00:00",
+    "organization": "The Historical Society at Montclair State",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11665680",
+    "description": "Are you passionate about history? Love visiting interesting places, watching movies, participating in trivia, winning cool prizes, or attending engaging lectures? Then the History Club is for you!"
   },
   {
     "title": "Information Session- Monday, November 17, 2025",
