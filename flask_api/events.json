@@ -1,29 +1,5 @@
 [
   {
-    "title": "Firebringer Rehearsal",
-    "date": "2025-11-22T15:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11857297",
-    "description": "Rehearsal for Players' Comedy, Firebringer."
-  },
-  {
-    "title": "Feed the people: Sandwich Making event ",
-    "date": "2025-11-22T19:00:00+00:00",
-    "organization": "Panther Progress: Community Compassion Collective",
-    "location": "Student Center 417 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11857309",
-    "description": "We will be gathering together to make sandwiches to donate to shelters in Paterson and Newark."
-  },
-  {
-    "title": "Turtleback Zoo",
-    "date": "2025-11-22T15:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center",
-    "link": "https://montclair.campuslabs.com/engage/event/11731274",
-    "description": "Join your friends for a day at the Zoo! See animals from all over the world as you enjoy lunch at your choice of cafes around the park. Bring cash for lunch, a water bottle to stay hydrated, and comfortable walking shoes. \n How do I sign-up? \n \n Register online through\u00a0 Fusion , in the Student Recreation Center\u2019s main office, or over the phone (973-655-3340). \n Registration opens October 20th \n Cost for Students $10 \n \n Where and when? \n \n Saturday, November 22, 2025 \n 10:00 am \u2013 4:00 pm \n Begins at Student Recreation Center \n \n What to bring: \u00a0Water, lunch, long pants, sneakers, and sunscreen. Participants MUST wear sneakers in order to go on the zipline and obstacle course. \n Note: \u00a0Tree Top Adventures restricts obstacle course and zipline participants to a strict weight limit of 250 lbs. Students may opt to participate in only the Zoo portion of the trip should they like. \n Potential Hazards: \u00a0Unpredictable weather changes, sunburn/heat exhaustion, dehydration, allergic reactions/poisonous plants, insect bites and injury by running, including sprains, lacerations, abrasions and fractures."
-  },
-  {
     "title": "Open Play Pickleball",
     "date": "2025-11-22T22:00:00+00:00",
     "organization": "Campus Recreation",
@@ -56,14 +32,6 @@
     "description": "Join us for Games & Guac, a laid-back evening featuring a full taco bar, and all your favorite board and card games. Bring your friends or meet new ones as you snack, play, and unwind. \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n Where and when? \n \n Saturday, November 22nd \n 7 pm - 9 pm \n Student Center Dining Room, Room 251"
   },
   {
-    "title": "Players Miscellaneous Production Performance ",
-    "date": "2025-11-22T19:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/11535587",
-    "description": "Players Miscellaneous Production's performance"
-  },
-  {
     "title": "Harvest Ball 25",
     "date": "2025-11-22T23:00:00+00:00",
     "organization": "Black Student Union",
@@ -78,6 +46,14 @@
     "location": "Blanton Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11821062",
     "description": "Craving a sweet treat? Satisfy your sweet tooth at our Brownie Bar! Grab a brownie and top it with whipped cream, chocolate/caramel drizzle, and candy! In Blanton Hall 8PM-10PM on November 22nd!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Players Miscellaneous Production Performance ",
+    "date": "2025-11-22T19:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/11535587",
+    "description": "Players Miscellaneous Production's performance"
   },
   {
     "title": "Theta Phi Alpha- End of Semester Sisterhood Events",
@@ -1928,20 +1904,20 @@
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
   },
   {
-    "title": "Bible Talk ",
-    "date": "2025-12-03T19:00:00+00:00",
-    "organization": "Alpha Omega",
-    "location": "University Hall 2010 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11895119",
-    "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
-  },
-  {
     "title": "Physics Club Meeting ",
     "date": "2025-12-03T19:00:00+00:00",
     "organization": "Physics Club",
     "location": "Richardson Hall Rm 256",
     "link": "https://montclair.campuslabs.com/engage/event/11889116",
     "description": "Come hear one of our alumni talk about her graduate school experience through our Stevens program!"
+  },
+  {
+    "title": "Bible Talk ",
+    "date": "2025-12-03T19:00:00+00:00",
+    "organization": "Alpha Omega",
+    "location": "University Hall 2010 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11895119",
+    "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
   },
   {
     "title": "CSAM Science Teaching Program - Program Meeting",
