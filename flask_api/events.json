@@ -1,21 +1,5 @@
 [
   {
-    "title": "Award Winners Exhibition",
-    "date": "2025-11-23T15:00:00+00:00",
-    "organization": "Art and Design",
-    "location": "Finley Gallery, Finley Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11869179",
-    "description": "The Department of Art & Design is proud to present the  Award Winners Exhibition . \n \u00a0 \n The exhibition will be on view in Finley Gallery from  November 7 through December 1, 2025 , with an opening reception on  Wednesday, November 12, from 2:00\u20134:00 PM . \n \u00a0 \n Finley Gallery will showcase a curated selection of works that highlight the artistry, hard work, and commitment of these emerging creators, offering an inspiring glimpse into the diverse ideas and approaches shaping our students\u2019 practices. \n \u00a0 \n We invite the public to join us for a reception at Finley Gallery on Wednesday, November 12, to celebrate the accomplishments of these talented makers and the bright futures ahead of them. \n \u00a0 \n Exhibiting artists include: Jelena Wall (Illustration), winner of the Donald and Judy Miller Scholarship, the Cento Amici Scholarship, and the Ina Golub Scholarship Brett Diese (Visual Communication Design), Dean\u2019s Advisory Board Award and Ina Golub Scholarship Bralen Jones (Visual Arts), Richard Carboni Thesis Materials Award Marlena Holston (Visual Arts), Richard Carboni Thesis Materials Award Santiago Arcila (Visual Arts), Richard Carboni Thesis Materials Award Ashley Ortiz (Illustration), Cento Amici Award Sabrina Saroza (Visual Arts and Art Education), Cento Amici Award Camila Garcia (Visual Communication Design), Dean\u2019s Advisory Board Award Giacomo Valerin (Visual Arts), recognized for Outstanding Work in Integrative Studio I Mari Ahmed (Visual Arts), recognized for Outstanding Work in Integrative Studio I Maurice Tobias (Visual Arts), recognized for Outstanding Work in Integrative Studio II Sadie Vizcaino (Visual Arts), recognized for Outstanding Work in Integrative Studio II Kelly Arita (Visual Arts), recognized for Outstanding Work in Integrative Studio II Jivon Batres (Visual Arts), recognized for Outstanding Thesis in Integrative Studio III \n \u00a0 \n Scholarship Winners Exhibition Finley Gallery, Finley Hall Exhibition dates: November 7\u2013December 1, 2025 Reception: Wednesday, November 12, 2025, 2:00\u20134:00 PM"
-  },
-  {
-    "title": "Firebringer Rehearsal",
-    "date": "2025-11-23T17:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11857317",
-    "description": "Rehearsal for Montclair Players' comedy,  Firebringer ."
-  },
-  {
     "title": "Players Miscellaneous Production Performance ",
     "date": "2025-11-23T19:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -1144,14 +1128,6 @@
     "description": "Struggling to come up with a research topic? Join us at a hands-on workshop where you'll explore strategies (and library tools) to help you brainstorm ideas and narrow or broaden your focus to identify a topic that\u2019s both interesting and researchable. \n Register Here:\u00a0https://montclair.libcal.com/event/15754211"
   },
   {
-    "title": "Toy Drive ",
-    "date": "2025-12-01T16:00:00+00:00",
-    "organization": "Theta Kappa Chi",
-    "location": "University Hall 1C01 - Lobby Table",
-    "link": "https://montclair.campuslabs.com/engage/event/11739287",
-    "description": "The sisters of Theta Kappa Chi will be hosting a Toy Drive. All donations will be sent to the Valerie Foundation!"
-  },
-  {
     "title": "HABLAMOS ESPA\u00d1OL - Spanish Conversation MeetUps - Fall 2025",
     "date": "2025-09-15T16:00:00+00:00",
     "organization": "Center for Latino Heritage & Spanish Language Excellence",
@@ -1832,20 +1808,20 @@
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
   },
   {
-    "title": "Physics Club Meeting ",
-    "date": "2025-12-03T19:00:00+00:00",
-    "organization": "Physics Club",
-    "location": "Richardson Hall Rm 256",
-    "link": "https://montclair.campuslabs.com/engage/event/11889116",
-    "description": "Come hear one of our alumni talk about her graduate school experience through our Stevens program!"
-  },
-  {
     "title": "Bible Talk ",
     "date": "2025-12-03T19:00:00+00:00",
     "organization": "Alpha Omega",
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11895119",
     "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
+  },
+  {
+    "title": "Physics Club Meeting ",
+    "date": "2025-12-03T19:00:00+00:00",
+    "organization": "Physics Club",
+    "location": "Richardson Hall Rm 256",
+    "link": "https://montclair.campuslabs.com/engage/event/11889116",
+    "description": "Come hear one of our alumni talk about her graduate school experience through our Stevens program!"
   },
   {
     "title": "CSAM Science Teaching Program - Program Meeting",
