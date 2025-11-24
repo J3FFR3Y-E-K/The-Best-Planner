@@ -240,14 +240,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Rosalyn"
   },
   {
-    "title": "Art Forum featuring Alex Callender",
-    "date": "2025-11-24T10:20:00+00:00",
-    "organization": "Art and Design",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/11907868",
-    "description": "The Department of Art & Design presents the Fall 2025 Art Forum series. Art Forum is a speaker series featuring artists, designers, art historians, curators, and art critics from around the world presenting their work and ideas in an open forum.\u00a0\u00a0 \n \u00a0 \n The next speaker in this engaging series is Alex Callender. Alex Callender is an artist whose practice employs drawing, painting, and installation to trace and remap historical materials, exploring the intersections of race, gender, and capitalism with both criticality and care. She will discuss her art and process, and share insights into her latest work. This talk will be held virtually. \n \u00a0 \n Callender has held solo exhibitions at ArtYard (NJ), the Center for the Arts at Northeastern University, UMass Contemporary Museum of Art, NYU Gallatin Galleries, island gallery (NY), and Michigan State University\u2019s LookOut Gallery. They have received grants from the Pollock-Krasner Foundation and the Massachusetts Cultural Council and participated in residencies at MacDowell Colony, The Schomburg Center for Research in Black Culture, Lower Manhattan Cultural Council, The Drawing Center\u2019s Open Sessions, Art in Embassies, Vermont Studio Center, Santa Fe Art Institute, Alice Yard (Trinidad), DRAWinternational, and The BAU Institute (France). Callender is an Associate Professor of Art at Smith College. \n \u00a0 \n Join us online for this speaker series. The event is free and open to the public. Scan the QR code or link to attend.\u00a0 \n \u00a0 \n \ud83d\udcc5 Art Forum \n Monday, 11/24/25\u00a0 5:20pm-7pm \n Virtual -\u00a0 https://montclair.zoom.us/j/97523525923?pwd=Gpq94c3K4YR4OicqxOAH23MbNGOAn3.1"
-  },
-  {
     "title": "Award Winners Exhibition",
     "date": "2025-11-24T16:00:00+00:00",
     "organization": "Art and Design",
@@ -262,6 +254,14 @@
     "location": "Bloomfield - Talbott Hall 001 - Commuter Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11864904",
     "description": "In honor of  Trans Visibility Week , join SGA and DaughtaSpeaks for  Bear Voices from the Den \u2014a powerful open mic celebrating self-expression, identity, and community. This event invites all performers to share their voices through poetry, music, storytelling, or spoken word in a space that uplifts queer and trans experiences. Whether you\u2019re stepping up to the mic or showing your support from the audience, come celebrate authenticity, visibility, and the strength of our campus community."
+  },
+  {
+    "title": "Art Forum featuring Alex Callender",
+    "date": "2025-11-24T10:20:00+00:00",
+    "organization": "Art and Design",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/11907868",
+    "description": "The Department of Art & Design presents the Fall 2025 Art Forum series. Art Forum is a speaker series featuring artists, designers, art historians, curators, and art critics from around the world presenting their work and ideas in an open forum.\u00a0\u00a0 \n \u00a0 \n The next speaker in this engaging series is Alex Callender. Alex Callender is an artist whose practice employs drawing, painting, and installation to trace and remap historical materials, exploring the intersections of race, gender, and capitalism with both criticality and care. She will discuss her art and process, and share insights into her latest work. This talk will be held virtually. \n \u00a0 \n Callender has held solo exhibitions at ArtYard (NJ), the Center for the Arts at Northeastern University, UMass Contemporary Museum of Art, NYU Gallatin Galleries, island gallery (NY), and Michigan State University\u2019s LookOut Gallery. They have received grants from the Pollock-Krasner Foundation and the Massachusetts Cultural Council and participated in residencies at MacDowell Colony, The Schomburg Center for Research in Black Culture, Lower Manhattan Cultural Council, The Drawing Center\u2019s Open Sessions, Art in Embassies, Vermont Studio Center, Santa Fe Art Institute, Alice Yard (Trinidad), DRAWinternational, and The BAU Institute (France). Callender is an Associate Professor of Art at Smith College. \n \u00a0 \n Join us online for this speaker series. The event is free and open to the public. Scan the QR code or link to attend.\u00a0 \n \u00a0 \n \ud83d\udcc5 Art Forum \n Monday, 11/24/25\u00a0 5:20pm-7pm \n Virtual -\u00a0 https://montclair.zoom.us/j/97523525923?pwd=Gpq94c3K4YR4OicqxOAH23MbNGOAn3.1"
   },
   {
     "title": "Choir Practice",
@@ -1736,20 +1736,20 @@
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
   },
   {
-    "title": "Physics Club Meeting ",
-    "date": "2025-12-03T19:00:00+00:00",
-    "organization": "Physics Club",
-    "location": "Richardson Hall Rm 256",
-    "link": "https://montclair.campuslabs.com/engage/event/11889116",
-    "description": "Come hear one of our alumni talk about her graduate school experience through our Stevens program!"
-  },
-  {
     "title": "Bible Talk ",
     "date": "2025-12-03T19:00:00+00:00",
     "organization": "Alpha Omega",
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11895119",
     "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
+  },
+  {
+    "title": "Physics Club Meeting ",
+    "date": "2025-12-03T19:00:00+00:00",
+    "organization": "Physics Club",
+    "location": "Richardson Hall Rm 256",
+    "link": "https://montclair.campuslabs.com/engage/event/11889116",
+    "description": "Come hear one of our alumni talk about her graduate school experience through our Stevens program!"
   },
   {
     "title": "CSAM Science Teaching Program - Program Meeting",
