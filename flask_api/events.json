@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2025-11-24T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11597628",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 8am - 8:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Group X - Pilates",
     "date": "2025-11-24T15:45:00+00:00",
     "organization": "Campus Recreation",
@@ -486,6 +478,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11600089",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Jayla"
+  },
+  {
+    "title": "SIAM: Games of Chance",
+    "date": "2025-11-25T22:00:00+00:00",
+    "organization": "SIAM Student Chapter - Applied Mathematics and Statistics Club",
+    "location": "UNIV 2046",
+    "link": "https://montclair.campuslabs.com/engage/event/11911073",
+    "description": "Join SIAM in learning about Games of Chance.\u00a0 During the event students will play games of chance and learn about gaming strategy, probability, and more.\u00a0 Refreshments will be provided."
   },
   {
     "title": "Award Winners Exhibition",
@@ -1736,20 +1736,20 @@
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
   },
   {
-    "title": "Bible Talk ",
-    "date": "2025-12-03T19:00:00+00:00",
-    "organization": "Alpha Omega",
-    "location": "University Hall 2010 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11895119",
-    "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
-  },
-  {
     "title": "Physics Club Meeting ",
     "date": "2025-12-03T19:00:00+00:00",
     "organization": "Physics Club",
     "location": "Richardson Hall Rm 256",
     "link": "https://montclair.campuslabs.com/engage/event/11889116",
     "description": "Come hear one of our alumni talk about her graduate school experience through our Stevens program!"
+  },
+  {
+    "title": "Bible Talk ",
+    "date": "2025-12-03T19:00:00+00:00",
+    "organization": "Alpha Omega",
+    "location": "University Hall 2010 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11895119",
+    "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
   },
   {
     "title": "CSAM Science Teaching Program - Program Meeting",
@@ -2848,6 +2848,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 12:30pm - 01:15pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Bridget"
   },
   {
+    "title": "DIY Journal & Vision Board Session",
+    "date": "2025-12-08T17:30:00+00:00",
+    "organization": "CAPS (Counseling and Psychological Services)",
+    "location": "George Segal Gallery ",
+    "link": "https://montclair.campuslabs.com/engage/event/11911317",
+    "description": "Take a break from studying, reflect on your semester, set goals that feel good, and create something meaningful to carry with you into next year.\u00a0 \n Join  CAPS & The Segal Gallery staff  for a calming  DIY Journal & Vision Board session  during Recharge Week.    All supplies provided. Just bring yourself and a friend!"
+  },
+  {
     "title": "Cookie Day Sale!",
     "date": "2025-12-08T17:00:00+00:00",
     "organization": "Amici Club",
@@ -3158,6 +3166,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11599700",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Ashley"
+  },
+  {
+    "title": "Recharge Week Zumba ",
+    "date": "2025-12-09T16:00:00+00:00",
+    "organization": "CAPS (Counseling and Psychological Services)",
+    "location": "Student Recreation Center",
+    "link": "https://montclair.campuslabs.com/engage/event/11911337",
+    "description": "Shake off the stress!  \n Join CAPS + The Rec Center for\u00a0  Recharge Week Zumba . A fun, upbeat way to move your body, boost your mood, and release finals tension. No experience needed, just come as you are and get moving with us! \n A little joy + a little sweat = a major mental health boost."
   },
   {
     "title": "First Gen Drop-In Group ",
