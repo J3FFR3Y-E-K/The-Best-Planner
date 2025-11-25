@@ -1,21 +1,5 @@
 [
   {
-    "title": "NPHCGiving ",
-    "date": "2025-11-25T01:30:00+00:00",
-    "organization": "National Pan Hellenic Council",
-    "location": "Student Center 250C - Ballroom C",
-    "link": "https://montclair.campuslabs.com/engage/event/11857322",
-    "description": "Join the National Pan-Hellenic Council for a warm and welcoming Thanksgiving social! This event is all about coming together as a community to celebrate the season of gratitude, connection, and good food. \n Enjoy delicious dishes, great company, and an atmosphere filled with laughter and love as we take time to give thanks and celebrate with one another. Whether you\u2019re part of Greek life or simply looking to connect, everyone is invited to pull up a chair and join the feast! \n Come for the food, stay for the fellowship \u2014 because family is who you gather with.  \ud83d\udc9b"
-  },
-  {
-    "title": "Tabletop Night!",
-    "date": "2025-11-25T01:30:00+00:00",
-    "organization": "Montclair University Gamers (M.U.G.)",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11908944",
-    "description": "Join us for a wonderful and chill night of Boardgames, Card games, and TTRPGs alike!"
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2025-11-25T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1400,20 +1384,20 @@
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
   },
   {
-    "title": "Bible Talk ",
-    "date": "2025-12-03T19:00:00+00:00",
-    "organization": "Alpha Omega",
-    "location": "University Hall 2010 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11895119",
-    "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
-  },
-  {
     "title": "Physics Club Meeting ",
     "date": "2025-12-03T19:00:00+00:00",
     "organization": "Physics Club",
     "location": "Richardson Hall Rm 256",
     "link": "https://montclair.campuslabs.com/engage/event/11889116",
     "description": "Come hear one of our alumni talk about her graduate school experience through our Stevens program!"
+  },
+  {
+    "title": "Bible Talk ",
+    "date": "2025-12-03T19:00:00+00:00",
+    "organization": "Alpha Omega",
+    "location": "University Hall 2010 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11895119",
+    "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
   },
   {
     "title": "CSAM Science Teaching Program - Program Meeting",
