@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2025-11-25T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11599479",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 09/02 - 12/17 \n 8am - 8:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Annotated Bibliographies",
     "date": "2025-11-25T15:00:00+00:00",
     "organization": "Sprague Library",
@@ -360,6 +352,14 @@
     "description": "Showcase what our organization is about, invite people to join us, and have friendly conversations about Faith!"
   },
   {
+    "title": "Fighting Game Meeting",
+    "date": "2025-11-26T18:30:00+00:00",
+    "organization": "Montclair University Gamers (M.U.G.)",
+    "location": "University Hall 2031 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11914165",
+    "description": "Come hang out and play some fighting games! There'll be competitive tournaments, casual matches, and fun for all skill levels. Bring your controllers and bring your A-Game! \n Find more details or suggest a game in our Discord!"
+  },
+  {
     "title": "Group X - HIIT",
     "date": "2025-11-26T21:00:00+00:00",
     "organization": "Campus Recreation",
@@ -606,6 +606,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11597357",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Sunday, 09/02 - 12/17 \n 6:30pm - 7:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+  },
+  {
+    "title": "Sigma Pi Chapter Meeting",
+    "date": "2025-12-01T00:00:00+00:00",
+    "organization": "Sigma Pi",
+    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11914135",
+    "description": "Weekly meeting for brothers of sigma pi"
   },
   {
     "title": "Group X - Goodnight Yoga",
@@ -1200,6 +1208,14 @@
     "description": "This meeting focuses on  UN Security Council Resolution 338 , adopted during the 1973 Yom Kippur War between Israel, Egypt, and Syria \u2014 one of the UN\u2019s most urgent and consequential interventions. The resolution called for an immediate ceasefire and urged all parties to begin peace negotiations \u201cin accordance with Resolution 242,\u201d laying the groundwork for later accords such as the Camp David Agreements. \n Delegates will examine how the UN responded to this sudden crisis, why the language of the resolution mattered, and how diplomacy can stop wars in real time. Participants will analyze the negotiation process and simulate the Security Council debate that led to the resolution\u2019s passage. \n This session strengthens delegates\u2019 understanding of  UN procedures, crisis diplomacy, and conflict resolution , offering insight into how real-world ceasefires are crafted under pressure."
   },
   {
+    "title": "Newman Night",
+    "date": "2025-12-03T00:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/11914139",
+    "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
+  },
+  {
     "title": "CALI SCHOOL OF MUSIC: Symphonic Band and Campus Band Winter 2025 Concert",
     "date": "2025-12-03T00:30:00+00:00",
     "organization": "The College of the Arts",
@@ -1384,20 +1400,20 @@
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
   },
   {
-    "title": "Physics Club Meeting ",
-    "date": "2025-12-03T19:00:00+00:00",
-    "organization": "Physics Club",
-    "location": "Richardson Hall Rm 256",
-    "link": "https://montclair.campuslabs.com/engage/event/11889116",
-    "description": "Come hear one of our alumni talk about her graduate school experience through our Stevens program!"
-  },
-  {
     "title": "Bible Talk ",
     "date": "2025-12-03T19:00:00+00:00",
     "organization": "Alpha Omega",
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11895119",
     "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
+  },
+  {
+    "title": "Physics Club Meeting ",
+    "date": "2025-12-03T19:00:00+00:00",
+    "organization": "Physics Club",
+    "location": "Richardson Hall Rm 256",
+    "link": "https://montclair.campuslabs.com/engage/event/11889116",
+    "description": "Come hear one of our alumni talk about her graduate school experience through our Stevens program!"
   },
   {
     "title": "CSAM Science Teaching Program - Program Meeting",
@@ -1536,6 +1552,14 @@
     "description": "Embark on your own interstellar voyage in  The Age of Black Metal  by Afrotectopia. Admission is free, open to the public. \n \u00a0 \n Segal Gallery \n Tuesday \u2013 Friday, 12 \u2013 4 pm \n \u00a0 \n Kasser Lobby \n Monday \u2013 Friday, 12 \u2013 6 pm \n \u00a0 \n We're also open on select Saturdays of the month and  by appointment . \n \u00a0 \n About the Exhibition: \n On view through December 14, 2025 \n Segal Gallery and Kasser Lobby \n Black Metal  originated as a kitchen table art book that pushes the boundaries of space travel, science fiction, speculative design, Black culture, art, technology, and spirituality. The book emerged from an Afrotectopia-led incubator, in collaboration with MIT Media Lab\u2019s Space Exploration Initiative and NYU\u2019s Interactive Telecommunications Program. The project features contributions from artists Jordan Caldwell, Kordae Jatafa Henry, Jeremy Kamal, and Ari Melenciano. \n \u00a0 \n The Age of Black Metal  builds upon the foundational ideas of the book and translates the text into a fully immersive experience for visitors to explore each conceptual chapter\u2013from metaphysical training manuals, botanical consciousness, and self-alignment protocols\u2013through participatory installations. The exhibition is set centuries in the future, imagining a timeline where society has been profoundly shaped by the principles of Black Metal. Ultimately, visitors will not only bear witness to the societal effects of Black Metal, but also leave transformed in some way."
   },
   {
+    "title": "Fighting Game Meeting",
+    "date": "2025-12-03T18:30:00+00:00",
+    "organization": "Montclair University Gamers (M.U.G.)",
+    "location": "University Hall 2031 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11914166",
+    "description": "Come hang out and play some fighting games! There'll be competitive tournaments, casual matches, and fun for all skill levels. Bring your controllers and bring your A-Game! \n Find more details or suggest a game in our Discord!"
+  },
+  {
     "title": "Group X - HIIT",
     "date": "2025-12-03T21:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1590,6 +1614,14 @@
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/11784380",
     "description": "GBM"
+  },
+  {
+    "title": "SIAM Presents: Dr. David Trubatch",
+    "date": "2025-12-03T22:00:00+00:00",
+    "organization": "SIAM Student Chapter - Applied Mathematics and Statistics Club",
+    "location": "Schmitt 327",
+    "link": "https://montclair.campuslabs.com/engage/event/11914092",
+    "description": "Dr. Trubatch will be giving a presentation on current topics he is researching.\u00a0 The event will include refreshments.\u00a0 Please join us to show him our support and to learn something new."
   },
   {
     "title": "Women's Basketball vs. William Paterson",
@@ -2414,6 +2446,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11597358",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Sunday, 09/02 - 12/17 \n 6:30pm - 7:15pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Josie"
+  },
+  {
+    "title": "Sigma Pi Chapter Meeting",
+    "date": "2025-12-08T00:00:00+00:00",
+    "organization": "Sigma Pi",
+    "location": "University Hall 2007 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11914136",
+    "description": "Weekly meeting for brothers of sigma pi"
   },
   {
     "title": "CALI SCHOOL OF MUSIC: Holiday Brass Concert",
@@ -3294,6 +3334,14 @@
     "location": "George Segal Gallery",
     "link": "https://montclair.campuslabs.com/engage/event/11789458",
     "description": "Embark on your own interstellar voyage in  The Age of Black Metal  by Afrotectopia. Admission is free, open to the public. \n \u00a0 \n Segal Gallery \n Tuesday \u2013 Friday, 12 \u2013 4 pm \n \u00a0 \n Kasser Lobby \n Monday \u2013 Friday, 12 \u2013 6 pm \n \u00a0 \n We're also open on select Saturdays of the month and  by appointment . \n \u00a0 \n About the Exhibition: \n On view through December 14, 2025 \n Segal Gallery and Kasser Lobby \n Black Metal  originated as a kitchen table art book that pushes the boundaries of space travel, science fiction, speculative design, Black culture, art, technology, and spirituality. The book emerged from an Afrotectopia-led incubator, in collaboration with MIT Media Lab\u2019s Space Exploration Initiative and NYU\u2019s Interactive Telecommunications Program. The project features contributions from artists Jordan Caldwell, Kordae Jatafa Henry, Jeremy Kamal, and Ari Melenciano. \n \u00a0 \n The Age of Black Metal  builds upon the foundational ideas of the book and translates the text into a fully immersive experience for visitors to explore each conceptual chapter\u2013from metaphysical training manuals, botanical consciousness, and self-alignment protocols\u2013through participatory installations. The exhibition is set centuries in the future, imagining a timeline where society has been profoundly shaped by the principles of Black Metal. Ultimately, visitors will not only bear witness to the societal effects of Black Metal, but also leave transformed in some way."
+  },
+  {
+    "title": "Fighting Game Meeting",
+    "date": "2025-12-10T18:30:00+00:00",
+    "organization": "Montclair University Gamers (M.U.G.)",
+    "location": "University Hall 2031 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11914167",
+    "description": "Come hang out and play some fighting games! There'll be competitive tournaments, casual matches, and fun for all skill levels. Bring your controllers and bring your A-Game! \n Find more details or suggest a game in our Discord!"
   },
   {
     "title": "Coquito Conmigo",
@@ -4309,7 +4357,7 @@
     "organization": "Campus Recreation",
     "location": "Rec Center Gym",
     "link": "https://montclair.campuslabs.com/engage/event/11905673",
-    "description": "Think you got what it takes to win Apple Airpods? The winner of the 1v1 Basketball Tournament wins Apple Airpods and second place wins an Amazon gift card. Give back to RHP through a monetary donation or a non-perishable food item. Make a difference and give back to the community! All donations will support Red Hawk Pantry.\u00a0 \n \n \n How do I sign-up? \n \n Fee : $10/player \n Registration : Pre-Registration required \n \n Where and when? \n \n Tuesday, January 27 \n 4pm-6pm \n Rec Center Gym"
+    "description": "Co-sponsorship with Greek Life and Red Hawk Pantry \n Think you got what it takes to win Apple Airpods? The winner of the 1v1 Basketball Tournament wins Apple Airpods and second place wins an Amazon gift card. Give back to RHP through a monetary donation or a non-perishable food item. Make a difference and give back to the community! All donations will support Red Hawk Pantry.\u00a0 \n \n \n How do I sign-up? \n \n Fee : $10/player \n Registration : Pre-Registration required \n \n Where and when? \n \n Tuesday, January 27 \n 4pm-6pm \n Rec Center Gym"
   },
   {
     "title": "5v5 Basketball",
