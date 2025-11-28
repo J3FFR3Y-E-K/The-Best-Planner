@@ -1,13 +1,5 @@
 [
   {
-    "title": "A.LIFE Ministry ",
-    "date": "2025-11-28T01:30:00+00:00",
-    "organization": "A.LIFE",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11602653",
-    "description": "An environment where those far and near to God can come and experience the love of God on college campuses."
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2025-11-28T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -976,20 +968,20 @@
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
   },
   {
-    "title": "Bible Talk ",
-    "date": "2025-12-03T19:00:00+00:00",
-    "organization": "Alpha Omega",
-    "location": "University Hall 2010 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11895119",
-    "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
-  },
-  {
     "title": "Physics Club Meeting ",
     "date": "2025-12-03T19:00:00+00:00",
     "organization": "Physics Club",
     "location": "Richardson Hall Rm 256",
     "link": "https://montclair.campuslabs.com/engage/event/11889116",
     "description": "Come hear one of our alumni talk about her graduate school experience through our Stevens program!"
+  },
+  {
+    "title": "Bible Talk ",
+    "date": "2025-12-03T19:00:00+00:00",
+    "organization": "Alpha Omega",
+    "location": "University Hall 2010 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11895119",
+    "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
   },
   {
     "title": "CSAM Science Teaching Program - Program Meeting",
