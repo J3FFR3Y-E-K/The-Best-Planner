@@ -1,37 +1,5 @@
 [
   {
-    "title": "Group X - HIIT",
-    "date": "2025-11-27T21:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11617223",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 4pm-4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
-  },
-  {
-    "title": "Group X - BJJ",
-    "date": "2025-11-27T22:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11617460",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-6:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Quentin"
-  },
-  {
-    "title": "Group X - Cycling",
-    "date": "2025-11-27T22:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/11617305",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 5pm-5:45pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
-  },
-  {
-    "title": "Group X - Pilates",
-    "date": "2025-11-27T23:45:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11617604",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 6:45pm-7:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Colin"
-  },
-  {
     "title": "Group X - Goodnight Yoga",
     "date": "2025-11-28T00:45:00+00:00",
     "organization": "Campus Recreation",
@@ -1024,20 +992,20 @@
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
   },
   {
-    "title": "Physics Club Meeting ",
-    "date": "2025-12-03T19:00:00+00:00",
-    "organization": "Physics Club",
-    "location": "Richardson Hall Rm 256",
-    "link": "https://montclair.campuslabs.com/engage/event/11889116",
-    "description": "Come hear one of our alumni talk about her graduate school experience through our Stevens program!"
-  },
-  {
     "title": "Bible Talk ",
     "date": "2025-12-03T19:00:00+00:00",
     "organization": "Alpha Omega",
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11895119",
     "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
+  },
+  {
+    "title": "Physics Club Meeting ",
+    "date": "2025-12-03T19:00:00+00:00",
+    "organization": "Physics Club",
+    "location": "Richardson Hall Rm 256",
+    "link": "https://montclair.campuslabs.com/engage/event/11889116",
+    "description": "Come hear one of our alumni talk about her graduate school experience through our Stevens program!"
   },
   {
     "title": "CSAM Science Teaching Program - Program Meeting",
