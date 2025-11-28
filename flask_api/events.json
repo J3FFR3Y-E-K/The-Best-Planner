@@ -968,20 +968,20 @@
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
   },
   {
-    "title": "Physics Club Meeting ",
-    "date": "2025-12-03T19:00:00+00:00",
-    "organization": "Physics Club",
-    "location": "Richardson Hall Rm 256",
-    "link": "https://montclair.campuslabs.com/engage/event/11889116",
-    "description": "Come hear one of our alumni talk about her graduate school experience through our Stevens program!"
-  },
-  {
     "title": "Bible Talk ",
     "date": "2025-12-03T19:00:00+00:00",
     "organization": "Alpha Omega",
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11895119",
     "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
+  },
+  {
+    "title": "Physics Club Meeting ",
+    "date": "2025-12-03T19:00:00+00:00",
+    "organization": "Physics Club",
+    "location": "Richardson Hall Rm 256",
+    "link": "https://montclair.campuslabs.com/engage/event/11889116",
+    "description": "Come hear one of our alumni talk about her graduate school experience through our Stevens program!"
   },
   {
     "title": "CSAM Science Teaching Program - Program Meeting",
@@ -2493,7 +2493,7 @@
     "organization": "Residence Life",
     "location": "Freeman Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11893836",
-    "description": "Join us for a cozy, creative evening of Gingerbread House Decorating! Whether you\u2019re competing with friends or just building for fun, this event is the perfect way to get in the holiday spirit before finals. All supplies will be provided\u2014you bring the creativity. Prizes will be given for the most festive, most original, and most delicious-looking houses! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+    "description": ""
   },
   {
     "title": "Large Group Worship Night- Chi Alpha ",
