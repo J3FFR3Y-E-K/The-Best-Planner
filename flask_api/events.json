@@ -400,20 +400,20 @@
     "description": "Join us for a WOCA General Body Meeting \u2014 a space to share, connect, and have a good time! Open to all students."
   },
   {
-    "title": "Physics Club Meeting ",
-    "date": "2025-12-03T19:00:00+00:00",
-    "organization": "Physics Club",
-    "location": "Richardson Hall Rm 256",
-    "link": "https://montclair.campuslabs.com/engage/event/11889116",
-    "description": "Come hear one of our alumni talk about her graduate school experience through our Stevens program!"
-  },
-  {
     "title": "Bible Talk ",
     "date": "2025-12-03T19:00:00+00:00",
     "organization": "Alpha Omega",
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11895119",
     "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
+  },
+  {
+    "title": "Physics Club Meeting ",
+    "date": "2025-12-03T19:00:00+00:00",
+    "organization": "Physics Club",
+    "location": "Richardson Hall Rm 256",
+    "link": "https://montclair.campuslabs.com/engage/event/11889116",
+    "description": "Come hear one of our alumni talk about her graduate school experience through our Stevens program!"
   },
   {
     "title": "CSAM Science Teaching Program - Program Meeting",
@@ -472,20 +472,20 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
-    "title": "Bags of Gratitude: Women's Care Package Drive",
-    "date": "2025-12-03T19:00:00+00:00",
-    "organization": "Montclair State Circle K",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11874877",
-    "description": "Circle K and the Women of Color Alliance for are\u00a0collecting essential items such as hygiene products, cozy accessories, snacks, and etc to create thoughtful care packages that spread warmth, encouragement, and appreciation. We're also going to assemble the packages with the items we already have. \n This collaborative service project invites students and campus organizations to donate items, help assemble care packages, and contribute messages of kindness that uplift women in need."
-  },
-  {
     "title": "Hot Cocoa & Cinema",
     "date": "2025-12-03T19:00:00+00:00",
     "organization": "Feliciano Women in Business",
     "location": "School Of Business 124 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/11739321",
     "description": "Ready for the holidays? Come and join the Feliciano Women in Business for some hot cocoa and a winter flick to wind down and celebrate the end of the semester! Celebrate your hard work and enjoy some cozy vibes."
+  },
+  {
+    "title": "Bags of Gratitude: Women's Care Package Drive",
+    "date": "2025-12-03T19:00:00+00:00",
+    "organization": "Montclair State Circle K",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/11874877",
+    "description": "Circle K and the Women of Color Alliance for are\u00a0collecting essential items such as hygiene products, cozy accessories, snacks, and etc to create thoughtful care packages that spread warmth, encouragement, and appreciation. We're also going to assemble the packages with the items we already have. \n This collaborative service project invites students and campus organizations to donate items, help assemble care packages, and contribute messages of kindness that uplift women in need."
   },
   {
     "title": "IFC Holiday Can Drive",
