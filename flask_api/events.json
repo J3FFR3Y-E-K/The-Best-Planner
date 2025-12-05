@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2025-12-05T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11618636",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 09/02 - 12/17 \n 9am-9:45am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Annabelle"
-  },
-  {
     "title": "Annotated Bibliographies",
     "date": "2025-12-05T16:00:00+00:00",
     "organization": "Sprague Library",
@@ -56,20 +48,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 09/02 - 12/17 \n 1pm-1:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Bridget"
   },
   {
-    "title": "CPR Certification ",
-    "date": "2025-12-05T15:00:00+00:00",
-    "organization": "Health Occupations Students of America - Future Health Professionals ",
-    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11704271",
-    "description": "Please check the GroupMe(https://groupme.com/join_group/109170545/PctnDFbI) for the Google Form that must be filled out in order to participate. Spots are limited, so be sure to complete the form as soon as possible to secure your place! Participants  will receive official certification  after successful completion of the class."
-  },
-  {
     "title": "The People's Brunch ",
     "date": "2025-12-05T16:00:00+00:00",
     "organization": "Panther Progress: Community Compassion Collective",
     "location": "Student Center 250AB - Ballrooms A and B",
     "link": "https://montclair.campuslabs.com/engage/event/11857400",
     "description": "We are looking to get everyone together to make sure that the community is well fed and build community through games and other forms of bonding."
+  },
+  {
+    "title": "CPR Certification ",
+    "date": "2025-12-05T15:00:00+00:00",
+    "organization": "Health Occupations Students of America - Future Health Professionals ",
+    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11704271",
+    "description": "Please check the GroupMe(https://groupme.com/join_group/109170545/PctnDFbI) for the Google Form that must be filled out in order to participate. Spots are limited, so be sure to complete the form as soon as possible to secure your place! Participants  will receive official certification  after successful completion of the class."
   },
   {
     "title": "Group X - Cycling",
