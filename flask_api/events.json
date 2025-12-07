@@ -1,13 +1,5 @@
 [
   {
-    "title": "Paper Gingerbread Houses",
-    "date": "2025-12-06T23:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Dinallo Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/11772447",
-    "description": "Join us in the Dinallo Multi-Purpose room to create and decorate your own paper gingerbread house!  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Mock Wedding",
     "date": "2025-12-06T21:30:00+00:00",
     "organization": "Bangladesh Student Association ",
@@ -40,12 +32,28 @@
     "description": "Join us in Worship and Praise! Our 2025 Winter Concert!"
   },
   {
+    "title": "Cookies & Cocoa",
+    "date": "2025-12-07T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Machuga Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/11893841",
+    "description": "Join us for Cookies & Cocoa on December 6th from 8:00 PM to 10:00 PM in Machuga\u2019s MPR.\u2028 All students are welcome; Commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Cru End of the Year Christmas Party! ",
     "date": "2025-12-06T23:00:00+00:00",
     "organization": "Cru",
     "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11874940",
     "description": "Cru is a caring community passionate about connecting people to Jesus Christ! \u00a0Join us in learning together on Who Christ is, building a personal relationship with Him, and joining a community filled with love and with open arms! \n Join us as we celebrate the end of the semester and the season where we remember the birth of our Savior!\u00a0 \n Luke 2:11 . \"For unto you is born this day in the city of David a Savior, who is Christ the Lord.\""
+  },
+  {
+    "title": "Paper Snowflake Making",
+    "date": "2025-12-07T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Alice Paul at The Village Apartments ",
+    "link": "https://montclair.campuslabs.com/engage/event/11822257",
+    "description": "Come to the Alice Paul Lounge in the Village to make paper snowflakes and enjoy some dessert snacks. All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "LASO Prom",
@@ -62,22 +70,6 @@
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/11898177",
     "description": "Celebrate the end of a successful semester with the Divine Nine! Come out in your favorite pajamas and enjoy a night filled with unity, culture, music, and good vibes. \ud83c\udfb6\ud83c\udf19 Don\u2019t miss out on the fun \u2014 meet the D9 and close out the semester the right way!"
-  },
-  {
-    "title": "Cookies & Cocoa",
-    "date": "2025-12-07T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Machuga Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/11893841",
-    "description": "Join us for Cookies & Cocoa on December 6th from 8:00 PM to 10:00 PM in Machuga\u2019s MPR.\u2028 All students are welcome; Commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Paper Snowflake Making",
-    "date": "2025-12-07T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Alice Paul at The Village Apartments ",
-    "link": "https://montclair.campuslabs.com/engage/event/11822257",
-    "description": "Come to the Alice Paul Lounge in the Village to make paper snowflakes and enjoy some dessert snacks. All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Firebringer",
