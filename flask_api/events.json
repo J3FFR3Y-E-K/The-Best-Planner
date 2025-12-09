@@ -1,21 +1,5 @@
 [
   {
-    "title": "Tabletop Night!",
-    "date": "2025-12-09T01:30:00+00:00",
-    "organization": "Montclair University Gamers (M.U.G.)",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/11908946",
-    "description": "Join us for a wonderful and chill night of Boardgames, Card games, and TTRPGs alike!"
-  },
-  {
-    "title": "MSDC Practice ",
-    "date": "2025-12-09T02:00:00+00:00",
-    "organization": "Montclair State Dance Company",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/11792804",
-    "description": "Rehearsal for Montclair State Dance Company"
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2025-12-09T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1648,20 +1632,20 @@
     "description": "Take a break and squeeze away the stress! Join us for a relaxing DIY Stress Ball Workshop where you\u2019ll get to make your own custom stress balls using slime, clay, and many more. It\u2019s the perfect hands-on way to unwind, get creative, and take home something you can actually use during mid-semester stress. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Custom Graphic Sweats",
-    "date": "2026-01-16T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Dinallo Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/11915149",
-    "description": "Who doesn't love sweatpants? Better yet, CUSTOM graphic sweatpants. Join us and customize your sweats in Dinallo MPR on January 15th from 8:00 PM-10:00 PM. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Hats & Patches",
     "date": "2026-01-16T01:00:00+00:00",
     "organization": "Residence Life",
     "location": "Stone Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11915150",
     "description": "Get crafty and show off your personal style! Join us in the Stone Hall Lounge on January 15th from 8:00 PM \u2013 10:00 PM to decorate your own hat with a variety of patches, markers, and embellishments. Whether you want to make a bold fashion statement or a simple design, this is your chance to create something uniquely yours while hanging out with friends. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Custom Graphic Sweats",
+    "date": "2026-01-16T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Dinallo Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/11915149",
+    "description": "Who doesn't love sweatpants? Better yet, CUSTOM graphic sweatpants. Join us and customize your sweats in Dinallo MPR on January 15th from 8:00 PM-10:00 PM. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Swimming & Diving vs. SUNY New Paltz",
