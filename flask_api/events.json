@@ -1,45 +1,5 @@
 [
   {
-    "title": "Group X - Goodnight Yoga",
-    "date": "2025-12-12T00:45:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11617684",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 09/02 - 12/17 \n 7:45pm-8:30pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Vincent"
-  },
-  {
-    "title": "Winter Break Community Meeting ",
-    "date": "2025-12-12T01:00:00+00:00",
-    "organization": "Machuga Heights",
-    "location": "Machuga Heights Multipurpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11936376",
-    "description": "Winter Break is almost here!  All  Machuga residents are required to attend ONE mandatory Winter Closing Meeting \u00a0to receive critical information about winter break procedures, end-of-semester departure, and what to expect when leaving for the fall semester. Choose the session that works best for you. Attendance is required to ensure a smooth and successful closing experience for everyone!"
-  },
-  {
-    "title": "Yarn Snowflake Making",
-    "date": "2025-12-12T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Dinallo Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/11772452",
-    "description": "Join us on December 11th for a cozy night in the Dinallo 1st floor lounge! We will be creating some warm yarn snowflakes together at 8 P.M.  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Holiday Crafts",
-    "date": "2025-12-12T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Stone Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11893830",
-    "description": "The semester is almost over and it's finally time to relax for the holidays. You and your friends come to make final fall semester memories and relax in Stone Hall on December 11th at 8:00 pm to make holiday crafts. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures"
-  },
-  {
-    "title": "Home Alone Watch party ",
-    "date": "2025-12-12T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Sinatra Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11893831",
-    "description": "Kick off the holiday season with a classic! Join us in Sinatra for a night of nostalgia! Snacks and drinks will be provided.\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "NIRSA + Montclair IM Sports Pickleball Tournament ",
     "date": "2025-12-01T05:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1304,20 +1264,20 @@
     "description": "Come to Sinatra Hall on January 31st at 8PM for Diamond Art! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Free Swim Lessons *Beginner*",
-    "date": "2026-02-02T18:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Pool",
-    "link": "https://montclair.campuslabs.com/engage/event/11931596",
-    "description": "Brief Description:\u00a0 \n Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Monday: 1-2PM & 5-6PM \n Student Recreation Center - Pool"
-  },
-  {
     "title": "\u2b50 Honor Society Info Sessions (ALD, NSCS, Tau Sigma)",
     "date": "2026-02-02T18:00:00+00:00",
     "organization": "Prestigious Scholarships ",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11940569",
     "description": "A Prestigious Scholarship is an academic or financial award given to outstanding students for graduate programs nationally and internationally. These scholarships often come with significant financial benefits, including full or partial tuition coverage, stipends for living expenses, and sometimes additional funds for research or travel. Join us to learn more about upcoming Prestigious Scholarship opportunities for the 2025-26 academic year."
+  },
+  {
+    "title": "Free Swim Lessons *Beginner*",
+    "date": "2026-02-02T18:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center - Pool",
+    "link": "https://montclair.campuslabs.com/engage/event/11931596",
+    "description": "Brief Description:\u00a0 \n Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Monday: 1-2PM & 5-6PM \n Student Recreation Center - Pool"
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
