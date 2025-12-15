@@ -1,29 +1,5 @@
 [
   {
-    "title": "Group X - Pilates",
-    "date": "2025-12-15T15:45:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11597716",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 10:45am - 11:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
-  },
-  {
-    "title": "Family Science and Human Development PhD Application Webinar",
-    "date": "2025-12-15T16:00:00+00:00",
-    "organization": "The Office of Graduate Admissions",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/11868961",
-    "description": "Advance research, shape policy and strengthen families and communities. The\u00a0 PhD in Family Science and Human Development \u00a0at Montclair State University prepares you to become a leader in research, policy and higher education. \n This 48-credit program takes an interdisciplinary approach, drawing from psychology, sociology, social work, economics, gender studies and biology to understand individuals, families and communities holistically. \n Register for the virtual information session to learn more!"
-  },
-  {
-    "title": "Group X - Cycling",
-    "date": "2025-12-15T17:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/11597801",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 09/02 - 12/17 \n 12:30pm - 01:15pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Bridget"
-  },
-  {
     "title": "Red Hawk Pantry",
     "date": "2025-12-15T18:30:00+00:00",
     "organization": "Red Hawk Pantry",
@@ -904,14 +880,6 @@
     "description": "Teams can add players to their roster up until the last game of the regular season. Payment can be made via QR code or at the main office of the Student Recreation Center to secure your spot in the league!\u00a0 \n How do I sign-up? \n \n Fee : $10/player or $60/organization (team fee for student organizations only) (Pickleball team fee 10 dollars per team) \n Registration : Payment can be made via QR code or at the main office of the Student Center to secure your spot in the league!\u00a0 Teams can add players to their roster throughout the season up until the last game of the regular season\u201d \n \n Where and when? \n \n Wednesday, January 28 \n Student Recreation Center"
   },
   {
-    "title": "Intramural Pickleball",
-    "date": "2026-01-16T05:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center",
-    "link": "https://montclair.campuslabs.com/engage/event/11899883",
-    "description": "Teams can add players to their roster up until the last game of the regular season. Payment can be made via QR code or at the main office of the Student Recreation Center to secure your spot in the league!\u00a0 \n How do I sign-up? \n \n Fee : $10/player or $60/organization (team fee for student organizations only) (Pickleball team fee 10 dollars per team) \n Registration : Payment can be made via QR code or at the main office of the Student Center to secure your spot in the league!\u00a0 Teams can add players to their roster throughout the season up until the last game of the regular season\u201d \n \n Where and when? \n \n Wednesday, January 28 \n Student Recreation Center"
-  },
-  {
     "title": "Winter Bash",
     "date": "2026-01-28T16:00:00+00:00",
     "organization": "Residence Life",
@@ -966,6 +934,14 @@
     "location": "Stone Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11915111",
     "description": "Put on your pjs and come out to Stone Hall on January 28th at 7:00 PM for a movie night!\u00a0 All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Intramural Pickleball",
+    "date": "2026-01-28T05:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center",
+    "link": "https://montclair.campuslabs.com/engage/event/11899883",
+    "description": "Teams can add players to their roster up until the last game of the regular season. Payment can be made via QR code or at the main office of the Student Recreation Center to secure your spot in the league!\u00a0 \n How do I sign-up? \n \n Fee : $10/player or $60/organization (team fee for student organizations only) (Pickleball team fee 10 dollars per team) \n Registration : Payment can be made via QR code or at the main office of the Student Center to secure your spot in the league!\u00a0 Teams can add players to their roster throughout the season up until the last game of the regular season\u201d \n \n Where and when? \n \n Wednesday, January 28 \n Student Recreation Center"
   },
   {
     "title": "Time For Tea",
