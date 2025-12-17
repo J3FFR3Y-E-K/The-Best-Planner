@@ -1,21 +1,5 @@
 [
   {
-    "title": "Group X - Pilates",
-    "date": "2025-12-17T14:45:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/11615250",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 9:45am - 10:30am \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Maddie"
-  },
-  {
-    "title": "Group X - Cycling",
-    "date": "2025-12-17T16:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/11615385",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 11am - 11:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Rosalyn"
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2025-12-17T18:15:00+00:00",
     "organization": "Campus Recreation",
@@ -86,6 +70,14 @@
     "location": "Student Recreation Multi-Purpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/11615990",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 09/02 - 12/17 \n 4pm - 4:45pm \n Student Recreation Multi-Purpose Room \n \n Instructor \n \n Alexa V"
+  },
+  {
+    "title": "Gingerbread House Making",
+    "date": "2025-12-17T21:00:00+00:00",
+    "organization": "Residence Hall Association (RHA)",
+    "location": "Bohn Hall Main Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/11955257",
+    "description": "Gingerbread House Making"
   },
   {
     "title": "Visual Arts Thesis Exhibition: The Shape of Becoming",
@@ -304,20 +296,20 @@
     "description": "Take a break and squeeze away the stress! Join us for a relaxing DIY Stress Ball Workshop where you\u2019ll get to make your own custom stress balls using slime, clay, and many more. It\u2019s the perfect hands-on way to unwind, get creative, and take home something you can actually use during mid-semester stress. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Custom Graphic Sweats",
-    "date": "2026-01-16T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Dinallo Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/11915149",
-    "description": "Who doesn't love sweatpants? Better yet, CUSTOM graphic sweatpants. Join us and customize your sweats in Dinallo MPR on January 15th from 8:00 PM-10:00 PM. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Hats & Patches",
     "date": "2026-01-16T01:00:00+00:00",
     "organization": "Residence Life",
     "location": "Stone Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11915150",
     "description": "Get crafty and show off your personal style! Join us in the Stone Hall Lounge on January 15th from 8:00 PM \u2013 10:00 PM to decorate your own hat with a variety of patches, markers, and embellishments. Whether you want to make a bold fashion statement or a simple design, this is your chance to create something uniquely yours while hanging out with friends. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Custom Graphic Sweats",
+    "date": "2026-01-16T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Dinallo Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/11915149",
+    "description": "Who doesn't love sweatpants? Better yet, CUSTOM graphic sweatpants. Join us and customize your sweats in Dinallo MPR on January 15th from 8:00 PM-10:00 PM. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Swimming & Diving vs. SUNY New Paltz",
@@ -502,6 +494,14 @@
     "location": "Bohn Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11915130",
     "description": "Come warm up in the Bohn Hall lounge! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Craft Night - Memory Boxes",
+    "date": "2026-01-23T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/11955431",
+    "description": "Get crafty and make a custom memory box to hold your favorite photos, notes, and keepsakes. Chill vibes, good company, and something meaningful to take home!"
   },
   {
     "title": "Study and Chill",
@@ -800,6 +800,14 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Thursday: 4-5PM \n Student Recreation Center - Pool"
   },
   {
+    "title": "Craft night - Branching Into Montclair",
+    "date": "2026-01-30T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/11955442",
+    "description": "New to Montclair or just looking to relax? Decorate wood crafts, meet new people, and tap into your creative side in a low-stress, fun environment."
+  },
+  {
     "title": "Just Dance Into the New Year ",
     "date": "2026-01-30T01:00:00+00:00",
     "organization": "Residence Life",
@@ -846,6 +854,14 @@
     "location": "Stone Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11915106",
     "description": "Dear Future Self Night  Slow down and reflect with us on Friday, January 31 from 6-8 p.m. for Dear Future Self Night, you\u2019ll write a personal letter capturing who you are now and who you hope to grow into by the end of the year.  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Craft night - Paint & Sip",
+    "date": "2026-02-01T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/11955478",
+    "description": "Need some new room decor? Unwind with paint, snacks, and good vibes. No art skills needed\u2014just show up, sip, and leave with your own masterpiece!"
   },
   {
     "title": "Diamond Art",
@@ -974,6 +990,14 @@
     "location": "Student Recreation Center - Pool",
     "link": "https://montclair.campuslabs.com/engage/event/11933813",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Thursday: 4-5PM \n Student Recreation Center - Pool"
+  },
+  {
+    "title": "Craft - Picture Frame Making",
+    "date": "2026-02-06T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/11955834",
+    "description": "Have a frame-worthy photo in your camera roll? Join Campus Activities to personalize your own picture frame! Perfect for photos of friends, family, or your favorite memories. Easy, creative, and super relaxing."
   },
   {
     "title": "Magnificent Bird / Book of Travelers | Two Song Cycles written and performed by Gabriel Kahane",
