@@ -120,20 +120,20 @@
     "description": "Take a break and squeeze away the stress! Join us for a relaxing DIY Stress Ball Workshop where you\u2019ll get to make your own custom stress balls using slime, clay, and many more. It\u2019s the perfect hands-on way to unwind, get creative, and take home something you can actually use during mid-semester stress. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Hats & Patches",
-    "date": "2026-01-16T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Stone Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11915150",
-    "description": "Get crafty and show off your personal style! Join us in the Stone Hall Lounge on January 15th from 8:00 PM \u2013 10:00 PM to decorate your own hat with a variety of patches, markers, and embellishments. Whether you want to make a bold fashion statement or a simple design, this is your chance to create something uniquely yours while hanging out with friends. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Custom Graphic Sweats",
     "date": "2026-01-16T01:00:00+00:00",
     "organization": "Residence Life",
     "location": "Dinallo Heights",
     "link": "https://montclair.campuslabs.com/engage/event/11915149",
     "description": "Who doesn't love sweatpants? Better yet, CUSTOM graphic sweatpants. Join us and customize your sweats in Dinallo MPR on January 15th from 8:00 PM-10:00 PM. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Hats & Patches",
+    "date": "2026-01-16T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Stone Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11915150",
+    "description": "Get crafty and show off your personal style! Join us in the Stone Hall Lounge on January 15th from 8:00 PM \u2013 10:00 PM to decorate your own hat with a variety of patches, markers, and embellishments. Whether you want to make a bold fashion statement or a simple design, this is your chance to create something uniquely yours while hanging out with friends. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Swimming & Diving vs. SUNY New Paltz",
@@ -1120,6 +1120,14 @@
     "description": "Assemble your team and show off your Marvel knowledge\u2014from origin stories to epic battles across the MCU."
   },
   {
+    "title": "LaserTag",
+    "date": "2026-02-07T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/11969670",
+    "description": "Lights off, game on. Whether you\u2019re dodging, tagging, or just there for the chaos, get ready for a high-energy night!"
+  },
+  {
     "title": "Movie Night",
     "date": "2026-02-07T00:30:00+00:00",
     "organization": "Residence Life",
@@ -1142,6 +1150,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11964295",
     "description": "Accelerate your path to leadership \n Our\u00a0 Fast Track option \u00a0for the Educational Leadership (MA) allows students to earn a 36-credit degree and principal and supervisor certification in 14 months while working full-time. This program is completed within a one-year time frame, from summer to summer. \n New cohorts for the Fast Track Option begin each Summer. Interested applicants should\u00a0 complete their application for admission by April 1 \u00a0 each year. Join us for a webinar on February 7\u00a0at 10:00 AM (EST) \u00a0 to learn how this fast-track option can propel aspiring leaders and administrators toward their goals."
+  },
+  {
+    "title": "Soup-er Bowl Saturday",
+    "date": "2026-02-07T22:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/11969751",
+    "description": "Decorate your own bowl and warm up with a variety of soups and cozy vibes before watching the big game. Come hungry and bring your friends for a laid-back Saturday night."
   },
   {
     "title": "Magnificent Bird / Book of Travelers | Two Song Cycles written and performed by Gabriel Kahane",
@@ -1384,6 +1400,14 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Thursday: 4-5PM \n Student Recreation Center - Pool"
   },
   {
+    "title": "Book Swap",
+    "date": "2026-02-12T22:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/11969855",
+    "description": "Bring a book you\u2019re done with, customize a bookmark and leave with a new read. A great way to refresh your bookshelf and connect with fellow book lovers."
+  },
+  {
     "title": "I AM | Camille A. Brown & Dancers",
     "date": "2026-02-13T00:30:00+00:00",
     "organization": "PEAK Performances",
@@ -1454,6 +1478,14 @@
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/11342697",
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
+  },
+  {
+    "title": "Valentines Day Stuff & Screen",
+    "date": "2026-02-15T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "University Hall, Room 1070",
+    "link": "https://montclair.campuslabs.com/engage/event/11970050",
+    "description": "Make your own plush Valentine's Day bear, and settle in for a screening of  10 Things I Hate About You . Whether you\u2019re coming with friends, a date, or just for the vibes, it\u2019s a cozy, feel-good Valentine\u2019s night you won\u2019t want to miss. \ud83d\udc96\ud83c\udfac\ud83e\uddf8"
   },
   {
     "title": "Love Week: Dinner and a Movie",
@@ -1720,12 +1752,28 @@
     "description": "Are you ready, kids? Dive into Bikini Bottom and test your knowledge of SpongeBob, Patrick, and all your favorite moments."
   },
   {
+    "title": "Open Mic Night ",
+    "date": "2026-02-21T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/11970176",
+    "description": "Whether you\u2019ve got a hidden talent or just want a fun night out, Open Mic Night is the place to be. Music, poetry, comedy, and good vibes all around\u2014come perform, cheer on your friends, or just hang out and enjoy the energy. \ud83c\udfa4"
+  },
+  {
     "title": "Love Languages Lounge",
     "date": "2026-02-21T01:00:00+00:00",
     "organization": "Residence Life",
     "location": "Russ Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11961930",
     "description": "Residents will take a quick Love Languages quiz (Words of Affirmation, Quality Time, Acts of Service, Gifts, and Physical Touch), then move through themed stations to explore each love language in fun, interactive ways. The Lounge includes activities like affirmation card-making, snack-sharing, creative prompts, and community conversations."
+  },
+  {
+    "title": "Saturday Sundaes",
+    "date": "2026-02-22T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 251, Dining Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11970279",
+    "description": "Build your dream ice-cream sundae with toppings. A sweet way to spend your Saturday night with friends or for a quick sweet treat."
   },
   {
     "title": "Pool Tournament ",
@@ -1997,7 +2045,15 @@
     "organization": "Campus Activities",
     "location": "1908 Pub, Student Center",
     "link": "https://montclair.campuslabs.com/engage/event/11967637",
-    "description": "Join us at\u00a0 1908\u00a0 in the student center for Trivia! Come for a chance to win prizes, dining credit, or bragging rights!"
+    "description": "From Kanto to Paldea, see if you have what it takes to be a Pok\u00e9mon Master. Teams encouraged\u2014gotta catch \u2019em all!"
+  },
+  {
+    "title": "PokeMontclair!",
+    "date": "2026-02-28T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/11970343",
+    "description": "Join fellow trainers for a Pok\u00e9mon-themed hangout featuring games, fun activities, and a raffle! Perfect for fans of all generations."
   },
   {
     "title": "Slime Making",
@@ -2022,6 +2078,14 @@
     "location": "Freeman Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11961842",
     "description": "Express your creativity! Bracelet making in the Freeman Lounge! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Board Games & Brunch",
+    "date": "2026-02-28T17:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 251, Dining Room",
+    "link": "https://montclair.campuslabs.com/engage/event/11970468",
+    "description": "Who says brunch is only in the morning? Come enjoy late-night snacks, good vibes, and a chill night of board games with friends. Whether you\u2019re here to compete or just hang out, it\u2019s the perfect way to unwind and play."
   },
   {
     "title": "Vision Board Night",
@@ -2429,7 +2493,15 @@
     "organization": "Campus Activities",
     "location": "1908 Pub, Student Center",
     "link": "https://montclair.campuslabs.com/engage/event/11967638",
-    "description": "Join us at\u00a0 1908\u00a0 in the student center for Trivia! Come for a chance to win prizes, dining credit, or bragging rights!"
+    "description": "From iconic quotes to unforgettable scenes, test your knowledge of the biggest movies of all time."
+  },
+  {
+    "title": "Open Mic Night ",
+    "date": "2026-03-20T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/11970177",
+    "description": "Whether you\u2019ve got a hidden talent or just want a fun night out, Open Mic Night is the place to be. Music, poetry, comedy, and good vibes all around\u2014come perform, cheer on your friends, or just hang out and enjoy the energy. \ud83c\udfa4"
   },
   {
     "title": "Free Swim Lessons *Beginner*",
@@ -2557,7 +2629,15 @@
     "organization": "Campus Activities",
     "location": "1908 Pub, Student Center",
     "link": "https://montclair.campuslabs.com/engage/event/11967639",
-    "description": "Join us at\u00a0 1908\u00a0 in the student center for Trivia! Come for a chance to win prizes, dining credit, or bragging rights!"
+    "description": "For theater lovers and musical fans\u2014test your knowledge of Broadway hits, lyrics, and legendary shows."
+  },
+  {
+    "title": "Blind Box Bingo",
+    "date": "2026-03-27T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/11970716",
+    "description": "Bingo just got way more exciting! Play for a chance to win Blind boxes as prizes in every round. Come for the game, stay for the laughs\u2014maybe you'll get a secret!"
   },
   {
     "title": "\u2b50 Honor Society Info Sessions (ALD, NSCS, Tau Sigma)",
@@ -2813,7 +2893,15 @@
     "organization": "Campus Activities",
     "location": "1908 Pub, Student Center",
     "link": "https://montclair.campuslabs.com/engage/event/11967640",
-    "description": "Join us at\u00a0 1908\u00a0 in the student center for Trivia! Come for a chance to win prizes, dining credit, or bragging rights!"
+    "description": "From viral moments to celebrities and trends, see how well you know what\u2019s happening now"
+  },
+  {
+    "title": "Open Mic Night ",
+    "date": "2026-04-10T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/11970178",
+    "description": "Whether you\u2019ve got a hidden talent or just want a fun night out, Open Mic Night is the place to be. Music, poetry, comedy, and good vibes all around\u2014come perform, cheer on your friends, or just hang out and enjoy the energy. \ud83c\udfa4"
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
@@ -2830,6 +2918,14 @@
     "location": "Student Recreation Center - Pool",
     "link": "https://montclair.campuslabs.com/engage/event/11931657",
     "description": "Brief Description:\u00a0 \n Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Monday: 1-2PM & 5-6PM \n Student Recreation Center - Pool"
+  },
+  {
+    "title": "Pickle Palooza!",
+    "date": "2026-04-13T17:30:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/11970809",
+    "description": "Have you ever wanted to attend a pickle festival? Pickle Palooza is taking over the quad with snacks, games, and pickle-packed fun for everyone."
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
@@ -2957,7 +3053,7 @@
     "organization": "Campus Activities",
     "location": "1908 Pub, Student Center",
     "link": "https://montclair.campuslabs.com/engage/event/11967641",
-    "description": "Join us at\u00a0 1908\u00a0 in the student center for Trivia! Come for a chance to win prizes, dining credit, or bragging rights!"
+    "description": "Do you speak fluent internet? Test your knowledge of iconic memes, viral moments, and online chaos."
   },
   {
     "title": "Denim Day Decorating",
