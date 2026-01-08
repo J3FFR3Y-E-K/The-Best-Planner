@@ -1,13 +1,5 @@
 [
   {
-    "title": "Red Hawk Pantry",
-    "date": "2026-01-08T16:00:00+00:00",
-    "organization": "Red Hawk Pantry",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11905772",
-    "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Tuesdays: 5-7pm \n Saturdays: 11-1pm"
-  },
-  {
     "title": "CPT Workshop - International Students (F-1 Visa Holders) Only",
     "date": "2026-01-09T16:00:00+00:00",
     "organization": "Office of Global Engagement",
@@ -142,6 +134,14 @@
     "location": "Bohn Hall Main Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11989983",
     "description": "Join us for the Bohn Hall Community Meeting! This is your opportunity to connect with your Professional Staff, student staff, and fellow residents as we kick off the semester together. At this meeting, we\u2019ll cover important information about living in Bohn Hall, including community expectations, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n Resources and support available to you \n Opportunities to connect with staff and peers \n A chance to ask questions and share your voice \n \n We look forward to seeing you there! \n This event is for Bohn Hall Residents"
+  },
+  {
+    "title": "CALI SCHOOL OF MUSIC: Cali Pathways Project Alumni Recital",
+    "date": "2026-01-17T01:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Leshowitz Recital Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11992084",
+    "description": "The Cali Pathways Project celebrates five years of supporting young musicians from under-resourced backgrounds with special performances by program alumni. \n --- \n Cali Pathways identifies talented and motivated students in grades 8-12, and assists them in bridging gaps that may otherwise preclude them from achieving their full musical potential. An individualized support plan is developed collaboratively and adjusted yearly for each student. \n More info:\u00a0https://www.montclair.edu/john-j-cali-school-of-music/pathways/"
   },
   {
     "title": "Ramen Night",
@@ -1320,20 +1320,20 @@
     "description": "Brief Description:\u00a0 \n Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Monday: 1-2PM & 5-6PM \n Student Recreation Center - Pool"
   },
   {
-    "title": "Free Swim Lessons *Intermediate*",
-    "date": "2026-02-09T18:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Pool",
-    "link": "https://montclair.campuslabs.com/engage/event/11933910",
-    "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Monday: 1-2PM & 5-6PM \n Student Recreation Center - Pool"
-  },
-  {
     "title": "\u2b50 Honor Society Info Sessions (ALD, NSCS, Tau Sigma)",
     "date": "2026-02-09T18:00:00+00:00",
     "organization": "Prestigious Scholarships ",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11940570",
     "description": "A Prestigious Scholarship is an academic or financial award given to outstanding students for graduate programs nationally and internationally. These scholarships often come with significant financial benefits, including full or partial tuition coverage, stipends for living expenses, and sometimes additional funds for research or travel. Join us to learn more about upcoming Prestigious Scholarship opportunities for the 2025-26 academic year."
+  },
+  {
+    "title": "Free Swim Lessons *Intermediate*",
+    "date": "2026-02-09T18:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center - Pool",
+    "link": "https://montclair.campuslabs.com/engage/event/11933910",
+    "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Monday: 1-2PM & 5-6PM \n Student Recreation Center - Pool"
   },
   {
     "title": "Free Swim Lessons *Beginner*",
