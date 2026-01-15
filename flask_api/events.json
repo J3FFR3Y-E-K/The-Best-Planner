@@ -1,13 +1,5 @@
 [
   {
-    "title": "Women's Basketball vs. TCNJ",
-    "date": "2026-01-14T22:00:00+00:00",
-    "organization": "Athletics",
-    "location": "Panzer Athletic Center",
-    "link": "https://montclair.campuslabs.com/engage/event/11342689",
-    "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
-  },
-  {
     "title": "New Year, Who Dis?",
     "date": "2026-01-15T00:00:00+00:00",
     "organization": "Residence Life",
@@ -80,20 +72,20 @@
     "description": "Take a break and squeeze away the stress! Join us for a relaxing DIY Stress Ball Workshop where you\u2019ll get to make your own custom stress balls using slime, clay, and many more. It\u2019s the perfect hands-on way to unwind, get creative, and take home something you can actually use during mid-semester stress. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Hats & Patches",
-    "date": "2026-01-16T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Stone Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11915150",
-    "description": "Get crafty and show off your personal style! Join us in the Stone Hall Lounge on January 15th from 8:00 PM \u2013 10:00 PM to decorate your own hat with a variety of patches, markers, and embellishments. Whether you want to make a bold fashion statement or a simple design, this is your chance to create something uniquely yours while hanging out with friends. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Custom Graphic Sweats",
     "date": "2026-01-16T01:00:00+00:00",
     "organization": "Residence Life",
     "location": "Dinallo Heights",
     "link": "https://montclair.campuslabs.com/engage/event/11915149",
     "description": "Who doesn't love sweatpants? Better yet, CUSTOM graphic sweatpants. Join us and customize your sweats in Dinallo MPR on January 15th from 8:00 PM-10:00 PM. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Hats & Patches",
+    "date": "2026-01-16T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Stone Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11915150",
+    "description": "Get crafty and show off your personal style! Join us in the Stone Hall Lounge on January 15th from 8:00 PM \u2013 10:00 PM to decorate your own hat with a variety of patches, markers, and embellishments. Whether you want to make a bold fashion statement or a simple design, this is your chance to create something uniquely yours while hanging out with friends. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Swimming & Diving vs. SUNY New Paltz",
@@ -1352,6 +1344,14 @@
     "description": "Rehearsal for Montclair State Dance Company"
   },
   {
+    "title": "Skills for Success: The Truth About Soft Skills",
+    "date": "2026-02-03T19:00:00+00:00",
+    "organization": "University College",
+    "location": "Cole Hall 340 (Third Floor)",
+    "link": "https://montclair.campuslabs.com/engage/event/12037927",
+    "description": "Think success in college and beyond is all about technical know-how? Think again! This interactive workshop uncovers the real power of soft skills\u2014like communication, teamwork, problem-solving, conflict resolution, and adaptability\u2014that employers and professors alike value most. Through hands-on activities and real-world examples, you\u2019ll learn how to recognize, strengthen, and showcase these essential skills to thrive as a student and future professional. \n Event Details: \ud83d\udcc5 Date: Tuesday, February 3, 2026 \ud83d\udd52 Time: 2 - 3 pm \ud83d\udccd Location: Susan A. Cole Hall, Suite 340 (3rd Floor) \n Presented by the University College Academic Programming Team. This event is open to all University College (pre-major) students. \n There will be complimentary food."
+  },
+  {
     "title": "Getting Started with Canva",
     "date": "2026-02-03T21:00:00+00:00",
     "organization": "The ADP Center",
@@ -1446,14 +1446,6 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11921476",
     "description": "Learn more about pre-completion and post-completion Optional Practical Training (OPT) for F-1 students. Any student planning to apply for OPT is REQUIRED to attend a workshop before they can apply. This workshop is for CURRENT students ONLY - any other attendees will be removed."
-  },
-  {
-    "title": "The Emotionally Intelligent Leader",
-    "date": "2026-02-04T17:00:00+00:00",
-    "organization": "University College",
-    "location": "Student Center Underground (Rm 160)",
-    "link": "https://montclair.campuslabs.com/engage/event/12025263",
-    "description": "Join us for  The Emotionally Intelligent Leader  \u2014 an interactive workshop designed for pre-major students! Discover how emotional intelligence can strengthen your leadership skills, boost academic success, and elevate your personal and professional growth. \n This event is open to all University College (pre-major) students. RSVP is required. \n There will be complimentary food."
   },
   {
     "title": "MASA Welcome Back",
@@ -3094,6 +3086,14 @@
     "location": "Student Center 250B - Ballroom B",
     "link": "https://montclair.campuslabs.com/engage/event/12032759",
     "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 Workshop, Auditions, and Callbacks."
+  },
+  {
+    "title": "The Emotionally Intelligent Leader",
+    "date": "2026-03-04T17:00:00+00:00",
+    "organization": "University College",
+    "location": "Student Center Underground (Rm 160)",
+    "link": "https://montclair.campuslabs.com/engage/event/12025263",
+    "description": "Join us for  The Emotionally Intelligent Leader  \u2014 an interactive workshop designed for pre-major students! Discover how emotional intelligence can strengthen your leadership skills, boost academic success, and elevate your personal and professional growth. \n This event is open to all University College (pre-major) students. RSVP is required. \n There will be complimentary food."
   },
   {
     "title": "Career Ready with AI",
