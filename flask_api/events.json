@@ -1,21 +1,5 @@
 [
   {
-    "title": "Group X - Cycling",
-    "date": "2026-01-22T15:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/12079190",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 10pm - 10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
-  },
-  {
-    "title": "Group X - Pilates",
-    "date": "2026-01-22T17:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12079360",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 12pm - 12:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Maddie"
-  },
-  {
     "title": "MS Analytics and Certificate Virtual Information Session",
     "date": "2026-01-22T17:30:00+00:00",
     "organization": "The Office of Graduate Admissions",
@@ -80,20 +64,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
   },
   {
-    "title": "Art & Design Juried Exhibition",
-    "date": "2026-01-22T16:00:00+00:00",
-    "organization": "Art and Design",
-    "location": "Finley Gallery, Finley Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12048484",
-    "description": "Montclair State University\u2019s Department of Art and Design is excited to kick off the Spring 2026 semester with the  Art & Design  Juried Exhibition  at Finley Gallery . The exhibition runs from January 21 through January 30, 2026, with an opening reception on Wednesday, January 21 from 2-4pm.\u00a0 \n \u00a0 \n This showcase features work from students in Visual Arts, Fashion Design and Merchandising, Illustration, Product Design, and Visual Communication Design, and Art Education programs. Eighty-four professors across five disciplines selected one student from each of their course sections, highlighting exceptional projects that demonstrate the creativity and potential cultivated in our studios.\u00a0 \n \u00a0 \n The exhibition demonstrates the breadth and scope of our programs, and gives our community a wonderful opportunity to see what is being made and discovered in our studios here at Montclair State University.\u00a0 \n \u00a0 \n Don\u2019t miss this opportunity to experience the incredible talent and innovation of Montclair State University\u2019s Art and Design students. \n \u00a0 \n Art & Design  Juried Exhibition \n Finley Gallery, Finley Hall \n Exhibition dates: 1/21 - 1/30 \n Opening Reception: Wed. 1/21 2-4pm"
-  },
-  {
     "title": "Child Advocacy and Policy (MA) and Child Advocacy (Certificate) Virtual Information Session",
     "date": "2026-01-22T23:00:00+00:00",
     "organization": "The Office of Graduate Admissions",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11964289",
     "description": "Lead Change in Child Advocacy and Policy \u00a0 When children and families face complex challenges, they need informed, compassionate professionals to stand up, speak out, and shape solutions. If you're ready to turn your commitment into action, we're here to help.\u00a0 We're hosting a\u00a0 virtual information session\u00a0on January 22\u00a0at 6:00 PM (EST) .\u00a0This is a no-pressure, exploratory space to meet our team and determine if our program fits your goals.\u00a0This session will cover the following programs:\u00a0 \n \n Online Master of Arts in Child Advocacy and Policy \n Child Advocacy (Certificate) \u2013 Online \n \n Why Montclair? \u00a0Completing\u00a0the certificate program allows you to transfer all 15 credits towards the Master of Arts in Child Advocacy, in accordance with all related graduate policy."
+  },
+  {
+    "title": "Art & Design Juried Exhibition",
+    "date": "2026-01-22T16:00:00+00:00",
+    "organization": "Art and Design",
+    "location": "Finley Gallery, Finley Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12048484",
+    "description": "Montclair State University\u2019s Department of Art and Design is excited to kick off the Spring 2026 semester with the  Art & Design  Juried Exhibition  at Finley Gallery . The exhibition runs from January 21 through January 30, 2026, with an opening reception on Wednesday, January 21 from 2-4pm.\u00a0 \n \u00a0 \n This showcase features work from students in Visual Arts, Fashion Design and Merchandising, Illustration, Product Design, and Visual Communication Design, and Art Education programs. Eighty-four professors across five disciplines selected one student from each of their course sections, highlighting exceptional projects that demonstrate the creativity and potential cultivated in our studios.\u00a0 \n \u00a0 \n The exhibition demonstrates the breadth and scope of our programs, and gives our community a wonderful opportunity to see what is being made and discovered in our studios here at Montclair State University.\u00a0 \n \u00a0 \n Don\u2019t miss this opportunity to experience the incredible talent and innovation of Montclair State University\u2019s Art and Design students. \n \u00a0 \n Art & Design  Juried Exhibition \n Finley Gallery, Finley Hall \n Exhibition dates: 1/21 - 1/30 \n Opening Reception: Wed. 1/21 2-4pm"
   },
   {
     "title": "Group X - Pilates",
@@ -238,6 +222,14 @@
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/11342632",
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
+  },
+  {
+    "title": "The Dancer's Development Workshop Vol. 4",
+    "date": "2026-01-24T15:00:00+00:00",
+    "organization": "Campus Activities at Bloomfield",
+    "location": "Westminster Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12094933",
+    "description": "\ud83d\udd25  DANCER\u2019S DEVELOPMENT WORKSHOP VOL. 4  \ud83d\udd25 Get ready for a  FULL DAY of movement, growth, and community!  This workshop brings together elite instructors across multiple styles to help dancers level up, get inspired, and have FUN.\u00a0 \u00a0 \u00a0\u00a0 DDW4 - Promotional Video \n \ud83d\udd7a  CLASS SCHEDULE: \u2022 10AM \u2013 Hip-Hop w/  Jada \u2022 11AM \u2013 House w/  Eskillz \u2022 12PM \u2013 Rhythm & Grooves w/  Daah \u2022 1PM \u2013 Jersey Club w/  Neyy \u2022 2PM \u2013 Hip-Hop w/  Zia \u2022 3PM \u2013 Commercial w/  Justin \u2022 4PM \u2013 Waving w/  Barry \n \ud83d\udccd  Location:  449 Franklin St., Bloomfield, NJ \ud83d\uddd3  Saturday, January 24 \u23f0  10AM\u20135PM \ud83c\udf9f  ADMISSION: FREE \n \u26a1 This day will be  LEGENDARY  \u2014 be part of the  EPIC story . Come train, connect, and grow with the culture. \n #DancersDevelopmentWorkshop #DDWVol4 #DanceWorkshop #NJDance #HipHopDance #HouseDance #JerseyClub #CommercialDance #Waving #DanceCommunity"
   },
   {
     "title": "Give a compliment, Get a compliment",
@@ -688,6 +680,14 @@
     "description": "On Academic Notice? Join us for an in-person Academic Workshop on Wednesday, January 28 from 2:15\u20133:00 PM in Morehead Hall, Room 204. Learn how to understand your GPA requirements, stay on top of important deadlines, and take the right steps to return to good academic standing. This is also a great opportunity to ask questions and get personalized guidance. \n RSVP through the Engage link below,  we hope to see you there!"
   },
   {
+    "title": "The DJ Academy: Music Matters 101 ",
+    "date": "2026-01-28T19:30:00+00:00",
+    "organization": "Campus Activities at Bloomfield",
+    "location": "Talbott Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12095713",
+    "description": "DJing is one of the original elements of Hip Hop and is often considered the first. Hip Hop began in the Bronx during the 1970s at community block parties, where DJs used turntables to bring people together through music. Early pioneers like DJ Kool Herc introduced breakbeats by looping the most rhythmic parts of records, creating the foundation for breaking and shaping how dancers and MCs interacted with the music. \n As Hip Hop evolved, DJing became the musical backbone of the culture. DJs provide the beats for MCing, set the tempo for dancers, and control the energy of Hip Hop spaces by reading the crowd and responding in real time. Through techniques like scratching, cutting, and beat juggling, DJs helped define Hip Hop\u2019s sound while preserving its history and passing down cultural knowledge. \n This class introduces the basics of DJing and how music shapes the dance experience. DJ Bascis will explain core concepts such as  tempo, rhythm, and song structure , helping students understand how music guides movement and energy on the dance floor. \n Participants will learn how DJs choose music, create smooth transitions, and adjust the vibe based on the room.\u00a0 \n Through simple examples and live demonstrations, students will build confidence in listening to music with intention. This can bewhether they are dancing, freestyling, or interested in DJing themselves. \n This class is designed for  beginners and college students , with no prior DJ or music experience required."
+  },
+  {
     "title": "Hazing Prevention Workshop",
     "date": "2026-01-28T20:00:00+00:00",
     "organization": "Greek Life",
@@ -808,7 +808,7 @@
     "description": "Put on your pjs and come out to Stone Hall on January 28th at 7:00 PM for a movie night!\u00a0 All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Campus Quest: Community Scavenger Hunt",
+    "title": "Campus Quest: Scavenger Hunt",
     "date": "2026-01-29T01:00:00+00:00",
     "organization": "Bloomfield's Office of Residence Life",
     "location": "Online",
@@ -1568,6 +1568,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
   },
   {
+    "title": "Celebrate alumni at the opening reception of Carpe Diem: Select Alumni in the Visual Arts",
+    "date": "2026-02-03T22:00:00+00:00",
+    "organization": "Montclair State University Galleries",
+    "location": "George Segal Gallery, 4th Floor of the Red Hawk Deck",
+    "link": "https://montclair.campuslabs.com/engage/event/12095826",
+    "description": "Admission is free, open to the public.\u00a0 Learn more about this exhibition \n \u00a0 \n Celebrate Montclair State University alumni at the opening of the exhibition\u00a0 Carpe Diem: Select Alumni in the Visual Arts.\u00a0 Remarks by Jonathan GS Koppell,\u00a0 President , and Rita Walters,\u00a0 Vice President for Development and Alumni Engagement \u00a0at 6 pm. \n \u00a0 \n Carpe Diem: Select Alumni in the Visual Arts \u00a0is a group exhibition presented by the Office for Development and Alumni Engagement and hosted by the University Galleries.\u00a0 Carpe Diem\u00a0 brings together twelve accomplished alumni working in a range of media. \n \u00a0 \n Curated by Sally Morgan Lehman, who has taught in the Department of Art and Design at Montclair and is owner and director of Morgan Lehman Gallery in New York City,\u00a0 Carpe Diem \u00a0highlights the breadth of artistic practices fostered at Montclair and the lasting impact of its visual arts alumni. \n \u00a0 \n Featured artists include Fl\u00e1via Berindoague \u201913, Bisa Butler \u201905, Jonathan Calm \u201997, Kyle Coniglio \u201910, Alyssa Fanning \u201912, Allen Ginsberg (1943), M\u00e1rta Kucsora (2005\u201306), Michael Manning \u201911, Nancy Bergman Pantirer \u201980, Tiffany Perez \u201909, William Pope.L \u201978, and Maria Valdivia \u201924."
+  },
+  {
     "title": "Group X - BJJ",
     "date": "2026-02-04T00:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1734,6 +1742,14 @@
     "location": "Student Center 2C02 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12080257",
     "description": "Sweet treats for a sweet cause! Stop by our bake sale fundraiser and enjoy delicious snacks while supporting our cause"
+  },
+  {
+    "title": "The DJ Academy: Music Matters 101 ",
+    "date": "2026-02-04T19:30:00+00:00",
+    "organization": "Campus Activities at Bloomfield",
+    "location": "Talbott Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12095714",
+    "description": "DJing is one of the original elements of Hip Hop and is often considered the first. Hip Hop began in the Bronx during the 1970s at community block parties, where DJs used turntables to bring people together through music. Early pioneers like DJ Kool Herc introduced breakbeats by looping the most rhythmic parts of records, creating the foundation for breaking and shaping how dancers and MCs interacted with the music. \n As Hip Hop evolved, DJing became the musical backbone of the culture. DJs provide the beats for MCing, set the tempo for dancers, and control the energy of Hip Hop spaces by reading the crowd and responding in real time. Through techniques like scratching, cutting, and beat juggling, DJs helped define Hip Hop\u2019s sound while preserving its history and passing down cultural knowledge. \n This class introduces the basics of DJing and how music shapes the dance experience. DJ Bascis will explain core concepts such as  tempo, rhythm, and song structure , helping students understand how music guides movement and energy on the dance floor. \n Participants will learn how DJs choose music, create smooth transitions, and adjust the vibe based on the room.\u00a0 \n Through simple examples and live demonstrations, students will build confidence in listening to music with intention. This can bewhether they are dancing, freestyling, or interested in DJing themselves. \n This class is designed for  beginners and college students , with no prior DJ or music experience required."
   },
   {
     "title": "Hazing Prevention Workshop",
@@ -2448,6 +2464,14 @@
     "description": "Struggling to come up with a research topic? Join us at a hands-on workshop where you'll explore strategies (and library tools) to help you brainstorm ideas and narrow or broaden your focus to identify a topic that\u2019s both interesting and researchable. \n Register Here: \u00a0https://montclair.libcal.com/event/16259677"
   },
   {
+    "title": "Art Forum with Sally Morgan Lehman",
+    "date": "2026-02-09T22:20:00+00:00",
+    "organization": "Montclair State University Galleries",
+    "location": "George Segal Gallery, 4th Floor of the Red Hawk Deck",
+    "link": "https://montclair.campuslabs.com/engage/event/12095847",
+    "description": "Admission is free, open to the public.\u00a0 Learn more about this exhibition \n \u00a0 \n Art Forum \u00a0is a speaker series featuring artists, designers, art historians, curators, and art critics from around the world presenting their work and ideas in an open forum, hosted by the Department of Art & Design. Curator Sally Morgan Lehman will lead a walkthrough of the exhibition\u00a0 Carpe Diem: Select Alumni in the Visual Arts. \n \u00a0 \n Carpe Diem: Select Alumni in the Visual Arts \u00a0is a group exhibition presented by the Office for Development and Alumni Engagement and hosted by the University Galleries.\u00a0 Carpe Diem\u00a0 brings together twelve accomplished alumni working in a range of media. \n \u00a0 \n Curated by Sally Morgan Lehman, who has taught in the Department of Art and Design at Montclair and is owner and director of Morgan Lehman Gallery in New York City,\u00a0 Carpe Diem \u00a0highlights the breadth of artistic practices fostered at Montclair and the lasting impact of its visual arts alumni. \n \u00a0 \n Featured artists include Fl\u00e1via Berindoague \u201913, Bisa Butler \u201905, Jonathan Calm \u201997, Kyle Coniglio \u201910, Alyssa Fanning \u201912, Allen Ginsberg (1943), M\u00e1rta Kucsora (2005\u201306), Michael Manning \u201911, Nancy Bergman Pantirer \u201980, Tiffany Perez \u201909, William Pope.L \u201978, and Maria Valdivia \u201924."
+  },
+  {
     "title": "Corazones y Conexiones",
     "date": "2026-02-09T23:00:00+00:00",
     "organization": "Association of Latino Professionals For America",
@@ -2462,6 +2486,22 @@
     "location": "Student Center 417 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12056943",
     "description": "Come join the MSDC in a fun and relaxing coloring night!"
+  },
+  {
+    "title": "Meet The Mermaids ",
+    "date": "2026-02-10T00:00:00+00:00",
+    "organization": "Bloomfield Lambda Tau Omega Sorority, Inc.",
+    "location": "Bloomfield - Talbott Hall TM04 - Room of Excellence",
+    "link": "https://montclair.campuslabs.com/engage/event/12093316",
+    "description": "his event is to introduce our organization to potential interests and interact with them."
+  },
+  {
+    "title": "Flag the Behavior",
+    "date": "2026-02-10T01:00:00+00:00",
+    "organization": "Bloomfield's Office of Residence Life",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12095334",
+    "description": "Flag the Behavior: A Valentine\u2019s Edition  invites residents to reflect on red and green flags in friendships and relationships through creative flag decorating and anonymous sharing. Join us for snacks, music, and good vibes while calling out the behaviors that matter most. \ud83d\udc95\ud83d\udea9\ud83d\udc9a \n Join RA Racquel in the 225 Liberty Lounge."
   },
   {
     "title": "Dracula Rehearsal",
@@ -2624,6 +2664,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 7pm - 8:30pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
   },
   {
+    "title": "Vino Blanco",
+    "date": "2026-02-11T00:00:00+00:00",
+    "organization": "Bloomfield Lambda Tau Omega Sorority, Inc.",
+    "location": "Bloomfield - Talbott Hall TM04 - Room of Excellence",
+    "link": "https://montclair.campuslabs.com/engage/event/12093404",
+    "description": "This event is specifically for interested womyn"
+  },
+  {
     "title": "Bracelets & Blockbusters",
     "date": "2026-02-11T00:00:00+00:00",
     "organization": "Campus Recreation",
@@ -2758,6 +2806,14 @@
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12008917",
     "description": "Cali Immersive Residency Program Cali Midweek Series: Cali Conversation and Performance with PAQUITO D'RIVERA and Cali School of Music Jazz Studies Area Coordinator Dr. Oscar Perez Leshowitz Recital Hall, Chapin Hall, Cali School of Music FREE \u2013 Reservations Suggested \n CUBAN-AMERICAN SAXOPHONIST AND CLARINETIST Cali Immersive Residency Program On Campus: FEBRUARY 9\u201313, 2026 \n Full Immersive Residency Schedule \n Paquito D\u2019Rivera \u00a0is a celebrated Cuban-born clarinetist, saxophonist, and composer whose genre-defying career spans Latin jazz, classical music, and beyond. Winner of 16 Grammy and Latin Grammy Awards, he was a founding member of Irakere and Dizzy Gillespie\u2019s United Nation Orchestra, and has recorded over 40 solo albums. A child prodigy and son of classical saxophonist Tito Rivera, he has performed with major orchestras worldwide and composed for top ensembles including Yo-Yo Ma and Imani Winds. Also a writer and producer, D\u2019Rivera is known for his eclectic style and for championing Latin musical traditions on the global stage."
+  },
+  {
+    "title": "The DJ Academy: Music Matters 101 ",
+    "date": "2026-02-11T19:30:00+00:00",
+    "organization": "Campus Activities at Bloomfield",
+    "location": "Talbott Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12095715",
+    "description": "DJing is one of the original elements of Hip Hop and is often considered the first. Hip Hop began in the Bronx during the 1970s at community block parties, where DJs used turntables to bring people together through music. Early pioneers like DJ Kool Herc introduced breakbeats by looping the most rhythmic parts of records, creating the foundation for breaking and shaping how dancers and MCs interacted with the music. \n As Hip Hop evolved, DJing became the musical backbone of the culture. DJs provide the beats for MCing, set the tempo for dancers, and control the energy of Hip Hop spaces by reading the crowd and responding in real time. Through techniques like scratching, cutting, and beat juggling, DJs helped define Hip Hop\u2019s sound while preserving its history and passing down cultural knowledge. \n This class introduces the basics of DJing and how music shapes the dance experience. DJ Bascis will explain core concepts such as  tempo, rhythm, and song structure , helping students understand how music guides movement and energy on the dance floor. \n Participants will learn how DJs choose music, create smooth transitions, and adjust the vibe based on the room.\u00a0 \n Through simple examples and live demonstrations, students will build confidence in listening to music with intention. This can bewhether they are dancing, freestyling, or interested in DJing themselves. \n This class is designed for  beginners and college students , with no prior DJ or music experience required."
   },
   {
     "title": "Hazing Prevention Workshop",
@@ -3086,6 +3142,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12081098",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 7pm - 7:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Colin"
+  },
+  {
+    "title": "Palentine Social ",
+    "date": "2026-02-13T00:00:00+00:00",
+    "organization": "Bloomfield's Office of Residence Life",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12095527",
+    "description": "Celebrate friendship at our Palentine\u2019s Social! Join us for snacks, music, games, and good vibes as we spread love, laughter, and appreciation for the friends who make campus feel like home \ud83d\udc95\u2728 \n Join RA Connie in the 225 Liberty Lounge"
   },
   {
     "title": "I AM | Camille A. Brown & Dancers",
@@ -3670,6 +3734,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12067070",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
+  },
+  {
+    "title": "The DJ Academy: Music Matters 101 ",
+    "date": "2026-02-18T19:30:00+00:00",
+    "organization": "Campus Activities at Bloomfield",
+    "location": "Talbott Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12095716",
+    "description": "DJing is one of the original elements of Hip Hop and is often considered the first. Hip Hop began in the Bronx during the 1970s at community block parties, where DJs used turntables to bring people together through music. Early pioneers like DJ Kool Herc introduced breakbeats by looping the most rhythmic parts of records, creating the foundation for breaking and shaping how dancers and MCs interacted with the music. \n As Hip Hop evolved, DJing became the musical backbone of the culture. DJs provide the beats for MCing, set the tempo for dancers, and control the energy of Hip Hop spaces by reading the crowd and responding in real time. Through techniques like scratching, cutting, and beat juggling, DJs helped define Hip Hop\u2019s sound while preserving its history and passing down cultural knowledge. \n This class introduces the basics of DJing and how music shapes the dance experience. DJ Bascis will explain core concepts such as  tempo, rhythm, and song structure , helping students understand how music guides movement and energy on the dance floor. \n Participants will learn how DJs choose music, create smooth transitions, and adjust the vibe based on the room.\u00a0 \n Through simple examples and live demonstrations, students will build confidence in listening to music with intention. This can bewhether they are dancing, freestyling, or interested in DJing themselves. \n This class is designed for  beginners and college students , with no prior DJ or music experience required."
   },
   {
     "title": "Hazing Prevention Workshop",
@@ -4384,14 +4456,6 @@
     "description": "Team A vs. Team B, who will win? The world may never know... UNLESS you join us and find out."
   },
   {
-    "title": "Festejo Festividades ",
-    "date": "2026-02-24T19:00:00+00:00",
-    "organization": "Peruvian-American Student Organization",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12093030",
-    "description": "Paso is hosting a celebration for black history month. Showcasing the Afro-Peruvian culture such as the Afro-Peruvian dance Festejo and Afro-Peruvian music."
-  },
-  {
     "title": "upLIFT",
     "date": "2026-02-24T20:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4472,6 +4536,14 @@
     "description": "Wind down with a fun, build-your-own breakfast experience featuring a full cereal bar and fresh, customizable waffles. Mix, match, and top your favorites however you like. It\u2019s the perfect cozy treat to end your day\u2014sweet, simple, and delicious! \n \u00a0 \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesday, February 24 \n 7pm-9pm, must be checked in by 8:30pm to participate \n Student Recreation Center Lounge"
   },
   {
+    "title": "Line Dancing Lessons ",
+    "date": "2026-02-25T00:00:00+00:00",
+    "organization": "Black Student Union",
+    "location": "Student Center 250BC - Ballrooms B and C",
+    "link": "https://montclair.campuslabs.com/engage/event/12094481",
+    "description": "Line Dancing Lessons with BSU"
+  },
+  {
     "title": "One Acts Tech Rehearsal ",
     "date": "2026-02-24T22:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -4486,6 +4558,22 @@
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12019826",
     "description": "Players is hosting Auditions Day 2 for our 2026 Musical,  Into the Woods . Please fill out the audition form prior to arrival."
+  },
+  {
+    "title": "Dracula Rehearsal",
+    "date": "2026-02-24T22:45:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 417 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12094467",
+    "description": "Closed rehearsal for  Dracula ."
+  },
+  {
+    "title": "Dominoes Con Domino",
+    "date": "2026-02-24T23:30:00+00:00",
+    "organization": "Dominican Student Organization",
+    "location": "Student Center 251 - Dining Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12094475",
+    "description": "A domino tournament to celebrate the upcoming Independence Day for the Dominican Republic. There will be eliminations for losing, as well as singles and doubles tournaments with prizes for winners of the tournaments.\u00a0Open to all MSU and Bloomfield Students!"
   },
   {
     "title": "Black Film & Discussion Night",
@@ -4558,6 +4646,14 @@
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/12092916",
     "description": "This is your chance to create your own signature scent. From warm and deep to fresh and light, you\u2019ll choose from a selection of oils and blend a perfume that\u2019s completely yours. Mix and match different oils to create a scent that suits your style, whether you prefer something warm, fresh, or deep. Everything will be provided, and you\u2019ll leave with your own personalized oil perfume to keep."
+  },
+  {
+    "title": "The DJ Academy: Music Matters 101 ",
+    "date": "2026-02-25T19:30:00+00:00",
+    "organization": "Campus Activities at Bloomfield",
+    "location": "Talbott Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12095717",
+    "description": "DJing is one of the original elements of Hip Hop and is often considered the first. Hip Hop began in the Bronx during the 1970s at community block parties, where DJs used turntables to bring people together through music. Early pioneers like DJ Kool Herc introduced breakbeats by looping the most rhythmic parts of records, creating the foundation for breaking and shaping how dancers and MCs interacted with the music. \n As Hip Hop evolved, DJing became the musical backbone of the culture. DJs provide the beats for MCing, set the tempo for dancers, and control the energy of Hip Hop spaces by reading the crowd and responding in real time. Through techniques like scratching, cutting, and beat juggling, DJs helped define Hip Hop\u2019s sound while preserving its history and passing down cultural knowledge. \n This class introduces the basics of DJing and how music shapes the dance experience. DJ Bascis will explain core concepts such as  tempo, rhythm, and song structure , helping students understand how music guides movement and energy on the dance floor. \n Participants will learn how DJs choose music, create smooth transitions, and adjust the vibe based on the room.\u00a0 \n Through simple examples and live demonstrations, students will build confidence in listening to music with intention. This can bewhether they are dancing, freestyling, or interested in DJing themselves. \n This class is designed for  beginners and college students , with no prior DJ or music experience required."
   },
   {
     "title": "Hazing Prevention Workshop",
@@ -4648,12 +4744,28 @@
     "description": "Test your knowledge and learn something new at our Afro-Latine Political History Bingo Night! This event highlights Afro-Latinx activists and political history in New Jersey through an engaging, community-centered game night."
   },
   {
+    "title": "Open Night Bible Studies",
+    "date": "2026-02-26T00:00:00+00:00",
+    "organization": "The Good Samaritan Club",
+    "location": "Student Center 251 - Dining Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12094499",
+    "description": "Join us to learn about God and the Bible!"
+  },
+  {
     "title": "Opening Night: Yankees VS Giants Watch Party",
     "date": "2026-02-26T00:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Center 11C2A - Lobby Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11965135",
     "description": "Kick off the season with us as we watch the Yankees take on the Giants on Opening Night! Enjoy the game on the big screen with fellow fans, grab some food, and soak in the excitement from first pitch to last out. Come for the matchup\u2014stay for the atmosphere! \n \u00a0 \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Wednesday, March 25 \n 7pm-9pm, must be checked in by 8:30pm to participate \n Student Recreation Center Lounge"
+  },
+  {
+    "title": "Choir Practice",
+    "date": "2026-02-26T01:15:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "Student Center Underground - The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12094584",
+    "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
   },
   {
     "title": "One Acts Tech Rehearsal ",
@@ -4670,6 +4782,14 @@
     "location": "Student Center Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/11961841",
     "description": "Join the Office of Residence Life for a Y2K party on February 25, 2025 at 8PM in the student center ballrooms! Music, games, giveaways, and food will be the vibe. All are welcome!"
+  },
+  {
+    "title": "Dracula Rehearsal",
+    "date": "2026-02-26T01:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12094588",
+    "description": "Closed rehearsal for  Dracula ."
   },
   {
     "title": "Evaluating Sources",
@@ -5024,6 +5144,14 @@
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Monday: 1-2PM & 5-6PM \n Student Recreation Center - Pool"
   },
   {
+    "title": "A Cross-Generational Conversation with Alumni Artists",
+    "date": "2026-03-02T23:00:00+00:00",
+    "organization": "Montclair State University Galleries",
+    "location": "George Segal Gallery, 4th Floor of the Red Hawk Deck",
+    "link": "https://montclair.campuslabs.com/engage/event/12095893",
+    "description": "Admission is free, open to the public.\u00a0 Learn more about this exhibition \n \u00a0 \n This multi-generational panel celebrates the distinguished women alumni of Montclair. Featuring exhibiting artists Nancy Bergman Pantirer \u201980, Tiffany Perez \u201909, and Maria Valdivia \u201924 in conversation about their careers and creative practices, moderated by curator Sally Morgan Lehman. \n \u00a0 \n Carpe Diem: Select Alumni in the Visual Arts \u00a0is a group exhibition presented by the Office for Development and Alumni Engagement and hosted by the University Galleries.\u00a0 Carpe Diem\u00a0 brings together twelve accomplished alumni working in a range of media. \n \u00a0 \n Curated by Sally Morgan Lehman, who has taught in the Department of Art and Design at Montclair and is owner and director of Morgan Lehman Gallery in New York City,\u00a0 Carpe Diem \u00a0highlights the breadth of artistic practices fostered at Montclair and the lasting impact of its visual arts alumni. \n \u00a0 \n Featured artists include Fl\u00e1via Berindoague \u201913, Bisa Butler \u201905, Jonathan Calm \u201997, Kyle Coniglio \u201910, Alyssa Fanning \u201912, Allen Ginsberg (1943), M\u00e1rta Kucsora (2005\u201306), Michael Manning \u201911, Nancy Bergman Pantirer \u201980, Tiffany Perez \u201909, William Pope.L \u201978, and Maria Valdivia \u201924."
+  },
+  {
     "title": "MILF Round 4 Workshop, Auditions, and Callbacks",
     "date": "2026-03-02T23:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -5278,6 +5406,14 @@
     "location": "Student Recreation Center - Pool",
     "link": "https://montclair.campuslabs.com/engage/event/11930979",
     "description": "Take your swimming even further! Do you have a specific skill you really want to work on but never had the chance to, or that you have been meaning to learn? Each clinic will have its own topic to work on and really be able to go in-depth on. Skills include treading, flip turns, sprints, starts, and more. \n \u00a0 \n Clinic Focus Dates \n \n 2/4 - Breaststroke \n 3/4 - Treading and Turns (flip turns and open turns) \n 4/1 - Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with valid Montclair State ID \n \n When and Where? \n \n Student Recreation Center - Pool"
+  },
+  {
+    "title": "The DJ Academy: Music Matters 101 ",
+    "date": "2026-03-04T19:30:00+00:00",
+    "organization": "Campus Activities at Bloomfield",
+    "location": "Talbott Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12095718",
+    "description": "DJing is one of the original elements of Hip Hop and is often considered the first. Hip Hop began in the Bronx during the 1970s at community block parties, where DJs used turntables to bring people together through music. Early pioneers like DJ Kool Herc introduced breakbeats by looping the most rhythmic parts of records, creating the foundation for breaking and shaping how dancers and MCs interacted with the music. \n As Hip Hop evolved, DJing became the musical backbone of the culture. DJs provide the beats for MCing, set the tempo for dancers, and control the energy of Hip Hop spaces by reading the crowd and responding in real time. Through techniques like scratching, cutting, and beat juggling, DJs helped define Hip Hop\u2019s sound while preserving its history and passing down cultural knowledge. \n This class introduces the basics of DJing and how music shapes the dance experience. DJ Bascis will explain core concepts such as  tempo, rhythm, and song structure , helping students understand how music guides movement and energy on the dance floor. \n Participants will learn how DJs choose music, create smooth transitions, and adjust the vibe based on the room.\u00a0 \n Through simple examples and live demonstrations, students will build confidence in listening to music with intention. This can bewhether they are dancing, freestyling, or interested in DJing themselves. \n This class is designed for  beginners and college students , with no prior DJ or music experience required."
   },
   {
     "title": "Hazing Prevention Workshop",
@@ -5688,14 +5824,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
   },
   {
-    "title": "Women\u2019s Herstory Trivia ",
-    "date": "2026-03-11T22:00:00+00:00",
-    "organization": "Bloomfield Beta Kappa Sigma Sorority, Black and Latina Sorority Inc.",
-    "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
-    "link": "https://montclair.campuslabs.com/engage/event/12092806",
-    "description": "For women\u2019s history month Play Kahoot to go over trivia about important women"
-  },
-  {
     "title": "Group X - Cycling",
     "date": "2026-03-12T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -6048,6 +6176,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
   },
   {
+    "title": "The DJ Academy: Music Matters 101 ",
+    "date": "2026-03-18T18:30:00+00:00",
+    "organization": "Campus Activities at Bloomfield",
+    "location": "Talbott Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12095719",
+    "description": "DJing is one of the original elements of Hip Hop and is often considered the first. Hip Hop began in the Bronx during the 1970s at community block parties, where DJs used turntables to bring people together through music. Early pioneers like DJ Kool Herc introduced breakbeats by looping the most rhythmic parts of records, creating the foundation for breaking and shaping how dancers and MCs interacted with the music. \n As Hip Hop evolved, DJing became the musical backbone of the culture. DJs provide the beats for MCing, set the tempo for dancers, and control the energy of Hip Hop spaces by reading the crowd and responding in real time. Through techniques like scratching, cutting, and beat juggling, DJs helped define Hip Hop\u2019s sound while preserving its history and passing down cultural knowledge. \n This class introduces the basics of DJing and how music shapes the dance experience. DJ Bascis will explain core concepts such as  tempo, rhythm, and song structure , helping students understand how music guides movement and energy on the dance floor. \n Participants will learn how DJs choose music, create smooth transitions, and adjust the vibe based on the room.\u00a0 \n Through simple examples and live demonstrations, students will build confidence in listening to music with intention. This can bewhether they are dancing, freestyling, or interested in DJing themselves. \n This class is designed for  beginners and college students , with no prior DJ or music experience required."
+  },
+  {
     "title": "Spring 2026 Career And Internship Fair",
     "date": "2026-03-18T17:00:00+00:00",
     "organization": "The Office for Experiential Education and Career Connections",
@@ -6094,6 +6230,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12067330",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
+  },
+  {
+    "title": "Women\u2019s Herstory Trivia ",
+    "date": "2026-03-18T22:00:00+00:00",
+    "organization": "Bloomfield Beta Kappa Sigma Sorority, Black and Latina Sorority Inc.",
+    "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
+    "link": "https://montclair.campuslabs.com/engage/event/12092806",
+    "description": "For women\u2019s history month Play Kahoot to go over trivia about important women"
   },
   {
     "title": "Dance Show Tech Week",
@@ -6526,6 +6670,14 @@
     "location": "Student Center 2C04 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12056890",
     "description": "Some decisions don\u2019t need sleep. Come with an impulse and leave with art at our Flash Tat Fundraiser. Questioning whether or not you're ready for a real tat or not? Get the style without the commitment (or the throw down your parents will give you for coming home with fresh ink). Choose from over 100 designs of all sizes from full leg and arm tats to medium and smaller ones. Support CHCS and wear the memory long after the semester fades. No appointments. No backing out. Just ink and intent."
+  },
+  {
+    "title": "The DJ Academy: Music Matters 101 ",
+    "date": "2026-03-25T18:30:00+00:00",
+    "organization": "Campus Activities at Bloomfield",
+    "location": "Talbott Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12095720",
+    "description": "DJing is one of the original elements of Hip Hop and is often considered the first. Hip Hop began in the Bronx during the 1970s at community block parties, where DJs used turntables to bring people together through music. Early pioneers like DJ Kool Herc introduced breakbeats by looping the most rhythmic parts of records, creating the foundation for breaking and shaping how dancers and MCs interacted with the music. \n As Hip Hop evolved, DJing became the musical backbone of the culture. DJs provide the beats for MCing, set the tempo for dancers, and control the energy of Hip Hop spaces by reading the crowd and responding in real time. Through techniques like scratching, cutting, and beat juggling, DJs helped define Hip Hop\u2019s sound while preserving its history and passing down cultural knowledge. \n This class introduces the basics of DJing and how music shapes the dance experience. DJ Bascis will explain core concepts such as  tempo, rhythm, and song structure , helping students understand how music guides movement and energy on the dance floor. \n Participants will learn how DJs choose music, create smooth transitions, and adjust the vibe based on the room.\u00a0 \n Through simple examples and live demonstrations, students will build confidence in listening to music with intention. This can bewhether they are dancing, freestyling, or interested in DJing themselves. \n This class is designed for  beginners and college students , with no prior DJ or music experience required."
   },
   {
     "title": "MASA General Miembro Meeting",
@@ -6976,6 +7128,14 @@
     "description": "What you thought two was enough? Not a chance. Fuel your day with boba and purpose at our Powered By Pearls Boba Fundraiser! Power By Pearls serves up boba tea while helping to support CHCS initiatives. Sip, socialize and contribute to something bigger than your boba addiction. Every cup counts. Yes, even the extra pearls."
   },
   {
+    "title": "The DJ Academy: Music Matters 101 ",
+    "date": "2026-04-01T18:30:00+00:00",
+    "organization": "Campus Activities at Bloomfield",
+    "location": "Talbott Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12095721",
+    "description": "DJing is one of the original elements of Hip Hop and is often considered the first. Hip Hop began in the Bronx during the 1970s at community block parties, where DJs used turntables to bring people together through music. Early pioneers like DJ Kool Herc introduced breakbeats by looping the most rhythmic parts of records, creating the foundation for breaking and shaping how dancers and MCs interacted with the music. \n As Hip Hop evolved, DJing became the musical backbone of the culture. DJs provide the beats for MCing, set the tempo for dancers, and control the energy of Hip Hop spaces by reading the crowd and responding in real time. Through techniques like scratching, cutting, and beat juggling, DJs helped define Hip Hop\u2019s sound while preserving its history and passing down cultural knowledge. \n This class introduces the basics of DJing and how music shapes the dance experience. DJ Bascis will explain core concepts such as  tempo, rhythm, and song structure , helping students understand how music guides movement and energy on the dance floor. \n Participants will learn how DJs choose music, create smooth transitions, and adjust the vibe based on the room.\u00a0 \n Through simple examples and live demonstrations, students will build confidence in listening to music with intention. This can bewhether they are dancing, freestyling, or interested in DJing themselves. \n This class is designed for  beginners and college students , with no prior DJ or music experience required."
+  },
+  {
     "title": "MASA General Miembro Meeting",
     "date": "2026-04-01T19:30:00+00:00",
     "organization": "Mexican-American Student Association",
@@ -7358,6 +7518,14 @@
     "location": "Student Center Quad123 - All Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12051567",
     "description": "Join us this Wednesday for some outdoor fun! We will have volleyball, badminton, cricket, and more games.\u00a0 \n We will also be having a little egg hunt to celebrate Easter!"
+  },
+  {
+    "title": "The DJ Academy: Music Matters 101 ",
+    "date": "2026-04-08T18:30:00+00:00",
+    "organization": "Campus Activities at Bloomfield",
+    "location": "Talbott Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12095722",
+    "description": "DJing is one of the original elements of Hip Hop and is often considered the first. Hip Hop began in the Bronx during the 1970s at community block parties, where DJs used turntables to bring people together through music. Early pioneers like DJ Kool Herc introduced breakbeats by looping the most rhythmic parts of records, creating the foundation for breaking and shaping how dancers and MCs interacted with the music. \n As Hip Hop evolved, DJing became the musical backbone of the culture. DJs provide the beats for MCing, set the tempo for dancers, and control the energy of Hip Hop spaces by reading the crowd and responding in real time. Through techniques like scratching, cutting, and beat juggling, DJs helped define Hip Hop\u2019s sound while preserving its history and passing down cultural knowledge. \n This class introduces the basics of DJing and how music shapes the dance experience. DJ Bascis will explain core concepts such as  tempo, rhythm, and song structure , helping students understand how music guides movement and energy on the dance floor. \n Participants will learn how DJs choose music, create smooth transitions, and adjust the vibe based on the room.\u00a0 \n Through simple examples and live demonstrations, students will build confidence in listening to music with intention. This can bewhether they are dancing, freestyling, or interested in DJing themselves. \n This class is designed for  beginners and college students , with no prior DJ or music experience required."
   },
   {
     "title": "MASA Elections",
@@ -7776,6 +7944,14 @@
     "description": "Order of Omega Induction"
   },
   {
+    "title": "The DJ Academy: Music Matters 101 ",
+    "date": "2026-04-15T18:30:00+00:00",
+    "organization": "Campus Activities at Bloomfield",
+    "location": "Talbott Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12095723",
+    "description": "DJing is one of the original elements of Hip Hop and is often considered the first. Hip Hop began in the Bronx during the 1970s at community block parties, where DJs used turntables to bring people together through music. Early pioneers like DJ Kool Herc introduced breakbeats by looping the most rhythmic parts of records, creating the foundation for breaking and shaping how dancers and MCs interacted with the music. \n As Hip Hop evolved, DJing became the musical backbone of the culture. DJs provide the beats for MCing, set the tempo for dancers, and control the energy of Hip Hop spaces by reading the crowd and responding in real time. Through techniques like scratching, cutting, and beat juggling, DJs helped define Hip Hop\u2019s sound while preserving its history and passing down cultural knowledge. \n This class introduces the basics of DJing and how music shapes the dance experience. DJ Bascis will explain core concepts such as  tempo, rhythm, and song structure , helping students understand how music guides movement and energy on the dance floor. \n Participants will learn how DJs choose music, create smooth transitions, and adjust the vibe based on the room.\u00a0 \n Through simple examples and live demonstrations, students will build confidence in listening to music with intention. This can bewhether they are dancing, freestyling, or interested in DJing themselves. \n This class is designed for  beginners and college students , with no prior DJ or music experience required."
+  },
+  {
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-04-15T21:00:00+00:00",
     "organization": "Campus Recreation",
@@ -8120,6 +8296,14 @@
     "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
+    "title": "The DJ Academy: Music Matters 101 ",
+    "date": "2026-04-22T18:30:00+00:00",
+    "organization": "Campus Activities at Bloomfield",
+    "location": "Talbott Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12095724",
+    "description": "DJing is one of the original elements of Hip Hop and is often considered the first. Hip Hop began in the Bronx during the 1970s at community block parties, where DJs used turntables to bring people together through music. Early pioneers like DJ Kool Herc introduced breakbeats by looping the most rhythmic parts of records, creating the foundation for breaking and shaping how dancers and MCs interacted with the music. \n As Hip Hop evolved, DJing became the musical backbone of the culture. DJs provide the beats for MCing, set the tempo for dancers, and control the energy of Hip Hop spaces by reading the crowd and responding in real time. Through techniques like scratching, cutting, and beat juggling, DJs helped define Hip Hop\u2019s sound while preserving its history and passing down cultural knowledge. \n This class introduces the basics of DJing and how music shapes the dance experience. DJ Bascis will explain core concepts such as  tempo, rhythm, and song structure , helping students understand how music guides movement and energy on the dance floor. \n Participants will learn how DJs choose music, create smooth transitions, and adjust the vibe based on the room.\u00a0 \n Through simple examples and live demonstrations, students will build confidence in listening to music with intention. This can bewhether they are dancing, freestyling, or interested in DJing themselves. \n This class is designed for  beginners and college students , with no prior DJ or music experience required."
+  },
+  {
     "title": "AI Literacy for Educators",
     "date": "2026-04-22T19:00:00+00:00",
     "organization": "The ADP Center",
@@ -8302,6 +8486,14 @@
     "location": "Student Recreation Center 11C2A - Lobby Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11965146",
     "description": "Fuel up before finals with a tasty boost! Stop by to grab a walking taco\u2014easy to carry, fun to customize, and perfect for powering you through studying. Swing in, snack up, and step into finals week feeling ready to go! \n \u00a0 \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Thursday, April 30 \n 5pm-7pm, must be checked in by 8:30pm to participate \n Student Recreation Center Lounge"
+  },
+  {
+    "title": "Visit the University Galleries' Spring 2026 Exhibition! Carpe Diem: Select Alumni in the Visual Arts",
+    "date": "2026-02-03T17:00:00+00:00",
+    "organization": "Montclair State University Galleries",
+    "location": "George Segal Gallery, 4th Floor of the Red Hawk Deck",
+    "link": "https://montclair.campuslabs.com/engage/event/12093971",
+    "description": "On view from February 3 \u2013 May 3, 2026 in the George Segal Gallery. Public hours are Tuesday \u2013 Friday, 12 to 4 pm. \n \u00a0 \n Admission is free, open to the public.  Learn more about this exhibition \n \u00a0 \n Carpe Diem: Select Alumni in the Visual Arts \u00a0is a group exhibition presented by the Office for Development and Alumni Engagement and hosted by the University Galleries.\u00a0 Carpe Diem\u00a0 brings together twelve accomplished alumni working in a range of media. \n \u00a0 \n Curated by Sally Morgan Lehman, who has taught in the Department of Art and Design at Montclair and is owner and director of Morgan Lehman Gallery in New York City,\u00a0 Carpe Diem \u00a0highlights the breadth of artistic practices fostered at Montclair and the lasting impact of its visual arts alumni. \n \u00a0 \n Featured artists include Fl\u00e1via Berindoague \u201913, Bisa Butler \u201905, Jonathan Calm \u201997, Kyle Coniglio \u201910, Alyssa Fanning \u201912, Allen Ginsberg (1943), M\u00e1rta Kucsora (2005\u201306), Michael Manning \u201911, Nancy Bergman Pantirer \u201980, Tiffany Perez \u201909, William Pope.L \u201978, and Maria Valdivia \u201924."
   },
   {
     "title": "Mindfulness Meditation ",
