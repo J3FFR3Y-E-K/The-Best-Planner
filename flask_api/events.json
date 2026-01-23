@@ -24,20 +24,20 @@
     "description": "TGIFF!"
   },
   {
-    "title": "Art & Design Juried Exhibition",
-    "date": "2026-01-23T16:00:00+00:00",
-    "organization": "Art and Design",
-    "location": "Finley Gallery, Finley Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12048485",
-    "description": "Montclair State University\u2019s Department of Art and Design is excited to kick off the Spring 2026 semester with the  Art & Design  Juried Exhibition  at Finley Gallery . The exhibition runs from January 21 through January 30, 2026, with an opening reception on Wednesday, January 21 from 2-4pm.\u00a0 \n \u00a0 \n This showcase features work from students in Visual Arts, Fashion Design and Merchandising, Illustration, Product Design, and Visual Communication Design, and Art Education programs. Eighty-four professors across five disciplines selected one student from each of their course sections, highlighting exceptional projects that demonstrate the creativity and potential cultivated in our studios.\u00a0 \n \u00a0 \n The exhibition demonstrates the breadth and scope of our programs, and gives our community a wonderful opportunity to see what is being made and discovered in our studios here at Montclair State University.\u00a0 \n \u00a0 \n Don\u2019t miss this opportunity to experience the incredible talent and innovation of Montclair State University\u2019s Art and Design students. \n \u00a0 \n Art & Design  Juried Exhibition \n Finley Gallery, Finley Hall \n Exhibition dates: 1/21 - 1/30 \n Opening Reception: Wed. 1/21 2-4pm"
-  },
-  {
     "title": "Stranger Things Trivia ",
     "date": "2026-01-23T23:00:00+00:00",
     "organization": "Campus Activities",
     "location": "1908 Pub, Student Center",
     "link": "https://montclair.campuslabs.com/engage/event/11967633",
     "description": "From Hawkins to the Upside Down, test your Stranger Things knowledge and see who\u2019s the ultimate fan. Bring your friends and compete for bragging rights."
+  },
+  {
+    "title": "Art & Design Juried Exhibition",
+    "date": "2026-01-23T16:00:00+00:00",
+    "organization": "Art and Design",
+    "location": "Finley Gallery, Finley Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12048485",
+    "description": "Montclair State University\u2019s Department of Art and Design is excited to kick off the Spring 2026 semester with the  Art & Design  Juried Exhibition  at Finley Gallery . The exhibition runs from January 21 through January 30, 2026, with an opening reception on Wednesday, January 21 from 2-4pm.\u00a0 \n \u00a0 \n This showcase features work from students in Visual Arts, Fashion Design and Merchandising, Illustration, Product Design, and Visual Communication Design, and Art Education programs. Eighty-four professors across five disciplines selected one student from each of their course sections, highlighting exceptional projects that demonstrate the creativity and potential cultivated in our studios.\u00a0 \n \u00a0 \n The exhibition demonstrates the breadth and scope of our programs, and gives our community a wonderful opportunity to see what is being made and discovered in our studios here at Montclair State University.\u00a0 \n \u00a0 \n Don\u2019t miss this opportunity to experience the incredible talent and innovation of Montclair State University\u2019s Art and Design students. \n \u00a0 \n Art & Design  Juried Exhibition \n Finley Gallery, Finley Hall \n Exhibition dates: 1/21 - 1/30 \n Opening Reception: Wed. 1/21 2-4pm"
   },
   {
     "title": "Brownies and Milk",
@@ -182,14 +182,6 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12050159",
     "description": "On Academic Notice? Join our Zoom Academic Workshop on Monday, January 26 at 2:15 PM! Learn what your GPA requirements mean, key academic deadlines, and the steps you need to take to return to good academic standing. Plus, get support on the  last day to add/drop courses for Spring 2026 . Don\u2019t miss this chance to get back on track. \n \u00a0 RSVP through Engage  to receive the Zoom link. We hope to see you there!"
-  },
-  {
-    "title": "Red Hawk Pantry",
-    "date": "2026-01-26T18:30:00+00:00",
-    "organization": "Red Hawk Pantry",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12071387",
-    "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Wednesdays: 5-7pm \n Saturdays: 11-1pm"
   },
   {
     "title": "Campus Support Spotlight",
@@ -1432,6 +1424,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 7pm - 8:30pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
   },
   {
+    "title": "Newman Night",
+    "date": "2026-02-04T00:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12104536",
+    "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
+  },
+  {
     "title": "Make A Snowman, Decorate A Snowman",
     "date": "2026-02-04T00:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1446,14 +1446,6 @@
     "location": "Bohn Hall Main Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11989990",
     "description": "Join us for the Bohn Hall Community Meeting! This is your opportunity to connect with your Professional Staff, student staff, and fellow residents as we kick off the semester together. At this meeting, we\u2019ll cover important information about living in Bohn Hall, including community expectations, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n Resources and support available to you \n Opportunities to connect with staff and peers \n A chance to ask questions and share your voice \n \n We look forward to seeing you there! \n This event is for Bohn Hall Residents"
-  },
-  {
-    "title": "Freeman and Russ February Floor Meeting",
-    "date": "2026-02-04T01:00:00+00:00",
-    "organization": "Freeman Hall & Russ Hall",
-    "location": "Russ Hall KOPS Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12032595",
-    "description": "Join us for our February floor meeting! We\u2019ll go over important community reminders, quiet hours, guest policies, and any building updates. This is a chance to ask questions and connect with your CA and neighbors.  Attendance is expected. \n Commuters may attend but must be signed in by a resident following Residence Life guest procedures."
   },
   {
     "title": "Freeman and Russ February Floor Meeting",
@@ -1995,9 +1987,9 @@
     "title": "CALI SCHOOL OF MUSIC: Nikki Abissi Brass Masterclass",
     "date": "2026-02-06T19:00:00+00:00",
     "organization": "The College of the Arts",
-    "location": "Leshowitz Recital Hall",
+    "location": "Room 201",
     "link": "https://montclair.campuslabs.com/engage/event/12071259",
-    "description": "Nikki Abissi Brass Masterclass \n Friday, February 6, 2026 | 2:00 PM Leshowitz Recital Hall, Chapin Hall Montclair State University \n Join acclaimed trombonist  Nikki Abissi  for an inspiring brass masterclass focused on building a sustainable, fulfilling career in music. Drawing on her wide-ranging experience as an orchestral musician and performer, Abissi will explore the many professional paths available to today\u2019s musicians and offer practical insight on preparing to thrive beyond school. \n Abissi is Second Trombonist of the American Symphony Orchestra and has performed with many of the country\u2019s leading ensembles, including the New York Philharmonic, on Broadway, and with the Radio City Orchestra. She previously held positions with the Alabama Symphony, Colorado Symphony, and Macon Symphony, and was a fellow with the New World Symphony. She earned her Bachelor of Music from The Juilliard School and her Master of Music from Stony Brook University. \n Free and open to the public. Presented by the  John J. Cali School of Music , Montclair State University."
+    "description": "Nikki Abissi Brass Masterclass \n Friday, February 6, 2026 | 2:00 PM Room 201, Chapin Hall Montclair State University \n Join acclaimed trombonist  Nikki Abissi  for an inspiring brass masterclass focused on building a sustainable, fulfilling career in music. Drawing on her wide-ranging experience as an orchestral musician and performer, Abissi will explore the many professional paths available to today\u2019s musicians and offer practical insight on preparing to thrive beyond school. \n Abissi is Second Trombonist of the American Symphony Orchestra and has performed with many of the country\u2019s leading ensembles, including the New York Philharmonic, on Broadway, and with the Radio City Orchestra. She previously held positions with the Alabama Symphony, Colorado Symphony, and Macon Symphony, and was a fellow with the New World Symphony. She earned her Bachelor of Music from The Juilliard School and her Master of Music from Stony Brook University. \n Free and open to the public. Presented by the  John J. Cali School of Music , Montclair State University."
   },
   {
     "title": "Marvel Trivia ",
@@ -2494,6 +2486,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12065824",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
+  },
+  {
+    "title": "Newman Night",
+    "date": "2026-02-11T00:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12104537",
+    "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
   },
   {
     "title": "Group X - BJJ",
@@ -3240,6 +3240,14 @@
     "description": "Do you want to learn a new knitting or crochet pattern? Do you want to make a cool craft but can't pick one or figure out where to start? Then come to Montclair Unraveled!\u00a0 \n Join us and learn how to make something new like accessories, decor, or plushies! Already have something you're working on? Feel free to make some progress here! All are welcome, whether you have the most craft experience possible or none at all. Come by and enjoy the company of others who share your passions for the fiber arts!"
   },
   {
+    "title": "Research Time Management",
+    "date": "2026-02-16T21:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12091325",
+    "description": "Research time management is an essential skill for academic success. In this workshop, participants will: \n \n Learn the steps of the research process \n Create a research timeline \n Set SMART goals \n Learn strategies to avoid procrastination \n Learn about library \"shortcuts\" \n \n Register Here:\u00a0 https://montclair.libcal.com/event/16259843"
+  },
+  {
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-02-16T22:00:00+00:00",
     "organization": "Campus Recreation",
@@ -3454,6 +3462,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12065825",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
+  },
+  {
+    "title": "Newman Night",
+    "date": "2026-02-18T00:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12104538",
+    "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
   },
   {
     "title": "Group X - BJJ",
@@ -4376,6 +4392,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
   },
   {
+    "title": "Newman Night",
+    "date": "2026-02-25T00:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12104539",
+    "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
+  },
+  {
     "title": "Group X - BJJ",
     "date": "2026-02-25T00:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4920,6 +4944,14 @@
     "description": "Residents will use magazines, printed images, stickers, and motivational prompts to create their own personalized vision boards based on their goals for 2026 \u2014 whether academic, personal, financial, wellness, or relationships. This is a calm, cozy, creative event designed to help residents reflect on what they want to manifest and visualize in the semester ahead.\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "Bollywood Night with SASA!",
+    "date": "2026-02-28T23:30:00+00:00",
+    "organization": "South Asian Student Association",
+    "location": "Student Center 250ABC - Ballrooms A, B, and C",
+    "link": "https://montclair.campuslabs.com/engage/event/12103568",
+    "description": "Join us for one of our biggest events of the Spring!\u00a0 \n \u00a0 \n We invite you to enjoy some great food, music, performances, and more! \n \u00a0 \n All Montclair State and Bloomfield College students are welcome."
+  },
+  {
     "title": "One Acts Festival ",
     "date": "2026-02-28T16:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -5064,6 +5096,14 @@
     "description": "Admission is free, open to the public.\u00a0 Learn more about this exhibition \n \u00a0 \n This multi-generational panel celebrates the distinguished women alumni of Montclair. Featuring exhibiting artists Nancy Bergman Pantirer \u201980, Tiffany Perez \u201909, and Maria Valdivia \u201924 in conversation about their careers and creative practices, moderated by curator Sally Morgan Lehman. \n \u00a0 \n Carpe Diem: Select Alumni in the Visual Arts \u00a0is a group exhibition presented by the Office for Development and Alumni Engagement and hosted by the University Galleries.\u00a0 Carpe Diem\u00a0 brings together twelve accomplished alumni working in a range of media. \n \u00a0 \n Curated by Sally Morgan Lehman, who has taught in the Department of Art and Design at Montclair and is owner and director of Morgan Lehman Gallery in New York City,\u00a0 Carpe Diem \u00a0highlights the breadth of artistic practices fostered at Montclair and the lasting impact of its visual arts alumni. \n \u00a0 \n Featured artists include Fl\u00e1via Berindoague \u201913, Bisa Butler \u201905, Jonathan Calm \u201997, Kyle Coniglio \u201910, Alyssa Fanning \u201912, Allen Ginsberg (1943), M\u00e1rta Kucsora (2005\u201306), Michael Manning \u201911, Nancy Bergman Pantirer \u201980, Tiffany Perez \u201909, William Pope.L \u201978, and Maria Valdivia \u201924."
   },
   {
+    "title": "Praise Dance Practice",
+    "date": "2026-03-02T23:00:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12106448",
+    "description": "Join the Worship Warriors in fellowship as we honor the Lord through dance!"
+  },
+  {
     "title": "MILF Round 4 Workshop, Auditions, and Callbacks",
     "date": "2026-03-02T23:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -5086,6 +5126,30 @@
     "location": "Bohn Hall Main Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11989994",
     "description": "Join us for the Bohn Hall Community Meeting! This is your opportunity to connect with your Professional Staff, student staff, and fellow residents as we kick off the semester together. At this meeting, we\u2019ll cover important information about living in Bohn Hall, including community expectations, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n Resources and support available to you \n Opportunities to connect with staff and peers \n A chance to ask questions and share your voice \n \n We look forward to seeing you there! \n This event is for Bohn Hall Residents"
+  },
+  {
+    "title": "Choir Practice ",
+    "date": "2026-03-03T01:00:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12106463",
+    "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
+  },
+  {
+    "title": "Dracula Rehearsal",
+    "date": "2026-03-02T22:45:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 417 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12104124",
+    "description": "Closed rehearsal for  Dracula ."
+  },
+  {
+    "title": "Dance Show Rehearsals",
+    "date": "2026-03-02T23:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12106455",
+    "description": "Players: A Programming Board of the SGA is holding rehearsals for their dance show."
   },
   {
     "title": "Into the Woods Rehearsal",
@@ -5128,12 +5192,28 @@
     "description": "A mind-body conditioning technique that focuses on trunk stability and coordinated breathing through a series of exercises.\u00a0 Pilates develops a longer, leaner, stronger, and more graceful body by improving muscular symmetry, alignment, posture, core strength, and flexibility. All levels are welcome. \n \n \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Tuesday, Jan 20 - April 24 \n 2 pm - 2:45 p.m. \n Student Recreation Center - Multipurpose Room 1 \n \n \n \n \n \n Instructor - Ashley"
   },
   {
+    "title": "Carribean Student Organization Plates Fundraiser",
+    "date": "2026-03-03T19:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "Student Center Quad Information Table 1 - Information Table 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12106522",
+    "description": "Support our organization at our Carribbean Plate Sale Fundraiser Enjoy a variety of Caribbean inspired dishes while helping us raise funds for future programs and events!"
+  },
+  {
     "title": "Canva Masterclass: Advanced Pro Tools & Design Hacks",
     "date": "2026-03-03T19:00:00+00:00",
     "organization": "The ADP Center",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11985028",
     "description": "Ready to level up your Canva skills? This advanced workshop dives into powerful features like animations, brand kits, collaboration tools, and interactive content creation. Go beyond the basics and learn how to streamline your design process with features like Canva\u2019s Whiteboard for brainstorming, Website Builder for creating interactive web pages, and Presentation Mode with embedded video and transitions. Whether you're building classroom resources, school branding materials, or engaging digital content. Participants will also explore team templates, content scheduling, and how to manage brand consistency across multiple projects. RSVP:\u00a0https://www.tickettailor.com/events/adpcenterforlearningtechnologies"
+  },
+  {
+    "title": "Build-a-Monster",
+    "date": "2026-03-03T19:00:00+00:00",
+    "organization": "MSU Horror Club",
+    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12106500",
+    "description": "Exactly, it sounds like, build your own monster and put it up against other participants."
   },
   {
     "title": "Group X - Pilates",
@@ -5166,6 +5246,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12065827",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
+  },
+  {
+    "title": "Newman Night",
+    "date": "2026-03-04T00:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12104540",
+    "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
   },
   {
     "title": "Finish the Lyrics",
@@ -5518,6 +5606,14 @@
     "location": "Bohn Hall Main Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11989997",
     "description": "Join us for the Bohn Hall Community Meeting! This is your opportunity to connect with your Professional Staff, student staff, and fellow residents as we kick off the semester together. At this meeting, we\u2019ll cover important information about living in Bohn Hall, including community expectations, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n Resources and support available to you \n Opportunities to connect with staff and peers \n A chance to ask questions and share your voice \n \n We look forward to seeing you there! \n This event is for Bohn Hall Residents"
+  },
+  {
+    "title": "Dance Show Rehearsals",
+    "date": "2026-03-05T23:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12106456",
+    "description": "Players: A Programming Board of the SGA is holding rehearsals for their dance show."
   },
   {
     "title": "Softball, Indoor Soccer",
@@ -6000,6 +6096,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
   },
   {
+    "title": "Newman Night",
+    "date": "2026-03-17T23:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12104541",
+    "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
+  },
+  {
     "title": "Group X - BJJ",
     "date": "2026-03-10T23:00:00+00:00",
     "organization": "Campus Recreation",
@@ -6085,7 +6189,7 @@
     "organization": "South Asian Student Association",
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12056929",
-    "description": "Join us a casual Asian cusine potluck!\u00a0Take the opportunity to socialize and introduce yourself to new people and cultures through diverse cusines!"
+    "description": ""
   },
   {
     "title": "Group X - Kickboxing",
@@ -6432,6 +6536,14 @@
     "description": "The emergence of a highly competent bureaucracy is typically under appreciated, if not ignored, as an ingredient in the emergence of the American experiment. While government administrators are often derided as inefficient or even obstructionist, technocrats are responsible for making government work and offer policy continuity and expertise across administrations. Still, the growth of a large permanent bureaucracy challenges the notion of accountability grounded in democratic elections. By tracing historical developments and contemporary debates, this lecture focuses on the centrality of government administrative capacity in the American experiment, focusing on the tensions and collaboration between elected officials and professional bureaucrats. We will consider the role of independent government agencies that were established with the idea of partitioning regulatory functions from partisan pressure."
   },
   {
+    "title": "Choir Practice ",
+    "date": "2026-03-24T00:00:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12106464",
+    "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
+  },
+  {
     "title": "Dracula Tech Rehearsal",
     "date": "2026-03-23T22:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -6518,6 +6630,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12065830",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
+  },
+  {
+    "title": "Newman Night",
+    "date": "2026-03-24T23:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12104542",
+    "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
   },
   {
     "title": "Group X - BJJ",
@@ -6896,6 +7016,14 @@
     "description": "Join us for the Bohn Hall Community Meeting! This is your opportunity to connect with your Professional Staff, student staff, and fellow residents as we kick off the semester together. At this meeting, we\u2019ll cover important information about living in Bohn Hall, including community expectations, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n Resources and support available to you \n Opportunities to connect with staff and peers \n A chance to ask questions and share your voice \n \n We look forward to seeing you there! \n This event is for Bohn Hall Residents"
   },
   {
+    "title": "Choir Practice ",
+    "date": "2026-03-31T00:00:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12106465",
+    "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2026-03-31T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -6966,6 +7094,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12065831",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
+  },
+  {
+    "title": "Newman Night",
+    "date": "2026-03-31T23:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12104544",
+    "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
   },
   {
     "title": "Group X - BJJ",
@@ -7374,6 +7510,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12065832",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
+  },
+  {
+    "title": "Newman Night",
+    "date": "2026-04-07T23:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12104545",
+    "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
   },
   {
     "title": "Group X - BJJ",
@@ -7808,6 +7952,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
   },
   {
+    "title": "Newman Night",
+    "date": "2026-04-14T23:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12104546",
+    "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
+  },
+  {
     "title": "Group X - BJJ",
     "date": "2026-04-14T23:00:00+00:00",
     "organization": "Campus Recreation",
@@ -8176,6 +8328,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
   },
   {
+    "title": "Newman Night",
+    "date": "2026-04-21T23:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12104547",
+    "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
+  },
+  {
     "title": "Group X - BJJ",
     "date": "2026-04-21T23:00:00+00:00",
     "organization": "Campus Recreation",
@@ -8296,6 +8456,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 1pm - 1:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Angel"
   },
   {
+    "title": "World's Fair Day 2026",
+    "date": "2026-04-23T16:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Amphitheater & Alumni Green",
+    "link": "https://montclair.campuslabs.com/engage/event/12103723",
+    "description": "World\u2019s Fair Day is an annual campus-wide event that celebrates the richness of Montclair State University. Organizations, Offices and Departments take part in the event by tabling, sharing information, delicious foods, and through performances. This day will be filled with food tastings, performances, giveaways and so much more! Come check out different clubs and organizations and see what fun they bring to the table to teach you about different cultures! Mark your calendars, you won't want to miss this! \n \u00a0 \n All are invited!"
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2026-04-23T18:45:00+00:00",
     "organization": "Campus Recreation",
@@ -8390,6 +8558,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11986223",
     "description": "Discover the power of visual storytelling in this hands-on workshop! Learn how to create eye-catching presentations, social media graphics, and posters using Canva\u2019s intuitive tools and templates. Perfect for students and educators looking to bring creativity and professionalism to their digital projects. RSVP:\u00a0https://www.tickettailor.com/events/adpcenterforlearningtechnologies"
+  },
+  {
+    "title": "Newman Night",
+    "date": "2026-04-28T23:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12104548",
+    "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
   },
   {
     "title": "Denim Day Decorating",
