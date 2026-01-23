@@ -560,20 +560,20 @@
     "description": "Join our weekly Food Recovery events, where dedicated volunteers and members gather to make a difference in our community. Each week, participants help collect perfectly good leftover food from Gourmet Dining and transport it to Blanton. There, the food is repackaged into individual microwavable containers and stocked in the food pantry, providing meals for those in need throughout the week.\u00a0 \n To Participate :\u00a0RSVP to attend the event each week. Meet in Blanton Hall Residence Hall Kitchenette in the Communal Area (Tell them you are working with Food Recovery), Sign in via Event Pass and your set! \n Requirements: \n \n Volunteers must be Food Safe Certified to participate. \n Complete the certification by following the step-by-step instructions provided in this  link . \n Once certified, email your certification to  foodrecoverynetwork@sgamsu.org  to confirm your eligibility to participate. \n \n Your involvement helps reduce food waste and insecurity while supporting individuals in our community who are in need. We look forward to your participation! *Please Note: This event end time is dependent on the amount of food given. You can estimate for max of hour and a half for recoveries."
   },
   {
+    "title": "Residence Life and Letters",
+    "date": "2026-01-28T21:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/11961996",
+    "description": "Ever wonder what Residence Life staff are involved in outside the halls? Come to Bohn Hall on January 28th at 4 PM and meet student leaders who are also part of Greek Life. All students are welcome!"
+  },
+  {
     "title": "Intramural Volleyball (2 Leagues - Daytime and Nighttime)",
     "date": "2026-01-28T11:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Center",
     "link": "https://montclair.campuslabs.com/engage/event/11899733",
     "description": "Teams can add players to their roster up until the last game of the regular season. Payment can be made via QR code or at the main office of the Student Recreation Center to secure your spot in the league!\u00a0 \n How do I sign-up? \n \n Fee : $10/player or $60/organization (team fee for student organizations only) \n Registration : Payment can be made via QR code or at the main office of the Student Center to secure your spot in the league!\u00a0 Teams can add players to their roster throughout the season, up until the last game of the regular season. \n \n Where and when? \n \n Wednesday, January 28 2026 \n Student Recreation Center"
-  },
-  {
-    "title": "Spring Greek Org Fair",
-    "date": "2026-01-28T21:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Bohn Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11961996",
-    "description": "Want to join Greek life at Monclair? Come to Bohn hall January 28 th \u00a0at 4PM and meet some Greeks! All students are welcome"
   },
   {
     "title": "Free Swim Lessons *Beginner*",
@@ -2107,9 +2107,9 @@
     "title": "Soup-er Bowl Saturday",
     "date": "2026-02-07T22:00:00+00:00",
     "organization": "Campus Activities",
-    "location": "Student Center Room 160, The Underground",
+    "location": "Sam's Place",
     "link": "https://montclair.campuslabs.com/engage/event/11969751",
-    "description": "Decorate your own bowl and warm up with a variety of soups and cozy vibes before watching the big game. Come hungry and bring your friends for a laid-back Saturday night."
+    "description": "Decorate your own bowl and warm up with a variety of soups and cozy vibes before watching the big game. Come hungry and bring your friends for a laid-back Saturday night. All attendees will have to swipe into Sam's Place to participate."
   },
   {
     "title": "Magnificent Bird / Book of Travelers | Two Song Cycles written and performed by Gabriel Kahane",
@@ -2518,6 +2518,14 @@
     "location": "Student Recreation Center 11C2A - Lobby Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11963134",
     "description": "Join us for Bracelets & Blockbusters, where you can design your own custom bracelets while enjoying a fan-favorite movie. All supplies are provided \u2014 just bring your creativity and settle in for a fun, relaxing night with friends! \n \u00a0 \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesday, February 10 \n 7pm-9pm, must be checked in by 8:30pm to participate \n Student Recreation Center Lounge"
+  },
+  {
+    "title": "MTSO Open Mic Night",
+    "date": "2026-02-11T00:00:00+00:00",
+    "organization": "Freeman Hall & Russ Hall",
+    "location": "Russ Hall KOPS Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12101795",
+    "description": "Join Residence Life and MTSO for a fun open mic night.\u00a0Commuters may attend but must be signed in by a resident following Residence Life guest procedures."
   },
   {
     "title": "Movie Night ",
@@ -3230,14 +3238,6 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12055900",
     "description": "Do you want to learn a new knitting or crochet pattern? Do you want to make a cool craft but can't pick one or figure out where to start? Then come to Montclair Unraveled!\u00a0 \n Join us and learn how to make something new like accessories, decor, or plushies! Already have something you're working on? Feel free to make some progress here! All are welcome, whether you have the most craft experience possible or none at all. Come by and enjoy the company of others who share your passions for the fiber arts!"
-  },
-  {
-    "title": "Research Time Management",
-    "date": "2026-02-16T21:00:00+00:00",
-    "organization": "Sprague Library",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12091325",
-    "description": "Research time management is an essential skill for academic success. In this workshop, participants will: \n \n Learn the steps of the research process \n Create a research timeline \n Set SMART goals \n Learn strategies to avoid procrastination \n Learn about library \"shortcuts\" \n \n Register Here:\u00a0 https://montclair.libcal.com/event/16259843"
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
@@ -3958,6 +3958,14 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12069903",
     "description": "Players: A Programming Board of the SGA is holding rehearsals for their Dance Show."
+  },
+  {
+    "title": "One Acts Rehearsal ",
+    "date": "2026-02-21T17:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12056323",
+    "description": "Rehearsal for Players' One Acts Festival"
   },
   {
     "title": "Tres A\u00f1os, Tres Goals",
@@ -4760,12 +4768,12 @@
     "description": "Residents will compete in a fun, friendly decorating challenge using icing, sprinkles, toppings, and themed d\u00e9cor. Participants can design their own cupcakes based on categories like \u201cMost Creative,\u201d \u201cCutest,\u201d or \u201cBest Theme.\u201d\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Craft Night - Squishmallows & Snacks",
+    "title": "Craft Night - Beads & Bricks",
     "date": "2026-02-27T00:00:00+00:00",
     "organization": "Campus Activities",
     "location": "Student Center Room 160, The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/11968337",
-    "description": "Snacks, Squishmallows, and chill vibes. Stop by to stuff your own squishmallow, hang out, and take home something soft and adorable."
+    "description": "Chill with Campus Activities where you can build with LEGOs or make friendship bracelets!"
   },
   {
     "title": "One Acts Tech Rehearsal ",
