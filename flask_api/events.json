@@ -1,13 +1,5 @@
 [
   {
-    "title": "Men's Basketball vs. Rutgers-Newark",
-    "date": "2026-01-24T18:00:00+00:00",
-    "organization": "Athletics",
-    "location": "Panzer Athletic Center",
-    "link": "https://montclair.campuslabs.com/engage/event/11342632",
-    "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
-  },
-  {
     "title": "The Dancer's Development Workshop Vol. 4",
     "date": "2026-01-24T15:00:00+00:00",
     "organization": "Campus Activities at Bloomfield",
@@ -4152,20 +4144,20 @@
     "description": "Closed rehearsal for Dracula."
   },
   {
-    "title": "One Acts Rehearsal ",
-    "date": "2026-02-21T17:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12056323",
-    "description": "Rehearsal for Players' One Acts Festival"
-  },
-  {
     "title": "Dance Show Rehearsals",
     "date": "2026-02-21T17:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12069903",
     "description": "Players: A Programming Board of the SGA is holding rehearsals for their Dance Show."
+  },
+  {
+    "title": "One Acts Rehearsal ",
+    "date": "2026-02-21T17:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12056323",
+    "description": "Rehearsal for Players' One Acts Festival"
   },
   {
     "title": "Tres A\u00f1os, Tres Goals",
