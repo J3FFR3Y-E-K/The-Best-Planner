@@ -1,21 +1,5 @@
 [
   {
-    "title": "Mindfulness Meditation ",
-    "date": "2026-01-26T17:00:00+00:00",
-    "organization": "Office of Health Promotion",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12021176",
-    "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
-  },
-  {
-    "title": "Commuter x Dining Tabling",
-    "date": "2026-01-26T16:00:00+00:00",
-    "organization": "EATS by Gourmet Dining",
-    "location": "STCT Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12020960",
-    "description": "Learn about meal plans, upcoming collaborations, and everything we have to offer!"
-  },
-  {
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-01-26T18:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1360,6 +1344,14 @@
     "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
   },
   {
+    "title": "Paint & Swirls - Tie-Dye-versity: Join RA Auco",
+    "date": "2026-02-04T00:00:00+00:00",
+    "organization": "Bloomfield's Office of Residence Life",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12116097",
+    "description": "\ud83c\udfa8Participants design and personalize a functional item\u2014such as a canvas bag, beanie hat, or pair of socks\u2014that they can proudly take home and use. The activity invites creativity, self\u2011expression, and playful experimentation with color and design. Because it\u2019s done in a shared space, it naturally sparks conversation, collaboration, and a sense of community as people create side by side. The project is intentionally low\u2011barrier and beginner\u2011friendly, requiring no prior art or sewing experience, making it an inclusive and accessible way for everyone to engage in hands\u2011on creativity. \n \ud83d\udd8c\ufe0fLocation: Bloomfield Campus - Franklin Hall - Third Floor - Multipurpose Room - Room 314"
+  },
+  {
     "title": "Make A Snowman, Decorate A Snowman",
     "date": "2026-02-04T00:00:00+00:00",
     "organization": "Campus Recreation",
@@ -2024,20 +2016,20 @@
     "description": "Lights off, game on. Whether you\u2019re dodging, tagging, or just there for the chaos, get ready for a high-energy night!"
   },
   {
-    "title": "Bohn Hall Community Meeting ",
-    "date": "2026-02-07T01:00:00+00:00",
-    "organization": "Bohn Hall",
-    "location": "Bohn Hall Main Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/11989993",
-    "description": "Join us for the Bohn Hall Community Meeting! This is your opportunity to connect with your Professional Staff, student staff, and fellow residents as we kick off the semester together. At this meeting, we\u2019ll cover important information about living in Bohn Hall, including community expectations, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n Resources and support available to you \n Opportunities to connect with staff and peers \n A chance to ask questions and share your voice \n \n We look forward to seeing you there! \n This event is for Bohn Hall Residents"
-  },
-  {
     "title": "Freeman and Russ February Floor Meeting",
     "date": "2026-02-07T01:00:00+00:00",
     "organization": "Freeman Hall & Russ Hall",
     "location": "Russ Hall KOPS Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12032652",
     "description": "Join us for our February floor meeting! We\u2019ll go over important community reminders, quiet hours, guest policies, and any building updates. This is a chance to ask questions and connect with your CA and neighbors.  Attendance is expected. \n Commuters may attend but must be signed in by a resident following Residence Life guest procedures."
+  },
+  {
+    "title": "Bohn Hall Community Meeting ",
+    "date": "2026-02-07T01:00:00+00:00",
+    "organization": "Bohn Hall",
+    "location": "Bohn Hall Main Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/11989993",
+    "description": "Join us for the Bohn Hall Community Meeting! This is your opportunity to connect with your Professional Staff, student staff, and fellow residents as we kick off the semester together. At this meeting, we\u2019ll cover important information about living in Bohn Hall, including community expectations, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n Resources and support available to you \n Opportunities to connect with staff and peers \n A chance to ask questions and share your voice \n \n We look forward to seeing you there! \n This event is for Bohn Hall Residents"
   },
   {
     "title": "Movie Night",
@@ -2126,14 +2118,6 @@
     "location": "Blanton Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11961973",
     "description": "Keep losing your ID? Looking for a place to stash your spare change? Look no further! Join the Community Programmers in the Blanton Atrium and create your own Altoid tin wallet! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Dracula Rehearsal",
-    "date": "2026-02-08T16:45:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12081267",
-    "description": "Closed rehearsal for  Dracula ."
   },
   {
     "title": "Dance Show Rehearsals",
@@ -2406,6 +2390,14 @@
     "location": "Student Recreation Center - Multipurpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12065311",
     "description": "A mind-body conditioning technique that focuses on trunk stability and coordinated breathing through a series of exercises.\u00a0 Pilates develops a longer, leaner, stronger, and more graceful body by improving muscular symmetry, alignment, posture, core strength, and flexibility. All levels are welcome. \n \n \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Tuesday, Jan 20 - April 24 \n 10:15 - 11 a.m. \n Student Recreation Center - Multipurpose Room 1 \n \n \n \n \n \n Instructor - Bridget"
+  },
+  {
+    "title": "Anti-Hazing Education & Prevention Workshop",
+    "date": "2026-02-10T17:30:00+00:00",
+    "organization": "Bloomfield Greek Council",
+    "location": "Bloomfield - Talbott Hall TM04 - Room of Excellence",
+    "link": "https://montclair.campuslabs.com/engage/event/12117017",
+    "description": "This Anti-Hazing Education & Prevention Workshop is a required educational program for Greek-letter and Social Fellowship organizations affiliated with the Bloomfield Campus. \n Registration is required in advance. This workshop is closed to the general public and open only to members of recognized Greek-letter and Social Fellowship organizations. \n Certain eligibility requirements must be met in order to register and attend. Attendance will be monitored and verified. \n For questions regarding eligibility, registration, or requirements, please contact Greek Council or Campus Activities."
   },
   {
     "title": "Group X - Yoga",
@@ -2822,6 +2814,14 @@
     "location": "Student Center Quad Information Table 1 - Information Table 1",
     "link": "https://montclair.campuslabs.com/engage/event/12084333",
     "description": "The sisters of Theta Kappa Chi will be hosting a sale to raise funds for The Heart Foundation."
+  },
+  {
+    "title": "Anti-Hazing Education & Prevention Workshop",
+    "date": "2026-02-12T17:00:00+00:00",
+    "organization": "Bloomfield Greek Council",
+    "location": "Bloomfield - Talbott Hall TM04 - Room of Excellence",
+    "link": "https://montclair.campuslabs.com/engage/event/12117020",
+    "description": "This Anti-Hazing Education & Prevention Workshop is a required educational program for Greek-letter and Social Fellowship organizations affiliated with the Bloomfield Campus. \n Registration is required in advance. This workshop is closed to the general public and open only to members of recognized Greek-letter and Social Fellowship organizations. \n Certain eligibility requirements must be met in order to register and attend. Attendance will be monitored and verified. \n For questions regarding eligibility, registration, or requirements, please contact Greek Council or Campus Activities."
   },
   {
     "title": "Group X - Kickboxing",
@@ -3440,6 +3440,14 @@
     "description": "Designed for doctoral candidates approaching the final stages of their program, this session outlines the dissertation defense process from start to finish. Topics include defense eligibility, required approvals and forms, formatting and submission requirements, and final Graduate School deadlines. Students will also learn what to expect before, during, and after the defense. Who should attend: \u00a0Doctoral candidates preparing for their dissertation defense or final submission requirements. \n Please register for the event through  this link ."
   },
   {
+    "title": "Anti-Hazing Education & Prevention Workshop",
+    "date": "2026-02-17T17:30:00+00:00",
+    "organization": "Bloomfield Greek Council",
+    "location": "Bloomfield - Talbott Hall TM04 - Room of Excellence",
+    "link": "https://montclair.campuslabs.com/engage/event/12117018",
+    "description": "This Anti-Hazing Education & Prevention Workshop is a required educational program for Greek-letter and Social Fellowship organizations affiliated with the Bloomfield Campus. \n Registration is required in advance. This workshop is closed to the general public and open only to members of recognized Greek-letter and Social Fellowship organizations. \n Certain eligibility requirements must be met in order to register and attend. Attendance will be monitored and verified. \n For questions regarding eligibility, registration, or requirements, please contact Greek Council or Campus Activities."
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2026-02-17T18:00:00+00:00",
     "organization": "Campus Recreation",
@@ -3768,6 +3776,14 @@
     "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
   },
   {
+    "title": "CALI SCHOOL OF MUSIC: Spring 2026 -Brass Night 1",
+    "date": "2026-02-19T01:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Leshowitz Recital Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12115879",
+    "description": "Brass Night 1 \n Cali School brass students present  a lively and  varied program  of solo works. \n Contact Brass Coordinator Micah Killion with  any questions at killionm@montclair.edu \n Brass Night 2  is Tuesday March 31 at 8PM, G55, Chapin Hall"
+  },
+  {
     "title": "Dracula Rehearsal",
     "date": "2026-02-18T22:45:00+00:00",
     "organization": "Montclair State University Players",
@@ -3830,6 +3846,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12079364",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 12pm - 12:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Maddie"
+  },
+  {
+    "title": "Anti-Hazing Education & Prevention Workshop",
+    "date": "2026-02-19T17:30:00+00:00",
+    "organization": "Bloomfield Greek Council",
+    "location": "Bloomfield - Talbott Hall TM04 - Room of Excellence",
+    "link": "https://montclair.campuslabs.com/engage/event/12117019",
+    "description": "This Anti-Hazing Education & Prevention Workshop is a required educational program for Greek-letter and Social Fellowship organizations affiliated with the Bloomfield Campus. \n Registration is required in advance. This workshop is closed to the general public and open only to members of recognized Greek-letter and Social Fellowship organizations. \n Certain eligibility requirements must be met in order to register and attend. Attendance will be monitored and verified. \n For questions regarding eligibility, registration, or requirements, please contact Greek Council or Campus Activities."
   },
   {
     "title": "Group X - Kickboxing",
@@ -4080,6 +4104,14 @@
     "description": "Whether you\u2019ve got a hidden talent or just want a fun night out, Open Mic Night is the place to be. Music, poetry, comedy, and good vibes all around\u2014come perform, cheer on your friends, or just hang out and enjoy the energy. \ud83c\udfa4"
   },
   {
+    "title": "CALI SCHOOL OF MUSIC: Baroque Music Concert: \"Treasures of the Baroque\"",
+    "date": "2026-02-21T01:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Leshowitz Recital Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12115539",
+    "description": "Baroque Music Concert: \"Treasures of the Baroque\" \n An evening of Baroque music featuring works by Buxtehude, Monteverdi, Telemann, and more. Performed by Cali faculty and students. \n Cali Faculty:  \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2028 Lori McCann,  soprano  \u2028 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  Theresa Salomon,   violin\u00a0 Tomoko Fujita,  cello Jason Priset,  lute & guitar Hsuan-Wen Chen,   harpsichord"
+  },
+  {
     "title": "Red Hawk Pantry",
     "date": "2026-02-21T16:00:00+00:00",
     "organization": "Red Hawk Pantry",
@@ -4096,20 +4128,20 @@
     "description": "Closed rehearsal for Dracula."
   },
   {
-    "title": "Dance Show Rehearsals",
-    "date": "2026-02-21T17:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12069903",
-    "description": "Players: A Programming Board of the SGA is holding rehearsals for their Dance Show."
-  },
-  {
     "title": "One Acts Rehearsal ",
     "date": "2026-02-21T17:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12056323",
     "description": "Rehearsal for Players' One Acts Festival"
+  },
+  {
+    "title": "Dance Show Rehearsals",
+    "date": "2026-02-21T17:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12069903",
+    "description": "Players: A Programming Board of the SGA is holding rehearsals for their Dance Show."
   },
   {
     "title": "Tres A\u00f1os, Tres Goals",
@@ -4142,14 +4174,6 @@
     "location": "Dinallo Heights",
     "link": "https://montclair.campuslabs.com/engage/event/11961928",
     "description": "Show some self love while crafting holographic hearts at the Dinallo lounge! We will be crafting our holographic hearts at 8:00 P.M., February 21st. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Dracula Rehearsal",
-    "date": "2026-02-22T16:45:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12087902",
-    "description": "Closed rehearsal for  Dracula ."
   },
   {
     "title": "One Acts Rehearsal ",
@@ -7910,6 +7934,14 @@
     "location": "Student Recreation Center 11C2A - Lobby Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11965138",
     "description": "Create quick, cozy treats in minutes! Stop by to make your choice of pizza-in-a-mug, brownie-in-a-mug, or cinnamon-roll-in-a-mug. All ingredients are provided\u2014just mix, microwave, and enjoy. It\u2019s the perfect night for easy, delicious snacks made your way! \n \u00a0 \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesday, March 31 \n 7pm-9pm, must be checked in by 8:30pm to participate \n Student Recreation Center Lounge"
+  },
+  {
+    "title": "CALI SCHOOL OF MUSIC: Spring 2026 Brass Night 2",
+    "date": "2026-04-01T00:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Room G55",
+    "link": "https://montclair.campuslabs.com/engage/event/12115921",
+    "description": "Brass Night 2 \n Cali School brass students present  a lively and  varied program  of solo works. \n Contact Brass Coordinator Micah Killion with  any questions at killionm@montclair.edu"
   },
   {
     "title": "Group X - HIIT",
