@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2026-01-27T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center Multipurpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12065055",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesdays, 01/20 - 04/24 \n 9am-9:45am \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Catalina"
-  },
-  {
     "title": "Group X - Pilates",
     "date": "2026-01-27T15:15:00+00:00",
     "organization": "Campus Recreation",
@@ -510,6 +502,14 @@
     "location": "Drop-In Center ",
     "link": "https://montclair.campuslabs.com/engage/event/12074650",
     "description": "Hang out and have casual conversations with other students while enjoying refreshments! Join us on Thursdays from 3:15-4:15pm.\u00a0 \n What are Fireside Chats: \n \n A space for students to meet, connect, and have a casual conversation about a given topic, or anything else that feels comfortable for everyone else. It can be about the school climate, student life in general, or your favorite show. All students are welcome!"
+  },
+  {
+    "title": "Mindful Eating with Chef Mehta",
+    "date": "2026-01-29T20:00:00+00:00",
+    "organization": "EATS by Gourmet Dining",
+    "location": "Freeman Dining Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12122574",
+    "description": "Mindful Eating with Chef Mehta... learn how to slow down, savor each bite, and nourish your body with intention and balance!"
   },
   {
     "title": "Group X - Kickboxing",
@@ -4032,6 +4032,14 @@
     "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Wednesdays: 5-7pm \n Saturdays: 11-1pm"
   },
   {
+    "title": "NASO Brunch ",
+    "date": "2026-02-21T16:00:00+00:00",
+    "organization": "Native African Student Organization",
+    "location": "Student Center 250AB - Ballrooms A and B",
+    "link": "https://montclair.campuslabs.com/engage/event/12123320",
+    "description": "Join us for an unforgettable day of culture, cuisine, and cool vibes at Brunch & Chill with Naso! This laid-back, stylish event is the perfect fusion of Afrocentric flair and modern brunch culture. Whether you\u2019re catching up with friends, meeting new people, or simply indulging in some much-needed relaxation, this is the place to be."
+  },
+  {
     "title": "Dracula Rehearsal",
     "date": "2026-02-21T17:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -7152,20 +7160,20 @@
     "description": "Join us for \u201cPie Your ALPFAmilia,\u201d a fun and lighthearted fundraiser where members come together for laughs, community, and friendly fun in support of the ALPFAmilia."
   },
   {
-    "title": "Montclair Unraveled General Body Meeting!",
-    "date": "2026-03-23T19:00:00+00:00",
-    "organization": "Montclair Unraveled",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12055904",
-    "description": "Do you want to learn a new knitting or crochet pattern? Do you want to make a cool craft but can't pick one or figure out where to start? Then come to Montclair Unraveled!\u00a0 \n Join us and learn how to make something new like accessories, decor, or plushies! Already have something you're working on? Feel free to make some progress here! All are welcome, whether you have the most craft experience possible or none at all. Come by and enjoy the company of others who share your passions for the fiber arts!"
-  },
-  {
     "title": "Mini Collection Challenge",
     "date": "2026-03-23T19:00:00+00:00",
     "organization": "Montclair Fashion Club",
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12051661",
     "description": "Viewing a mood board, we will create our own mini collection based on what we see. Open to all students!"
+  },
+  {
+    "title": "Montclair Unraveled General Body Meeting!",
+    "date": "2026-03-23T19:00:00+00:00",
+    "organization": "Montclair Unraveled",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12055904",
+    "description": "Do you want to learn a new knitting or crochet pattern? Do you want to make a cool craft but can't pick one or figure out where to start? Then come to Montclair Unraveled!\u00a0 \n Join us and learn how to make something new like accessories, decor, or plushies! Already have something you're working on? Feel free to make some progress here! All are welcome, whether you have the most craft experience possible or none at all. Come by and enjoy the company of others who share your passions for the fiber arts!"
   },
   {
     "title": "Free Swim Lessons *Beginner*",
@@ -8272,6 +8280,14 @@
     "description": "The sisters of Theta Kappa Chi will be hosting a Pie a Panda to raise funds for The Ramapo Bergen Animal Refuge."
   },
   {
+    "title": "Autism Awareness Walk",
+    "date": "2026-04-02T17:00:00+00:00",
+    "organization": "Future Educators Association",
+    "location": "Student Center Quad123 - All Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12123410",
+    "description": "Join the Future Educators Association in an Autism Awareness Walk! Bonus points for wearing blue!"
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2026-04-02T18:45:00+00:00",
     "organization": "Campus Recreation",
@@ -9040,6 +9056,22 @@
     "description": "Whether you\u2019ve got a hidden talent or just want a fun night out, Open Mic Night is the place to be. Music, poetry, comedy, and good vibes all around\u2014come perform, cheer on your friends, or just hang out and enjoy the energy. \ud83c\udfa4"
   },
   {
+    "title": "Into the Woods Rehearsal",
+    "date": "2026-04-11T15:45:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12123461",
+    "description": "Closed rehearsal for  Into the Woods ."
+  },
+  {
+    "title": "Into the Woods Rehearsal",
+    "date": "2026-04-12T15:45:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12123554",
+    "description": "Closed rehearsal for  Into the Woods ."
+  },
+  {
     "title": "Mindfulness Meditation ",
     "date": "2026-04-13T16:00:00+00:00",
     "organization": "Office of Health Promotion",
@@ -9126,6 +9158,14 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12023464",
     "description": "Tech Rehearsal for  Into the Woods ."
+  },
+  {
+    "title": "MSDC practice ",
+    "date": "2026-04-14T01:00:00+00:00",
+    "organization": "Montclair State Dance Company",
+    "location": "Student Center 250A - Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/12123607",
+    "description": "Rehearsal for Montclair State Dance Company"
   },
   {
     "title": "Group X - Yoga",
