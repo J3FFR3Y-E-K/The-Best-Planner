@@ -7152,20 +7152,20 @@
     "description": "Join us for \u201cPie Your ALPFAmilia,\u201d a fun and lighthearted fundraiser where members come together for laughs, community, and friendly fun in support of the ALPFAmilia."
   },
   {
-    "title": "Mini Collection Challenge",
-    "date": "2026-03-23T19:00:00+00:00",
-    "organization": "Montclair Fashion Club",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12051661",
-    "description": "Viewing a mood board, we will create our own mini collection based on what we see. Open to all students!"
-  },
-  {
     "title": "Montclair Unraveled General Body Meeting!",
     "date": "2026-03-23T19:00:00+00:00",
     "organization": "Montclair Unraveled",
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12055904",
     "description": "Do you want to learn a new knitting or crochet pattern? Do you want to make a cool craft but can't pick one or figure out where to start? Then come to Montclair Unraveled!\u00a0 \n Join us and learn how to make something new like accessories, decor, or plushies! Already have something you're working on? Feel free to make some progress here! All are welcome, whether you have the most craft experience possible or none at all. Come by and enjoy the company of others who share your passions for the fiber arts!"
+  },
+  {
+    "title": "Mini Collection Challenge",
+    "date": "2026-03-23T19:00:00+00:00",
+    "organization": "Montclair Fashion Club",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12051661",
+    "description": "Viewing a mood board, we will create our own mini collection based on what we see. Open to all students!"
   },
   {
     "title": "Free Swim Lessons *Beginner*",
