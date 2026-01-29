@@ -1,45 +1,5 @@
 [
   {
-    "title": "Movie & Pajama Night",
-    "date": "2026-01-29T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Stone Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11915111",
-    "description": "Put on your pjs and come out to Stone Hall on January 28th at 7:00 PM for a movie night!\u00a0 All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Campus Quest: Scavenger Hunt",
-    "date": "2026-01-29T01:00:00+00:00",
-    "organization": "Bloomfield's Office of Residence Life",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12083861",
-    "description": "Campus Quest is an interactive scavenger hunt designed to help residents explore their building, connect with one another, and build community in a fun, low-pressure way. Residents will work individually or in small teams to complete a series of challenges and clues that guide them through common areas of the residence hall and nearby campus spaces."
-  },
-  {
-    "title": "Greek Life Showcase",
-    "date": "2026-01-28T23:30:00+00:00",
-    "organization": "Sigma Lambda Upsilon",
-    "location": "University Hall Conference Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12131488",
-    "description": "Come meet us at the Greek Life Showcase!"
-  },
-  {
-    "title": "Intramural 5v5 Basketball",
-    "date": "2026-01-28T05:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center",
-    "link": "https://montclair.campuslabs.com/engage/event/11899871",
-    "description": "Teams can add players to their roster up until the last game of the regular season. Payment can be made via QR code or at the main office of the Student Recreation Center to secure your spot in the league!\u00a0 \n \u00a0 \n How do I sign-up? \n \n Fee : $10/player or $60/organization (team fee for student organizations only) \n Registration : Payment can be made via QR code or at the main office of the Student Center to secure your spot in the league!\u00a0 Teams can add players to their roster throughout the season up until the last game of the regular season\u201d \n \n Where and when? \n \n Wednesday, January 28 \n Student Recreation Center"
-  },
-  {
-    "title": "Greek Life Showcase",
-    "date": "2026-01-28T23:30:00+00:00",
-    "organization": "Greek Life",
-    "location": "University Hall Conference Center - 7th Floor",
-    "link": "https://montclair.campuslabs.com/engage/event/11984589",
-    "description": "The Greek Life Showcase 2026 brings UGC and NPHC Greek Life to the stage through stepping and strolling performances that celebrate culture, tradition, and community. Come experience the energy and legacy that make these organizations a vital part of campus life. \n Admission \n FREE: Montclair/Bloomfield Students \n $3: Non-Montclair/Bloomfield Students; fee will be waived with Red Hawk Pantry/Rocky's Closet Donations"
-  },
-  {
     "title": "Intramural Pickleball",
     "date": "2026-01-28T05:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4376,20 +4336,20 @@
     "description": "Closed rehearsal for Dracula."
   },
   {
-    "title": "Dance Show Rehearsals",
-    "date": "2026-02-21T17:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12069903",
-    "description": "Players: A Programming Board of the SGA is holding rehearsals for their Dance Show."
-  },
-  {
     "title": "One Acts Rehearsal ",
     "date": "2026-02-21T17:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12056323",
     "description": "Rehearsal for Players' One Acts Festival"
+  },
+  {
+    "title": "Dance Show Rehearsals",
+    "date": "2026-02-21T17:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12069903",
+    "description": "Players: A Programming Board of the SGA is holding rehearsals for their Dance Show."
   },
   {
     "title": "Tres A\u00f1os, Tres Goals",
