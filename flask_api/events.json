@@ -1,93 +1,5 @@
 [
   {
-    "title": "Craft night - Branching Into Montclair",
-    "date": "2026-01-30T00:00:00+00:00",
-    "organization": "Campus Activities",
-    "location": "Student Center Room 160, The Underground",
-    "link": "https://montclair.campuslabs.com/engage/event/11955442",
-    "description": "New to Montclair or just looking to relax? Decorate wood crafts, meet new people, and tap into your creative side in a low-stress, fun environment."
-  },
-  {
-    "title": "eXpresso (informational) ",
-    "date": "2026-01-30T01:30:00+00:00",
-    "organization": "Chi Upsilon Sigma National Latin Sorority, INC",
-    "location": "University Hall 2040 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12130618",
-    "description": "The Kappa Chapter of Chi Upsilon Sigma cordially invites all interested women to attend our informational and learn about the best sisterhood within eXistence!"
-  },
-  {
-    "title": "AKA School Survival Guide ",
-    "date": "2026-01-30T02:00:00+00:00",
-    "organization": "Alpha Kappa Alpha Sorority, Inc. ",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12130646",
-    "description": "Come hear and share some Tips and Tricks to having a successful semester!"
-  },
-  {
-    "title": "One Acts Callbacks",
-    "date": "2026-01-29T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/12019632",
-    "description": "Callbacks for Players's One Acts Festival"
-  },
-  {
-    "title": "Just Dance Into the New Year ",
-    "date": "2026-01-30T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Freeman Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11915110",
-    "description": "Just Dance Into the New Year!  Happy New Year! Join us for a Just Dance party on Thursday, January 29 from 8- 10 p.m. Come with your friends and dance into the new year with ResLife!  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Keychain Making ",
-    "date": "2026-01-30T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11915108",
-    "description": "Join us for a fun and relaxing DIY night where you can design and create your own personalized keychain. Held in the Blanton lounge on January 29th 8:00pm - 10:00pm.\u00a0 All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "MILF Round 3 Workshop, Auditions, and Callbacks.",
-    "date": "2026-01-29T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/12019651",
-    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 3 workshop, auditions, and callbacks."
-  },
-  {
-    "title": "Dance Show Auditions",
-    "date": "2026-01-29T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12019630",
-    "description": "Players: A Programming Board of the SGA, has their student written dance show auditions."
-  },
-  {
-    "title": "Cru Game Night!",
-    "date": "2026-01-30T01:30:00+00:00",
-    "organization": "Cru",
-    "location": "Dickson Hall 178 - Cohen Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12127841",
-    "description": "Cru is a caring community passionate about connecting people to Jesus Christ! \u00a0Join us in learning together on Who Christ is, building a personal relationship with Him, and joining a community filled with love and with open arms! \n This event will be a fun night full of food, fellowship, and games! \n \" And\u00a0they devoted themselves to the apostles'\u00a0teaching and the\u00a0fellowship, to\u00a0the breaking of bread and the prayers. \u00a0 And awe\u00a0came upon every soul, and\u00a0many wonders and signs were being done through the apostles. \u00a0 And all who believed were together and\u00a0had all things in common. \u00a0 And\u00a0they were selling their possessions and belongings and distributing the proceeds to all, as any had need. \u00a0 And day by day,\u00a0attending the temple\u00a0together and\u00a0breaking bread in their homes, they received their food\u00a0with glad and generous hearts,\u00a0 praising God and\u00a0having favor with all the people. And the Lord\u00a0added to their number\u00a0day by day those who\u00a0were being saved.\" - Acts 2:42-47"
-  },
-  {
-    "title": "A.LIFE Ministry",
-    "date": "2026-01-30T01:30:00+00:00",
-    "organization": "A.LIFE",
-    "location": "Student Center 250C - Ballroom C",
-    "link": "https://montclair.campuslabs.com/engage/event/12071090",
-    "description": "TO CREATE AN ENVIRONMENT WHERE THOSE FAR AND NEAR FROM GOD CAN EXPERIENCE THE LOVE OF GOD."
-  },
-  {
-    "title": "Vision Board Making",
-    "date": "2026-01-30T02:00:00+00:00",
-    "organization": "Lambda Tau Omega Sorority, Inc.",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12130613",
-    "description": "Kick off the semester by mapping out your goals and dreams! Join us for a vision board making workshop and turn your ideas into a visual roadmap for success."
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2026-01-30T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -7901,7 +7813,7 @@
     "organization": "Center for Latino Heritage & Spanish Language Excellence",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12150520",
-    "description": "Learn from various Latino Health Professionals through this collaborative effort between CLaSE, Latino Medical Student Association (LMSA) + and Clara Maass Medical Center"
+    "description": "Learn from various Latino Health Professionals through this collaborative effort between CLaSE, Latino Medical Student Association (LMSA) and Clara Maass Medical Center"
   },
   {
     "title": "Free Swim Lessons *Beginner*",
