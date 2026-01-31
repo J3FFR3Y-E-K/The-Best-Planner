@@ -1,67 +1,11 @@
 [
   {
-    "title": "CAPS Groups Online Information Session",
-    "date": "2026-01-30T21:00:00+00:00",
-    "organization": "CAPS (Counseling and Psychological Services)",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12154825",
-    "description": "Interestes in learning more about CAPS groups being offered this semester? Join us online, Friday, Jan 30th from 4-5 pm for a virtual information session."
-  },
-  {
-    "title": "Group X - BJJ",
-    "date": "2026-01-30T20:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12108076",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 3:30pm- 5:00pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
-  },
-  {
-    "title": "Welcome Back with Treats & TV",
-    "date": "2026-01-30T21:00:00+00:00",
-    "organization": "Baking Club",
-    "location": "University Hall 2010 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12130671",
-    "description": "Welcome back to campus! Take a break and join us for a relaxed night with snacks and an episode of Baking Impossible on Netflix. Enjoy sweet treats, good company, and a fun show as we settle into the new semester. Stop by, unwind, and kick things off on a positive note."
-  },
-  {
-    "title": "Freeman Friday",
-    "date": "2026-01-30T20:30:00+00:00",
-    "organization": "EATS by Gourmet Dining",
-    "location": "Freeman Dining Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12048931",
-    "description": "TGIFF!"
-  },
-  {
-    "title": "Harry Potter Trivia ",
-    "date": "2026-01-30T23:00:00+00:00",
-    "organization": "Campus Activities",
-    "location": "1908 Pub, Student Center",
-    "link": "https://montclair.campuslabs.com/engage/event/11967634",
-    "description": "Grab your housemates and put your wizarding knowledge to the test. From spells to characters, only true fans will win the House Cup."
-  },
-  {
-    "title": "Art & Design Juried Exhibition",
-    "date": "2026-01-30T16:00:00+00:00",
-    "organization": "Art and Design",
-    "location": "Finley Gallery, Finley Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12048491",
-    "description": "Montclair State University\u2019s Department of Art and Design is excited to kick off the Spring 2026 semester with the  Art & Design  Juried Exhibition  at Finley Gallery . The exhibition runs from January 21 through January 30, 2026, with an opening reception on Wednesday, January 21 from 2-4pm.\u00a0 \n \u00a0 \n This showcase features work from students in Visual Arts, Fashion Design and Merchandising, Illustration, Product Design, and Visual Communication Design, and Art Education programs. Eighty-four professors across five disciplines selected one student from each of their course sections, highlighting exceptional projects that demonstrate the creativity and potential cultivated in our studios.\u00a0 \n \u00a0 \n The exhibition demonstrates the breadth and scope of our programs, and gives our community a wonderful opportunity to see what is being made and discovered in our studios here at Montclair State University.\u00a0 \n \u00a0 \n Don\u2019t miss this opportunity to experience the incredible talent and innovation of Montclair State University\u2019s Art and Design students. \n \u00a0 \n Art & Design  Juried Exhibition \n Finley Gallery, Finley Hall \n Exhibition dates: 1/21 - 1/30 \n Opening Reception: Wed. 1/21 2-4pm"
-  },
-  {
     "title": "Ultimate Line Dance Night",
     "date": "2026-01-31T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Blanton Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11915105",
     "description": "Ultimate Line Dance Night Step in for the snacks, stay for the moves! On Friday, January 30th from 7- 8:30 p.m. come hang out, learn (or relearn) your favorite line dances, and vibe with your\u00a0 community. Expect all the classics \u2014 Cupid Shuffle, Cha Cha Slide, Flex, and more! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Complexions Practice",
-    "date": "2026-01-30T23:30:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/12071973",
-    "description": "Complexions majorette dance team will be practicing for upcoming performances."
   },
   {
     "title": "Tacos & Talent",
@@ -72,6 +16,14 @@
     "description": "Have a talent you\u2019re ready to show off? Or maybe you\u2019re just craving some delicious tacos while cheering on your friends? Join us for Tacos & Talent Night, a fun, laid-back evening where students can perform, vibe, and enjoy good food together! \n Whether you sing, dance, juggle, perform spoken word, or have a completely unique skill, this is your moment to shine. Not performing? No problem\u2014come support your fellow Red Hawks and grab some free tacos while you\u2019re at it!"
   },
   {
+    "title": "Complexions Practice",
+    "date": "2026-01-30T23:30:00+00:00",
+    "organization": "Complexions",
+    "location": "Student Center 250A - Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/12071973",
+    "description": "Complexions majorette dance team will be practicing for upcoming performances."
+  },
+  {
     "title": "Dance Show Callbacks",
     "date": "2026-01-30T23:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -80,20 +32,20 @@
     "description": "Players: A Programming Board of the SGA\u00a0is holding Dance Show Callbacks."
   },
   {
-    "title": "MILF Round 3 Workshop, Auditions, and Callbacks.",
-    "date": "2026-01-30T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/12019652",
-    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 3 workshop, auditions, and callbacks."
-  },
-  {
     "title": "Wintery Door Decs Night",
     "date": "2026-01-31T01:00:00+00:00",
     "organization": "Residence Life",
     "location": "Dinallo Heights",
     "link": "https://montclair.campuslabs.com/engage/event/11915107",
     "description": "As the new semester starts up and we all are getting moved back into our dorms, it's time to do a fun activity to start the semester off right, and that is by creating new door decs! On January 30th in Dinallo Heights MPR from 8pm to 10pm \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "MILF Round 3 Workshop, Auditions, and Callbacks.",
+    "date": "2026-01-30T23:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/12019652",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 3 workshop, auditions, and callbacks."
   },
   {
     "title": "Red Hawk Pantry",
@@ -672,6 +624,22 @@
     "description": "M.I.L.F. (Montclair Improv League and Friends) Round 3 rehearsals."
   },
   {
+    "title": "Blue Skies Welcome Night ",
+    "date": "2026-02-03T01:45:00+00:00",
+    "organization": "Alpha Iota Chi Local Sorority Inc.",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161094",
+    "description": "Join us for our first official welcome night under clear blue skies! Learn about Alpha Iota Chi while getting creative by painting your own canvas in a fun, relaxed environment. Come vibe with us, meet new people, and kick off the week on a bright note."
+  },
+  {
+    "title": "KOMPAHOLIX DANCE TROUPE PRACTICE ",
+    "date": "2026-02-03T01:30:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 3002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161020",
+    "description": "Practice for Dance Troupe."
+  },
+  {
     "title": "MSDC practice ",
     "date": "2026-02-03T02:00:00+00:00",
     "organization": "Montclair State Dance Company",
@@ -896,6 +864,14 @@
     "description": "Players: A Programming Board of the SGA is holding rehearsals for their Dance Show rehearsals."
   },
   {
+    "title": "InterVarsity Music Bible Study ",
+    "date": "2026-02-04T01:00:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Susan A. Cole Hall 141 - Admissions Presentation Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12161085",
+    "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sisters in Christ."
+  },
+  {
     "title": "Ping Pong Tournament",
     "date": "2026-02-04T01:00:00+00:00",
     "organization": "Residence Life",
@@ -920,12 +896,36 @@
     "description": "Affirmations and Sweet Treats ... You know you want it! Please Join us on February 3th from 8:00 PM to 10:00 PM in Sinatra's Lounge to get a goody bag full of affirmations and sweet treats. All students are welcome; Commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "LSU Informational",
+    "date": "2026-02-04T01:30:00+00:00",
+    "organization": "Lambda Sigma Upsilon Latino Fraternity, Inc.",
+    "location": "University Hall 3006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161080",
+    "description": "Join us for an informational session about Lambda Sigma Upsilon Latino Fraternity, Inc.! Learn about our mission, values, and the opportunities we offer for personal growth, leadership, and community service. This is your chance to meet current members, ask questions, and discover how you can get involved in a brotherhood that celebrates culture, academic excellence, and service. All students are welcome!"
+  },
+  {
+    "title": "Charms, Carabiners, and Connections with the Sisters of Delta Xi Delta!",
+    "date": "2026-02-04T01:45:00+00:00",
+    "organization": "Delta Xi Delta",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161051",
+    "description": "Join the Sisters of Delta Xi Delta Sorority for our first recruitment event for Spring 2026! Build your own charm keychain or carabiner however you'd like while bonding with our sisters and learning about our sisterhood!"
+  },
+  {
     "title": "Philanthropy Night ",
     "date": "2026-02-04T02:00:00+00:00",
     "organization": "Theta Kappa Chi",
     "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12154684",
     "description": "The sisters of Theta Kappa Chi will be discussing their organizational philanthropy efforts with interests"
+  },
+  {
+    "title": "Theta Phi Alpha- Feb Sisterhood Events",
+    "date": "2026-02-04T01:30:00+00:00",
+    "organization": "Theta Phi Alpha",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161037",
+    "description": "Closed sisterhood event for the sisters of Theta Phi Alpha"
   },
   {
     "title": "MILF Round 3 Rehearsals",
@@ -1016,6 +1016,14 @@
     "description": "Shop student-owned business,\u00a0 kenmxiasketches  at the Feliciano Center for Entrepreneurship and Innovation! Run by sophomore Keith Luna,\u00a0 kenmxiasketches \u00a0sells h andmade stickers, bracelets, art prints, handmade polymer clay (charms, trinkets and magnets), handmade resin charms and keychains, and hoping to expand into washi tapes. Keith's business is on display in the Center throughout the week!"
   },
   {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-02-04T19:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161068",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
     "title": "GBM ",
     "date": "2026-02-04T19:00:00+00:00",
     "organization": "Montclair State Marketing Club",
@@ -1032,6 +1040,14 @@
     "description": "The Polish Club General Meeting is open to all students interested in Polish culture and community engagement. During the meeting, we will review club goals, upcoming events, leadership opportunities, and ways to get involved. New and returning members are encouraged to attend and participate."
   },
   {
+    "title": "Garfentine's Day",
+    "date": "2026-02-04T19:15:00+00:00",
+    "organization": "Garfield club",
+    "location": "University Hall 2012 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161029",
+    "description": "Welcome to the FIRST meeting of the semester!!\u00a0 \u00a0 \u00a0 \u00a0 \u00a0-We will be introducing our new E-Board and having fun Valentine-themed games!"
+  },
+  {
     "title": "Civic MatchMaker Tabling ",
     "date": "2026-02-04T19:00:00+00:00",
     "organization": "Civic & Voter Engagement",
@@ -1046,6 +1062,22 @@
     "location": "Student Center 2C02 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12080257",
     "description": "Sweet treats for a sweet cause! Stop by our bake sale fundraiser and enjoy delicious snacks while supporting our cause"
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-02-04T19:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12160991",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-02-04T19:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161081",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "General Miembro Meeting",
@@ -1078,6 +1110,22 @@
     "location": "Bloomfield Campus - Talbott Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12049214",
     "description": "Soundtracks of the Culture: Black Music Through the Years is a celebration of the powerful evolution of Black music and its impact on culture, identity, and social movements. This experience takes participants through key musical eras, beginning with The Roots (1920s\u20131940s) featuring blues, jazz, and gospel, moving into Revolution (1950s\u20131970s) where music fueled activism and change, continuing through The Culture (1980s\u20132000s) highlighting the rise of hip-hop and rap, and ending with Now & Next (2010s\u2013Today) showcasing modern sounds shaping today\u2019s generation. \n Join us for a journey through sound, history, and influence as we explore how Black music continues to inspire, empower, and define culture across generations."
+  },
+  {
+    "title": "Weekly Food Recovery Initiative",
+    "date": "2026-02-04T19:00:00+00:00",
+    "organization": "Food Recovery Network",
+    "location": "Blanton Hall Resident Kitchenette",
+    "link": "https://montclair.campuslabs.com/engage/event/12161067",
+    "description": "Join our weekly Food Recovery events, where dedicated volunteers and members gather to make a difference in our community. Each week, participants help collect perfectly good leftover food from Gourmet Dining and transport it to Blanton. There, the food is repackaged into individual microwavable containers and stocked in the food pantry, providing meals for those in need throughout the week.\u00a0 \n To Participate :\u00a0RSVP to attend the event each week. Meet in Blanton Hall Residence Hall Kitchenette in the Communal Area (Tell them you are working with Food Recovery), Sign in via Event Pass and your set! \n Requirements: \n \n Volunteers must be Food Safe Certified to participate. \n Complete the certification by following the step-by-step instructions provided in this  link . \n Once certified, email your certification to  foodrecoverynetwork@sgamsu.org  to confirm your eligibility to participate. \n \n Your involvement helps reduce food waste and insecurity while supporting individuals in our community who are in need. We look forward to your participation! *Please Note: This event end time is dependent on the amount of food given. You can estimate for max of hour and a half for recoveries."
+  },
+  {
+    "title": "Soul Food Sale",
+    "date": "2026-02-04T19:00:00+00:00",
+    "organization": "Panther Progress",
+    "location": "Dickson Hall 1C07 - Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12161032",
+    "description": "Our soul food sale follows in the footsteps of Fred Hampton and his recognition of food insecurity in his community. Plates will be provided to our campus community at an affordable price, and a portion of all proceeds will be donated to a Black nonprofit to aid in their work during Black history month."
   },
   {
     "title": "MASA Welcome Back",
@@ -1248,6 +1296,22 @@
     "description": "Feeling sweet today? Come to Freeman Hall and create your own personal candy mocktail. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "Ladies Night",
+    "date": "2026-02-05T01:30:00+00:00",
+    "organization": "Mu Sigma Upsilon Sorority, Incorporated",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161019",
+    "description": "Join us for an informative and empowering Ladies Night hosted by  Mu Sigma Upsilon Sorority, Incorporated . This event is designed for women who are interested in learning more about the  Queens of Montclair  and what it means to be part of a multicultural, service-driven sorority"
+  },
+  {
+    "title": "Vino Blanco Informational ",
+    "date": "2026-02-05T01:30:00+00:00",
+    "organization": "Lambda Tau Omega Sorority, Inc.",
+    "location": "University Hall 2042 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161088",
+    "description": "Interested in the enchanting mermaids? Swim on by to our Vino Blanco Informational and discover what sets our multicultural sorority apart from the rest!\u00a0 \n Whether you're just curious, interested, or ready to join, this informational is open to all womyn!\u00a0 \n Business Casual Required!"
+  },
+  {
     "title": "Make-Up Bag Decorating ",
     "date": "2026-02-05T02:00:00+00:00",
     "organization": "Theta Kappa Chi",
@@ -1262,6 +1326,22 @@
     "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12130119",
     "description": "M.I.L.F. (Montclair Improv League and Friends) Round 3 rehearsals."
+  },
+  {
+    "title": "Clouds of Change Philanthropy Night",
+    "date": "2026-02-05T01:45:00+00:00",
+    "organization": "Alpha Iota Chi Local Sorority Inc.",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161097",
+    "description": "Learn how Alpha Iota Chi gives back at our Clouds of Change Philanthropy Night. We\u2019ll share a brief presentation about our philanthropy and play a fun bingo game with chances to win prizes. Come support a great cause while enjoying a cozy, uplifting night."
+  },
+  {
+    "title": "KOMPAHOLIX DANCE TROUPE PRACTICE ",
+    "date": "2026-02-05T01:30:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 3002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161021",
+    "description": "Practice for Dance Troupe."
   },
   {
     "title": "Group X - Cycling",
@@ -1520,6 +1600,14 @@
     "description": "February 5th, 8PM-10PM, at Russ hall in the lounge, there will be a spellbinding event called DIY Spell book Night to create and have fun making your own Spell book!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "Upcycling with Delta Xi Delta!",
+    "date": "2026-02-06T01:45:00+00:00",
+    "organization": "Delta Xi Delta",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161050",
+    "description": "Come express your creativity in a sustainable way by upcycling with our sisters! Everyone will have the opportunity to create a jean pocket picture frame (below!) which can be customized your way...but feel free to bring in your own materials for whatever upcycling ideas you want to bring to life!"
+  },
+  {
     "title": "MILF Round 3 Rehearsals",
     "date": "2026-02-06T01:30:00+00:00",
     "organization": "Montclair State University Players",
@@ -1534,6 +1622,22 @@
     "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12154702",
     "description": "TBA"
+  },
+  {
+    "title": "Meet the Brothers ",
+    "date": "2026-02-06T01:30:00+00:00",
+    "organization": "Phi Delta Theta",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12160949",
+    "description": "Come and meet the brothers of Phi Delta Theta! Are you interested in learning more about Phi Delta Theta or joining this brotherhood? Come by and check out what it means to be a brother of Phi Delta Theta."
+  },
+  {
+    "title": "A.LIFE Ministry ",
+    "date": "2026-02-06T01:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12161039",
+    "description": "TO CREATE AN ENVIRONMENT WHERE THOSE FAR AND NEAR FROM GOD CAN EXPERIENCE THE LOVE OF GOD."
   },
   {
     "title": "National Leadership Conference T-Shirt Design",
@@ -2184,6 +2288,14 @@
     "description": "M.I.L.F. (Montclair Improv League and Friends) Round 3 rehearsals."
   },
   {
+    "title": "KOMPAHOLIX DANCE TROUPE PRACTICE ",
+    "date": "2026-02-10T01:30:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 3002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161022",
+    "description": "Practice for Dance Troupe."
+  },
+  {
     "title": "MSDC practice ",
     "date": "2026-02-10T02:00:00+00:00",
     "organization": "Montclair State Dance Company",
@@ -2504,12 +2616,36 @@
     "description": "Cali Immersive Residency Program Cali Midweek Series: Cali Conversation and Performance with PAQUITO D'RIVERA and Cali School of Music Jazz Studies Area Coordinator Dr. Oscar Perez Leshowitz Recital Hall, Chapin Hall, Cali School of Music FREE \u2013 Reservations Suggested \n CUBAN-AMERICAN SAXOPHONIST AND CLARINETIST Cali Immersive Residency Program On Campus: FEBRUARY 9\u201313, 2026 \n Full Immersive Residency Schedule \n Paquito D\u2019Rivera \u00a0is a celebrated Cuban-born clarinetist, saxophonist, and composer whose genre-defying career spans Latin jazz, classical music, and beyond. Winner of 16 Grammy and Latin Grammy Awards, he was a founding member of Irakere and Dizzy Gillespie\u2019s United Nation Orchestra, and has recorded over 40 solo albums. A child prodigy and son of classical saxophonist Tito Rivera, he has performed with major orchestras worldwide and composed for top ensembles including Yo-Yo Ma and Imani Winds. Also a writer and producer, D\u2019Rivera is known for his eclectic style and for championing Latin musical traditions on the global stage."
   },
   {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-02-11T19:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161069",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
     "title": "Red Hawk Studio- Bake Sale - 02.11",
     "date": "2026-02-11T18:30:00+00:00",
     "organization": "Red Hawk Studio",
     "location": "Dickson Hall 1C07 - Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12128780",
     "description": "Red Hawk Studio is hosting a Bakesale. Please join us as we sell baked good and treats for all"
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-02-11T19:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12160992",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-02-11T19:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161082",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "General Miembro Meeting",
@@ -2710,6 +2846,14 @@
     "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12130125",
     "description": "M.I.L.F. (Montclair Improv League and Friends) Round 3 rehearsals."
+  },
+  {
+    "title": "KOMPAHOLIX DANCE TROUPE PRACTICE ",
+    "date": "2026-02-12T01:30:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 3002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161023",
+    "description": "Practice for Dance Troupe."
   },
   {
     "title": "Group X - Cycling",
@@ -2998,6 +3142,14 @@
     "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12154854",
     "description": "Join the sisters of Sigma Delta Phi for a self-care night"
+  },
+  {
+    "title": "A.LIFE Ministry ",
+    "date": "2026-02-13T01:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12161040",
+    "description": "TO CREATE AN ENVIRONMENT WHERE THOSE FAR AND NEAR FROM GOD CAN EXPERIENCE THE LOVE OF GOD."
   },
   {
     "title": "Group X - Yoga",
@@ -3568,6 +3720,14 @@
     "description": "M.I.L.F. (Montclair Improv League and Friends) Round 3 tech."
   },
   {
+    "title": "KOMPAHOLIX DANCE TROUPE PRACTICE ",
+    "date": "2026-02-17T01:30:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 3002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161024",
+    "description": "Practice for Dance Troupe."
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2026-02-17T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -3792,6 +3952,14 @@
     "description": "M.I.L.F. (Montclair Improv League and Friends) Round 3 tech."
   },
   {
+    "title": "KOMPAHOLIX DANCE TROUPE PRACTICE ",
+    "date": "2026-02-18T01:30:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 3002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161025",
+    "description": "Practice for Dance Troupe."
+  },
+  {
     "title": "Group X - HIIT",
     "date": "2026-02-18T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -3872,6 +4040,14 @@
     "description": "Looking to perfect your resume and cover letter? Need tips and tricks for upcoming interviews and job  preparation? We're here to help!\u00a0 Join the Office of Student Belonging for a Resume Building Workshop. Get career insight, tips and tricks from Career Services about how to put out the best version of you possible!"
   },
   {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-02-18T19:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161070",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
     "title": "Polish Club General Meeting",
     "date": "2026-02-18T19:15:00+00:00",
     "organization": "Montclair State Polish Club",
@@ -3902,6 +4078,22 @@
     "location": "Bloomfield - Talbott Hall 002 - Game Room",
     "link": "https://montclair.campuslabs.com/engage/event/12111474",
     "description": "Get ready to race and compete in this chaos filled party racer featuring Kirby and Friends. Join Game Club this afternoon as we play Kirby Airriders Races and City Trial."
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-02-18T19:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12160993",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-02-18T19:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161083",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "The DJ Academy: Music Matters 101 ",
@@ -4104,6 +4296,14 @@
     "description": "M.I.L.F. (Montclair Improv League and Friends) Round 3 tech."
   },
   {
+    "title": "KOMPAHOLIX DANCE TROUPE PRACTICE ",
+    "date": "2026-02-19T01:30:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 3002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161026",
+    "description": "Practice for Dance Troupe."
+  },
+  {
     "title": "Group X - Cycling",
     "date": "2026-02-19T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4304,6 +4504,14 @@
     "description": "M.I.L.F. (Montclair Improv League and Friends) Round 3 tech."
   },
   {
+    "title": "A.LIFE Ministry ",
+    "date": "2026-02-20T01:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12161041",
+    "description": "TO CREATE AN ENVIRONMENT WHERE THOSE FAR AND NEAR FROM GOD CAN EXPERIENCE THE LOVE OF GOD."
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2026-02-20T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4430,6 +4638,14 @@
     "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12158632",
     "description": "M.I.L.F. (Montclair Improv League and Friends) Round 3 performances."
+  },
+  {
+    "title": "KOMPAHOLIX DANCE TROUPE PRACTICE ",
+    "date": "2026-02-21T01:30:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 3002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161027",
+    "description": "Practice for Dance Troupe."
   },
   {
     "title": "Red Hawk Pantry",
@@ -5144,6 +5360,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
   },
   {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-02-25T19:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161071",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
     "title": "Podcasting 101: Launch Your Voice",
     "date": "2026-02-25T19:00:00+00:00",
     "organization": "The ADP Center",
@@ -5176,12 +5400,28 @@
     "description": "Cru is a caring community of students passionate about connecting people to Jesus Christ!  Join us for Food & God - an open and inviting space where you can explore faith, ask questions, and engage in meaningful conversations\u2014all over a delicious meal. This event is not about debating or convincing; it\u2019s about listening, sharing, and creating a space where everyone feels heard and respected. Whether you have deep spiritual questions, doubts, or just want to hear different perspectives, you are welcome here. \n As you enjoy your meal, we\u2019ll dive into honest discussions about life, God, and what it all means. There\u2019s no pressure, no expectations\u2014just real talk in a relaxed and judgment-free environment. We believe that great conversations happen over great food, and this is an opportunity to connect with others in a way that is both thought-provoking and welcoming. \n So come hungry, bring a friend, and join us for an afternoon of free food, good company, and genuine conversations. We\u2019d love to hear your thoughts, share our experiences, and explore faith together\u2014one plate at a time."
   },
   {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-02-25T19:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161084",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
+  },
+  {
     "title": "General Miembro Meeting",
     "date": "2026-02-25T19:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12154348",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting, where we have fun activities planned to learn about different Latin cultures! Check out our Instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-02-25T19:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12160994",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
     "title": "Oud & Oil Perfume Making Night",
@@ -5534,6 +5774,14 @@
     "location": "Machuga Heights",
     "link": "https://montclair.campuslabs.com/engage/event/11961912",
     "description": "On February 26th in the Machuga MPR room, join us for a DIY Tarot Cards night, where you as the student get to create and design your own cards specifically destined and designed for you.\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "A.LIFE Ministry ",
+    "date": "2026-02-27T01:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12161042",
+    "description": "TO CREATE AN ENVIRONMENT WHERE THOSE FAR AND NEAR FROM GOD CAN EXPERIENCE THE LOVE OF GOD."
   },
   {
     "title": "Group X - Yoga",
@@ -6304,6 +6552,14 @@
     "description": "Take your swimming even further! Do you have a specific skill you really want to work on but never had the chance to, or that you have been meaning to learn? Each clinic will have its own topic to work on and really be able to go in-depth on. Skills include treading, flip turns, sprints, starts, and more. \n \u00a0 \n Clinic Focus Dates \n \n 2/4 - Breaststroke \n 3/4 - Treading and Turns (flip turns and open turns) \n 4/1 - Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with valid Montclair State ID \n \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-03-04T19:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161072",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
     "title": "Free Swim Clinics",
     "date": "2026-03-04T19:00:00+00:00",
     "organization": "Campus Recreation",
@@ -6326,6 +6582,14 @@
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12154349",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting, where we have fun activities planned to learn about different Latin cultures! Check out our Instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-03-04T19:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12160995",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
     "title": "The DJ Academy: Music Matters 101 ",
@@ -6640,6 +6904,14 @@
     "description": "Join us for our annual Purses with Purpose service event as we assemble 100+ purses filled with essential hygiene items for womyn experiencing postpartum."
   },
   {
+    "title": "A.LIFE Ministry ",
+    "date": "2026-03-06T01:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12161043",
+    "description": "TO CREATE AN ENVIRONMENT WHERE THOSE FAR AND NEAR FROM GOD CAN EXPERIENCE THE LOVE OF GOD."
+  },
+  {
     "title": "Softball, Indoor Soccer",
     "date": "2026-01-16T05:00:00+00:00",
     "organization": "Campus Recreation",
@@ -6934,6 +7206,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12067073",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
+  },
+  {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-03-11T18:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161073",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
@@ -7320,6 +7600,14 @@
     "description": "Our weekly Chi Alpha Large Group is a time for the whole community to come together for passionate worship, relevant teaching from God\u2019s Word, and authentic fellowship. It\u2019s a space where students can encounter Jesus, be encouraged in their faith, and connect with others who are pursuing God on campus."
   },
   {
+    "title": "MILF Round 4 Rehearsals",
+    "date": "2026-03-17T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160923",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
+  },
+  {
     "title": "MSDC Practice ",
     "date": "2026-03-17T01:00:00+00:00",
     "organization": "Montclair State Dance Company",
@@ -7472,6 +7760,14 @@
     "description": "Players: A Programming Board of the SGA is holding tech for Dance show."
   },
   {
+    "title": "MILF Round 4 Rehearsals",
+    "date": "2026-03-18T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160924",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
+  },
+  {
     "title": "complexions practice",
     "date": "2026-03-18T00:30:00+00:00",
     "organization": "Complexions",
@@ -7544,6 +7840,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
   },
   {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161074",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
     "title": "Polish Club General Meeting",
     "date": "2026-03-18T18:15:00+00:00",
     "organization": "Montclair State Polish Club",
@@ -7566,6 +7870,14 @@
     "location": "University Hall 1010 - James B. Todd Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12154619",
     "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12160996",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
     "title": "The DJ Academy: Music Matters 101 ",
@@ -7694,6 +8006,14 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12019935",
     "description": "Players: A Programming Board of the SGA is holding tech for Dance show."
+  },
+  {
+    "title": "MILF Round 4 Rehearsals",
+    "date": "2026-03-19T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160925",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
   },
   {
     "title": "Group X - Cycling",
@@ -7872,6 +8192,22 @@
     "description": "Players: A Programming Board of the SGA is holding tech for Dance show."
   },
   {
+    "title": "MILF Round 4 Rehearsals",
+    "date": "2026-03-20T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160926",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
+  },
+  {
+    "title": "A.LIFE Ministry ",
+    "date": "2026-03-20T00:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12161044",
+    "description": "TO CREATE AN ENVIRONMENT WHERE THOSE FAR AND NEAR FROM GOD CAN EXPERIENCE THE LOVE OF GOD."
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2026-03-20T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -7992,6 +8328,14 @@
     "description": "Closed rehearsal for  Into the Woods ."
   },
   {
+    "title": "MILF Round 4 Rehearsals",
+    "date": "2026-03-21T17:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160927",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
+  },
+  {
     "title": "The Red Hawk Community Ball 2026",
     "date": "2026-03-21T20:30:00+00:00",
     "organization": "Daughta Speaks",
@@ -8022,6 +8366,14 @@
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12109409",
     "description": "Closed rehearsal for  Dracula ."
+  },
+  {
+    "title": "MILF Round 4 Rehearsals",
+    "date": "2026-03-22T17:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160928",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
   },
   {
     "title": "Theta Phi Alpha- March Sisterhood Event",
@@ -8264,6 +8616,14 @@
     "description": "Our weekly Chi Alpha Large Group is a time for the whole community to come together for passionate worship, relevant teaching from God\u2019s Word, and authentic fellowship. It\u2019s a space where students can encounter Jesus, be encouraged in their faith, and connect with others who are pursuing God on campus."
   },
   {
+    "title": "MILF Round 4 Rehearsals",
+    "date": "2026-03-24T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160929",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
+  },
+  {
     "title": "MSDC Practice ",
     "date": "2026-03-24T01:00:00+00:00",
     "organization": "Montclair State Dance Company",
@@ -8400,6 +8760,14 @@
     "description": "Closed rehearsal for  Into the Woods ."
   },
   {
+    "title": "MILF Round 4 Rehearsals",
+    "date": "2026-03-25T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160930",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
+  },
+  {
     "title": "Group X - HIIT",
     "date": "2026-03-25T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -8448,6 +8816,14 @@
     "description": "Each year, our graduating class participates in a proud Class Gift tradition where members of the class invest in the University by supporting areas of Montclair State University that are most important to them. We invite the Class of 2026 to come together to show your support! \n All gifts to Montclair count! Make your gift to any area of campus you feel most passionate about \u2013 such as the Emergency Book Fund, The Red Hawk Pantry, your school or college, The Fund for Montclair State or athletic program. \n Your gift will pay it forward for future Red Hawks and kick-start your philanthropic connection to Montclair. \n \n Commemorate your class year! Make a gift of at least\u00a0 $20.26 \u00a0and you\u2019ll receive your customized philanthropy cord to wear over your commencement robe.\u00a0 \n For a gift of\u00a0 $40 , celebrate this milestone with your family, friends and colleagues by having your message displayed on the screen at the Commencement you will be participating in, and receive a customized philanthropy cord. \n \n How do I get my customized philanthropy cord? \n Customized philanthropy cords will be available for pick-up: \n \n Tuesday, October 28 from 1:00 \u2013 3:00 p.m. in the Student Center Lobby \n Thursday, November 20\u00a0 from 1:00 \u2013 3:00 p.m. in the Student Center Lobby \n Tuesday, December 2 from 12:00 \u2013 3:00 p.m. in the Student Center Lobby \n Bloomfield Campus Graduation Fair: Wednesday, December 10th from 12:00 \u2013 6:00 p.m. in Deacon\u2019s Den, Talbott Hall\u00a0 (for Bloomfield graduates only) \n Montclair Campus Graduation Fairs: Thursday, December 11th from 10:00 a.m. \u2013 7:00 p.m. in the Student Center Ballrooms\u00a0 (for Montclair or Bloomfield graduates) \n \n Graduates can also arrange to pick up their philanthropy cords in the Overlook Corporate Center, 150 Clove Road, Little Falls, NJ during business hours, Monday through Friday, 8:30 a.m. \u2013 4:30 p.m. Philanthropy cords can also be mailed to those who cannot pick it up. The last day we will mail the cords is Monday,\u00a0December 22, 2025 at 2:30 p.m.\u00a0Please contact James Stewart, Associate Director of Annual Giving at\u00a0stewartj@montclair.edu\u00a0or 973-655-5328 to finalize options to get your cords for the Winter Commencement. \n Every student has benefitted from donor generosity to areas of academic support, emergency funding for students and overall priorities to boost students\u2019 success every day. Thank you for paying it forward! For more information, please contact James Stewart, Associate Director of Annual Giving, at 973-655-5328 or\u00a0stewartj@montclair.edu."
   },
   {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-03-25T18:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161075",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
     "title": "CSAM Science Teaching Program - Program Meeting",
     "date": "2026-03-25T18:00:00+00:00",
     "organization": "College of Science and Mathematics (CSAM)",
@@ -8462,6 +8838,14 @@
     "location": "Student Center 2C04 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12056890",
     "description": "Some decisions don\u2019t need sleep. Come with an impulse and leave with art at our Flash Tat Fundraiser. Questioning whether or not you're ready for a real tat or not? Get the style without the commitment (or the throw down your parents will give you for coming home with fresh ink). Choose from over 100 designs of all sizes from full leg and arm tats to medium and smaller ones. Support CHCS and wear the memory long after the semester fades. No appointments. No backing out. Just ink and intent."
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-03-25T18:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12160997",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
     "title": "Founders Week: Commuter eXpresso (informational) ",
@@ -8550,6 +8934,14 @@
     "location": "Student Center 250C - Ballroom C",
     "link": "https://montclair.campuslabs.com/engage/event/12117731",
     "description": "Join us to understand more about the parable of the Tree of Life in the Garden of Eden"
+  },
+  {
+    "title": "MILF Round 4 Rehearsals",
+    "date": "2026-03-26T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160931",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
   },
   {
     "title": "Group X - Cycling",
@@ -8688,12 +9080,28 @@
     "description": "Closed rehearsal for  Into the Woods ."
   },
   {
+    "title": "MILF Round 4 Rehearsals",
+    "date": "2026-03-27T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160932",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
+  },
+  {
     "title": "Multicultural Talent Show ",
     "date": "2026-03-27T00:30:00+00:00",
     "organization": "Lambda Tau Omega Sorority, Inc.",
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12137548",
     "description": "Celebrate culture, creativity, and unity at our Multicultural Talent Show! A night dedicated to showcasing talent from diverse backgrounds and communities."
+  },
+  {
+    "title": "A.LIFE Ministry ",
+    "date": "2026-03-27T00:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12161045",
+    "description": "TO CREATE AN ENVIRONMENT WHERE THOSE FAR AND NEAR FROM GOD CAN EXPERIENCE THE LOVE OF GOD."
   },
   {
     "title": "Group X - Yoga",
@@ -8848,6 +9256,14 @@
     "description": "Closed rehearsal for  Into the Woods ."
   },
   {
+    "title": "MILF Round 4 Rehearsals",
+    "date": "2026-03-28T17:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160933",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
+  },
+  {
     "title": "Eid Mela",
     "date": "2026-03-28T21:00:00+00:00",
     "organization": "Bangladesh Student Association ",
@@ -8870,6 +9286,14 @@
     "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12118225",
     "description": "Closed rehearsal for  Into the Woods ."
+  },
+  {
+    "title": "MILF Round 4 Rehearsals",
+    "date": "2026-03-29T17:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160934",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
   },
   {
     "title": "Kate Hamill's Dracula",
@@ -9128,6 +9552,14 @@
     "description": "Our weekly Chi Alpha Large Group is a time for the whole community to come together for passionate worship, relevant teaching from God\u2019s Word, and authentic fellowship. It\u2019s a space where students can encounter Jesus, be encouraged in their faith, and connect with others who are pursuing God on campus."
   },
   {
+    "title": "MILF Round 4 Rehearsals",
+    "date": "2026-03-31T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160935",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
+  },
+  {
     "title": "MSDC practice ",
     "date": "2026-03-31T01:00:00+00:00",
     "organization": "Montclair State Dance Company",
@@ -9256,6 +9688,14 @@
     "description": "Closed rehearsal for  Into the Woods ."
   },
   {
+    "title": "MILF Round 4 Rehearsals",
+    "date": "2026-04-01T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160936",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
+  },
+  {
     "title": "Group X - HIIT",
     "date": "2026-04-01T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -9336,6 +9776,14 @@
     "description": "Take your swimming even further! Do you have a specific skill you really want to work on but never had the chance to, or that you have been meaning to learn? Each clinic will have its own topic to work on and really be able to go in-depth on. Skills include treading, flip turns, sprints, starts, and more. \n \u00a0 \n Clinic Focus Dates \n \n 2/4 - Breaststroke \n 3/4 - Treading and Turns (flip turns and open turns) \n 4/1 - Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with valid Montclair State ID \n \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-04-01T18:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161076",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
     "title": "Polish Club General Meeting (Easter Edition)",
     "date": "2026-04-01T18:15:00+00:00",
     "organization": "Montclair State Polish Club",
@@ -9358,6 +9806,14 @@
     "location": "University Hall 1010 - James B. Todd Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12158685",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-04-01T18:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12160998",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
     "title": "The DJ Academy: Music Matters 101 ",
@@ -9438,6 +9894,14 @@
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12118364",
     "description": "Closed rehearsal for  Into the Woods ."
+  },
+  {
+    "title": "MILF Round 4 Rehearsals",
+    "date": "2026-04-02T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160937",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
   },
   {
     "title": "Group X - Cycling",
@@ -9566,6 +10030,22 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12081105",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 7pm - 7:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Colin"
+  },
+  {
+    "title": "MILF Round 4 Rehearsals",
+    "date": "2026-04-03T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160938",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
+  },
+  {
+    "title": "A.LIFE Ministry ",
+    "date": "2026-04-03T00:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12161046",
+    "description": "TO CREATE AN ENVIRONMENT WHERE THOSE FAR AND NEAR FROM GOD CAN EXPERIENCE THE LOVE OF GOD."
   },
   {
     "title": "Group X - Yoga",
@@ -9816,6 +10296,14 @@
     "description": "Our weekly Chi Alpha Large Group is a time for the whole community to come together for passionate worship, relevant teaching from God\u2019s Word, and authentic fellowship. It\u2019s a space where students can encounter Jesus, be encouraged in their faith, and connect with others who are pursuing God on campus."
   },
   {
+    "title": "MILF Round 4 Tech",
+    "date": "2026-04-07T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160919",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 tech."
+  },
+  {
     "title": "MSDC Practice ",
     "date": "2026-04-07T01:00:00+00:00",
     "organization": "Montclair State Dance Company",
@@ -9984,6 +10472,14 @@
     "description": "Join us in making care packages for a local nursing home"
   },
   {
+    "title": "MILF Round 4 Tech",
+    "date": "2026-04-08T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160920",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 tech."
+  },
+  {
     "title": "Group X - HIIT",
     "date": "2026-04-08T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -10056,12 +10552,28 @@
     "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-04-08T18:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161077",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
     "title": "Field Day with SASA!",
     "date": "2026-04-08T18:00:00+00:00",
     "organization": "South Asian Student Association",
     "location": "Student Center Quad123 - All Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12051567",
     "description": "Join us this Wednesday for some outdoor fun! We will have volleyball, badminton, cricket, and more games.\u00a0 \n We will also be having a little egg hunt to celebrate Easter!"
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-04-08T18:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12160999",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
     "title": "General Miembro Meeting ",
@@ -10166,6 +10678,14 @@
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12119975",
     "description": "Closed rehearsal for  Into the Woods ."
+  },
+  {
+    "title": "MILF Round 4 Tech",
+    "date": "2026-04-09T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160921",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 tech."
   },
   {
     "title": "Group X - Cycling",
@@ -10288,6 +10808,22 @@
     "description": "Closed rehearsal for  Into the Woods ."
   },
   {
+    "title": "MILF Round 4 Tech",
+    "date": "2026-04-10T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160922",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 tech."
+  },
+  {
+    "title": "A.LIFE Ministry ",
+    "date": "2026-04-10T00:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12161047",
+    "description": "TO CREATE AN ENVIRONMENT WHERE THOSE FAR AND NEAR FROM GOD CAN EXPERIENCE THE LOVE OF GOD."
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2026-04-10T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -10368,6 +10904,14 @@
     "description": "Whether you\u2019ve got a hidden talent or just want a fun night out, Open Mic Night is the place to be. Music, poetry, comedy, and good vibes all around\u2014come perform, cheer on your friends, or just hang out and enjoy the energy. \ud83c\udfa4"
   },
   {
+    "title": "MILF Round 4",
+    "date": "2026-04-10T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160917",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 performances."
+  },
+  {
     "title": "Into the Woods Rehearsal",
     "date": "2026-04-11T15:45:00+00:00",
     "organization": "Montclair State University Players",
@@ -10382,6 +10926,14 @@
     "location": "Student Center Quad123 - All Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12159123",
     "description": "Join NASO for our Interhouse Sports & Cookout Event! Get active with fun games and friendly competition, and show off your moves on the dance floor. We\u2019ll have great music, good vibes, and plenty of delicious food fresh off the grill. Don\u2019t miss this chance to connect, compete, and celebrate with the community. It\u2019s all about fun, culture, and unity."
+  },
+  {
+    "title": "MILF Round 4",
+    "date": "2026-04-11T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12160918",
+    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 performances."
   },
   {
     "title": "Into the Woods Rehearsal",
@@ -10776,6 +11328,14 @@
     "description": "Each year, our graduating class participates in a proud Class Gift tradition where members of the class invest in the University by supporting areas of Montclair State University that are most important to them. We invite the Class of 2026 to come together to show your support! \n All gifts to Montclair count! Make your gift to any area of campus you feel most passionate about \u2013 such as the Emergency Book Fund, The Red Hawk Pantry, your school or college, The Fund for Montclair State or athletic program. \n Your gift will pay it forward for future Red Hawks and kick-start your philanthropic connection to Montclair. \n \n Commemorate your class year! Make a gift of at least\u00a0 $20.26 \u00a0and you\u2019ll receive your customized philanthropy cord to wear over your commencement robe.\u00a0 \n For a gift of\u00a0 $40 , celebrate this milestone with your family, friends and colleagues by having your message displayed on the screen at the Commencement you will be participating in, and receive a customized philanthropy cord. \n \n How do I get my customized philanthropy cord? \n Customized philanthropy cords will be available for pick-up: \n \n Tuesday, October 28 from 1:00 \u2013 3:00 p.m. in the Student Center Lobby \n Thursday, November 20\u00a0 from 1:00 \u2013 3:00 p.m. in the Student Center Lobby \n Tuesday, December 2 from 12:00 \u2013 3:00 p.m. in the Student Center Lobby \n Bloomfield Campus Graduation Fair: Wednesday, December 10th from 12:00 \u2013 6:00 p.m. in Deacon\u2019s Den, Talbott Hall\u00a0 (for Bloomfield graduates only) \n Montclair Campus Graduation Fairs: Thursday, December 11th from 10:00 a.m. \u2013 7:00 p.m. in the Student Center Ballrooms\u00a0 (for Montclair or Bloomfield graduates) \n \n Graduates can also arrange to pick up their philanthropy cords in the Overlook Corporate Center, 150 Clove Road, Little Falls, NJ during business hours, Monday through Friday, 8:30 a.m. \u2013 4:30 p.m. Philanthropy cords can also be mailed to those who cannot pick it up. The last day we will mail the cords is Monday,\u00a0December 22, 2025 at 2:30 p.m.\u00a0Please contact James Stewart, Associate Director of Annual Giving at\u00a0stewartj@montclair.edu\u00a0or 973-655-5328 to finalize options to get your cords for the Winter Commencement. \n Every student has benefitted from donor generosity to areas of academic support, emergency funding for students and overall priorities to boost students\u2019 success every day. Thank you for paying it forward! For more information, please contact James Stewart, Associate Director of Annual Giving, at 973-655-5328 or\u00a0stewartj@montclair.edu."
   },
   {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-04-15T18:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161078",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
     "title": "Polish Club General Meeting",
     "date": "2026-04-15T18:15:00+00:00",
     "organization": "Montclair State Polish Club",
@@ -10790,6 +11350,14 @@
     "location": "University Hall 1010 - James B. Todd Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12158716",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-04-15T18:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161000",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
     "title": "Order of Omega Induction",
@@ -11030,6 +11598,14 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12023516",
     "description": "Tech rehearsal for  Into the Woods ."
+  },
+  {
+    "title": "A.LIFE Ministry ",
+    "date": "2026-04-17T00:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12161048",
+    "description": "TO CREATE AN ENVIRONMENT WHERE THOSE FAR AND NEAR FROM GOD CAN EXPERIENCE THE LOVE OF GOD."
   },
   {
     "title": "Group X - Yoga",
@@ -11480,6 +12056,22 @@
     "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161079",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161001",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
     "title": "The DJ Academy: Music Matters 101 ",
     "date": "2026-04-22T18:30:00+00:00",
     "organization": "Campus Activities at Bloomfield",
@@ -11688,6 +12280,14 @@
     "description": "Join Lambda Tau Omega Sorority, Inc. for their Mermaid Mixer!"
   },
   {
+    "title": "A.LIFE Ministry ",
+    "date": "2026-04-24T00:30:00+00:00",
+    "organization": "A.LIFE",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12161038",
+    "description": "TO CREATE AN ENVIRONMENT WHERE THOSE FAR AND NEAR FROM GOD CAN EXPERIENCE THE LOVE OF GOD."
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2026-04-24T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -11846,6 +12446,14 @@
     "location": "Amphitheater",
     "link": "https://montclair.campuslabs.com/engage/event/11871313",
     "description": "April is Sexual Assault Awareness Month, and together, we can break the silence. \u00a0The Montclair State University Police Department and the Office of Advocacy & Outreach are committed to fostering a campus where survivors feel heard, supported, and empowered.\u00a0 It starts with believing. It starts with you. \u00a0By offering a safe and affirming response to those who disclose gender-based and sexual violence, we can create lasting change. Let\u2019s stand together to end the cycle of silence\u2014because\u00a0 every voice matters, and every action counts. \n Denim Day is recognized internationally as a day of action and awareness, encouraging people to wear denim to challenge victim-blaming and educate others about sexual violence.\u00a0 This year, Denim Day falls on Wednesday, April 29, 2026. \n The University Police and\u00a0 Office of Advocacy & Outreach and the Office of Advocacy and Community Resilience , in partnership with over 30 campus and local community organizations, invites you to join us\u00a0 from 9 a.m. to 12 p.m. at the Amphitheater \u00a0for a powerful awareness event honoring survivors and increasing awareness of available resources. \n Despite the\u00a0 gaps \u00a0that still exist in the criminal justice system, in resources, and in prevention education,\u00a0 we will move forward together \u00a0as a community. As part of this commitment, we will walk\u00a0 one mile around campus in solidarity with survivors."
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-04-29T18:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161002",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
     "title": "Canva Masterclass: Advanced Pro Tools & Design Hacks",
