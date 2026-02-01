@@ -56,14 +56,6 @@
     "description": "Join us for our February floor meeting! We\u2019ll go over important community reminders, quiet hours, guest policies, and any building updates. This is a chance to ask questions and connect with your CA and neighbors.  Attendance is expected. \n Commuters may attend but must be signed in by a resident following Residence Life guest procedures."
   },
   {
-    "title": "Dinner, Drive in, and Dive In",
-    "date": "2026-02-02T00:30:00+00:00",
-    "organization": "Residence Life",
-    "location": "Machuga Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/11961994",
-    "description": "Getting hungry? The Machuga Lounge has got you covered! Stop by and grab some dinner while we have a Diner, Drive-Ins, and Dives watch party! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Theta Phi Alpha- February Chapter Meetings ",
     "date": "2026-02-01T22:00:00+00:00",
     "organization": "Theta Phi Alpha",
@@ -200,20 +192,20 @@
     "description": "An educational session covering the qualifications, requirements, and responsibilities of an Orientation Leader. Meet with the Orientation Programs staff and learn more about the perks of serving on the Orientation Team! This session involves a 20-30 minute presentation with time provided for questions."
   },
   {
-    "title": "WIRES February General Body Meeting",
-    "date": "2026-02-02T19:00:00+00:00",
-    "organization": "Women In Recording, Engineering, and Sound",
-    "location": "CCM 2007",
-    "link": "https://montclair.campuslabs.com/engage/event/12148458",
-    "description": "Join us to discuss our future plans and upcoming events; and to socialize with WIRES members!"
-  },
-  {
     "title": "Study Abroad 101",
     "date": "2026-02-02T19:00:00+00:00",
     "organization": "Office of International Academic Initiatives",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12128362",
     "description": "Join the Office of International Academic Initiatives to learn about the Study Abroad Opportunities that Montclair State University has to offer. Learn about our different programs that are as short as one week up to an academic year as well as scholarship information. Whether you want to stay as close to home as Pennsylvania or travel as far away as South Korea, Montclair State University has programs for you."
+  },
+  {
+    "title": "WIRES February General Body Meeting",
+    "date": "2026-02-02T19:00:00+00:00",
+    "organization": "Women In Recording, Engineering, and Sound",
+    "location": "CCM 2007",
+    "link": "https://montclair.campuslabs.com/engage/event/12148458",
+    "description": "Join us to discuss our future plans and upcoming events; and to socialize with WIRES members!"
   },
   {
     "title": "Cru Bible Study! ",
@@ -7744,20 +7736,20 @@
     "description": "The Polish Club General Meeting is open to all students interested in Polish culture and community engagement. During the meeting, we will review club goals, upcoming events, leadership opportunities, and ways to get involved. New and returning members are encouraged to attend and participate."
   },
   {
-    "title": "Powerful Mujeras ",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "The Women Of Color Alliance ",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12154619",
-    "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12154350",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting, where we have fun activities planned to learn about different Latin cultures! Check out our Instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "Powerful Mujeras ",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "The Women Of Color Alliance ",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12154619",
+    "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
   },
   {
     "title": "MSU Political Science Club General Body Meeting",
