@@ -1,21 +1,5 @@
 [
   {
-    "title": "NJ Congressional District 11 Candidate Forum ",
-    "date": "2026-01-31T20:00:00+00:00",
-    "organization": "Montclair State University Democrats",
-    "location": "Dickson Hall 178 - Cohen Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12137897",
-    "description": "Welcome to our upcoming CD-11 special election candidate forum! All 11 candidates will discuss current issues that affect the congressional district and NJ at large. Candidates will be asked questions by moderators, and will be given time to answer additional questions provided by the public. This event is co-sponsored with the College Democrats of New Jersey and the Seton Hall University Democrats."
-  },
-  {
-    "title": "Dear Future Self Night",
-    "date": "2026-01-31T23:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Stone Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11915106",
-    "description": "Dear Future Self Night  Slow down and reflect with us on Friday, January 31 from 6-8 p.m. for Dear Future Self Night, you\u2019ll write a personal letter capturing who you are now and who you hope to grow into by the end of the year.  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Theta Phi Alpha- Recruitment PR Workshop",
     "date": "2026-01-31T22:00:00+00:00",
     "organization": "Theta Phi Alpha",
@@ -254,14 +238,6 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12128362",
     "description": "Join the Office of International Academic Initiatives to learn about the Study Abroad Opportunities that Montclair State University has to offer. Learn about our different programs that are as short as one week up to an academic year as well as scholarship information. Whether you want to stay as close to home as Pennsylvania or travel as far away as South Korea, Montclair State University has programs for you."
-  },
-  {
-    "title": "WIRES February General Body Meeting",
-    "date": "2026-02-02T19:00:00+00:00",
-    "organization": "Women In Recording, Engineering, and Sound",
-    "location": "CCM 2007",
-    "link": "https://montclair.campuslabs.com/engage/event/12148458",
-    "description": "Join us to discuss our future plans and upcoming events; and to socialize with WIRES members!"
   },
   {
     "title": "Cru Bible Study! ",
@@ -7792,20 +7768,20 @@
     "description": "The Polish Club General Meeting is open to all students interested in Polish culture and community engagement. During the meeting, we will review club goals, upcoming events, leadership opportunities, and ways to get involved. New and returning members are encouraged to attend and participate."
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12154350",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting, where we have fun activities planned to learn about different Latin cultures! Check out our Instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "Powerful Mujeras ",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "The Women Of Color Alliance ",
     "location": "University Hall 1010 - James B. Todd Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12154619",
     "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12154350",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting, where we have fun activities planned to learn about different Latin cultures! Check out our Instagram @laso1970 for this week's topic!"
   },
   {
     "title": "MSU Political Science Club General Body Meeting",
@@ -11280,20 +11256,20 @@
     "description": "The Polish Club General Meeting is open to all students interested in Polish culture and community engagement. During the meeting, we will review club goals, upcoming events, leadership opportunities, and ways to get involved. New and returning members are encouraged to attend and participate."
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2026-04-15T18:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12158716",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Political Science Club General Body Meeting",
     "date": "2026-04-15T18:00:00+00:00",
     "organization": "Political Science Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12161000",
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2026-04-15T18:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12158716",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Order of Omega Induction",
