@@ -200,20 +200,20 @@
     "description": "An educational session covering the qualifications, requirements, and responsibilities of an Orientation Leader. Meet with the Orientation Programs staff and learn more about the perks of serving on the Orientation Team! This session involves a 20-30 minute presentation with time provided for questions."
   },
   {
-    "title": "Study Abroad 101",
-    "date": "2026-02-02T19:00:00+00:00",
-    "organization": "Office of International Academic Initiatives",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12128362",
-    "description": "Join the Office of International Academic Initiatives to learn about the Study Abroad Opportunities that Montclair State University has to offer. Learn about our different programs that are as short as one week up to an academic year as well as scholarship information. Whether you want to stay as close to home as Pennsylvania or travel as far away as South Korea, Montclair State University has programs for you."
-  },
-  {
     "title": "WIRES February General Body Meeting",
     "date": "2026-02-02T19:00:00+00:00",
     "organization": "Women In Recording, Engineering, and Sound",
     "location": "CCM 2007",
     "link": "https://montclair.campuslabs.com/engage/event/12148458",
     "description": "Join us to discuss our future plans and upcoming events; and to socialize with WIRES members!"
+  },
+  {
+    "title": "Study Abroad 101",
+    "date": "2026-02-02T19:00:00+00:00",
+    "organization": "Office of International Academic Initiatives",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12128362",
+    "description": "Join the Office of International Academic Initiatives to learn about the Study Abroad Opportunities that Montclair State University has to offer. Learn about our different programs that are as short as one week up to an academic year as well as scholarship information. Whether you want to stay as close to home as Pennsylvania or travel as far away as South Korea, Montclair State University has programs for you."
   },
   {
     "title": "Cru Bible Study! ",
