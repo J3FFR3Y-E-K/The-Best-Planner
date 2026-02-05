@@ -7629,7 +7629,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12108159",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 01/20 - 04/24 \n 2:00pm - 2:45 pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Vincent"
+    "description": ""
   },
   {
     "title": "Take-and-Make Craft Kit: Camp Site",
@@ -12288,20 +12288,20 @@
     "description": "The Polish Club General Meeting is open to all students interested in Polish culture and community engagement. During the meeting, we will review club goals, upcoming events, leadership opportunities, and ways to get involved. New and returning members are encouraged to attend and participate."
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2026-04-15T18:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12158716",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "MSU Political Science Club General Body Meeting",
     "date": "2026-04-15T18:00:00+00:00",
     "organization": "Political Science Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12161000",
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2026-04-15T18:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12158716",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Order of Omega Induction",
