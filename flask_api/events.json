@@ -1,29 +1,5 @@
 [
   {
-    "title": "Bags of Love",
-    "date": "2026-02-08T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Freeman Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11961972",
-    "description": "Spread some sweetness this month with our Bags of Love event! Come join us and create your own candy bag to brighten someone's day or keep it as a sweet treat for yourself! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Valentines Day",
-    "date": "2026-02-07T22:00:00+00:00",
-    "organization": "Black Student Union",
-    "location": "Student Center 250ABC - Ballrooms A, B, and C",
-    "link": "https://montclair.campuslabs.com/engage/event/12148247",
-    "description": "Valentinea Day"
-  },
-  {
-    "title": "Altoid Tin Wallets",
-    "date": "2026-02-08T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11961973",
-    "description": "Keep losing your ID? Looking for a place to stash your spare change? Look no further! Join the Community Programmers in the Blanton Atrium and create your own Altoid tin wallet! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Fashion Illustration and Digital Applications Exhibition",
     "date": "2026-02-08T15:00:00+00:00",
     "organization": "Art and Design",
@@ -336,20 +312,20 @@
     "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
   },
   {
-    "title": "Roots of Resistance: The birth of NAACP",
-    "date": "2026-02-09T19:00:00+00:00",
-    "organization": "National Association for the Advancement of Colored People",
-    "location": "Student Center 2C02 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12180505",
-    "description": "In honor of our founders week, join the NAACP for\u00a0 Roots of Resistance: The Birth of the NAACP , a tabling event focused on educating students about the history, mission, and impact of the NAACP. Learn why the organization was founded, how it has shaped the fight for civil rights, and the role it continues to play in advancing justice and equality today."
-  },
-  {
     "title": "PRSO GBM",
     "date": "2026-02-09T19:00:00+00:00",
     "organization": "Puerto Rican Student Organization",
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12155192",
     "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization. \n More details about the theme of each weekly GBM is located on our official Instagram account @montclair_prso ! A flyer is posted weekly based on the topic of each GBM!"
+  },
+  {
+    "title": "Roots of Resistance: The birth of NAACP",
+    "date": "2026-02-09T19:00:00+00:00",
+    "organization": "National Association for the Advancement of Colored People",
+    "location": "Student Center 2C02 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12180505",
+    "description": "In honor of our founders week, join the NAACP for\u00a0 Roots of Resistance: The Birth of the NAACP , a tabling event focused on educating students about the history, mission, and impact of the NAACP. Learn why the organization was founded, how it has shaped the fight for civil rights, and the role it continues to play in advancing justice and equality today."
   },
   {
     "title": "We Love Our First-Gen",
@@ -6240,20 +6216,20 @@
     "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
   },
   {
-    "title": "HOSA General Body Meeting",
-    "date": "2026-03-04T19:00:00+00:00",
-    "organization": "Health Occupations Students of America - Future Health Professionals ",
-    "location": "University Hall 2009 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12171205",
-    "description": "HOSA GBM!"
-  },
-  {
     "title": "Free Swim Clinics - Treading and Turns",
     "date": "2026-03-04T19:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Pool",
     "link": "https://montclair.campuslabs.com/engage/event/11930979",
     "description": "Take your swimming even further! Do you have a specific skill you really want to work on but never had the chance to, or that you have been meaning to learn? Each clinic will have its own topic to work on and really be able to go in-depth on. Skills include treading, flip turns, sprints, starts, and more. \n \u00a0 \n Clinic Focus Dates \n \n 2/4 - Breaststroke \n 3/4 - Treading and Turns (flip turns and open turns) \n 4/1 - Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with valid Montclair State ID \n \n When and Where? \n \n Student Recreation Center - Pool"
+  },
+  {
+    "title": "HOSA General Body Meeting",
+    "date": "2026-03-04T19:00:00+00:00",
+    "organization": "Health Occupations Students of America - Future Health Professionals ",
+    "location": "University Hall 2009 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12171205",
+    "description": "HOSA GBM!"
   },
   {
     "title": "Free Swim Clinic - Breaststroke",
@@ -6304,20 +6280,20 @@
     "description": "WOCA General Body Meetings are welcoming, high-energy spaces where women of color come together to connect, learn, and grow. These meetings feature engaging discussions, guest speakers, and community-building activities designed to inspire leadership, strengthen sisterhood, and provide resources for personal and professional success. Each meeting is a chance to be seen, heard, and supported while building lasting connections."
   },
   {
-    "title": "Haitian Student Association General Body Meeting ",
-    "date": "2026-03-04T19:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12165442",
-    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
-  },
-  {
     "title": "MSU Political Science Club General Body Meeting",
     "date": "2026-03-04T19:00:00+00:00",
     "organization": "Political Science Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12160995",
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-03-04T19:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12165442",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "NASO General Body Meeting",
@@ -7814,14 +7790,6 @@
     "location": "School Of Business 421 - Flexible Standard Tech Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12150021",
     "description": "The Polish Club General Meeting is open to all students interested in Polish culture and community engagement. During the meeting, we will review club goals, upcoming events, leadership opportunities, and ways to get involved. New and returning members are encouraged to attend and participate."
-  },
-  {
-    "title": "General Miembro Meeting",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12154350",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting, where we have fun activities planned to learn about different Latin cultures! Check out our Instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Powerful Mujeras ",
