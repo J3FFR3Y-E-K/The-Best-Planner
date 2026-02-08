@@ -1,21 +1,5 @@
 [
   {
-    "title": "Soup-er Bowl Saturday",
-    "date": "2026-02-07T22:00:00+00:00",
-    "organization": "Campus Activities",
-    "location": "Sam's Place",
-    "link": "https://montclair.campuslabs.com/engage/event/11969751",
-    "description": "Decorate your own bowl and warm up with a variety of soups and cozy vibes before watching the big game. Come hungry and bring your friends for a laid-back Saturday night. All attendees will have to swipe into Sam's Place to participate."
-  },
-  {
-    "title": "Magnificent Bird / Book of Travelers | Two Song Cycles written and performed by Gabriel Kahane",
-    "date": "2026-02-07T21:00:00+00:00",
-    "organization": "PEAK Performances",
-    "location": "Alexander Kasser Theatre",
-    "link": "https://montclair.campuslabs.com/engage/event/11346550",
-    "description": "Experience two distinct works by acclaimed songwriter and performer Gabriel Kahane in one unforgettable day.\u00a0 \n \u00a0 \n In this duo of intimate solo musical plays, composer Gabriel Kahane blends songwriting and storytelling for a singular, poignant theatrical event. Book of Travelers recounts the strangers he met on a 9,000-mile train journey through a divided America, and Magnificent Bird chronicles a year he spent entirely off-line, and the unexpected turbulence of living quietly. Performed on alternating nights, these two concept albums offer a relentless self-inquiry, and a searing portrait of a world in flux.\u00a0 To join us, be sure to pick up your free student ticket from the Alexander Kasser Theatre box office or our mobile box office in the student center lobby, Tuesday - Thursday, 11:30 AM to 2:00 PM, and show your student ID at the PEAK desk in the lobby when you arrive for a surprise gift from PEAK. \n \u00a0 \n Hailed as \u201cone of the finest songwriters of the day\u201d by The New Yorker, Gabriel Kahane is a musician and storyteller whose work spans the theater, club, and concert hall. Highlights of the 2024-25 season include a return to the New York stage in a production at Playwrights Horizons, performances at the Philharmonie de Paris, Wigmore Hall, and the Concertgebouw with fellow composer/performer Caroline Shaw, the premiere of a clarinet concerto for Anthony McGill, a solo debut with the Orchestre National de Lyon, and Kahane\u2019s San Francisco conducting debut in Carla Kihlstedt\u2019s Twenty-six Little Deaths. Kahane's collaborators range from Phoebe Bridgers, Paul Simon, Sufjan Stevens, and Sylvan Esso, to the Danish String Quartet, Roomful of Teeth, and Attacca Quartet. As a writer, he has been published by The New Yorker online and The New York Times; a newsletter and collection of essays on music, literature, and politics can be found at\u00a0 gabrielkahane.substack.com . \n \u00a0 \n 4:00 pm Magnificent Bird \n Run Time: \u00a074 minutes, no intermission. \n \u00a0 \n Magnificent Bird, is an intimate reflection on a year of self-imposed isolation during which the artist set out to write a song every day. With contributions from Andrew Bird, Chris Thile, Amelia Meath (Sylvan Esso), and Pulitzer Prize- winning composer Caroline Shaw, this collection explores the delicate balance between personal introspection and global crises. It\u2019s a vivid musical snapshot of life during a tumultuous period, offering both a personal and universal meditation on modern-day existence. Based on Kahane\u2019s fifth LP. \n \u00a0 \n 7:00 pm - Book of Travelers \n Run Time: \u00a070 minutes, no intermission \n \u00a0 \n In Book of Travelers, Gabriel Kahane embarks on a journey across the United States, exploring the intersections of American identity and personal connection through the people he meets along the way. This powerful and emotional piece blends folk, classical, and pop influences to create a nuanced reflection on contemporary life in America. The work is a poignant and intimate exploration of what it means to traverse a country at a crossroads."
-  },
-  {
     "title": "Bags of Love",
     "date": "2026-02-08T00:00:00+00:00",
     "organization": "Residence Life",
@@ -328,20 +312,20 @@
     "description": "Join History Club for a trivia event recognizing Black History Month. Questions will highlight important moments, influential figures, and cultural contributions that have shaped history and continue to impact society today."
   },
   {
-    "title": "Valentines Card Making Event",
-    "date": "2026-02-09T19:00:00+00:00",
-    "organization": "Child Advocacy and Policy Club",
-    "location": "Dickson Hall 176 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12171360",
-    "description": "Card Making event for children in hospitals"
-  },
-  {
     "title": "Meet the E-Board and History of Dabke",
     "date": "2026-02-09T19:00:00+00:00",
     "organization": "Dabke Club",
     "location": "University Hall 2044 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12191726",
     "description": "Our first event of the semester! Join us meet our E-Board and to learn the history of Dabke and how it evolved to what it is today. Light refreshments and snacks will be served."
+  },
+  {
+    "title": "Valentines Card Making Event",
+    "date": "2026-02-09T19:00:00+00:00",
+    "organization": "Child Advocacy and Policy Club",
+    "location": "Dickson Hall 176 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12171360",
+    "description": "Card Making event for children in hospitals"
   },
   {
     "title": "Daughta Speaks GBM",
@@ -3280,20 +3264,20 @@
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting, where we have fun activities planned to learn about different Latin cultures! Check out our Instagram @laso1970 for this week's topic!"
   },
   {
-    "title": "Pyaar Hua with SASA!",
-    "date": "2026-02-18T19:00:00+00:00",
-    "organization": "South Asian Student Association",
-    "location": "School Of Business 422 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12128972",
-    "description": "Join us this Wednesday for our first event of the Spring semester! We will be celebrating Valentine's Day with samosas and chai, a fun bracelet-making session, and lots of valentines and goody bags!"
-  },
-  {
     "title": "Garf-Art Day feat. Snoopy Club!",
     "date": "2026-02-18T19:00:00+00:00",
     "organization": "Garfield club",
     "location": "University Hall 2011 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12191842",
     "description": "Welcome! Join us and the new Snoopy Club to chill out and learn how to draw Garfield and Peanuts characters together!"
+  },
+  {
+    "title": "Pyaar Hua with SASA!",
+    "date": "2026-02-18T19:00:00+00:00",
+    "organization": "South Asian Student Association",
+    "location": "School Of Business 422 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12128972",
+    "description": "Join us this Wednesday for our first event of the Spring semester! We will be celebrating Valentine's Day with samosas and chai, a fun bracelet-making session, and lots of valentines and goody bags!"
   },
   {
     "title": "WOCA General Body Meetings  ",
@@ -7848,20 +7832,20 @@
     "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
   },
   {
-    "title": "Haitian Student Association General Body Meeting ",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12165443",
-    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
-  },
-  {
     "title": "MSU Political Science Club General Body Meeting",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "Political Science Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12160996",
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12165443",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "NASO General Body Meeting",
@@ -11920,20 +11904,20 @@
     "description": "Each year, our graduating class participates in a proud Class Gift tradition where members of the class invest in the University by supporting areas of Montclair State University that are most important to them. We invite the Class of 2026 to come together to show your support! \n All gifts to Montclair count! Make your gift to any area of campus you feel most passionate about \u2013 such as the Emergency Book Fund, The Red Hawk Pantry, your school or college, The Fund for Montclair State or athletic program. \n Your gift will pay it forward for future Red Hawks and kick-start your philanthropic connection to Montclair. \n \n Commemorate your class year! Make a gift of at least\u00a0 $20.26 \u00a0and you\u2019ll receive your customized philanthropy cord to wear over your commencement robe.\u00a0 \n For a gift of\u00a0 $40 , celebrate this milestone with your family, friends and colleagues by having your message displayed on the screen at the Commencement you will be participating in, and receive a customized philanthropy cord. \n \n How do I get my customized philanthropy cord? \n Customized philanthropy cords will be available for pick-up: \n \n Tuesday, October 28 from 1:00 \u2013 3:00 p.m. in the Student Center Lobby \n Thursday, November 20\u00a0 from 1:00 \u2013 3:00 p.m. in the Student Center Lobby \n Tuesday, December 2 from 12:00 \u2013 3:00 p.m. in the Student Center Lobby \n Bloomfield Campus Graduation Fair: Wednesday, December 10th from 12:00 \u2013 6:00 p.m. in Deacon\u2019s Den, Talbott Hall\u00a0 (for Bloomfield graduates only) \n Montclair Campus Graduation Fairs: Thursday, December 11th from 10:00 a.m. \u2013 7:00 p.m. in the Student Center Ballrooms\u00a0 (for Montclair or Bloomfield graduates) \n \n Graduates can also arrange to pick up their philanthropy cords in the Overlook Corporate Center, 150 Clove Road, Little Falls, NJ during business hours, Monday through Friday, 8:30 a.m. \u2013 4:30 p.m. Philanthropy cords can also be mailed to those who cannot pick it up. The last day we will mail the cords is Monday,\u00a0December 22, 2025 at 2:30 p.m.\u00a0Please contact James Stewart, Associate Director of Annual Giving at\u00a0stewartj@montclair.edu\u00a0or 973-655-5328 to finalize options to get your cords for the Winter Commencement. \n Every student has benefitted from donor generosity to areas of academic support, emergency funding for students and overall priorities to boost students\u2019 success every day. Thank you for paying it forward! For more information, please contact James Stewart, Associate Director of Annual Giving, at 973-655-5328 or\u00a0stewartj@montclair.edu."
   },
   {
-    "title": "Caribbean Students' Organization: General body Meetings ",
-    "date": "2026-04-15T18:00:00+00:00",
-    "organization": "Caribbean Students' Organization",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12161078",
-    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
-  },
-  {
     "title": "HOSA General Body Meeting",
     "date": "2026-04-15T18:00:00+00:00",
     "organization": "Health Occupations Students of America - Future Health Professionals ",
     "location": "University Hall 2009 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12171208",
     "description": "HOSA GBM!"
+  },
+  {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-04-15T18:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161078",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
   },
   {
     "title": "UAASO General Body Meeting",
