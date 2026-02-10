@@ -1,21 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2026-02-10T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center Multipurpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12065057",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesdays, 01/20 - 04/24 \n 9am-9:45am \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Catalina"
-  },
-  {
-    "title": "Black Love Appreciation Week",
-    "date": "2026-02-10T14:00:00+00:00",
-    "organization": "Campus Activities at Bloomfield",
-    "location": "Talbott Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12207423",
-    "description": "Join us as we celebrate our amazing faculty & staff with a week of gratitude, culture, and love."
-  },
-  {
     "title": "Group X - Pilates",
     "date": "2026-02-10T15:15:00+00:00",
     "organization": "Campus Recreation",
@@ -40,20 +24,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesdays, 01/20 - 04/24 \n 1pm-1:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle"
   },
   {
-    "title": "\"Pop\" on By",
-    "date": "2026-02-10T15:00:00+00:00",
-    "organization": "Student Development and Campus Life",
-    "location": "Dean of Students' Office",
-    "link": "https://montclair.campuslabs.com/engage/event/12085218",
-    "description": "\"Pop\" on by to the Dean of Students' office to speak with staff and enjoy all things that go \"pop.\"\u00a0 There will be snacks, prizes, bubble wrap, and the chance to pop a balloon for a special surprise!"
-  },
-  {
     "title": "Red Hawk Catholic Tabling",
     "date": "2026-02-10T17:00:00+00:00",
     "organization": "Red Hawk Catholic",
     "location": "Student Center 2C03 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12180516",
     "description": "Tabling to promote Red Hawk Catholic."
+  },
+  {
+    "title": "\"Pop\" on By",
+    "date": "2026-02-10T15:00:00+00:00",
+    "organization": "Student Development and Campus Life",
+    "location": "Dean of Students' Office",
+    "link": "https://montclair.campuslabs.com/engage/event/12085218",
+    "description": "\"Pop\" on by to the Dean of Students' office to speak with staff and enjoy all things that go \"pop.\"\u00a0 There will be snacks, prizes, bubble wrap, and the chance to pop a balloon for a special surprise!"
   },
   {
     "title": "AIX Valentine's Day Bake Sale",
@@ -70,6 +54,14 @@
     "location": "Student Recreation Center - Multipurpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12065492",
     "description": "A mind-body conditioning technique that focuses on trunk stability and coordinated breathing through a series of exercises.\u00a0 Pilates develops a longer, leaner, stronger, and more graceful body by improving muscular symmetry, alignment, posture, core strength, and flexibility. All levels are welcome. \n \n \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Tuesday, Jan 20 - April 24 \n 2 pm - 2:45 p.m. \n Student Recreation Center - Multipurpose Room 1 \n \n \n \n \n \n Instructor - Ashley"
+  },
+  {
+    "title": "Holding Space For Your Heart",
+    "date": "2026-02-10T19:00:00+00:00",
+    "organization": "CAPS (Counseling and Psychological Services)",
+    "location": "CAPS, Russ Hall 1st floor, right side of the building",
+    "link": "https://montclair.campuslabs.com/engage/event/12219675",
+    "description": "Are you struggling with a broken heart? Are you tired of managing in a couples space? Are you struggling with Valentine's Day? Do you want to love yourself more? Join CAPS staff for a discussion of loneliness, break ups, self love, self care, and self compassion. Join us in finding your way back to yourself when your heart feels heavy. This workshop aims to lift up your spirits and help you appreciate all that you are."
   },
   {
     "title": "Interest Meeting/Horror 101",
@@ -128,20 +120,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesdays, 01/20 - 04/24 \n 4pm-4:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
   },
   {
-    "title": "Black Cultural Display",
-    "date": "2026-02-10T14:00:00+00:00",
-    "organization": "Black Student Union",
-    "location": "Student Center Window - Window",
-    "link": "https://montclair.campuslabs.com/engage/event/12180510",
-    "description": "Cultural Display of Black Cultural By the Black Student Union"
-  },
-  {
     "title": "Getting Started with EndNote",
     "date": "2026-02-10T21:00:00+00:00",
     "organization": "Sprague Library",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12165648",
     "description": "Using a citation manager like EndNote to organize your references has numerous advantages, including but not limited to... \n \n Collect references as you browse the web or databases \n Organize, highlight, and annotate your PDFs, all in one place \n Sync between your devices \n Automatically rename PDF files you've downloaded \n Generate citations instantly and change style formats with a few clicks \n \n This is a hands-on workshop, so please bring your laptop with you. By the end of this workshop, you will be able to import your existing references into the program, collect references from the library databases, and be able to generate citations using the \"Cite While You Write\" plugin. \n If you can, please download the EndNote installation files\u00a0in advance from the\u00a0 Software Repository . \n \n Related\u00a0LibGuide:\u00a0 EndNote by Siobhan McCarthy \n Register Here: \u00a0https://montclair.libcal.com/event/16326126"
+  },
+  {
+    "title": "Black Cultural Display",
+    "date": "2026-02-10T14:00:00+00:00",
+    "organization": "Black Student Union",
+    "location": "Student Center Window - Window",
+    "link": "https://montclair.campuslabs.com/engage/event/12180510",
+    "description": "Cultural Display of Black Cultural By the Black Student Union"
   },
   {
     "title": "The Montclair State English Department Presents: Mira Jacob",
@@ -856,6 +848,14 @@
     "description": "For the Culture  is an open forum created to encourage meaningful dialogue, shared understanding, and cultural awareness within the campus community. This interactive discussion-based event provides a respectful space for students to engage in conversation around topics that impact campus culture, identity, and community, while fostering connection and mutual respect."
   },
   {
+    "title": "Super Bowl Watch Party ",
+    "date": "2026-02-12T00:30:00+00:00",
+    "organization": "Omega Psi Phi",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12218899",
+    "description": "Have Fun watching the superbowl!"
+  },
+  {
     "title": "Sincerely, MASA",
     "date": "2026-02-11T23:30:00+00:00",
     "organization": "Mexican-American Student Association",
@@ -942,6 +942,14 @@
     "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12171500",
     "description": "Join the brothers of Phi Delta Theta for a night of fun trivia on a variety of topics, including ALS."
+  },
+  {
+    "title": "Dracula Rehearsal",
+    "date": "2026-02-12T01:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 2012 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12218892",
+    "description": "Closed rehearsal for  Dracula ."
   },
   {
     "title": "Tote Bag Designing ",
@@ -1102,6 +1110,14 @@
     "location": "Student Recreation Center PLAE Room",
     "link": "https://montclair.campuslabs.com/engage/event/12049659",
     "description": "Step into the brand-new PLAE Room and discover upLIFT\u2014a judgement-free program designed to help every student, from complete beginners to seasoned gym-goers, feel confident and capable with free-weight training. Learn proper lifting technique, get personalized form checks, and master the basics of creating your own effective workout programs. Whether you\u2019re looking to meet other students who love to lift, pursue new fitness goals, or simply feel more at home in the weight room, upLIFT offers a supportive community and a dedicated space to grow. The program is structured for steady progression throughout the semester, but you\u2019re welcome to drop in anytime and join at your own pace. \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Beginning February 3, ending April 23 \n Tuesdays 3 PM - 4 PM, Wednesdays 6 PM - 7 PM, and Thursdays 2 PM - 3 PM \n Student Recreation Center PLAE Room"
+  },
+  {
+    "title": "Introduction to Human Trafficking WEBINAR (1 HR)",
+    "date": "2026-02-12T19:00:00+00:00",
+    "organization": "Global Center on Human Trafficking",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12218860",
+    "description": "This one-hour session introduces the realities of human trafficking, how it can appear in everyday communities, and why awareness is key to prevention. \n \u00a0 \n Hear from experienced professionals and gain practical knowledge to better recognize and respond. \n \u00a0 \n All are welcome and encouraged to join! \n \u00a0 \n Register via\u00a0https://montclair.zoom.us/meeting/register/fsyHBP5eQDO418DQypCBpg#/registration"
   },
   {
     "title": "General Body Meeting #2",
@@ -1416,6 +1432,14 @@
     "description": "TO CREATE AN ENVIRONMENT WHERE THOSE FAR AND NEAR FROM GOD CAN EXPERIENCE THE LOVE OF GOD."
   },
   {
+    "title": "Valent-AASO",
+    "date": "2026-02-13T02:00:00+00:00",
+    "organization": "Unified Asian American Student Organization",
+    "location": "University Hall 2011 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12218853",
+    "description": "Join UAASO in our Valentine's Day event! Come craft little heartfelt gifts for that special someone!"
+  },
+  {
     "title": "Galentines ",
     "date": "2026-02-13T01:30:00+00:00",
     "organization": "The Women Of Color Alliance ",
@@ -1680,6 +1704,14 @@
     "description": "The Panhellenic's Primary Recruitment Weekend!  Register  before February 6 at 11:59 PM to participate. (link opens in new window) \n Learn more about the Panhellenic Council & Primary Recruitment  at this link !"
   },
   {
+    "title": "The Theatre Collective | Tuffe",
+    "date": "2026-02-14T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Life Hall 325",
+    "link": "https://montclair.campuslabs.com/engage/event/12219625",
+    "description": "Directed by: Elijah N. Maldonado / Written by Elijah N. Maldonado \n Friday, February 13 @ 7:30 pm / Saturday, February 14 @ 2:00 pm and 7:30 pm \n Content Warning: Physical Violence, Mild Profanity \n Duration: 1 Hour 45 Minutes with a 10 Minute Intermission \n Life Hall Room 325 \n FREE (Reservations required) \n Tuffe is a campy high school comedy set in 2004, inspired by Moliere's Tartuffe. We follow Olivia George, the bitchy queen bee of Silver Valley High School, and her royal friend group (Emily, Cleo, and Mary Ann) as things start to take a turn for the worse when a mysterious hot transfer student moves to Silver Valley. Will Olivia stay loyal to her friends or totally risk her status and relationships chasing after \"love\" \n Tickets"
+  },
+  {
     "title": "Department of Theatre and Dance I \u201cFirst Mountain Music Festival\u201d",
     "date": "2026-02-14T00:00:00+00:00",
     "organization": "WMSC 90.3 FM",
@@ -1736,6 +1768,14 @@
     "description": "The Panhellenic's Primary Recruitment Weekend!  Register  before February 6 at 11:59 PM to participate. (link opens in new window) \n Learn more about the Panhellenic Council & Primary Recruitment  at this link !"
   },
   {
+    "title": "FUNHOUSE Rehearsal",
+    "date": "2026-02-14T17:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 2012 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12218919",
+    "description": "Closed rehearsal for Players' 2026 dance show."
+  },
+  {
     "title": "One Acts Rehearsal ",
     "date": "2026-02-14T17:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -1750,6 +1790,14 @@
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12191699",
     "description": "Closed rehearsal for  Dracula ."
+  },
+  {
+    "title": "The Theatre Collective | Tuffe",
+    "date": "2026-02-14T19:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Life Hall 325",
+    "link": "https://montclair.campuslabs.com/engage/event/12219626",
+    "description": "Directed by: Elijah N. Maldonado / Written by Elijah N. Maldonado \n Friday, February 13 @ 7:30 pm / Saturday, February 14 @ 2:00 pm and 7:30 pm \n Content Warning: Physical Violence, Mild Profanity \n Duration: 1 Hour 45 Minutes with a 10 Minute Intermission \n Life Hall Room 325 \n FREE (Reservations required) \n Tuffe is a campy high school comedy set in 2004, inspired by Moliere's Tartuffe. We follow Olivia George, the bitchy queen bee of Silver Valley High School, and her royal friend group (Emily, Cleo, and Mary Ann) as things start to take a turn for the worse when a mysterious hot transfer student moves to Silver Valley. Will Olivia stay loyal to her friends or totally risk her status and relationships chasing after \"love\" \n Tickets"
   },
   {
     "title": "Women's Basketball vs. Kean",
@@ -1774,6 +1822,14 @@
     "location": "Dinallo Heights",
     "link": "https://montclair.campuslabs.com/engage/event/11961952",
     "description": "Join us on February 14th in the Dinallo MPR for a romantic night of food, and a romantic movie! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "The Theatre Collective | Tuffe",
+    "date": "2026-02-15T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Life Hall 325",
+    "link": "https://montclair.campuslabs.com/engage/event/12219627",
+    "description": "Directed by: Elijah N. Maldonado / Written by Elijah N. Maldonado \n Friday, February 13 @ 7:30 pm / Saturday, February 14 @ 2:00 pm and 7:30 pm \n Content Warning: Physical Violence, Mild Profanity \n Duration: 1 Hour 45 Minutes with a 10 Minute Intermission \n Life Hall Room 325 \n FREE (Reservations required) \n Tuffe is a campy high school comedy set in 2004, inspired by Moliere's Tartuffe. We follow Olivia George, the bitchy queen bee of Silver Valley High School, and her royal friend group (Emily, Cleo, and Mary Ann) as things start to take a turn for the worse when a mysterious hot transfer student moves to Silver Valley. Will Olivia stay loyal to her friends or totally risk her status and relationships chasing after \"love\" \n Tickets"
   },
   {
     "title": "Love Week:  Write a Friend",
@@ -1998,6 +2054,14 @@
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12155193",
     "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization. \n More details about the theme of each weekly GBM is located on our official Instagram account @montclair_prso ! A flyer is posted weekly based on the topic of each GBM!"
+  },
+  {
+    "title": "Pali 101: Recentering Palestine",
+    "date": "2026-02-16T19:00:00+00:00",
+    "organization": "Students for Justice in Palestine",
+    "location": "University Hall 2025 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12220209",
+    "description": "Start the semester off with SJP at Pali 101! This event serves as an opportunity to refocus ourselves on the issues Palestinians are facing, learn about the impact we can have as students, and connect with the community at Montclair. Light refreshments will be served."
   },
   {
     "title": "GBM Dominican Student Organization",
@@ -2720,20 +2784,20 @@
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting, where we have fun activities planned to learn about different Latin cultures! Check out our Instagram @laso1970 for this week's topic!"
   },
   {
-    "title": "Pyaar Hua with SASA!",
-    "date": "2026-02-18T19:00:00+00:00",
-    "organization": "South Asian Student Association",
-    "location": "School Of Business 422 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12128972",
-    "description": "Join us this Wednesday for our first event of the Spring semester! We will be celebrating Valentine's Day with samosas and chai, a fun bracelet-making session, and lots of valentines and goody bags!"
-  },
-  {
     "title": "Garf-Art Day feat. Snoopy Club!",
     "date": "2026-02-18T19:00:00+00:00",
     "organization": "Garfield club",
     "location": "University Hall 2011 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12191842",
     "description": "Welcome! Join us and the new Snoopy Club to chill out and learn how to draw Garfield and Peanuts characters together!"
+  },
+  {
+    "title": "Pyaar Hua with SASA!",
+    "date": "2026-02-18T19:00:00+00:00",
+    "organization": "South Asian Student Association",
+    "location": "School Of Business 422 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12128972",
+    "description": "Join us this Wednesday for our first event of the Spring semester! We will be celebrating Valentine's Day with samosas and chai, a fun bracelet-making session, and lots of valentines and goody bags!"
   },
   {
     "title": "WOCA General Body Meetings  ",
@@ -3232,6 +3296,14 @@
     "description": "Stuff a plush and free pudding? Say less. Make your own plush and enjoy a stress-free night with dessert and good company."
   },
   {
+    "title": "Peter and the Starcatcher",
+    "date": "2026-02-20T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Life Hall Studio Theatre 1200",
+    "link": "https://montclair.campuslabs.com/engage/event/12219831",
+    "description": "Based on the novel by Dave Barry and Ridley Pearson,\u00a0 Peter and the Starcatcher \u00a0upends the century-old story of how a miserable orphan on a ship bound for Rundoon came to be \"The Boy Who Would Not Grow Up.\" In a wildly theatrical and action-packed prequel to Peter Pan, this imaginative adventure features music, mermaids, marauding pirates, and unlikely heroes. Peter and the Starcatcher playfully explores the depths of greed and despair as they test the bonds of friendship, duty, and love. \n TICKETS : $22 and $25 includes $5 per ticket handling fee\u00a0 \n This production-specific advisory suggests ages 6+ with parental guidance, be aware of mild violence and some adult-coded humor (sexual innuendo, drinking) \n A play by Rick Elice with music by Wayne Barker Based on the novel by Dave Barry and Ridley Pearson Directed by: Ryan Kasprzak Choreography: Jessica Chen"
+  },
+  {
     "title": "One Acts Rehearsal ",
     "date": "2026-02-19T23:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -3270,14 +3342,6 @@
     "location": "Machuga Heights",
     "link": "https://montclair.campuslabs.com/engage/event/11961933",
     "description": "How well do you know your Black History?? Come out on Thursday, February 19th in Machuga for a game of Jeopardy: Black History Edition from 8- 10pm!!! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Sex Toy Bingo",
-    "date": "2026-02-20T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Alice Paul at The Village Apartments ",
-    "link": "https://montclair.campuslabs.com/engage/event/11961932",
-    "description": "Residents will play bingo using terms related to sexual health, consent, healthy relationships, safer-sex practices, and body-safe products. Winners will receive small, wellness-approved prizes such as condoms, lubricant, informational kits, or (if allowed by your hall) small adult-novelty items. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Kompa 101:",
@@ -3464,6 +3528,14 @@
     "description": "Are you ready, kids? Dive into Bikini Bottom and test your knowledge of SpongeBob, Patrick, and all your favorite moments."
   },
   {
+    "title": "Blind Date with a Book",
+    "date": "2026-02-16T13:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Sprague Library and Bloomfield Campus Library",
+    "link": "https://montclair.campuslabs.com/engage/event/12218395",
+    "description": "Step away from textbooks for a bit and let serendipity choose your next great read. \n Sprague and Bloomfield Campus Libraries are hosting a\u00a0 \"Blind Date With a Book\" \u00a0from\u00a0February 16 - 20. And you\u2019re invited to take a chance on something unexpected.  No RSVP required . \n Wrapped books will be waiting for you ( while supplies last )\u2014 no titles, no authors, no judgments. Just a few intriguing clues on the wrapped cover to help you decide which mystery match to take home. \n How it works \u2022 Visit the display in the library- on the\u00a0 first floor in Sprague Library Lobby and Bloomfield College Library \u2022 Pick a wrapped book\u00a0based only on the hint on the cover\u00a0 \u2022 Bring it to the desk to check out \u2022 Unwrap your surprise at checkout and meet your new read \n Whether you end up with a thrilling page\u2011turner, a thought\u2011provoking classic, or something completely outside your usual comfort zone, you might discover a new favorite. \n Take a chance. Judge a book only after you take it out (of the library) for a reading date. <3"
+  },
+  {
     "title": "12 Corazones",
     "date": "2026-02-20T23:00:00+00:00",
     "organization": "Latin American Student Organization",
@@ -3486,6 +3558,14 @@
     "location": "Student Center Room 160, The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/11970176",
     "description": "Whether you\u2019ve got a hidden talent or just want a fun night out, Open Mic Night is the place to be. Music, poetry, comedy, and good vibes all around\u2014come perform, cheer on your friends, or just hang out and enjoy the energy. \ud83c\udfa4"
+  },
+  {
+    "title": "Peter and the Starcatcher",
+    "date": "2026-02-21T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Life Hall Studio Theatre 1200",
+    "link": "https://montclair.campuslabs.com/engage/event/12219832",
+    "description": "Based on the novel by Dave Barry and Ridley Pearson,\u00a0 Peter and the Starcatcher \u00a0upends the century-old story of how a miserable orphan on a ship bound for Rundoon came to be \"The Boy Who Would Not Grow Up.\" In a wildly theatrical and action-packed prequel to Peter Pan, this imaginative adventure features music, mermaids, marauding pirates, and unlikely heroes. Peter and the Starcatcher playfully explores the depths of greed and despair as they test the bonds of friendship, duty, and love. \n TICKETS : $22 and $25 includes $5 per ticket handling fee\u00a0 \n This production-specific advisory suggests ages 6+ with parental guidance, be aware of mild violence and some adult-coded humor (sexual innuendo, drinking) \n A play by Rick Elice with music by Wayne Barker Based on the novel by Dave Barry and Ridley Pearson Directed by: Ryan Kasprzak Choreography: Jessica Chen"
   },
   {
     "title": "CALI SCHOOL OF MUSIC: Baroque Music Concert: \"Treasures of the Baroque\"",
@@ -3552,12 +3632,28 @@
     "description": "Players: A Programming Board of the SGA is holding rehearsals for their Dance Show."
   },
   {
+    "title": "Peter and the Starcatcher",
+    "date": "2026-02-21T19:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Life Hall Studio Theatre 1200",
+    "link": "https://montclair.campuslabs.com/engage/event/12219833",
+    "description": "Based on the novel by Dave Barry and Ridley Pearson,\u00a0 Peter and the Starcatcher \u00a0upends the century-old story of how a miserable orphan on a ship bound for Rundoon came to be \"The Boy Who Would Not Grow Up.\" In a wildly theatrical and action-packed prequel to Peter Pan, this imaginative adventure features music, mermaids, marauding pirates, and unlikely heroes. Peter and the Starcatcher playfully explores the depths of greed and despair as they test the bonds of friendship, duty, and love. \n TICKETS : $22 and $25 includes $5 per ticket handling fee\u00a0 \n This production-specific advisory suggests ages 6+ with parental guidance, be aware of mild violence and some adult-coded humor (sexual innuendo, drinking) \n A play by Rick Elice with music by Wayne Barker Based on the novel by Dave Barry and Ridley Pearson Directed by: Ryan Kasprzak Choreography: Jessica Chen"
+  },
+  {
     "title": "Tres A\u00f1os, Tres Goals",
     "date": "2026-02-21T23:00:00+00:00",
     "organization": "Association of Latino Professionals For America",
     "location": "Feliciano School of Business Room 140",
     "link": "https://montclair.campuslabs.com/engage/event/12143463",
     "description": "A special anniversary fundraiser inviting ALPFA Montclair alumni to celebrate three years of impact and invest in the next chapter of student leadership, growth, and opportunity."
+  },
+  {
+    "title": "Peter and the Starcatcher",
+    "date": "2026-02-22T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Life Hall Studio Theatre 1200",
+    "link": "https://montclair.campuslabs.com/engage/event/12219834",
+    "description": "Based on the novel by Dave Barry and Ridley Pearson,\u00a0 Peter and the Starcatcher \u00a0upends the century-old story of how a miserable orphan on a ship bound for Rundoon came to be \"The Boy Who Would Not Grow Up.\" In a wildly theatrical and action-packed prequel to Peter Pan, this imaginative adventure features music, mermaids, marauding pirates, and unlikely heroes. Peter and the Starcatcher playfully explores the depths of greed and despair as they test the bonds of friendship, duty, and love. \n TICKETS : $22 and $25 includes $5 per ticket handling fee\u00a0 \n This production-specific advisory suggests ages 6+ with parental guidance, be aware of mild violence and some adult-coded humor (sexual innuendo, drinking) \n A play by Rick Elice with music by Wayne Barker Based on the novel by Dave Barry and Ridley Pearson Directed by: Ryan Kasprzak Choreography: Jessica Chen"
   },
   {
     "title": "Pool Tournament ",
@@ -4344,6 +4440,14 @@
     "description": "Montclair State University and Bloomfield students are welcome to join the Montclair State Marketing Club in their weekly general body meeting."
   },
   {
+    "title": "CALI SCHOOL OF MUSIC: Piano Recital",
+    "date": "2026-02-25T19:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Leshowitz Recital Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12219558",
+    "description": "CALI MIDWEEK SERIES   \n On Wednesday, February 25, 2026, at 2:00pm, the School Mid-Day Recital series will feature piano students of the Cali School of Music. Presenting both grad students and undergrad students, these pianists will present a range of composers spanning Baroque Music to the Twenty-First century. \n This recital is open and welcome to all. Reservations are not necessary. \n CALI MIDWEEK SERIES : FREE Student and Faculty Concerts Most Wednesdays at 2PM \u2022 Cali School of Music, Chapin Hall, Montclair State University"
+  },
+  {
     "title": "Bible Talk",
     "date": "2026-02-25T19:00:00+00:00",
     "organization": "Alpha Omega",
@@ -4352,20 +4456,20 @@
     "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
   },
   {
-    "title": "UAASO General Body Meeting (GBM)",
-    "date": "2026-02-25T19:15:00+00:00",
-    "organization": "Unified Asian American Student Organization",
-    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12190752",
-    "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
-  },
-  {
     "title": "Food & God! ",
     "date": "2026-02-25T19:15:00+00:00",
     "organization": "Cru",
     "location": "University Hall 1010 - James B. Todd Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12154572",
     "description": "Cru is a caring community of students passionate about connecting people to Jesus Christ!  Join us for Food & God - an open and inviting space where you can explore faith, ask questions, and engage in meaningful conversations\u2014all over a delicious meal. This event is not about debating or convincing; it\u2019s about listening, sharing, and creating a space where everyone feels heard and respected. Whether you have deep spiritual questions, doubts, or just want to hear different perspectives, you are welcome here. \n As you enjoy your meal, we\u2019ll dive into honest discussions about life, God, and what it all means. There\u2019s no pressure, no expectations\u2014just real talk in a relaxed and judgment-free environment. We believe that great conversations happen over great food, and this is an opportunity to connect with others in a way that is both thought-provoking and welcoming. \n So come hungry, bring a friend, and join us for an afternoon of free food, good company, and genuine conversations. We\u2019d love to hear your thoughts, share our experiences, and explore faith together\u2014one plate at a time."
+  },
+  {
+    "title": "UAASO General Body Meeting (GBM)",
+    "date": "2026-02-25T19:15:00+00:00",
+    "organization": "Unified Asian American Student Organization",
+    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12190752",
+    "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
     "title": "Haitian Student Association General Body Meeting ",
@@ -4792,6 +4896,14 @@
     "description": "A time to reflect, celebrate, uplift voice and stories that continue to shape our world."
   },
   {
+    "title": "Department of Theatre and Dance | Passage '26",
+    "date": "2026-02-27T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "L. Howard Fox Studio Theatre",
+    "link": "https://montclair.campuslabs.com/engage/event/12220100",
+    "description": "TICKETS: $25 |$30 includes a $5 per ticket handling fee when ordering online \n A fantasia inspired by E.M. Forster\u2019s novel A Passage to India, PASSAGE is set in the fictional Country X, which is a neocolonial client of Country Y. A local doctor from Country X and a visiting teacher from Country Y begin to forge a friendship that is challenged after a fateful trip to a local attraction, exposing the complexities of cultural misunderstanding and power imbalances. A meditation on colonization, the mutability of political borders, and the elusive nature of true understanding. \n This production of\u00a0 Passage \u00a0is recommended for ages 16+ for mature themes and profanity. LATE SEATING - DISCRETION OF THE HOUSE MANAGER \n Tickets"
+  },
+  {
     "title": "Independence Day Gala ",
     "date": "2026-02-26T23:00:00+00:00",
     "organization": "Dominican Student Organization",
@@ -4814,6 +4926,14 @@
     "location": "Student Center Room 160, The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/11968337",
     "description": "Chill with Campus Activities where you can build with LEGOs or make friendship bracelets!"
+  },
+  {
+    "title": "Peter and the Starcatcher",
+    "date": "2026-02-27T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Life Hall Studio Theatre 1200",
+    "link": "https://montclair.campuslabs.com/engage/event/12219835",
+    "description": "Based on the novel by Dave Barry and Ridley Pearson,\u00a0 Peter and the Starcatcher \u00a0upends the century-old story of how a miserable orphan on a ship bound for Rundoon came to be \"The Boy Who Would Not Grow Up.\" In a wildly theatrical and action-packed prequel to Peter Pan, this imaginative adventure features music, mermaids, marauding pirates, and unlikely heroes. Peter and the Starcatcher playfully explores the depths of greed and despair as they test the bonds of friendship, duty, and love. \n TICKETS : $22 and $25 includes $5 per ticket handling fee\u00a0 \n This production-specific advisory suggests ages 6+ with parental guidance, be aware of mild violence and some adult-coded humor (sexual innuendo, drinking) \n A play by Rick Elice with music by Wayne Barker Based on the novel by Dave Barry and Ridley Pearson Directed by: Ryan Kasprzak Choreography: Jessica Chen"
   },
   {
     "title": "One Acts Tech Rehearsal ",
@@ -4936,6 +5056,14 @@
     "description": "From Kanto to Paldea, see if you have what it takes to be a Pok\u00e9mon Master. Teams encouraged\u2014gotta catch \u2019em all!"
   },
   {
+    "title": "Department of Theatre and Dance | Passage '26",
+    "date": "2026-02-28T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "L. Howard Fox Studio Theatre",
+    "link": "https://montclair.campuslabs.com/engage/event/12220101",
+    "description": "TICKETS: $25 |$30 includes a $5 per ticket handling fee when ordering online \n A fantasia inspired by E.M. Forster\u2019s novel A Passage to India, PASSAGE is set in the fictional Country X, which is a neocolonial client of Country Y. A local doctor from Country X and a visiting teacher from Country Y begin to forge a friendship that is challenged after a fateful trip to a local attraction, exposing the complexities of cultural misunderstanding and power imbalances. A meditation on colonization, the mutability of political borders, and the elusive nature of true understanding. \n This production of\u00a0 Passage \u00a0is recommended for ages 16+ for mature themes and profanity. LATE SEATING - DISCRETION OF THE HOUSE MANAGER \n Tickets"
+  },
+  {
     "title": "Complexions Practice",
     "date": "2026-02-27T23:30:00+00:00",
     "organization": "Complexions",
@@ -4974,6 +5102,14 @@
     "location": "Student Center 251 - Dining Room",
     "link": "https://montclair.campuslabs.com/engage/event/12098773",
     "description": "Join us in our annual Comida de Casa event only this time it is New Years edition! We will be celebrating the new year with some delicious authentic Dominican food, good music, and activities. Come prepared to create vision boards for that new year new you vision. Come mingle and say all that you are excited for in the new year while also dancing and having a good time. This event is open to all MSU/ BLOOMFIELD and NON MSU STUDENTS. Tickets are $3 for MSU and $5 for NON MSU."
+  },
+  {
+    "title": "Peter and the Starcatcher",
+    "date": "2026-02-28T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Life Hall Studio Theatre 1200",
+    "link": "https://montclair.campuslabs.com/engage/event/12219836",
+    "description": "Based on the novel by Dave Barry and Ridley Pearson,\u00a0 Peter and the Starcatcher \u00a0upends the century-old story of how a miserable orphan on a ship bound for Rundoon came to be \"The Boy Who Would Not Grow Up.\" In a wildly theatrical and action-packed prequel to Peter Pan, this imaginative adventure features music, mermaids, marauding pirates, and unlikely heroes. Peter and the Starcatcher playfully explores the depths of greed and despair as they test the bonds of friendship, duty, and love. \n TICKETS : $22 and $25 includes $5 per ticket handling fee\u00a0 \n This production-specific advisory suggests ages 6+ with parental guidance, be aware of mild violence and some adult-coded humor (sexual innuendo, drinking) \n A play by Rick Elice with music by Wayne Barker Based on the novel by Dave Barry and Ridley Pearson Directed by: Ryan Kasprzak Choreography: Jessica Chen"
   },
   {
     "title": "One Acts Festival ",
@@ -5024,12 +5160,36 @@
     "description": "Closed rehearsal for  Dracula ."
   },
   {
+    "title": "Peter and the Starcatcher",
+    "date": "2026-02-28T19:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Life Hall Studio Theatre 1200",
+    "link": "https://montclair.campuslabs.com/engage/event/12219837",
+    "description": "Based on the novel by Dave Barry and Ridley Pearson,\u00a0 Peter and the Starcatcher \u00a0upends the century-old story of how a miserable orphan on a ship bound for Rundoon came to be \"The Boy Who Would Not Grow Up.\" In a wildly theatrical and action-packed prequel to Peter Pan, this imaginative adventure features music, mermaids, marauding pirates, and unlikely heroes. Peter and the Starcatcher playfully explores the depths of greed and despair as they test the bonds of friendship, duty, and love. \n TICKETS : $22 and $25 includes $5 per ticket handling fee\u00a0 \n This production-specific advisory suggests ages 6+ with parental guidance, be aware of mild violence and some adult-coded humor (sexual innuendo, drinking) \n A play by Rick Elice with music by Wayne Barker Based on the novel by Dave Barry and Ridley Pearson Directed by: Ryan Kasprzak Choreography: Jessica Chen"
+  },
+  {
     "title": "Greek Org Fair",
     "date": "2026-02-26T19:30:00+00:00",
     "organization": "Bloomfield Greek Council",
     "location": "Bloomfield campus Westminster 110",
     "link": "https://montclair.campuslabs.com/engage/event/12168025",
     "description": "Come out and meet the organizations of Bloomfield College! Music, Information, and good vibes all around."
+  },
+  {
+    "title": "Department of Theatre and Dance | Passage '26",
+    "date": "2026-02-28T19:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "L. Howard Fox Studio Theatre",
+    "link": "https://montclair.campuslabs.com/engage/event/12220102",
+    "description": "TICKETS: $25 |$30 includes a $5 per ticket handling fee when ordering online \n A fantasia inspired by E.M. Forster\u2019s novel A Passage to India, PASSAGE is set in the fictional Country X, which is a neocolonial client of Country Y. A local doctor from Country X and a visiting teacher from Country Y begin to forge a friendship that is challenged after a fateful trip to a local attraction, exposing the complexities of cultural misunderstanding and power imbalances. A meditation on colonization, the mutability of political borders, and the elusive nature of true understanding. \n This production of\u00a0 Passage \u00a0is recommended for ages 16+ for mature themes and profanity. LATE SEATING - DISCRETION OF THE HOUSE MANAGER \n Tickets"
+  },
+  {
+    "title": "Department of Theatre and Dance | Passage '26",
+    "date": "2026-03-01T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "L. Howard Fox Studio Theatre",
+    "link": "https://montclair.campuslabs.com/engage/event/12220103",
+    "description": "TICKETS: $25 |$30 includes a $5 per ticket handling fee when ordering online \n A fantasia inspired by E.M. Forster\u2019s novel A Passage to India, PASSAGE is set in the fictional Country X, which is a neocolonial client of Country Y. A local doctor from Country X and a visiting teacher from Country Y begin to forge a friendship that is challenged after a fateful trip to a local attraction, exposing the complexities of cultural misunderstanding and power imbalances. A meditation on colonization, the mutability of political borders, and the elusive nature of true understanding. \n This production of\u00a0 Passage \u00a0is recommended for ages 16+ for mature themes and profanity. LATE SEATING - DISCRETION OF THE HOUSE MANAGER \n Tickets"
   },
   {
     "title": "Vision Board Night",
@@ -5046,6 +5206,14 @@
     "location": "Student Center 250ABC - Ballrooms A, B, and C",
     "link": "https://montclair.campuslabs.com/engage/event/12103568",
     "description": "Join us for one of our biggest events of the Spring!\u00a0 \n \u00a0 \n We invite you to enjoy some great food, music, performances, and more! \n \u00a0 \n All Montclair State and Bloomfield College students are welcome."
+  },
+  {
+    "title": "Peter and the Starcatcher",
+    "date": "2026-03-01T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Life Hall Studio Theatre 1200",
+    "link": "https://montclair.campuslabs.com/engage/event/12219838",
+    "description": "Based on the novel by Dave Barry and Ridley Pearson,\u00a0 Peter and the Starcatcher \u00a0upends the century-old story of how a miserable orphan on a ship bound for Rundoon came to be \"The Boy Who Would Not Grow Up.\" In a wildly theatrical and action-packed prequel to Peter Pan, this imaginative adventure features music, mermaids, marauding pirates, and unlikely heroes. Peter and the Starcatcher playfully explores the depths of greed and despair as they test the bonds of friendship, duty, and love. \n TICKETS : $22 and $25 includes $5 per ticket handling fee\u00a0 \n This production-specific advisory suggests ages 6+ with parental guidance, be aware of mild violence and some adult-coded humor (sexual innuendo, drinking) \n A play by Rick Elice with music by Wayne Barker Based on the novel by Dave Barry and Ridley Pearson Directed by: Ryan Kasprzak Choreography: Jessica Chen"
   },
   {
     "title": "One Acts Festival ",
@@ -5792,20 +5960,20 @@
     "description": "WOCA General Body Meetings are welcoming, high-energy spaces where women of color come together to connect, learn, and grow. These meetings feature engaging discussions, guest speakers, and community-building activities designed to inspire leadership, strengthen sisterhood, and provide resources for personal and professional success. Each meeting is a chance to be seen, heard, and supported while building lasting connections."
   },
   {
-    "title": "MSU Political Science Club General Body Meeting",
-    "date": "2026-03-04T19:00:00+00:00",
-    "organization": "Political Science Club",
-    "location": "Dickson Hall 272 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12160995",
-    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
-  },
-  {
     "title": "Haitian Student Association General Body Meeting ",
     "date": "2026-03-04T19:00:00+00:00",
     "organization": "Haitian Student Association",
     "location": "University Hall 2026 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12165442",
     "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-03-04T19:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12160995",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
     "title": "NASO General Body Meeting",
@@ -5830,14 +5998,6 @@
     "location": "College of Communication and Media Room 1020",
     "link": "https://montclair.campuslabs.com/engage/event/12176460",
     "description": "WMSC's weekly member meeting to go over the newest and most important information regarding the station, and what each team is up to. \n \u00a0 \n On-air DJs are required to attend several of these meetings throughout the semester."
-  },
-  {
-    "title": "Hazing Prevention Workshop",
-    "date": "2026-03-04T20:00:00+00:00",
-    "organization": "Greek Life",
-    "location": "UNIV 2006",
-    "link": "https://montclair.campuslabs.com/engage/event/12068189",
-    "description": "Spring 2026 Hazing Prevention Workshops for those interested in joining a Greek Lettered Organization.\u00a0 Mandatory\u00a0 requirement set by Greek Life policy."
   },
   {
     "title": "Tactical Medicine: Suturing Skills Workshop",
@@ -5928,6 +6088,14 @@
     "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sister in Christ"
   },
   {
+    "title": "Department of Theatre and Dance | Passage '26",
+    "date": "2026-03-05T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "L. Howard Fox Studio Theatre",
+    "link": "https://montclair.campuslabs.com/engage/event/12220104",
+    "description": "TICKETS: $25 |$30 includes a $5 per ticket handling fee when ordering online \n A fantasia inspired by E.M. Forster\u2019s novel A Passage to India, PASSAGE is set in the fictional Country X, which is a neocolonial client of Country Y. A local doctor from Country X and a visiting teacher from Country Y begin to forge a friendship that is challenged after a fateful trip to a local attraction, exposing the complexities of cultural misunderstanding and power imbalances. A meditation on colonization, the mutability of political borders, and the elusive nature of true understanding. \n This production of\u00a0 Passage \u00a0is recommended for ages 16+ for mature themes and profanity. LATE SEATING - DISCRETION OF THE HOUSE MANAGER \n Tickets"
+  },
+  {
     "title": "Bohn Hall Community Meeting ",
     "date": "2026-03-05T01:00:00+00:00",
     "organization": "Bohn Hall",
@@ -5942,6 +6110,14 @@
     "location": "Student Center 250C - Ballroom C",
     "link": "https://montclair.campuslabs.com/engage/event/12106713",
     "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
+  },
+  {
+    "title": "Department of Theatre and Dance | Spring Dance '26",
+    "date": "2026-03-05T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Alexander Kasser Theatre",
+    "link": "https://montclair.campuslabs.com/engage/event/12219999",
+    "description": "Spring Dance presents Montclair State dancers in distinguished guest artist and faculty choreography, curated by the faculty artistic directors. LATE SEATING - DISCRETION OF THE HOUSE MANAGER \n Tickets"
   },
   {
     "title": "Dracula Rehearsal",
@@ -6136,12 +6312,28 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 7pm - 7:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Colin"
   },
   {
+    "title": "Department of Theatre and Dance | Passage '26",
+    "date": "2026-03-06T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "L. Howard Fox Studio Theatre",
+    "link": "https://montclair.campuslabs.com/engage/event/12220105",
+    "description": "TICKETS: $25 |$30 includes a $5 per ticket handling fee when ordering online \n A fantasia inspired by E.M. Forster\u2019s novel A Passage to India, PASSAGE is set in the fictional Country X, which is a neocolonial client of Country Y. A local doctor from Country X and a visiting teacher from Country Y begin to forge a friendship that is challenged after a fateful trip to a local attraction, exposing the complexities of cultural misunderstanding and power imbalances. A meditation on colonization, the mutability of political borders, and the elusive nature of true understanding. \n This production of\u00a0 Passage \u00a0is recommended for ages 16+ for mature themes and profanity. LATE SEATING - DISCRETION OF THE HOUSE MANAGER \n Tickets"
+  },
+  {
     "title": "Bohn Hall Community Meeting ",
     "date": "2026-03-06T01:00:00+00:00",
     "organization": "Bohn Hall",
     "location": "Bohn Hall Main Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11989997",
     "description": "Join us for the Bohn Hall Community Meeting! This is your opportunity to connect with your Professional Staff, student staff, and fellow residents as we kick off the semester together. At this meeting, we\u2019ll cover important information about living in Bohn Hall, including community expectations, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n Resources and support available to you \n Opportunities to connect with staff and peers \n A chance to ask questions and share your voice \n \n We look forward to seeing you there! \n This event is for Bohn Hall Residents"
+  },
+  {
+    "title": "Department of Theatre and Dance | Spring Dance '26",
+    "date": "2026-03-06T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Alexander Kasser Theatre",
+    "link": "https://montclair.campuslabs.com/engage/event/12220000",
+    "description": "Spring Dance presents Montclair State dancers in distinguished guest artist and faculty choreography, curated by the faculty artistic directors. LATE SEATING - DISCRETION OF THE HOUSE MANAGER \n Tickets"
   },
   {
     "title": "Into the Woods Rehearsal",
@@ -6264,6 +6456,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 3:30pm- 5:00pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
   },
   {
+    "title": "Department of Theatre and Dance | Passage '26",
+    "date": "2026-03-07T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "L. Howard Fox Studio Theatre",
+    "link": "https://montclair.campuslabs.com/engage/event/12220106",
+    "description": "TICKETS: $25 |$30 includes a $5 per ticket handling fee when ordering online \n A fantasia inspired by E.M. Forster\u2019s novel A Passage to India, PASSAGE is set in the fictional Country X, which is a neocolonial client of Country Y. A local doctor from Country X and a visiting teacher from Country Y begin to forge a friendship that is challenged after a fateful trip to a local attraction, exposing the complexities of cultural misunderstanding and power imbalances. A meditation on colonization, the mutability of political borders, and the elusive nature of true understanding. \n This production of\u00a0 Passage \u00a0is recommended for ages 16+ for mature themes and profanity. LATE SEATING - DISCRETION OF THE HOUSE MANAGER \n Tickets"
+  },
+  {
     "title": "Iftar Dawat ",
     "date": "2026-03-06T22:00:00+00:00",
     "organization": "Bangladesh Student Association ",
@@ -6286,6 +6486,30 @@
     "location": "Bohn Hall Main Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11989998",
     "description": "Join us for the Bohn Hall Community Meeting! This is your opportunity to connect with your Professional Staff, student staff, and fellow residents as we kick off the semester together. At this meeting, we\u2019ll cover important information about living in Bohn Hall, including community expectations, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n Resources and support available to you \n Opportunities to connect with staff and peers \n A chance to ask questions and share your voice \n \n We look forward to seeing you there! \n This event is for Bohn Hall Residents"
+  },
+  {
+    "title": "Department of Theatre and Dance | Spring Dance '26",
+    "date": "2026-03-07T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Alexander Kasser Theatre",
+    "link": "https://montclair.campuslabs.com/engage/event/12220001",
+    "description": "Spring Dance presents Montclair State dancers in distinguished guest artist and faculty choreography, curated by the faculty artistic directors. LATE SEATING - DISCRETION OF THE HOUSE MANAGER \n Tickets"
+  },
+  {
+    "title": "Department of Theatre and Dance | Spring Dance '26",
+    "date": "2026-03-07T19:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Alexander Kasser Theatre",
+    "link": "https://montclair.campuslabs.com/engage/event/12220002",
+    "description": "Spring Dance presents Montclair State dancers in distinguished guest artist and faculty choreography, curated by the faculty artistic directors. LATE SEATING - DISCRETION OF THE HOUSE MANAGER \n Tickets"
+  },
+  {
+    "title": "Department of Theatre and Dance | Spring Dance '26",
+    "date": "2026-03-08T00:30:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Alexander Kasser Theatre",
+    "link": "https://montclair.campuslabs.com/engage/event/12220003",
+    "description": "Spring Dance presents Montclair State dancers in distinguished guest artist and faculty choreography, curated by the faculty artistic directors. LATE SEATING - DISCRETION OF THE HOUSE MANAGER \n Tickets"
   },
   {
     "title": "Group X - HIIT",
@@ -12288,20 +12512,20 @@
     "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
-    "title": "Caribbean Students' Organization: General body Meetings ",
-    "date": "2026-04-22T18:00:00+00:00",
-    "organization": "Caribbean Students' Organization",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12161079",
-    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
-  },
-  {
     "title": "HOSA General Body Meeting",
     "date": "2026-04-22T18:00:00+00:00",
     "organization": "Health Occupations Students of America - Future Health Professionals ",
     "location": "University Hall 2009 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12171209",
     "description": "HOSA GBM!"
+  },
+  {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161079",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
   },
   {
     "title": "WOCA General Body Meetings  ",
