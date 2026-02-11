@@ -4112,20 +4112,20 @@
     "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
   },
   {
-    "title": "UAASO General Body Meeting (GBM)",
-    "date": "2026-02-25T19:15:00+00:00",
-    "organization": "Unified Asian American Student Organization",
-    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12190752",
-    "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
-  },
-  {
     "title": "Food & God! ",
     "date": "2026-02-25T19:15:00+00:00",
     "organization": "Cru",
     "location": "University Hall 1010 - James B. Todd Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12154572",
     "description": "Cru is a caring community of students passionate about connecting people to Jesus Christ!  Join us for Food & God - an open and inviting space where you can explore faith, ask questions, and engage in meaningful conversations\u2014all over a delicious meal. This event is not about debating or convincing; it\u2019s about listening, sharing, and creating a space where everyone feels heard and respected. Whether you have deep spiritual questions, doubts, or just want to hear different perspectives, you are welcome here. \n As you enjoy your meal, we\u2019ll dive into honest discussions about life, God, and what it all means. There\u2019s no pressure, no expectations\u2014just real talk in a relaxed and judgment-free environment. We believe that great conversations happen over great food, and this is an opportunity to connect with others in a way that is both thought-provoking and welcoming. \n So come hungry, bring a friend, and join us for an afternoon of free food, good company, and genuine conversations. We\u2019d love to hear your thoughts, share our experiences, and explore faith together\u2014one plate at a time."
+  },
+  {
+    "title": "UAASO General Body Meeting (GBM)",
+    "date": "2026-02-25T19:15:00+00:00",
+    "organization": "Unified Asian American Student Organization",
+    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12190752",
+    "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
     "title": "Haitian Student Association General Body Meeting ",
@@ -4477,7 +4477,7 @@
     "organization": "Office of Health Promotion",
     "location": "Drop-In Center ",
     "link": "https://montclair.campuslabs.com/engage/event/12074655",
-    "description": ""
+    "description": "Hang out and have casual conversations with other students while enjoying refreshments! Join us on Thursdays from 3:15-4:15pm.\u00a0 \n What are Fireside Chats: \n \n A space for students to meet, connect, and have a casual conversation about a given topic, or anything else that feels comfortable for everyone else. It can be about the school climate, student life in general, or your favorite show. All students are welcome!"
   },
   {
     "title": "Group X - Kickboxing",
@@ -6093,7 +6093,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12108227",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 01/20 - 04/24 \n 1:00pm - 1:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Pamela"
   },
   {
     "title": "Group X - Yoga",
@@ -7216,20 +7216,20 @@
     "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
   },
   {
-    "title": "Haitian Student Association General Body Meeting ",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12165443",
-    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
-  },
-  {
     "title": "MSU Political Science Club General Body Meeting",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "Political Science Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12160996",
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12165443",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "NASO General Body Meeting",
@@ -12168,20 +12168,20 @@
     "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
-    "title": "HOSA General Body Meeting",
-    "date": "2026-04-22T18:00:00+00:00",
-    "organization": "Health Occupations Students of America - Future Health Professionals ",
-    "location": "University Hall 2009 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12171209",
-    "description": "HOSA GBM!"
-  },
-  {
     "title": "Caribbean Students' Organization: General body Meetings ",
     "date": "2026-04-22T18:00:00+00:00",
     "organization": "Caribbean Students' Organization",
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12161079",
     "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
+    "title": "HOSA General Body Meeting",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "Health Occupations Students of America - Future Health Professionals ",
+    "location": "University Hall 2009 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12171209",
+    "description": "HOSA GBM!"
   },
   {
     "title": "WOCA General Body Meetings  ",
