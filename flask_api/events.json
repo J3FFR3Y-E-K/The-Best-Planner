@@ -40,14 +40,6 @@
     "description": "This workshop will introduce you to scholarly publishing with a focus on scholarly journals and a brief overview of important concepts such as open access. \n Register Here:\u00a0 https://montclair.libcal.com/event/16275325"
   },
   {
-    "title": "Darwin Day: Wehner Research Symposium",
-    "date": "2026-02-13T13:30:00+00:00",
-    "organization": "College of Science and Mathematics (CSAM)",
-    "location": "Center for Environmental and Life Sciences Atrium",
-    "link": "https://montclair.campuslabs.com/engage/event/11931564",
-    "description": "Join us for a day celebrating the life of Charles Darwin. There will be a keynote address, student talks and posters. More information as the event approaches! Students interested in presenting can submit their information through the\u00a0Darwin Day: Wehner Research Symposium Participation form (to be posted soon). \n Schedule of Events - Coming Soon \n More information can be found on the  symposium website ."
-  },
-  {
     "title": "Black Out Karaoke!",
     "date": "2026-02-13T17:00:00+00:00",
     "organization": "Bloomfield Black Student Union",
@@ -64,6 +56,14 @@
     "description": "From Feb 9-Feb 13 You'll find the CAPS Mental Health Ambassadors around campus for a  walking outreach  focused on  self-love, healthy relationships, and meaningful connections of all kinds.  Ambassadors will be sharing resources, affirmation cards, reminders for caring for your mental health, and fun swag! If you see us, stop by!"
   },
   {
+    "title": "Darwin Day: Wehner Research Symposium",
+    "date": "2026-02-13T13:30:00+00:00",
+    "organization": "College of Science and Mathematics (CSAM)",
+    "location": "Center for Environmental and Life Sciences Atrium",
+    "link": "https://montclair.campuslabs.com/engage/event/11931564",
+    "description": "Join us for a day celebrating the life of Charles Darwin. There will be a keynote address, student talks and posters. More information as the event approaches! Students interested in presenting can submit their information through the\u00a0Darwin Day: Wehner Research Symposium Participation form (to be posted soon). \n Schedule of Events - Coming Soon \n More information can be found on the  symposium website ."
+  },
+  {
     "title": "Creators' Corner: Shop ArtbySydney22",
     "date": "2026-02-13T15:00:00+00:00",
     "organization": "Feliciano Center for Entrepreneurship and Innovation",
@@ -78,14 +78,6 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12108224",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 01/20 - 04/24 \n 1:00pm - 1:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Pamela"
-  },
-  {
-    "title": "HOSA CPR Event",
-    "date": "2026-02-13T15:00:00+00:00",
-    "organization": "Health Occupations Students of America - Future Health Professionals ",
-    "location": "Student Center 417 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12128093",
-    "description": "Join the Health Occupations Students of America Club for CPR Certification Classes hosted by our Treasurer, Esteban! \n $30 per person, refunds not available."
   },
   {
     "title": "NAACP Founder's Day Brunch",
@@ -110,6 +102,14 @@
     "location": "Student Center 2C01 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12191049",
     "description": "Support Montclair State University's college radio station by purchasing one of our Valentine's Day-themed baked goods! \n \u00a0 \n Items vary in price! \ud83c\udf80\ud83e\uddc1\ud83d\udc93"
+  },
+  {
+    "title": "HOSA CPR Event",
+    "date": "2026-02-13T15:00:00+00:00",
+    "organization": "Health Occupations Students of America - Future Health Professionals ",
+    "location": "Student Center 417 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12128093",
+    "description": "Join the Health Occupations Students of America Club for CPR Certification Classes hosted by our Treasurer, Esteban! \n $30 per person, refunds not available."
   },
   {
     "title": "Group X - Yoga",
@@ -160,22 +160,6 @@
     "description": "CAST wants to show their love and has a Valentine for you! \n Attend any CAST service on February 12th or 13th and stop by the tutoring center front desk to receive a Valentine from CAST. \n Students looking for academic support for their classes can attend both appointments and walk in services.\u00a0 \n Academic Support available in: \n Peer Tutoring : Meet with our student tutors for a one on one tutoring session based on your specific classes for the semester. Appointments can be in person in the Sprague Library, our Dinallo tutoring room or virtually through zoom. Appointments can be booked in\u00a0 Navigate . \n Supplemental Instruction :\u00a0\u00a0 Weekly peer-led review sessions for historically challenging courses . Supplemental Instruction leaders are embedded in the classrooms and offer no appointment needed, group\u00a0visits. Schedules can be found in\u00a0 Navigate \u00a0or on our\u00a0website. \n Peer Academic\u00a0Coaching : \u00a0Talk with our coaches about the tools for success in your college classes and build an individualized plan for your own, time management, note taking and study strategies. \n Workshops : Attend our workshops to learn more about resources on campus and tips for academic success. Workshops are offered both in person and virtually. \n \u00a0 \n Schedules and locations for all tutoring can be found in\u00a0 Navigate \u00a0and our Workshops on\u00a0 Engage"
   },
   {
-    "title": "Free Trip to the MET",
-    "date": "2026-02-13T13:30:00+00:00",
-    "organization": "The Historical Society at Montclair State",
-    "location": " The Metropolitan Museum of Art",
-    "link": "https://montclair.campuslabs.com/engage/event/12177278",
-    "description": "Step into one of the greatest museums in the world with the History Club! On Friday, February 13, we\u2019re heading to New York City for a free trip to the Metropolitan Museum of Art.  We\u2019ll meet at the\u00a0Red Hawk Statue outside Cole Hall by 8:30 a.m.\u00a0sharp \u00a0and travel together by public transportation.  RSVPs are\u00a0required \u00a0to save your spot. Don\u2019t miss this chance to experience world-class art and history alongside your fellow Red Hawks"
-  },
-  {
-    "title": "Black Cultural Display",
-    "date": "2026-02-13T14:00:00+00:00",
-    "organization": "Black Student Union",
-    "location": "Student Center Window - Window",
-    "link": "https://montclair.campuslabs.com/engage/event/12190990",
-    "description": "Cultural Display of Black Cultural By the Black Student Union"
-  },
-  {
     "title": "Baby Blue Love ",
     "date": "2026-02-13T19:00:00+00:00",
     "organization": "Bloomfield Lambda Sigma Upsilon Latino Fraternity, Inc.",
@@ -190,6 +174,22 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12108078",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 3:30pm- 5:00pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
+  },
+  {
+    "title": "Free Trip to the MET",
+    "date": "2026-02-13T13:30:00+00:00",
+    "organization": "The Historical Society at Montclair State",
+    "location": " The Metropolitan Museum of Art",
+    "link": "https://montclair.campuslabs.com/engage/event/12177278",
+    "description": "Step into one of the greatest museums in the world with the History Club! On Friday, February 13, we\u2019re heading to New York City for a free trip to the Metropolitan Museum of Art.  We\u2019ll meet at the\u00a0Red Hawk Statue outside Cole Hall by 8:30 a.m.\u00a0sharp \u00a0and travel together by public transportation.  RSVPs are\u00a0required \u00a0to save your spot. Don\u2019t miss this chance to experience world-class art and history alongside your fellow Red Hawks"
+  },
+  {
+    "title": "Black Cultural Display",
+    "date": "2026-02-13T14:00:00+00:00",
+    "organization": "Black Student Union",
+    "location": "Student Center Window - Window",
+    "link": "https://montclair.campuslabs.com/engage/event/12190990",
+    "description": "Cultural Display of Black Cultural By the Black Student Union"
   },
   {
     "title": "Freeman Friday",
@@ -2152,14 +2152,6 @@
     "description": "In an evening of stories told from professionals who were once just like you. We welcome 4 amazing panelists to discuss their journey in corporate America where their dream jobs become day jobs. Learn about career mapping, transitions from student to professional, and how they got the position they have today."
   },
   {
-    "title": "Shea Butter Baby",
-    "date": "2026-02-20T00:00:00+00:00",
-    "organization": "Bloomfield Swing Phi Swing Social Fellowship, Inc.",
-    "location": "Bloomfield - Talbott Hall 001 - Commuter Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12146938",
-    "description": "Shea Butter Baby  is a creative and culturally rooted fundraising event that invites students to support chapter initiatives while engaging in a hands-on experience. Participants will receive handmade shea butter products while learning about the importance of self-care and community support. This event encourages campus involvement in a fun and welcoming setting."
-  },
-  {
     "title": "Turning Point USA: Bowling Night ",
     "date": "2026-02-20T00:00:00+00:00",
     "organization": "Turning Point USA ",
@@ -3296,20 +3288,20 @@
     "description": "Calling all community and service-minded students exploring clinical and non-clinical career options! Are you looking for a job or an internship? Are you curious about the career paths you can pursue with your major or graduate program? If so, the\u00a0 Community and Social Services Career Expo \u00a0is an amazing opportunity to meet employers that align with your professional interests. Whether you are a freshman or a graduate student, this event is designed to help you explore career possibilities, gain networking experience by talking with employers, and make connections that may eventually lead to a job or internship. And there will be fun mixed in with the opportunity to win\u00a0 raffle prizes , and Rocky, Roxy, or Pebbles might stop by! Light refreshments will be served. More Information: \n \n Mark your calendar : Tuesday, February 24, 3:30 pm - 6:30 pm, University Hall Conference Center (7th floor) \n Visit with non-profit, government, and corporate employers that have a service-oriented mission\u00a0 \n Open to current students and alumni in any major or graduate program \n Register on Handshake! \n \n Hosted by The College of Humanities and Social Sciences"
   },
   {
-    "title": "Group X - Pilates",
-    "date": "2026-02-24T23:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12180370",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays, 01/20 - 04/24 \n 6:00 pm - 6:45 pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Ashley"
-  },
-  {
     "title": "Group X - Kickboxing",
     "date": "2026-02-24T23:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12065826",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
+  },
+  {
+    "title": "Group X - Pilates",
+    "date": "2026-02-24T23:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12180370",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays, 01/20 - 04/24 \n 6:00 pm - 6:45 pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Ashley"
   },
   {
     "title": "Group X - Goodnight Yoga",
@@ -5240,20 +5232,20 @@
     "description": "WOCA General Body Meetings are welcoming, high-energy spaces where women of color come together to connect, learn, and grow. These meetings feature engaging discussions, guest speakers, and community-building activities designed to inspire leadership, strengthen sisterhood, and provide resources for personal and professional success. Each meeting is a chance to be seen, heard, and supported while building lasting connections."
   },
   {
-    "title": "Haitian Student Association General Body Meeting ",
-    "date": "2026-03-04T19:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12165442",
-    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
-  },
-  {
     "title": "MSU Political Science Club General Body Meeting",
     "date": "2026-03-04T19:00:00+00:00",
     "organization": "Political Science Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12160995",
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-03-04T19:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12165442",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "NASO General Body Meeting",
@@ -5272,20 +5264,20 @@
     "description": "DJing is one of the original elements of Hip Hop and is often considered the first. Hip Hop began in the Bronx during the 1970s at community block parties, where DJs used turntables to bring people together through music. Early pioneers like DJ Kool Herc introduced breakbeats by looping the most rhythmic parts of records, creating the foundation for breaking and shaping how dancers and MCs interacted with the music. \n As Hip Hop evolved, DJing became the musical backbone of the culture. DJs provide the beats for MCing, set the tempo for dancers, and control the energy of Hip Hop spaces by reading the crowd and responding in real time. Through techniques like scratching, cutting, and beat juggling, DJs helped define Hip Hop\u2019s sound while preserving its history and passing down cultural knowledge. \n This class introduces the basics of DJing and how music shapes the dance experience. DJ Bascis will explain core concepts such as  tempo, rhythm, and song structure , helping students understand how music guides movement and energy on the dance floor. \n Participants will learn how DJs choose music, create smooth transitions, and adjust the vibe based on the room.\u00a0 \n Through simple examples and live demonstrations, students will build confidence in listening to music with intention. This can bewhether they are dancing, freestyling, or interested in DJing themselves. \n This class is designed for  beginners and college students , with no prior DJ or music experience required."
   },
   {
-    "title": "WMSC General Meeting",
-    "date": "2026-03-04T20:00:00+00:00",
-    "organization": "WMSC 90.3 FM",
-    "location": "College of Communication and Media Room 1020",
-    "link": "https://montclair.campuslabs.com/engage/event/12176460",
-    "description": "WMSC's weekly member meeting to go over the newest and most important information regarding the station, and what each team is up to. \n \u00a0 \n On-air DJs are required to attend several of these meetings throughout the semester."
-  },
-  {
     "title": "Hazing Prevention Workshop",
     "date": "2026-03-04T20:00:00+00:00",
     "organization": "Greek Life",
     "location": "UNIV 2006",
     "link": "https://montclair.campuslabs.com/engage/event/12068189",
     "description": "Spring 2026 Hazing Prevention Workshops for those interested in joining a Greek Lettered Organization.\u00a0 Mandatory\u00a0 requirement set by Greek Life policy."
+  },
+  {
+    "title": "WMSC General Meeting",
+    "date": "2026-03-04T20:00:00+00:00",
+    "organization": "WMSC 90.3 FM",
+    "location": "College of Communication and Media Room 1020",
+    "link": "https://montclair.campuslabs.com/engage/event/12176460",
+    "description": "WMSC's weekly member meeting to go over the newest and most important information regarding the station, and what each team is up to. \n \u00a0 \n On-air DJs are required to attend several of these meetings throughout the semester."
   },
   {
     "title": "Tactical Medicine: Suturing Skills Workshop",
@@ -12136,20 +12128,20 @@
     "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
-    "title": "Caribbean Students' Organization: General body Meetings ",
-    "date": "2026-04-22T18:00:00+00:00",
-    "organization": "Caribbean Students' Organization",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12161079",
-    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
-  },
-  {
     "title": "HOSA General Body Meeting",
     "date": "2026-04-22T18:00:00+00:00",
     "organization": "Health Occupations Students of America - Future Health Professionals ",
     "location": "University Hall 2009 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12171209",
     "description": "HOSA GBM!"
+  },
+  {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161079",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
   },
   {
     "title": "UAASO General Body Meeting (GBM)",
