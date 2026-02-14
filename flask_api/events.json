@@ -16,14 +16,6 @@
     "description": "Tickets & Parking Information \n Sign up today to receive news, scores, promos, and more! Message and data rates apply. Message frequency will vary. Reply HELP for help or STOP to be removed from messaging anytime."
   },
   {
-    "title": "Panhellenic Primary Recruitment Weekend",
-    "date": "2026-02-14T15:00:00+00:00",
-    "organization": "Greek Life",
-    "location": "Various Student Center Spaces",
-    "link": "https://montclair.campuslabs.com/engage/event/12068788",
-    "description": "The Panhellenic's Primary Recruitment Weekend!  Register  before February 6 at 11:59 PM to participate. (link opens in new window) \n Learn more about the Panhellenic Council & Primary Recruitment  at this link !"
-  },
-  {
     "title": "FUNHOUSE Rehearsal",
     "date": "2026-02-14T17:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -54,6 +46,14 @@
     "location": "Life Hall 325",
     "link": "https://montclair.campuslabs.com/engage/event/12219626",
     "description": "Directed by: Elijah N. Maldonado / Written by Elijah N. Maldonado \n Friday, February 13 @ 7:30 pm / Saturday, February 14 @ 2:00 pm and 7:30 pm \n Content Warning: Physical Violence, Mild Profanity \n Duration: 1 Hour 45 Minutes with a 10 Minute Intermission \n Life Hall Room 325 \n FREE (Reservations required) \n Tuffe is a campy high school comedy set in 2004, inspired by Moliere's Tartuffe. We follow Olivia George, the bitchy queen bee of Silver Valley High School, and her royal friend group (Emily, Cleo, and Mary Ann) as things start to take a turn for the worse when a mysterious hot transfer student moves to Silver Valley. Will Olivia stay loyal to her friends or totally risk her status and relationships chasing after \"love\" \n Tickets"
+  },
+  {
+    "title": "Panhellenic Primary Recruitment Weekend",
+    "date": "2026-02-14T15:00:00+00:00",
+    "organization": "Greek Life",
+    "location": "Various Student Center Spaces",
+    "link": "https://montclair.campuslabs.com/engage/event/12068788",
+    "description": "The Panhellenic's Primary Recruitment Weekend!  Register  before February 6 at 11:59 PM to participate. (link opens in new window) \n Learn more about the Panhellenic Council & Primary Recruitment  at this link !"
   },
   {
     "title": "Women's Basketball vs. Kean",
@@ -1864,20 +1864,20 @@
     "description": "In an evening of stories told from professionals who were once just like you. We welcome 4 amazing panelists to discuss their journey in corporate America where their dream jobs become day jobs. Learn about career mapping, transitions from student to professional, and how they got the position they have today."
   },
   {
-    "title": "Turning Point USA: Bowling Night ",
-    "date": "2026-02-20T00:00:00+00:00",
-    "organization": "Turning Point USA ",
-    "location": "Parkway Lanes",
-    "link": "https://montclair.campuslabs.com/engage/event/12216235",
-    "description": "Turning Point USA invites students to Bowling Night for an evening of friendly competition, conversation, and community. This social event is open to all students and is a great way to connect outside the classroom."
-  },
-  {
     "title": "Shea Butter Baby",
     "date": "2026-02-20T00:00:00+00:00",
     "organization": "Bloomfield Swing Phi Swing Social Fellowship, Inc.",
     "location": "Bloomfield - Talbott Hall 001 - Commuter Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12146938",
     "description": "Shea Butter Baby  is a creative and culturally rooted fundraising event that invites students to support chapter initiatives while engaging in a hands-on experience. Participants will receive handmade shea butter products while learning about the importance of self-care and community support. This event encourages campus involvement in a fun and welcoming setting."
+  },
+  {
+    "title": "Turning Point USA: Bowling Night ",
+    "date": "2026-02-20T00:00:00+00:00",
+    "organization": "Turning Point USA ",
+    "location": "Parkway Lanes",
+    "link": "https://montclair.campuslabs.com/engage/event/12216235",
+    "description": "Turning Point USA invites students to Bowling Night for an evening of friendly competition, conversation, and community. This social event is open to all students and is a great way to connect outside the classroom."
   },
   {
     "title": "BHM: Film Festival",
@@ -2264,20 +2264,20 @@
     "description": "Closed rehearsal for Dracula."
   },
   {
-    "title": "One Acts Rehearsal ",
-    "date": "2026-02-21T17:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12056323",
-    "description": "Rehearsal for Players' One Acts Festival"
-  },
-  {
     "title": "Dance Show Rehearsals",
     "date": "2026-02-21T17:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12069903",
     "description": "Players: A Programming Board of the SGA is holding rehearsals for their Dance Show."
+  },
+  {
+    "title": "One Acts Rehearsal ",
+    "date": "2026-02-21T17:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12056323",
+    "description": "Rehearsal for Players' One Acts Festival"
   },
   {
     "title": "Peter and the Starcatcher",
@@ -3024,20 +3024,20 @@
     "description": "Calling all community and service-minded students exploring clinical and non-clinical career options! Are you looking for a job or an internship? Are you curious about the career paths you can pursue with your major or graduate program? If so, the\u00a0 Community and Social Services Career Expo \u00a0is an amazing opportunity to meet employers that align with your professional interests. Whether you are a freshman or a graduate student, this event is designed to help you explore career possibilities, gain networking experience by talking with employers, and make connections that may eventually lead to a job or internship. And there will be fun mixed in with the opportunity to win\u00a0 raffle prizes , and Rocky, Roxy, or Pebbles might stop by! Light refreshments will be served. More Information: \n \n Mark your calendar : Tuesday, February 24, 3:30 pm - 6:30 pm, University Hall Conference Center (7th floor) \n Visit with non-profit, government, and corporate employers that have a service-oriented mission\u00a0 \n Open to current students and alumni in any major or graduate program \n Register on Handshake! \n \n Hosted by The College of Humanities and Social Sciences"
   },
   {
-    "title": "Group X - Kickboxing",
-    "date": "2026-02-24T23:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12065826",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
-  },
-  {
     "title": "Group X - Pilates",
     "date": "2026-02-24T23:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12180370",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays, 01/20 - 04/24 \n 6:00 pm - 6:45 pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Ashley"
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2026-02-24T23:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12065826",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
   },
   {
     "title": "Group X - Goodnight Yoga",
@@ -4976,20 +4976,20 @@
     "description": "WOCA General Body Meetings are welcoming, high-energy spaces where women of color come together to connect, learn, and grow. These meetings feature engaging discussions, guest speakers, and community-building activities designed to inspire leadership, strengthen sisterhood, and provide resources for personal and professional success. Each meeting is a chance to be seen, heard, and supported while building lasting connections."
   },
   {
-    "title": "MSU Political Science Club General Body Meeting",
-    "date": "2026-03-04T19:00:00+00:00",
-    "organization": "Political Science Club",
-    "location": "Dickson Hall 272 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12160995",
-    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
-  },
-  {
     "title": "Haitian Student Association General Body Meeting ",
     "date": "2026-03-04T19:00:00+00:00",
     "organization": "Haitian Student Association",
     "location": "University Hall 2026 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12165442",
     "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-03-04T19:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12160995",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
     "title": "NASO General Body Meeting",
@@ -6712,12 +6712,12 @@
     "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
   },
   {
-    "title": "MSU Political Science Club General Body Meeting",
+    "title": "Haitian Student Association General Body Meeting ",
     "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Political Science Club",
-    "location": "Dickson Hall 272 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12160996",
-    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12165443",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "NASO General Body Meeting",
@@ -6800,20 +6800,20 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Wednesday: 5-6PM \n Student Recreation Center - Pool"
   },
   {
-    "title": "Henna Party With The Zetas",
-    "date": "2026-03-18T21:00:00+00:00",
-    "organization": "Bloomfield Zeta Phi Beta Sorority, Inc.",
-    "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
-    "link": "https://montclair.campuslabs.com/engage/event/12147430",
-    "description": "We will be doing free henna designs on students on campus to celebrate the ending of Ramadan."
-  },
-  {
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-03-18T21:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Pool",
     "link": "https://montclair.campuslabs.com/engage/event/11940188",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Wednesday: 5-6PM \n Student Recreation Center - Pool"
+  },
+  {
+    "title": "Henna Party With The Zetas",
+    "date": "2026-03-18T21:00:00+00:00",
+    "organization": "Bloomfield Zeta Phi Beta Sorority, Inc.",
+    "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
+    "link": "https://montclair.campuslabs.com/engage/event/12147430",
+    "description": "We will be doing free henna designs on students on campus to celebrate the ending of Ramadan."
   },
   {
     "title": "Group X - Kickboxing",
@@ -11016,20 +11016,20 @@
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
-    "title": "WOCA General Body Meetings  ",
-    "date": "2026-04-15T18:00:00+00:00",
-    "organization": "The Women Of Color Alliance ",
-    "location": "University Hall 2002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12171099",
-    "description": "WOCA General Body Meetings are welcoming, high-energy spaces where women of color come together to connect, learn, and grow. These meetings feature engaging discussions, guest speakers, and community-building activities designed to inspire leadership, strengthen sisterhood, and provide resources for personal and professional success. Each meeting is a chance to be seen, heard, and supported while building lasting connections."
-  },
-  {
     "title": "Order of Omega Induction",
     "date": "2026-04-15T18:00:00+00:00",
     "organization": "Greek Life",
     "location": "Student Center Room 419",
     "link": "https://montclair.campuslabs.com/engage/event/11973128",
     "description": "Order of Omega Induction"
+  },
+  {
+    "title": "WOCA General Body Meetings  ",
+    "date": "2026-04-15T18:00:00+00:00",
+    "organization": "The Women Of Color Alliance ",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12171099",
+    "description": "WOCA General Body Meetings are welcoming, high-energy spaces where women of color come together to connect, learn, and grow. These meetings feature engaging discussions, guest speakers, and community-building activities designed to inspire leadership, strengthen sisterhood, and provide resources for personal and professional success. Each meeting is a chance to be seen, heard, and supported while building lasting connections."
   },
   {
     "title": "\ud83c\udf38 Sonny Angel Club Bi-Weekly Hangout! \ud83c\udf38",
