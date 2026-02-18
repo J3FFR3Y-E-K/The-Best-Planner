@@ -248,20 +248,20 @@
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting, where we have fun activities planned to learn about different Latin cultures! Check out our Instagram @laso1970 for this week's topic!"
   },
   {
-    "title": "Garf-Art Day feat. Snoopy Club!",
-    "date": "2026-02-18T19:00:00+00:00",
-    "organization": "Garfield club",
-    "location": "University Hall 2011 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12191842",
-    "description": "Welcome! Join us and the new Snoopy Club to chill out and learn how to draw Garfield and Peanuts characters together!"
-  },
-  {
     "title": "Pyaar Hua with SASA!",
     "date": "2026-02-18T19:00:00+00:00",
     "organization": "South Asian Student Association",
     "location": "School Of Business 422 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12128972",
     "description": "Join us this Wednesday for our first event of the Spring semester! We will be celebrating Valentine's Day with samosas and chai, a fun bracelet-making session, and lots of valentines and goody bags!"
+  },
+  {
+    "title": "Garf-Art Day feat. Snoopy Club!",
+    "date": "2026-02-18T19:00:00+00:00",
+    "organization": "Garfield club",
+    "location": "University Hall 2011 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12191842",
+    "description": "Welcome! Join us and the new Snoopy Club to chill out and learn how to draw Garfield and Peanuts characters together!"
   },
   {
     "title": "WOCA General Body Meetings  ",
@@ -1240,20 +1240,20 @@
     "description": "Closed rehearsal for Dracula."
   },
   {
-    "title": "One Acts Rehearsal ",
-    "date": "2026-02-21T17:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12056323",
-    "description": "Rehearsal for Players' One Acts Festival"
-  },
-  {
     "title": "Dance Show Rehearsals",
     "date": "2026-02-21T17:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12069903",
     "description": "Players: A Programming Board of the SGA is holding rehearsals for their Dance Show."
+  },
+  {
+    "title": "One Acts Rehearsal ",
+    "date": "2026-02-21T17:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12056323",
+    "description": "Rehearsal for Players' One Acts Festival"
   },
   {
     "title": "Peter and the Starcatcher",
@@ -4152,20 +4152,20 @@
     "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
   },
   {
-    "title": "Free Swim Clinics - Treading and Turns",
-    "date": "2026-03-04T19:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Pool",
-    "link": "https://montclair.campuslabs.com/engage/event/11930979",
-    "description": "Take your swimming even further! Do you have a specific skill you really want to work on but never had the chance to, or that you have been meaning to learn? Each clinic will have its own topic to work on and really be able to go in-depth on. Skills include treading, flip turns, sprints, starts, and more. \n \u00a0 \n Clinic Focus Dates \n \n 2/4 - Breaststroke \n 3/4 - Treading and Turns (flip turns and open turns) \n 4/1 - Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with valid Montclair State ID \n \n When and Where? \n \n Student Recreation Center - Pool"
-  },
-  {
     "title": "HOSA General Body Meeting",
     "date": "2026-03-04T19:00:00+00:00",
     "organization": "Health Occupations Students of America - Future Health Professionals ",
     "location": "University Hall 2009 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12171205",
     "description": "HOSA GBM!"
+  },
+  {
+    "title": "Free Swim Clinics - Treading and Turns",
+    "date": "2026-03-04T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center - Pool",
+    "link": "https://montclair.campuslabs.com/engage/event/11930979",
+    "description": "Take your swimming even further! Do you have a specific skill you really want to work on but never had the chance to, or that you have been meaning to learn? Each clinic will have its own topic to work on and really be able to go in-depth on. Skills include treading, flip turns, sprints, starts, and more. \n \u00a0 \n Clinic Focus Dates \n \n 2/4 - Breaststroke \n 3/4 - Treading and Turns (flip turns and open turns) \n 4/1 - Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with valid Montclair State ID \n \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
     "title": "Free Swim Clinic - Breaststroke",
@@ -6088,14 +6088,6 @@
     "description": "The Polish Club General Meeting is open to all students interested in Polish culture and community engagement. During the meeting, we will review club goals, upcoming events, leadership opportunities, and ways to get involved. New and returning members are encouraged to attend and participate."
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12154350",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting, where we have fun activities planned to learn about different Latin cultures! Check out our Instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "Powerful Mujeras ",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "The Women Of Color Alliance ",
@@ -6104,12 +6096,12 @@
     "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
   },
   {
-    "title": "Haitian Student Association General Body Meeting ",
+    "title": "General Miembro Meeting",
     "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12165443",
-    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12154350",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting, where we have fun activities planned to learn about different Latin cultures! Check out our Instagram @laso1970 for this week's topic!"
   },
   {
     "title": "MSU Political Science Club General Body Meeting",
@@ -6118,6 +6110,14 @@
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12160996",
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12165443",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "NASO General Body Meeting",
@@ -6200,20 +6200,20 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Wednesday: 5-6PM \n Student Recreation Center - Pool"
   },
   {
-    "title": "Henna Party With The Zetas",
-    "date": "2026-03-18T21:00:00+00:00",
-    "organization": "Bloomfield Zeta Phi Beta Sorority, Inc.",
-    "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
-    "link": "https://montclair.campuslabs.com/engage/event/12147430",
-    "description": "We will be doing free henna designs on students on campus to celebrate the ending of Ramadan."
-  },
-  {
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-03-18T21:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Pool",
     "link": "https://montclair.campuslabs.com/engage/event/11940188",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Wednesday: 5-6PM \n Student Recreation Center - Pool"
+  },
+  {
+    "title": "Henna Party With The Zetas",
+    "date": "2026-03-18T21:00:00+00:00",
+    "organization": "Bloomfield Zeta Phi Beta Sorority, Inc.",
+    "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
+    "link": "https://montclair.campuslabs.com/engage/event/12147430",
+    "description": "We will be doing free henna designs on students on campus to celebrate the ending of Ramadan."
   },
   {
     "title": "Group X - Kickboxing",
@@ -7000,20 +7000,20 @@
     "description": "Tired of eating the same things on campus? Come have an empanada from your favorite Cussies!"
   },
   {
-    "title": "Guess the Anime OP ",
-    "date": "2026-03-23T18:00:00+00:00",
-    "organization": "Japan Club",
-    "location": "University Hall 2011 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12244256",
-    "description": "Confident in your music guessing skills, or in your knowledge of anime? Come test them in our Guess that Anime Opening event! Play with and against your friends for prizes!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2026-03-23T18:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2026 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12242986",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "Guess the Anime OP ",
+    "date": "2026-03-23T18:00:00+00:00",
+    "organization": "Japan Club",
+    "location": "University Hall 2011 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12244256",
+    "description": "Confident in your music guessing skills, or in your knowledge of anime? Come test them in our Guess that Anime Opening event! Play with and against your friends for prizes!"
   },
   {
     "title": "\ud83c\udf38 Sonny Angel Club Bi-Weekly Hangout! \ud83c\udf38",
@@ -10501,7 +10501,7 @@
     "organization": "Office of International Academic Initiatives",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12128371",
-    "description": ""
+    "description": "Join the Office of International Academic Initiatives to learn about the Study Abroad Opportunities that Montclair State University has to offer. Learn about our different programs that are as short as one week up to an academic year as well as scholarship information. Whether you want to stay as close to home as Pennsylvania or travel as far away as South Korea, Montclair State University has programs for you."
   },
   {
     "title": "Cru Bible Study! ",
@@ -10533,7 +10533,7 @@
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2026 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12242989",
-    "description": ""
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "Complexions Eboard",
@@ -12245,7 +12245,7 @@
     "organization": "The ADP Center",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11986223",
-    "description": ""
+    "description": "Discover the power of visual storytelling in this hands-on workshop! Learn how to create eye-catching presentations, social media graphics, and posters using Canva\u2019s intuitive tools and templates. Perfect for students and educators looking to bring creativity and professionalism to their digital projects. RSVP:\u00a0https://www.tickettailor.com/events/adpcenterforlearningtechnologies"
   },
   {
     "title": "Try-it Tuesdays",
