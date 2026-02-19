@@ -1,53 +1,5 @@
 [
   {
-    "title": "Group X - Cycling",
-    "date": "2026-02-19T15:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/12079194",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 10pm - 10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
-  },
-  {
-    "title": "Annotated Bibliographies",
-    "date": "2026-02-19T17:00:00+00:00",
-    "organization": "Sprague Library",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12205246",
-    "description": "Learn about the different\u00a0types of annotated\u00a0bibliographies, what information is included in each type, and how to format your annotated bibliography. \n Register Here:\u00a0 https://montclair.libcal.com/event/16362010"
-  },
-  {
-    "title": "Group X - Pilates",
-    "date": "2026-02-19T17:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12079364",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 12pm - 12:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Maddie"
-  },
-  {
-    "title": "Hebrew Caf\u00e9",
-    "date": "2026-02-19T17:00:00+00:00",
-    "organization": "Hillel",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12216219",
-    "description": "Come hang with Hillel at our Hebrew Caf\u00e9! Practice with fellow Hebrew speakers, and enjoy some tasty snacks and drinks! Open for all levels of Hebrew speakers, from beginner to those who speak fluently."
-  },
-  {
-    "title": "Introduction to AI and MLOps",
-    "date": "2026-02-19T17:00:00+00:00",
-    "organization": "Artificial Intelligence - Machine Learning Operations ",
-    "location": "CCIS 352",
-    "link": "https://montclair.campuslabs.com/engage/event/12250402",
-    "description": "This session is designed to give you a clear, practical introduction to how AI systems actually work in the real world. \n We\u2019ll start with the fundamentals of AI and machine learning, what models are, how they\u2019re trained, and what they need to run. Then we\u2019ll move into MLOps, the discipline that focuses on deploying, managing, and maintaining machine learning systems in production. You\u2019ll learn why building a model is only part of the story, and how infrastructure, versioning, and monitoring play a critical role. \n As part of the session, we\u2019ll also introduce the RJ45 rack and explain how physical networking infrastructure supports AI workloads. Understanding how servers connect, how data moves, and how hardware fits into the picture gives you a deeper perspective on how large-scale AI systems operate. \n This event is ideal for anyone curious about AI beyond just coding models. If you want to understand the full pipeline from data to deployment to infrastructure\u00a0 this is a strong place to start."
-  },
-  {
-    "title": "Anti-Hazing Education & Prevention Workshop",
-    "date": "2026-02-19T17:30:00+00:00",
-    "organization": "Bloomfield Greek Council",
-    "location": "Bloomfield - Talbott Hall TM04 - Room of Excellence",
-    "link": "https://montclair.campuslabs.com/engage/event/12117019",
-    "description": "This Anti-Hazing Education & Prevention Workshop is a required educational program for Greek-letter and Social Fellowship organizations affiliated with the Bloomfield Campus. \n Registration is required in advance. This workshop is closed to the general public and open only to members of recognized Greek-letter and Social Fellowship organizations. \n Certain eligibility requirements must be met in order to register and attend. Attendance will be monitored and verified. \n For questions regarding eligibility, registration, or requirements, please contact Greek Council or Campus Activities."
-  },
-  {
     "title": "Group X - Kickboxing",
     "date": "2026-02-19T18:00:00+00:00",
     "organization": "Campus Recreation",
@@ -72,14 +24,6 @@
     "description": "Now that our founders week has wrapped up,\u00a0 join the NAACP for\u00a0 Roots of Resistance: The Birth of the NAACP , a tabling event focused on educating students about the history, mission, and impact of the NAACP. Learn why the organization was founded, how it has shaped the fight for civil rights, and the role it continues to play in advancing justice and equality today."
   },
   {
-    "title": "Rocky's Closet Pop-Up",
-    "date": "2026-02-19T18:00:00+00:00",
-    "organization": "Advocacy and Outreach",
-    "location": "Feliciano School of Business",
-    "link": "https://montclair.campuslabs.com/engage/event/12229326",
-    "description": "Are you going to a job interview?\u00a0 Are you attending a professional conference?\u00a0 Do you work in an office and need professional attire? Come and experience Rocky's Closet Pop-Up! We have\u00a0 FREE\u00a0 Professional attire for students of Montclair State\u00a0 University seeking to build their professional closets as they enter the workforce. We have sizes \u00a0ranging from XXS-XXL! \n \u00a0 \n How do I sign-up? \n \n Registration is not required. \n FREE for students/faculty/staff with Montclair State ID \n \n Where and When? \n \n Thursday, February 19th, 2026 \n 1:00 p.m. - 3:00 p.m. \n \ud83d\udccdSchool of Business - 140"
-  },
-  {
     "title": "upLIFT",
     "date": "2026-02-19T19:00:00+00:00",
     "organization": "Campus Recreation",
@@ -88,12 +32,12 @@
     "description": "Step into the brand-new PLAE Room and discover upLIFT\u2014a judgement-free program designed to help every student, from complete beginners to seasoned gym-goers, feel confident and capable with free-weight training. Learn proper lifting technique, get personalized form checks, and master the basics of creating your own effective workout programs. Whether you\u2019re looking to meet other students who love to lift, pursue new fitness goals, or simply feel more at home in the weight room, upLIFT offers a supportive community and a dedicated space to grow. The program is structured for steady progression throughout the semester, but you\u2019re welcome to drop in anytime and join at your own pace. \n \u00a0 \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Beginning February 3, ending April 23 \n Tuesdays 3 PM - 4 PM, Wednesdays 6 PM - 7 PM, and Thursdays 2 PM - 3 PM \n Student Recreation Center PLAE Room"
   },
   {
-    "title": "Empanada Sale",
-    "date": "2026-02-19T17:00:00+00:00",
-    "organization": "Mu Sigma Upsilon Sorority, Incorporated",
-    "location": "Dickson Hall 1C07 - Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12216189",
-    "description": "The  Emanada Sale  is more than just a fundraiser\u2014it\u2019s a celebration of sisterhood, culture, and community. Centered around the beloved Dominican dish  emanadas , this sale brings people together over good food."
+    "title": "Rocky's Closet Pop-Up",
+    "date": "2026-02-19T18:00:00+00:00",
+    "organization": "Advocacy and Outreach",
+    "location": "Feliciano School of Business",
+    "link": "https://montclair.campuslabs.com/engage/event/12229326",
+    "description": "Are you going to a job interview?\u00a0 Are you attending a professional conference?\u00a0 Do you work in an office and need professional attire? Come and experience Rocky's Closet Pop-Up! We have\u00a0 FREE\u00a0 Professional attire for students of Montclair State\u00a0 University seeking to build their professional closets as they enter the workforce. We have sizes \u00a0ranging from XXS-XXL! \n \u00a0 \n How do I sign-up? \n \n Registration is not required. \n FREE for students/faculty/staff with Montclair State ID \n \n Where and When? \n \n Thursday, February 19th, 2026 \n 1:00 p.m. - 3:00 p.m. \n \ud83d\udccdSchool of Business - 140"
   },
   {
     "title": "Group X - Yoga",
@@ -102,6 +46,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12079601",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 2:45pm - 3:30pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle"
+  },
+  {
+    "title": "Empanada Sale",
+    "date": "2026-02-19T17:00:00+00:00",
+    "organization": "Mu Sigma Upsilon Sorority, Incorporated",
+    "location": "Dickson Hall 1C07 - Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12216189",
+    "description": "The  Emanada Sale  is more than just a fundraiser\u2014it\u2019s a celebration of sisterhood, culture, and community. Centered around the beloved Dominican dish  emanadas , this sale brings people together over good food."
   },
   {
     "title": "Wheel of Black Excellence ",
@@ -184,20 +136,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
   },
   {
-    "title": "Fashion Illustration and Digital Applications Exhibition",
-    "date": "2026-02-19T16:00:00+00:00",
-    "organization": "Art and Design",
-    "location": "Finley Gallery, Finley Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12139782",
-    "description": "The Department of Art and Design is excited to announce the opening of the  Fashion Illustration and Digital Applications Exhibition . Students' work will be on view at the Finley Gallery from February 5 through February 19 with the opening reception on Wednesday, February 11 from 2pm-4pm.\u00a0 \n \u00a0 \n This exhibition features original design illustrations and presentation layouts from courses in the Fashion Design and Merchandising program, including Fashion Illustration, Digital Applications for Fashion, Flat Pattern, and Draping. \n \u00a0 \n Students design, create, develop, and prepare 2D original visuals that can become 3D professionally executed looks. The fashion design students develop original illustrations to demonstrate their extensive design knowledge by using programs Adobe Illustrator and Adobe Photoshop in tandem with traditional illustration and rendering techniques by hand.\u00a0 \n \u00a0 \n Each work selected depicts the range of creative possibilities utilizing the process of fashion design. From the initial steps of conception to a sketch, from an illustration to brand & product development, and finally garment construction, students showcase their creative voices as the emerging talent and future of the fashion apparel industry. \n \u00a0 \n Come view and support the work of Fashion\u2019s next generation of designers and creatives! \n \u00a0 \n FASHION ILLUSTRATION AND DIGITAL APPLICATIONS EXHIBITION \n Finley Gallery, Finley Hall \n Exhibition dates: 2/5-2/19 \n Opening Reception: 2/11 2pm-4pm"
-  },
-  {
     "title": "Flavors without borders",
     "date": "2026-02-19T22:00:00+00:00",
     "organization": "Bloomfield Lambda Sigma Upsilon Latino Fraternity, Inc.",
     "location": "Bloomfield - Talbott Hall 001 - Commuter Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12111491",
     "description": "Join the Smooth brothers of Lambda Sigma Upsilon in trying some snacks from different countries! In this event we will gather snacks from around the globe and experience a taste from other cultures. First Come first serve."
+  },
+  {
+    "title": "Fashion Illustration and Digital Applications Exhibition",
+    "date": "2026-02-19T16:00:00+00:00",
+    "organization": "Art and Design",
+    "location": "Finley Gallery, Finley Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12139782",
+    "description": "The Department of Art and Design is excited to announce the opening of the  Fashion Illustration and Digital Applications Exhibition . Students' work will be on view at the Finley Gallery from February 5 through February 19 with the opening reception on Wednesday, February 11 from 2pm-4pm.\u00a0 \n \u00a0 \n This exhibition features original design illustrations and presentation layouts from courses in the Fashion Design and Merchandising program, including Fashion Illustration, Digital Applications for Fashion, Flat Pattern, and Draping. \n \u00a0 \n Students design, create, develop, and prepare 2D original visuals that can become 3D professionally executed looks. The fashion design students develop original illustrations to demonstrate their extensive design knowledge by using programs Adobe Illustrator and Adobe Photoshop in tandem with traditional illustration and rendering techniques by hand.\u00a0 \n \u00a0 \n Each work selected depicts the range of creative possibilities utilizing the process of fashion design. From the initial steps of conception to a sketch, from an illustration to brand & product development, and finally garment construction, students showcase their creative voices as the emerging talent and future of the fashion apparel industry. \n \u00a0 \n Come view and support the work of Fashion\u2019s next generation of designers and creatives! \n \u00a0 \n FASHION ILLUSTRATION AND DIGITAL APPLICATIONS EXHIBITION \n Finley Gallery, Finley Hall \n Exhibition dates: 2/5-2/19 \n Opening Reception: 2/11 2pm-4pm"
   },
   {
     "title": "Bible Study",
@@ -616,20 +568,20 @@
     "description": "Closed rehearsal for Dracula."
   },
   {
-    "title": "One Acts Rehearsal ",
-    "date": "2026-02-21T17:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12056323",
-    "description": "Rehearsal for Players' One Acts Festival"
-  },
-  {
     "title": "Dance Show Rehearsals",
     "date": "2026-02-21T17:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12069903",
     "description": "Players: A Programming Board of the SGA is holding rehearsals for their Dance Show."
+  },
+  {
+    "title": "One Acts Rehearsal ",
+    "date": "2026-02-21T17:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12056323",
+    "description": "Rehearsal for Players' One Acts Festival"
   },
   {
     "title": "Peter and the Starcatcher",
@@ -976,12 +928,12 @@
     "description": "History Club invites students to a discussion highlighting Black revolutionaries and activists who challenged injustice and helped shape movements for freedom and equality. This event will explore their ideas, actions, and lasting impact on history."
   },
   {
-    "title": " Tomorrow\u2019s Legacy is Today\u2019s Choice: Why You Should Join NAACP",
+    "title": "Strings & Socials",
     "date": "2026-02-23T19:00:00+00:00",
-    "organization": "National Association for the Advancement of Colored People",
-    "location": "Student Center 2C02 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12228659",
-    "description": "Join the NAACP for\u00a0 Tomorrow\u2019s Legacy is Today\u2019s Choice: Why You Should Join NAACP , a tabling event focused on educating students about the importance of membership and youth involvement. Learn how joining the NAACP allows you to be part of a legacy of advocacy, leadership, and social change, and how your voice can help shape a more just and equitable future."
+    "organization": "Baking Club",
+    "location": "University Hall 2012 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12246310",
+    "description": "Join us for a laid-back event focused on creativity and connection! Stop by to learn more about E-board nominations and get involved, then take some time to de-stress with bracelet making. It\u2019s a great chance to relax, meet others, and express yourself while winding down from a busy week. Just come ready to unwind and have fun!"
   },
   {
     "title": "MSU Republicans General Meeting",
@@ -992,12 +944,12 @@
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
-    "title": "Strings & Socials",
+    "title": " Tomorrow\u2019s Legacy is Today\u2019s Choice: Why You Should Join NAACP",
     "date": "2026-02-23T19:00:00+00:00",
-    "organization": "Baking Club",
-    "location": "University Hall 2012 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12246310",
-    "description": "Join us for a laid-back event focused on creativity and connection! Stop by to learn more about E-board nominations and get involved, then take some time to de-stress with bracelet making. It\u2019s a great chance to relax, meet others, and express yourself while winding down from a busy week. Just come ready to unwind and have fun!"
+    "organization": "National Association for the Advancement of Colored People",
+    "location": "Student Center 2C02 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12228659",
+    "description": "Join the NAACP for\u00a0 Tomorrow\u2019s Legacy is Today\u2019s Choice: Why You Should Join NAACP , a tabling event focused on educating students about the importance of membership and youth involvement. Learn how joining the NAACP allows you to be part of a legacy of advocacy, leadership, and social change, and how your voice can help shape a more just and equitable future."
   },
   {
     "title": "PRSO GBM",
@@ -1592,20 +1544,20 @@
     "description": "Come watch a film created by Black filmmakers or centered around Black experiences, followed by an open, respectful discussion about themes such as culture, identity, community, resilience, and representation! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "BSU 3 Part Movie Night ",
-    "date": "2026-02-25T01:30:00+00:00",
-    "organization": "Black Student Union",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12229646",
-    "description": "Pop to Black Student Union 3 Part Movie Night"
-  },
-  {
     "title": "Complexions Practice",
     "date": "2026-02-25T01:30:00+00:00",
     "organization": "Complexions",
     "location": "University Hall 2031 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12236033",
     "description": "Complexions majorette band dance team will be meeting to practice for upcoming performances."
+  },
+  {
+    "title": "BSU 3 Part Movie Night ",
+    "date": "2026-02-25T01:30:00+00:00",
+    "organization": "Black Student Union",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12229646",
+    "description": "Pop to Black Student Union 3 Part Movie Night"
   },
   {
     "title": "Good Vibes & Easy Living Bingo",
@@ -2968,20 +2920,20 @@
     "description": "This overview will help familiarize you with APA citations\u2014an important part of academic writing in social science fields such as Business, Nursing, Psychology, Linguistics, Sociology, Economics, and Justice Studies. Bring your Reference pages and questions for extra help."
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2026-03-02T19:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12242984",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "General Body Meeting ",
     "date": "2026-03-02T19:00:00+00:00",
     "organization": "The Public Health Association at Montclair State University",
     "location": "University Hall 2032 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12234314",
     "description": "Want to learn more about the world around you? The Public Health Association is the perfect place to start! We invite you to join us to meet and have an educational discussion about how health applies to more everyday events than we may think. Hope to see you there."
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2026-03-02T19:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12242984",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "Polish Club Tabling",
@@ -3696,20 +3648,20 @@
     "description": "WOCA General Body Meetings are welcoming, high-energy spaces where women of color come together to connect, learn, and grow. These meetings feature engaging discussions, guest speakers, and community-building activities designed to inspire leadership, strengthen sisterhood, and provide resources for personal and professional success. Each meeting is a chance to be seen, heard, and supported while building lasting connections."
   },
   {
-    "title": "Haitian Student Association General Body Meeting ",
-    "date": "2026-03-04T19:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12165442",
-    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
-  },
-  {
     "title": "MSU Political Science Club General Body Meeting",
     "date": "2026-03-04T19:00:00+00:00",
     "organization": "Political Science Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12160995",
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-03-04T19:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12165442",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "NASO General Body Meeting",
@@ -3728,6 +3680,14 @@
     "description": "DJing is one of the original elements of Hip Hop and is often considered the first. Hip Hop began in the Bronx during the 1970s at community block parties, where DJs used turntables to bring people together through music. Early pioneers like DJ Kool Herc introduced breakbeats by looping the most rhythmic parts of records, creating the foundation for breaking and shaping how dancers and MCs interacted with the music. \n As Hip Hop evolved, DJing became the musical backbone of the culture. DJs provide the beats for MCing, set the tempo for dancers, and control the energy of Hip Hop spaces by reading the crowd and responding in real time. Through techniques like scratching, cutting, and beat juggling, DJs helped define Hip Hop\u2019s sound while preserving its history and passing down cultural knowledge. \n This class introduces the basics of DJing and how music shapes the dance experience. DJ Bascis will explain core concepts such as  tempo, rhythm, and song structure , helping students understand how music guides movement and energy on the dance floor. \n Participants will learn how DJs choose music, create smooth transitions, and adjust the vibe based on the room.\u00a0 \n Through simple examples and live demonstrations, students will build confidence in listening to music with intention. This can bewhether they are dancing, freestyling, or interested in DJing themselves. \n This class is designed for  beginners and college students , with no prior DJ or music experience required."
   },
   {
+    "title": "Hazing Prevention Workshop",
+    "date": "2026-03-04T20:00:00+00:00",
+    "organization": "Greek Life",
+    "location": "UNIV 2006",
+    "link": "https://montclair.campuslabs.com/engage/event/12068189",
+    "description": "Spring 2026 Hazing Prevention Workshops for those interested in joining a Greek Lettered Organization.\u00a0 Mandatory\u00a0 requirement set by Greek Life policy."
+  },
+  {
     "title": "WMSC General Meeting",
     "date": "2026-03-04T20:00:00+00:00",
     "organization": "WMSC 90.3 FM",
@@ -3736,12 +3696,12 @@
     "description": "WMSC's weekly member meeting to go over the newest and most important information regarding the station, and what each team is up to. \n \u00a0 \n On-air DJs are required to attend several of these meetings throughout the semester."
   },
   {
-    "title": "Hazing Prevention Workshop",
-    "date": "2026-03-04T20:00:00+00:00",
-    "organization": "Greek Life",
-    "location": "UNIV 2006",
-    "link": "https://montclair.campuslabs.com/engage/event/12068189",
-    "description": "Spring 2026 Hazing Prevention Workshops for those interested in joining a Greek Lettered Organization.\u00a0 Mandatory\u00a0 requirement set by Greek Life policy."
+    "title": "Understanding Rights and Responsibilities\u2014 Immigration Policy",
+    "date": "2026-03-04T19:30:00+00:00",
+    "organization": "Government Relations and Community Affairs ",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12262773",
+    "description": "As immigration policies develop, it is best to stay educated. Know your rights and responsibilities! \n \u00a0 \n Join the New Jersey Consortium for Immigrant Children for a webinar on key legal and policy issues impacting the Montclair community. Information will be provided on immigration statuses, policy updates, legal protections, judicial vs. administrative orders, and understanding your rights if encountering law enforcement. Sessions are open for students, family, faculty, and staff in both English and Spanish.\u00a0 \n \u00a0 \n The New Jersey Consortium for Immigrant Children (NJCIC) is a state-wide legal and policy advocacy and education organization specializing in youth immigration. They provide objective legal resources, aid, and advice on immigration rights. \n \u00a0 \n Student & Family English Session: March 4, 2:30-3:45:  https://us06web.zoom.us/webinar/register/WN_iGJLl9ZWR7KXRUE_aniMsA \n \u00a0 \n Student & Family Spanish Session: April 9, 5:30-6:45: \n https://us06web.zoom.us/j/82724283081?pwd=KzAjQw24vxqmzbURBXGmbBLV3V60m3.1"
   },
   {
     "title": "Tactical Medicine: Suturing Skills Workshop",
@@ -3829,7 +3789,7 @@
     "organization": "Montclair State University Players",
     "location": "Student Center 250C - Ballroom C",
     "link": "https://montclair.campuslabs.com/engage/event/12106701",
-    "description": ""
+    "description": "Montclair Players' spring semester dance workshop. Open to all undergraduate students."
   },
   {
     "title": "The Gather ",
@@ -4184,6 +4144,14 @@
     "description": "Join us for the Bohn Hall Community Meeting! This is your opportunity to connect with your Professional Staff, student staff, and fellow residents as we kick off the semester together. At this meeting, we\u2019ll cover important information about living in Bohn Hall, including community expectations, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n Resources and support available to you \n Opportunities to connect with staff and peers \n A chance to ask questions and share your voice \n \n We look forward to seeing you there! \n This event is for Bohn Hall Residents"
   },
   {
+    "title": "Freeman and Russ March Floor Meeting",
+    "date": "2026-03-06T01:00:00+00:00",
+    "organization": "Freeman Hall & Russ Hall",
+    "location": "Russ Hall KOPS Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12261590",
+    "description": "Join us for our March floor meeting! We\u2019ll go over important community reminders, quiet hours, guest policies, and any building updates.\u00a0 Attendance is expected. \n Commuters may attend but must be signed in by a resident following Residence Life guest procedures."
+  },
+  {
     "title": "Department of Theatre and Dance | Spring Dance '26",
     "date": "2026-03-06T00:30:00+00:00",
     "organization": "The College of the Arts",
@@ -4390,6 +4358,22 @@
     "location": "Bohn Hall Main Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/11989998",
     "description": "Join us for the Bohn Hall Community Meeting! This is your opportunity to connect with your Professional Staff, student staff, and fellow residents as we kick off the semester together. At this meeting, we\u2019ll cover important information about living in Bohn Hall, including community expectations, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n Resources and support available to you \n Opportunities to connect with staff and peers \n A chance to ask questions and share your voice \n \n We look forward to seeing you there! \n This event is for Bohn Hall Residents"
+  },
+  {
+    "title": "Freeman and Russ March Floor Meeting",
+    "date": "2026-03-07T01:00:00+00:00",
+    "organization": "Freeman Hall & Russ Hall",
+    "location": "Russ Hall KOPS Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12261623",
+    "description": "Join us for our March floor meeting! We\u2019ll go over important community reminders, quiet hours, guest policies, and any building updates.\u00a0 Attendance is expected. \n Commuters may attend but must be signed in by a resident following Residence Life guest procedures."
+  },
+  {
+    "title": "Freeman and Russ March Floor Meeting",
+    "date": "2026-03-07T01:00:00+00:00",
+    "organization": "Freeman Hall & Russ Hall",
+    "location": "Freeman Hall First Floor Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12261613",
+    "description": "Join us for our March floor meeting! We\u2019ll go over important community reminders, quiet hours, guest policies, and any building updates.\u00a0 Attendance is expected. \n Commuters may attend but must be signed in by a resident following Residence Life guest procedures."
   },
   {
     "title": "Department of Theatre and Dance | Spring Dance '26",
@@ -7248,7 +7232,7 @@
     "description": "Take a break from classes and get some studying done in a relaxed, welcoming space! Join us for a Study & Snack Night where students can focus on homework, study for exams, or work on group projects while enjoying free snacks and drinks.\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Delta Phi Epsilon's Masked Singer",
+    "title": "Delta Phi Epsilon's Perfect Pair",
     "date": "2026-03-25T23:00:00+00:00",
     "organization": "Delta Phi Epsilon",
     "location": "University Hall 7500 - Conference Center",
@@ -9120,6 +9104,14 @@
     "description": "General body meeting of MSU Players open to all Undergraduate Students!"
   },
   {
+    "title": "Cabaret Auditions",
+    "date": "2026-04-06T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250A - Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/12262943",
+    "description": "Auditions for Players 2026 Cabaret. Audition info TBA"
+  },
+  {
     "title": "Praise Dance Practice",
     "date": "2026-04-06T22:00:00+00:00",
     "organization": "Voices of Unity",
@@ -9229,7 +9221,7 @@
     "organization": "Montclair State Dance Company",
     "location": "University Hall 1C01 - Lobby Table",
     "link": "https://montclair.campuslabs.com/engage/event/12172436",
-    "description": ""
+    "description": "Come buy a sweet treat from the Montclair State Dance Company!"
   },
   {
     "title": "Director of Academic Affairs Tabling- Voice your Concerns",
@@ -9302,6 +9294,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12065603",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesdays, 01/20 - 04/24 \n 4pm-4:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
+  },
+  {
+    "title": "Black Student Union General Body Meeting ",
+    "date": "2026-04-07T20:00:00+00:00",
+    "organization": "Black Student Union",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12262954",
+    "description": "Black Student Union (BSU) meetings are regular gatherings where students come together to build community, discuss topics affecting Black students, plan events, and celebrate culture. These meetings are welcoming spaces focused on connection, support, and empowerment, while encouraging open dialogue and collaboration."
   },
   {
     "title": "Group X - Kickboxing",
@@ -9822,6 +9822,14 @@
     "location": "Student Recreation Multi-Purpose Room 2",
     "link": "https://montclair.campuslabs.com/engage/event/12080270",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 5pm - 5:30pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
+  },
+  {
+    "title": "Understanding Rights and Responsibilities\u2014 Immigration Policy",
+    "date": "2026-04-09T21:30:00+00:00",
+    "organization": "Government Relations and Community Affairs ",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12262774",
+    "description": "As immigration policies develop, it is best to stay educated. Know your rights and responsibilities! \n Join the New Jersey Consortium for Immigrant Children for a webinar on key legal and policy issues impacting the Montclair community. Information will be provided on immigration statuses, policy updates, legal protections, judicial vs. administrative orders, and understanding your rights if encountering law enforcement. Sessions are open for students, family, faculty, and staff in both English and Spanish.\u00a0 \n The New Jersey Consortium for Immigrant Children (NJCIC) is a state-wide legal and policy advocacy and education organization specializing in youth immigration. They provide objective legal resources, aid, and advice on immigration rights. \n Student & Family English Session: March 4, 2:30-3:45:  https://us06web.zoom.us/webinar/register/WN_iGJLl9ZWR7KXRUE_aniMsA \n Student & Family Spanish Session: April 9, 5:30-6:45: \n https://us06web.zoom.us/j/82724283081?pwd=KzAjQw24vxqmzbURBXGmbBLV3V60m3.1"
   },
   {
     "title": "Group X - Kickboxing",
@@ -10944,6 +10952,14 @@
     "description": "Come destress with ALPFA Montclair"
   },
   {
+    "title": "Family Weekend: Family Bingo",
+    "date": "2026-04-17T23:00:00+00:00",
+    "organization": "Parent & Family Programs ",
+    "location": "Montclair campus, Student Center, Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/12262536",
+    "description": "Enjoy friendly competition, great prizes and plenty of laughs as you test your luck and shout \u201cBingo!\u201d It\u2019s the perfect way to connect, unwind and create fun memories together during Family Weekend."
+  },
+  {
     "title": "Into the Woods ",
     "date": "2026-04-17T20:30:00+00:00",
     "organization": "Montclair State University Players",
@@ -11272,6 +11288,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesdays, 01/20 - 04/24 \n 4pm-4:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
   },
   {
+    "title": "Black Student Union General Body Meeting ",
+    "date": "2026-04-21T20:00:00+00:00",
+    "organization": "Black Student Union",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12262955",
+    "description": "Black Student Union (BSU) meetings are regular gatherings where students come together to build community, discuss topics affecting Black students, plan events, and celebrate culture. These meetings are welcoming spaces focused on connection, support, and empowerment, while encouraging open dialogue and collaboration."
+  },
+  {
     "title": "Group X - Kickboxing",
     "date": "2026-04-21T21:00:00+00:00",
     "organization": "Campus Recreation",
@@ -11400,20 +11424,20 @@
     "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
-    "title": "HOSA General Body Meeting",
-    "date": "2026-04-22T18:00:00+00:00",
-    "organization": "Health Occupations Students of America - Future Health Professionals ",
-    "location": "University Hall 2009 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12171209",
-    "description": "HOSA GBM!"
-  },
-  {
     "title": "Caribbean Students' Organization: General body Meetings ",
     "date": "2026-04-22T18:00:00+00:00",
     "organization": "Caribbean Students' Organization",
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12161079",
     "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
+    "title": "HOSA General Body Meeting",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "Health Occupations Students of America - Future Health Professionals ",
+    "location": "University Hall 2009 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12171209",
+    "description": "HOSA GBM!"
   },
   {
     "title": "UAASO General Body Meeting (GBM)",
@@ -11608,6 +11632,14 @@
     "description": "Hang out and have casual conversations with other students while enjoying refreshments! Join us on Thursdays from 3:15-4:15pm.\u00a0 \n What are Fireside Chats: \n \n A space for students to meet, connect, and have a casual conversation about a given topic, or anything else that feels comfortable for everyone else. It can be about the school climate, student life in general, or your favorite show. All students are welcome!"
   },
   {
+    "title": "Family Weekend Check In",
+    "date": "2026-04-23T16:00:00+00:00",
+    "organization": "Parent & Family Programs ",
+    "location": "Montclair campus, Student Center, Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12262513",
+    "description": "Kick off Family Weekend by stopping at Check-In! Pick up your meal vouchers, Family Weekend swag and important event information to help you make the most of your time on campus. Our team will be there to welcome you, answer questions and ensure you\u2019re ready for a full weekend of connection, celebration and Red Hawk pride."
+  },
+  {
     "title": "Group X - Kickboxing",
     "date": "2026-04-23T19:45:00+00:00",
     "organization": "Campus Recreation",
@@ -11752,6 +11784,14 @@
     "description": "Dive into creativity! Make a splash with an ocean DIY craft filled with colorful sea creatures, waves, and underwater fun.\u00a0 \n \n \n Take-and-Make craft kits are available for pick up at the Drop-In Center during business hours starting Wednesday, April 15th, 2026. While supplies last! FREE for students with a valid Montclair or Bloomfield campus ID. Each\u00a0 craft kit comes with everything you need including acrylic paint, 2 brushes, and one ceramic sea creature. Craft kits may vary from image shown!"
   },
   {
+    "title": "Family Weekend Check In",
+    "date": "2026-04-24T16:00:00+00:00",
+    "organization": "Parent & Family Programs ",
+    "location": "Montclair campus, Student Center, Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12262514",
+    "description": "Kick off Family Weekend by stopping at Check-In! Pick up your meal vouchers, Family Weekend swag and important event information to help you make the most of your time on campus. Our team will be there to welcome you, answer questions and ensure you\u2019re ready for a full weekend of connection, celebration and Red Hawk pride."
+  },
+  {
     "title": "Group X - BJJ",
     "date": "2026-04-24T19:30:00+00:00",
     "organization": "Campus Recreation",
@@ -11766,6 +11806,70 @@
     "location": "1908 Pub, Student Center",
     "link": "https://montclair.campuslabs.com/engage/event/11967641",
     "description": "Do you speak fluent internet? Test your knowledge of iconic memes, viral moments, and online chaos."
+  },
+  {
+    "title": "Family Weekend: Breakfast Buffet",
+    "date": "2026-04-25T13:30:00+00:00",
+    "organization": "Parent & Family Programs ",
+    "location": "Montclair campus, Student Center, Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/12262573",
+    "description": "Start your Saturday morning together at the Opening Breakfast Buffet. Enjoy a delicious spread of breakfast favorites while connecting with other Red Hawk families and campus partners. It\u2019s the perfect way to fuel up, relax and kick off a full day of Family Weekend activities."
+  },
+  {
+    "title": "Family Weekend Check In",
+    "date": "2026-04-25T13:00:00+00:00",
+    "organization": "Parent & Family Programs ",
+    "location": "Montclair campus, Student Center, Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12262515",
+    "description": "Kick off Family Weekend by stopping at Check-In! Pick up your meal vouchers, Family Weekend swag and important event information to help you make the most of your time on campus. Our team will be there to welcome you, answer questions and ensure you\u2019re ready for a full weekend of connection, celebration and Red Hawk pride."
+  },
+  {
+    "title": "Family Weekend: Student Expo Street Fair",
+    "date": "2026-04-25T17:00:00+00:00",
+    "organization": "Parent & Family Programs ",
+    "location": "Montclair campus, Student Center, Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12262618",
+    "description": "Celebrate the creativity and energy of Montclair at this lively outdoor street fair featuring our favorite DJ, tabling from a variety of clubs, organizations and departments, student entrepreneurs & more! Experience the talent that makes our campus community shine."
+  },
+  {
+    "title": "Family Weekend: Meet Pebbles the Pupscot",
+    "date": "2026-04-25T17:00:00+00:00",
+    "organization": "Parent & Family Programs ",
+    "location": "Montclair campus, Student Center, Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12262637",
+    "description": "Stop by to meet Pebbles, Montclair\u2019s favorite pupscot! Snap a photo, grab a hug and enjoy a tail-wagging moment with this campus favorite. It\u2019s the perfect feel-good stop during Family Weekend for smiles, memories and a little extra Red Hawk spirit. \ud83d\udc3e"
+  },
+  {
+    "title": "Family Weekend: 1908 Happy Hour",
+    "date": "2026-04-25T20:00:00+00:00",
+    "organization": "Parent & Family Programs ",
+    "location": "Montclair campus, Student Center, 1908 Pub",
+    "link": "https://montclair.campuslabs.com/engage/event/12262654",
+    "description": "Unwind at 1908 Pub with a family-friendly trivia night, pizza and refreshments. Test your knowledge, enjoy great company and relax in one of campus\u2019 favorite gathering spots during this fun afternoon social."
+  },
+  {
+    "title": "Family Weekend: Sunset Social",
+    "date": "2026-04-25T23:00:00+00:00",
+    "organization": "Parent & Family Programs ",
+    "location": "Montclair campus, Student Center, Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12262675",
+    "description": "End the day under the evening sky with a backyard-style celebration featuring a BBQ, lawn games, live music, cozy firepits and classic s\u2019mores. It\u2019s the perfect way to connect, laugh and make lasting Family Weekend memories together. Bring a blanket or lawn chair to hang in the quad!"
+  },
+  {
+    "title": "Family Weekend ",
+    "date": "2026-04-23T16:00:00+00:00",
+    "organization": "Parent & Family Programs ",
+    "location": "Montclair campus",
+    "link": "https://montclair.campuslabs.com/engage/event/12262473",
+    "description": "Get ready to make memories as a Red Hawk Family! Save the date for Montclair State University\u2019s Family Weekend! \n Join us for a weekend filled with fun, connection and special moments as you experience campus life. Whether it\u2019s your family\u2019s first visit or returning, we can\u2019t wait to welcome everyone! \n View the Full Schedule of Events! \n All Non-Montclair Students must  register  through our family portal, CampusESP.\u00a0 If your family needs assistance logging in,  contact us with any questions ."
+  },
+  {
+    "title": "Family Weekend: Grab & Go Closing Breakfast",
+    "date": "2026-04-26T14:00:00+00:00",
+    "organization": "Parent & Family Programs ",
+    "location": "Montclair campus, Student Center, Ballrooms B&C",
+    "link": "https://montclair.campuslabs.com/engage/event/12262684",
+    "description": "Before heading home, stop by for a light breakfast featuring pastries, coffee, tea and more. Swing through, grab a bite and wrap up Family Weekend with one last moment together on campus."
   },
   {
     "title": "Weekly Chapter Meeting",
