@@ -1,45 +1,5 @@
 [
   {
-    "title": "Peter and the Starcatcher",
-    "date": "2026-02-21T19:00:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "Life Hall Studio Theatre 1200",
-    "link": "https://montclair.campuslabs.com/engage/event/12219833",
-    "description": "Based on the novel by Dave Barry and Ridley Pearson,\u00a0 Peter and the Starcatcher \u00a0upends the century-old story of how a miserable orphan on a ship bound for Rundoon came to be \"The Boy Who Would Not Grow Up.\" In a wildly theatrical and action-packed prequel to Peter Pan, this imaginative adventure features music, mermaids, marauding pirates, and unlikely heroes. Peter and the Starcatcher playfully explores the depths of greed and despair as they test the bonds of friendship, duty, and love. \n TICKETS : $22 and $25 includes $5 per ticket handling fee\u00a0 \n This production-specific advisory suggests ages 6+ with parental guidance, be aware of mild violence and some adult-coded humor (sexual innuendo, drinking) \n A play by Rick Elice with music by Wayne Barker Based on the novel by Dave Barry and Ridley Pearson Directed by: Ryan Kasprzak Choreography: Jessica Chen"
-  },
-  {
-    "title": "UDEL rehearsal ",
-    "date": "2026-02-21T15:00:00+00:00",
-    "organization": "Montclair State Dance Company",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/12228613",
-    "description": "Montclair state dance company UDEL practice"
-  },
-  {
-    "title": "Dracula Rehearsal",
-    "date": "2026-02-21T17:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center Underground - The Underground",
-    "link": "https://montclair.campuslabs.com/engage/event/12087865",
-    "description": "Closed rehearsal for Dracula."
-  },
-  {
-    "title": "Dance Show Rehearsals",
-    "date": "2026-02-21T17:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12069903",
-    "description": "Players: A Programming Board of the SGA is holding rehearsals for their Dance Show."
-  },
-  {
-    "title": "One Acts Rehearsal ",
-    "date": "2026-02-21T17:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12056323",
-    "description": "Rehearsal for Players' One Acts Festival"
-  },
-  {
     "title": "Tres A\u00f1os, Tres Goals",
     "date": "2026-02-21T23:00:00+00:00",
     "organization": "Association of Latino Professionals For America",
@@ -126,14 +86,6 @@
     "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
     "link": "https://montclair.campuslabs.com/engage/event/12238928",
     "description": "Join the Black Student Union for a fun-filled  Community Day  in collaboration with  Bloomfield High School ! This exciting event brings students, families, and community members together for a morning of connection, culture, and friendly competition. \n Start your day with a delicious breakfast while enjoying great music and even better company. Then, get ready for an interactive  Family Feud-style game showdown , where teams will compete in a high-energy battle of knowledge, culture, and laughs! \n This event is all about building community, celebrating Black excellence, and creating space for unity across generations. Whether you\u2019re coming to compete, cheer on your friends, or simply enjoy breakfast and conversation, there\u2019s something for everyone."
-  },
-  {
-    "title": "Festejo Festividades",
-    "date": "2026-02-22T22:00:00+00:00",
-    "organization": "Peruvian-American Student Organization",
-    "location": "Student Center 250ABC - Ballrooms A, B, and C",
-    "link": "https://montclair.campuslabs.com/engage/event/12228651",
-    "description": "Paso is hosting a celebration for black history month. Showcasing the Afro-Peruvian culture such as the Afro-Peruvian dance Festejo and Afro-Peruvian music."
   },
   {
     "title": "Weekly Chapter Meeting",
@@ -344,20 +296,20 @@
     "description": "Join us for DECA\u2019s first GBM to learn what Collegiate DECA is, how our chapter works, and how you can get involved. We\u2019ll cover opportunities, events, and what to expect this semester \u2014 no experience required."
   },
   {
-    "title": "CALI SCHOOL OF MUSIC | Billy Hart | Jazz Drum Faculty Masterclass",
-    "date": "2026-02-23T19:00:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "Leshowitz Recital Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12233806",
-    "description": "CALI SCHOOL OF MUSIC | Billy Hart | Jazz Drum Faculty Masterclass \n Don\u2019t miss this rare opportunity to learn from one of the most influential voices in modern jazz drumming. \n Legendary jazz drummer Billy Hart, known for his work with  Herbie Hancock, Stan Getz,  and countless others, leads a dynamic masterclass at the Cali School of Music.  \n Billy Hart  is one of the most influential jazz drummers of his generation, celebrated for his versatility across straight-ahead, avant-garde, and popular styles. He has released 12 albums as a leader and appeared on more than 600 recordings, working with legends such as Herbie Hancock, Miles Davis, Wes Montgomery, Stan Getz, and Charles Lloyd. A founding member of Quest and a longtime member of the Cookers, Hart also leads his own acclaimed quartet. Born in Washington, D.C., he began performing as a teenager with Buck Hill and Shirley Horn before touring in the 1960s with Jimmy Smith, Wes Montgomery, and Eddie Harris. Since then, his career has spanned collaborations with both jazz icons and experimental innovators."
-  },
-  {
     "title": "Coca Cola Tabling",
     "date": "2026-02-23T19:00:00+00:00",
     "organization": "EATS by Gourmet Dining",
     "location": "REC",
     "link": "https://montclair.campuslabs.com/engage/event/12253466",
     "description": "Stop by the table & try a sample!"
+  },
+  {
+    "title": "CALI SCHOOL OF MUSIC | Billy Hart | Jazz Drum Faculty Masterclass",
+    "date": "2026-02-23T19:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Leshowitz Recital Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12233806",
+    "description": "CALI SCHOOL OF MUSIC | Billy Hart | Jazz Drum Faculty Masterclass \n Don\u2019t miss this rare opportunity to learn from one of the most influential voices in modern jazz drumming. \n Legendary jazz drummer Billy Hart, known for his work with  Herbie Hancock, Stan Getz,  and countless others, leads a dynamic masterclass at the Cali School of Music.  \n Billy Hart  is one of the most influential jazz drummers of his generation, celebrated for his versatility across straight-ahead, avant-garde, and popular styles. He has released 12 albums as a leader and appeared on more than 600 recordings, working with legends such as Herbie Hancock, Miles Davis, Wes Montgomery, Stan Getz, and Charles Lloyd. A founding member of Quest and a longtime member of the Cookers, Hart also leads his own acclaimed quartet. Born in Washington, D.C., he began performing as a teenager with Buck Hill and Shirley Horn before touring in the 1960s with Jimmy Smith, Wes Montgomery, and Eddie Harris. Since then, his career has spanned collaborations with both jazz icons and experimental innovators."
   },
   {
     "title": "Eboard meeting ",
@@ -2280,6 +2232,14 @@
     "description": "Come and make your own trinket tray with us. Stop by the Blanton lounge on March 1st from 8:00pm - 10:00pm and get yourself some trinkets. All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "Invincible Kahoot Trivia ",
+    "date": "2026-03-02T01:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Hawk Crossings",
+    "link": "https://montclair.campuslabs.com/engage/event/12250587",
+    "description": "Join us in Hawks Crossing Office at 8PM on March 1st in honor of the new season of Invincible coming out this month! All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
     "title": "Theta Phi Alpha- March Chapter Meetings",
     "date": "2026-03-01T22:00:00+00:00",
     "organization": "Theta Phi Alpha",
@@ -3016,20 +2976,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 12pm - 12:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Alexa G"
   },
   {
-    "title": "Nursing Bible Study ",
-    "date": "2026-03-04T17:00:00+00:00",
-    "organization": "InterVarsity Christian Fellowship",
-    "location": "Student Center 415 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12234603",
-    "description": "Join us as we delve into the Word of God and how it applies to you as a college student studying nursing or healthcare related majors"
-  },
-  {
     "title": "The Emotionally Intelligent Leader",
     "date": "2026-03-04T17:00:00+00:00",
     "organization": "University College",
     "location": "Student Center Underground (Rm 160)",
     "link": "https://montclair.campuslabs.com/engage/event/12025263",
     "description": "Join us for  The Emotionally Intelligent Leader  \u2014 an interactive workshop designed for pre-major students! Discover how emotional intelligence can strengthen your leadership skills, boost academic success, and elevate your personal and professional growth. \n This event is open to all University College (pre-major) students. RSVP is required. \n There will be complimentary food."
+  },
+  {
+    "title": "Nursing Bible Study ",
+    "date": "2026-03-04T17:00:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Student Center 415 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12234603",
+    "description": "Join us as we delve into the Word of God and how it applies to you as a college student studying nursing or healthcare related majors"
   },
   {
     "title": " LASO Hot Coco Fundraiser",
@@ -3518,14 +3478,6 @@
     "location": "Student Recreation Center PLAE Room",
     "link": "https://montclair.campuslabs.com/engage/event/12179127",
     "description": "Step into the brand-new PLAE Room and discover upLIFT\u2014a judgement-free program designed to help every student, from complete beginners to seasoned gym-goers, feel confident and capable with free-weight training. Learn proper lifting technique, get personalized form checks, and master the basics of creating your own effective workout programs. Whether you\u2019re looking to meet other students who love to lift, pursue new fitness goals, or simply feel more at home in the weight room, upLIFT offers a supportive community and a dedicated space to grow. The program is structured for steady progression throughout the semester, but you\u2019re welcome to drop in anytime and join at your own pace. \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Beginning February 3, ending April 23 \n Tuesdays 3 PM - 4 PM, Wednesdays 6 PM - 7 PM, and Thursdays 2 PM - 3 PM \n Student Recreation Center PLAE Room"
-  },
-  {
-    "title": "General Body Meeting #4",
-    "date": "2026-03-05T19:00:00+00:00",
-    "organization": "Montclair State Circle K",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12234617",
-    "description": "Join Circle K and Montclair Unraveled with\u00a0a community outreach service event where members will assemble gift bags filled with small toys and trinkets to be donated to local children\u2019s hospitals. This allows members from both organizations to give back, spread joy, and provide comfort to children receiving medical care while fostering a spirit of compassion and community engagement."
   },
   {
     "title": "Chess Club SB Meeting : Coaching!",
@@ -5152,6 +5104,14 @@
     "description": "The Polish Club General Meeting is open to all students interested in Polish culture and community engagement. During the meeting, we will review club goals, upcoming events, leadership opportunities, and ways to get involved. New and returning members are encouraged to attend and participate."
   },
   {
+    "title": "General Miembro Meeting",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12154350",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting, where we have fun activities planned to learn about different Latin cultures! Check out our Instagram @laso1970 for this week's topic!"
+  },
+  {
     "title": "Powerful Mujeras ",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "The Women Of Color Alliance ",
@@ -5160,20 +5120,20 @@
     "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
   },
   {
-    "title": "Haitian Student Association General Body Meeting ",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12165443",
-    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
-  },
-  {
     "title": "MSU Political Science Club General Body Meeting",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "Political Science Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12160996",
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12165443",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "NASO General Body Meeting",
@@ -5256,20 +5216,20 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Wednesday: 5-6PM \n Student Recreation Center - Pool"
   },
   {
-    "title": "Henna Party With The Zetas",
-    "date": "2026-03-18T21:00:00+00:00",
-    "organization": "Bloomfield Zeta Phi Beta Sorority, Inc.",
-    "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
-    "link": "https://montclair.campuslabs.com/engage/event/12147430",
-    "description": "We will be doing free henna designs on students on campus to celebrate the ending of Ramadan."
-  },
-  {
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-03-18T21:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Pool",
     "link": "https://montclair.campuslabs.com/engage/event/11940188",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Wednesday: 5-6PM \n Student Recreation Center - Pool"
+  },
+  {
+    "title": "Henna Party With The Zetas",
+    "date": "2026-03-18T21:00:00+00:00",
+    "organization": "Bloomfield Zeta Phi Beta Sorority, Inc.",
+    "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
+    "link": "https://montclair.campuslabs.com/engage/event/12147430",
+    "description": "We will be doing free henna designs on students on campus to celebrate the ending of Ramadan."
   },
   {
     "title": "Group X - Kickboxing",
@@ -5693,7 +5653,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12108160",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 01/20 - 04/24 \n 2:00pm - 2:45 pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Vincent"
+    "description": ""
   },
   {
     "title": "Renew and Refresh Trash Pickup",
@@ -7189,7 +7149,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12108084",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 3:30pm- 5:00pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
+    "description": ""
   },
   {
     "title": "Broadway Trivia ",
@@ -7341,7 +7301,7 @@
     "organization": "Montclair State University Players",
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12117830",
-    "description": "Players invites you to join us at\u00a0Kate Hamill's \u00a0Dracula: A Feminist Revenge Fantasy, Really . All ticket purchases are directed through Eventbrite. \n Fri, Mar 27 @7pm \n Sat, Mar 28 @2pm + 7pm \n Sun, Mar 29 @2pm"
+    "description": ""
   },
   {
     "title": "Build-A-Bowl",
@@ -10373,7 +10333,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Pool",
     "link": "https://montclair.campuslabs.com/engage/event/11940192",
-    "description": ""
+    "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Wednesday: 5-6PM \n Student Recreation Center - Pool"
   },
   {
     "title": "Group X - Kickboxing",
@@ -11200,20 +11160,20 @@
     "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
-    "title": "Caribbean Students' Organization: General body Meetings ",
-    "date": "2026-04-22T18:00:00+00:00",
-    "organization": "Caribbean Students' Organization",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12161079",
-    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
-  },
-  {
     "title": "HOSA General Body Meeting",
     "date": "2026-04-22T18:00:00+00:00",
     "organization": "Health Occupations Students of America - Future Health Professionals ",
     "location": "University Hall 2009 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12171209",
     "description": "HOSA GBM!"
+  },
+  {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161079",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
   },
   {
     "title": "UAASO General Body Meeting (GBM)",
