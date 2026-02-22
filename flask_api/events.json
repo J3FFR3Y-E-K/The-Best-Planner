@@ -1,37 +1,5 @@
 [
   {
-    "title": "Peter and the Starcatcher",
-    "date": "2026-02-22T00:30:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "Life Hall Studio Theatre 1200",
-    "link": "https://montclair.campuslabs.com/engage/event/12219834",
-    "description": "Based on the novel by Dave Barry and Ridley Pearson,\u00a0 Peter and the Starcatcher \u00a0upends the century-old story of how a miserable orphan on a ship bound for Rundoon came to be \"The Boy Who Would Not Grow Up.\" In a wildly theatrical and action-packed prequel to Peter Pan, this imaginative adventure features music, mermaids, marauding pirates, and unlikely heroes. Peter and the Starcatcher playfully explores the depths of greed and despair as they test the bonds of friendship, duty, and love. \n TICKETS : $22 and $25 includes $5 per ticket handling fee\u00a0 \n This production-specific advisory suggests ages 6+ with parental guidance, be aware of mild violence and some adult-coded humor (sexual innuendo, drinking) \n A play by Rick Elice with music by Wayne Barker Based on the novel by Dave Barry and Ridley Pearson Directed by: Ryan Kasprzak Choreography: Jessica Chen"
-  },
-  {
-    "title": "Pool Tournament ",
-    "date": "2026-02-22T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/11961929",
-    "description": "Show off your pool skills and competitive spirit with a fun tournament. Held in the Blanton Lounge February 21st from 8:00pm - 10:00pm. All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Holographic Hearts",
-    "date": "2026-02-22T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Dinallo Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/11961928",
-    "description": "Show some self love while crafting holographic hearts at the Dinallo lounge! We will be crafting our holographic hearts at 8:00 P.M., February 21st. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "MILF Round 3",
-    "date": "2026-02-21T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12158633",
-    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 3 performances."
-  },
-  {
     "title": "Dracula Rehearsal",
     "date": "2026-02-22T17:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -238,14 +206,6 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12236240",
     "description": "The difference between active and passive voice is crucial to know for clear, concise writing and communication. This workshop will discuss the difference, purpose, and importance of active and passive voice."
-  },
-  {
-    "title": "Tres Leche Bake sale!! ",
-    "date": "2026-02-23T19:00:00+00:00",
-    "organization": "Chi Upsilon Sigma National Latin Sorority, INC",
-    "location": "Student Center 2C01 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12266509",
-    "description": "Craving something sweet? We\u2019ve got you covered! \u2665\ufe0f \n Rich, fluffy, and dripping in deliciousness. The perfect treat to captivate your day \ud83c\udf3a"
   },
   {
     "title": "PASO General Board Meeting",
@@ -1104,20 +1064,20 @@
     "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
   },
   {
-    "title": "Food & God! ",
-    "date": "2026-02-25T19:15:00+00:00",
-    "organization": "Cru",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12154572",
-    "description": "Cru is a caring community of students passionate about connecting people to Jesus Christ!  Join us for Food & God - an open and inviting space where you can explore faith, ask questions, and engage in meaningful conversations\u2014all over a delicious meal. This event is not about debating or convincing; it\u2019s about listening, sharing, and creating a space where everyone feels heard and respected. Whether you have deep spiritual questions, doubts, or just want to hear different perspectives, you are welcome here. \n As you enjoy your meal, we\u2019ll dive into honest discussions about life, God, and what it all means. There\u2019s no pressure, no expectations\u2014just real talk in a relaxed and judgment-free environment. We believe that great conversations happen over great food, and this is an opportunity to connect with others in a way that is both thought-provoking and welcoming. \n So come hungry, bring a friend, and join us for an afternoon of free food, good company, and genuine conversations. We\u2019d love to hear your thoughts, share our experiences, and explore faith together\u2014one plate at a time."
-  },
-  {
     "title": "UAASO General Body Meeting (GBM)",
     "date": "2026-02-25T19:15:00+00:00",
     "organization": "Unified Asian American Student Organization",
     "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12190752",
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
+  },
+  {
+    "title": "Food & God! ",
+    "date": "2026-02-25T19:15:00+00:00",
+    "organization": "Cru",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12154572",
+    "description": "Cru is a caring community of students passionate about connecting people to Jesus Christ!  Join us for Food & God - an open and inviting space where you can explore faith, ask questions, and engage in meaningful conversations\u2014all over a delicious meal. This event is not about debating or convincing; it\u2019s about listening, sharing, and creating a space where everyone feels heard and respected. Whether you have deep spiritual questions, doubts, or just want to hear different perspectives, you are welcome here. \n As you enjoy your meal, we\u2019ll dive into honest discussions about life, God, and what it all means. There\u2019s no pressure, no expectations\u2014just real talk in a relaxed and judgment-free environment. We believe that great conversations happen over great food, and this is an opportunity to connect with others in a way that is both thought-provoking and welcoming. \n So come hungry, bring a friend, and join us for an afternoon of free food, good company, and genuine conversations. We\u2019d love to hear your thoughts, share our experiences, and explore faith together\u2014one plate at a time."
   },
   {
     "title": "The Faculty Review \u2013 Competitive Prep Session",
@@ -2968,20 +2928,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 12pm - 12:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Alexa G"
   },
   {
-    "title": "The Emotionally Intelligent Leader",
-    "date": "2026-03-04T17:00:00+00:00",
-    "organization": "University College",
-    "location": "Student Center Underground (Rm 160)",
-    "link": "https://montclair.campuslabs.com/engage/event/12025263",
-    "description": "Join us for  The Emotionally Intelligent Leader  \u2014 an interactive workshop designed for pre-major students! Discover how emotional intelligence can strengthen your leadership skills, boost academic success, and elevate your personal and professional growth. \n This event is open to all University College (pre-major) students. RSVP is required. \n There will be complimentary food."
-  },
-  {
     "title": "Nursing Bible Study ",
     "date": "2026-03-04T17:00:00+00:00",
     "organization": "InterVarsity Christian Fellowship",
     "location": "Student Center 415 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12234603",
     "description": "Join us as we delve into the Word of God and how it applies to you as a college student studying nursing or healthcare related majors"
+  },
+  {
+    "title": "The Emotionally Intelligent Leader",
+    "date": "2026-03-04T17:00:00+00:00",
+    "organization": "University College",
+    "location": "Student Center Underground (Rm 160)",
+    "link": "https://montclair.campuslabs.com/engage/event/12025263",
+    "description": "Join us for  The Emotionally Intelligent Leader  \u2014 an interactive workshop designed for pre-major students! Discover how emotional intelligence can strengthen your leadership skills, boost academic success, and elevate your personal and professional growth. \n This event is open to all University College (pre-major) students. RSVP is required. \n There will be complimentary food."
   },
   {
     "title": " LASO Hot Coco Fundraiser",
@@ -5216,20 +5176,20 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Wednesday: 5-6PM \n Student Recreation Center - Pool"
   },
   {
-    "title": "Free Swim Lessons *Intermediate*",
-    "date": "2026-03-18T21:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Pool",
-    "link": "https://montclair.campuslabs.com/engage/event/11940188",
-    "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Wednesday: 5-6PM \n Student Recreation Center - Pool"
-  },
-  {
     "title": "Henna Party With The Zetas",
     "date": "2026-03-18T21:00:00+00:00",
     "organization": "Bloomfield Zeta Phi Beta Sorority, Inc.",
     "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
     "link": "https://montclair.campuslabs.com/engage/event/12147430",
     "description": "We will be doing free henna designs on students on campus to celebrate the ending of Ramadan."
+  },
+  {
+    "title": "Free Swim Lessons *Intermediate*",
+    "date": "2026-03-18T21:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center - Pool",
+    "link": "https://montclair.campuslabs.com/engage/event/11940188",
+    "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Wednesday: 5-6PM \n Student Recreation Center - Pool"
   },
   {
     "title": "Group X - Kickboxing",
@@ -11160,20 +11120,20 @@
     "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
-    "title": "HOSA General Body Meeting",
-    "date": "2026-04-22T18:00:00+00:00",
-    "organization": "Health Occupations Students of America - Future Health Professionals ",
-    "location": "University Hall 2009 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12171209",
-    "description": "HOSA GBM!"
-  },
-  {
     "title": "Caribbean Students' Organization: General body Meetings ",
     "date": "2026-04-22T18:00:00+00:00",
     "organization": "Caribbean Students' Organization",
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12161079",
     "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
+    "title": "HOSA General Body Meeting",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "Health Occupations Students of America - Future Health Professionals ",
+    "location": "University Hall 2009 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12171209",
+    "description": "HOSA GBM!"
   },
   {
     "title": "UAASO General Body Meeting (GBM)",
