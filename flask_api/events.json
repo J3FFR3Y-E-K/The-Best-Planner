@@ -1,13 +1,5 @@
 [
   {
-    "title": "Tres A\u00f1os, Tres Goals",
-    "date": "2026-02-21T23:00:00+00:00",
-    "organization": "Association of Latino Professionals For America",
-    "location": "Feliciano School of Business Room 140",
-    "link": "https://montclair.campuslabs.com/engage/event/12143463",
-    "description": "A special anniversary fundraiser inviting ALPFA Montclair alumni to celebrate three years of impact and invest in the next chapter of student leadership, growth, and opportunity."
-  },
-  {
     "title": "Peter and the Starcatcher",
     "date": "2026-02-22T00:30:00+00:00",
     "organization": "The College of the Arts",
@@ -296,20 +288,20 @@
     "description": "Join us for DECA\u2019s first GBM to learn what Collegiate DECA is, how our chapter works, and how you can get involved. We\u2019ll cover opportunities, events, and what to expect this semester \u2014 no experience required."
   },
   {
-    "title": "Coca Cola Tabling",
-    "date": "2026-02-23T19:00:00+00:00",
-    "organization": "EATS by Gourmet Dining",
-    "location": "REC",
-    "link": "https://montclair.campuslabs.com/engage/event/12253466",
-    "description": "Stop by the table & try a sample!"
-  },
-  {
     "title": "CALI SCHOOL OF MUSIC | Billy Hart | Jazz Drum Faculty Masterclass",
     "date": "2026-02-23T19:00:00+00:00",
     "organization": "The College of the Arts",
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12233806",
     "description": "CALI SCHOOL OF MUSIC | Billy Hart | Jazz Drum Faculty Masterclass \n Don\u2019t miss this rare opportunity to learn from one of the most influential voices in modern jazz drumming. \n Legendary jazz drummer Billy Hart, known for his work with  Herbie Hancock, Stan Getz,  and countless others, leads a dynamic masterclass at the Cali School of Music.  \n Billy Hart  is one of the most influential jazz drummers of his generation, celebrated for his versatility across straight-ahead, avant-garde, and popular styles. He has released 12 albums as a leader and appeared on more than 600 recordings, working with legends such as Herbie Hancock, Miles Davis, Wes Montgomery, Stan Getz, and Charles Lloyd. A founding member of Quest and a longtime member of the Cookers, Hart also leads his own acclaimed quartet. Born in Washington, D.C., he began performing as a teenager with Buck Hill and Shirley Horn before touring in the 1960s with Jimmy Smith, Wes Montgomery, and Eddie Harris. Since then, his career has spanned collaborations with both jazz icons and experimental innovators."
+  },
+  {
+    "title": "Coca Cola Tabling",
+    "date": "2026-02-23T19:00:00+00:00",
+    "organization": "EATS by Gourmet Dining",
+    "location": "REC",
+    "link": "https://montclair.campuslabs.com/engage/event/12253466",
+    "description": "Stop by the table & try a sample!"
   },
   {
     "title": "Eboard meeting ",
@@ -1072,20 +1064,20 @@
     "description": "Ready to share your voice with the world? This workshop covers the essentials of creating, recording, and publishing your own podcast\u2014from planning your content to using tech tools for editing and distribution. Learn how to craft compelling stories and build an audience through the power of sound. RSVP:\u00a0https://www.tickettailor.com/events/adpcenterforlearningtechnologies"
   },
   {
-    "title": "GBM ",
-    "date": "2026-02-25T19:00:00+00:00",
-    "organization": "Montclair State Marketing Club",
-    "location": "School Of Business 110 - Laura & Charles Muth Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12128766",
-    "description": "Montclair State University and Bloomfield students are welcome to join the Montclair State Marketing Club in their weekly general body meeting."
-  },
-  {
     "title": "CSAM Science Teaching Program - Program Meeting",
     "date": "2026-02-25T19:00:00+00:00",
     "organization": "College of Science and Mathematics (CSAM)",
     "location": "SCHM 329 (CSAM Innovation and Design Lab)",
     "link": "https://montclair.campuslabs.com/engage/event/11712548",
     "description": "This week we will be visited by representatives of Students 2 Science.\u00a0 Students 2 Science  is a New Jersey-based 501(c)(3) nonprofit dedicated to inspiring and empowering elementary through high school students, especially those from underserved communities, through hands-on, engaging STEM education that connects science to real-world careers. Their signature programs include in-person laboratory experiences (ISAAC) and streamed virtual lab sessions (V-Lab) that align with science standards and spark curiosity in learners. College and university students can volunteer as assistant instructors and mentors, working side-by-side with young learners to support experiments, share personal STEM experiences, and introduce students to possible career and education pathways. These higher-education volunteers also help develop and refine program content, gaining valuable teaching, communication, and professional skills while serving as relatable role models in STEM fields. \n The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
+  },
+  {
+    "title": "GBM ",
+    "date": "2026-02-25T19:00:00+00:00",
+    "organization": "Montclair State Marketing Club",
+    "location": "School Of Business 110 - Laura & Charles Muth Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12128766",
+    "description": "Montclair State University and Bloomfield students are welcome to join the Montclair State Marketing Club in their weekly general body meeting."
   },
   {
     "title": "CALI SCHOOL OF MUSIC | Piano Recital",
@@ -3480,6 +3472,14 @@
     "description": "Step into the brand-new PLAE Room and discover upLIFT\u2014a judgement-free program designed to help every student, from complete beginners to seasoned gym-goers, feel confident and capable with free-weight training. Learn proper lifting technique, get personalized form checks, and master the basics of creating your own effective workout programs. Whether you\u2019re looking to meet other students who love to lift, pursue new fitness goals, or simply feel more at home in the weight room, upLIFT offers a supportive community and a dedicated space to grow. The program is structured for steady progression throughout the semester, but you\u2019re welcome to drop in anytime and join at your own pace. \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Beginning February 3, ending April 23 \n Tuesdays 3 PM - 4 PM, Wednesdays 6 PM - 7 PM, and Thursdays 2 PM - 3 PM \n Student Recreation Center PLAE Room"
   },
   {
+    "title": "General Body Meeting #4",
+    "date": "2026-03-05T19:00:00+00:00",
+    "organization": "Montclair State Circle K",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12234617",
+    "description": "Join Circle K and Montclair Unraveled with\u00a0a community outreach service event where members will assemble gift bags filled with small toys and trinkets to be donated to local children\u2019s hospitals. This allows members from both organizations to give back, spread joy, and provide comfort to children receiving medical care while fostering a spirit of compassion and community engagement."
+  },
+  {
     "title": "Chess Club SB Meeting : Coaching!",
     "date": "2026-03-05T18:30:00+00:00",
     "organization": "Montclair State University Chess Club",
@@ -5104,20 +5104,20 @@
     "description": "The Polish Club General Meeting is open to all students interested in Polish culture and community engagement. During the meeting, we will review club goals, upcoming events, leadership opportunities, and ways to get involved. New and returning members are encouraged to attend and participate."
   },
   {
-    "title": "General Miembro Meeting",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Latin American Student Organization",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12154350",
-    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting, where we have fun activities planned to learn about different Latin cultures! Check out our Instagram @laso1970 for this week's topic!"
-  },
-  {
     "title": "Powerful Mujeras ",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "The Women Of Color Alliance ",
     "location": "University Hall 1010 - James B. Todd Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12154619",
     "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
+  },
+  {
+    "title": "General Miembro Meeting",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12154350",
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting, where we have fun activities planned to learn about different Latin cultures! Check out our Instagram @laso1970 for this week's topic!"
   },
   {
     "title": "MSU Political Science Club General Body Meeting",
@@ -5653,7 +5653,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12108160",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 01/20 - 04/24 \n 2:00pm - 2:45 pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Vincent"
   },
   {
     "title": "Renew and Refresh Trash Pickup",
@@ -7149,7 +7149,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12108084",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 3:30pm- 5:00pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
   },
   {
     "title": "Broadway Trivia ",
@@ -7301,7 +7301,7 @@
     "organization": "Montclair State University Players",
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12117830",
-    "description": ""
+    "description": "Players invites you to join us at\u00a0Kate Hamill's \u00a0Dracula: A Feminist Revenge Fantasy, Really . All ticket purchases are directed through Eventbrite. \n Fri, Mar 27 @7pm \n Sat, Mar 28 @2pm + 7pm \n Sun, Mar 29 @2pm"
   },
   {
     "title": "Build-A-Bowl",
