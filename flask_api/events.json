@@ -1,53 +1,5 @@
 [
   {
-    "title": "Weekly Chapter Meeting",
-    "date": "2026-02-22T23:00:00+00:00",
-    "organization": "Phi Sigma Sigma",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12130397",
-    "description": "A weekly meeting where members of Phi Sigma Sigma come together."
-  },
-  {
-    "title": "Complexions Practice",
-    "date": "2026-02-22T23:30:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12092342",
-    "description": "Complexions majorette band dance team will be meeting to practice for upcoming performances."
-  },
-  {
-    "title": "Stress Toy Grab and Go ",
-    "date": "2026-02-23T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Fenwick Hall at the Village Apartments ",
-    "link": "https://montclair.campuslabs.com/engage/event/11961926",
-    "description": "Destress by grabbing yourself a stress toy. Handing them out in Fenwick lounge from 8-10pm on February 22nd. All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Night of Love : Lanmou Danj\u00e9",
-    "date": "2026-02-22T23:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 7500 - Conference Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12127672",
-    "description": "Join us for a vibrant and immersive event celebrating Haiti's rich and captivating musical culture! Taking place on the 7th floor of the university, this evening will feature live music, compelling performances, delicious Haitian cuisine, and an energetic DJ set. Open to all students and their guests, this is your chance to experience the beauty, rhythm, and sensuality of Haiti\u2019s musical heritage. Don\u2019t miss it!"
-  },
-  {
-    "title": "Snack & Screen Social",
-    "date": "2026-02-23T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Machuga Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/11961927",
-    "description": "Join us on February 22nd in the Machuga MPR for a night in the residence hall to lounge and watch a film, while enjoying a snack. Whether you're here for the vibes, the snacks, or the film\u2014 there's something for everyone! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Theta Phi Alpha- February Chapter Meetings ",
-    "date": "2026-02-22T22:00:00+00:00",
-    "organization": "Theta Phi Alpha",
-    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12130540",
-    "description": "Weekly chapter meetings for the active sisters of Theta Phi Alpha"
-  },
-  {
     "title": "Group X - HIIT",
     "date": "2026-02-23T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -200,20 +152,20 @@
     "description": "Join us for DECA\u2019s first GBM to learn what Collegiate DECA is, how our chapter works, and how you can get involved. We\u2019ll cover opportunities, events, and what to expect this semester \u2014 no experience required."
   },
   {
-    "title": "CALI SCHOOL OF MUSIC | Billy Hart | Jazz Drum Faculty Masterclass",
-    "date": "2026-02-23T19:00:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "Leshowitz Recital Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12233806",
-    "description": "CALI SCHOOL OF MUSIC | Billy Hart | Jazz Drum Faculty Masterclass \n Don\u2019t miss this rare opportunity to learn from one of the most influential voices in modern jazz drumming. \n Legendary jazz drummer Billy Hart, known for his work with  Herbie Hancock, Stan Getz,  and countless others, leads a dynamic masterclass at the Cali School of Music.  \n Billy Hart  is one of the most influential jazz drummers of his generation, celebrated for his versatility across straight-ahead, avant-garde, and popular styles. He has released 12 albums as a leader and appeared on more than 600 recordings, working with legends such as Herbie Hancock, Miles Davis, Wes Montgomery, Stan Getz, and Charles Lloyd. A founding member of Quest and a longtime member of the Cookers, Hart also leads his own acclaimed quartet. Born in Washington, D.C., he began performing as a teenager with Buck Hill and Shirley Horn before touring in the 1960s with Jimmy Smith, Wes Montgomery, and Eddie Harris. Since then, his career has spanned collaborations with both jazz icons and experimental innovators."
-  },
-  {
     "title": "Coca Cola Tabling",
     "date": "2026-02-23T19:00:00+00:00",
     "organization": "EATS by Gourmet Dining",
     "location": "REC",
     "link": "https://montclair.campuslabs.com/engage/event/12253466",
     "description": "Stop by the table & try a sample!"
+  },
+  {
+    "title": "CALI SCHOOL OF MUSIC | Billy Hart | Jazz Drum Faculty Masterclass",
+    "date": "2026-02-23T19:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Leshowitz Recital Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12233806",
+    "description": "CALI SCHOOL OF MUSIC | Billy Hart | Jazz Drum Faculty Masterclass \n Don\u2019t miss this rare opportunity to learn from one of the most influential voices in modern jazz drumming. \n Legendary jazz drummer Billy Hart, known for his work with  Herbie Hancock, Stan Getz,  and countless others, leads a dynamic masterclass at the Cali School of Music.  \n Billy Hart  is one of the most influential jazz drummers of his generation, celebrated for his versatility across straight-ahead, avant-garde, and popular styles. He has released 12 albums as a leader and appeared on more than 600 recordings, working with legends such as Herbie Hancock, Miles Davis, Wes Montgomery, Stan Getz, and Charles Lloyd. A founding member of Quest and a longtime member of the Cookers, Hart also leads his own acclaimed quartet. Born in Washington, D.C., he began performing as a teenager with Buck Hill and Shirley Horn before touring in the 1960s with Jimmy Smith, Wes Montgomery, and Eddie Harris. Since then, his career has spanned collaborations with both jazz icons and experimental innovators."
   },
   {
     "title": "Eboard meeting ",
@@ -704,20 +656,20 @@
     "description": "Calling all community and service-minded students exploring clinical and non-clinical career options! Are you looking for a job or an internship? Are you curious about the career paths you can pursue with your major or graduate program? If so, the\u00a0 Community and Social Services Career Expo \u00a0is an amazing opportunity to meet employers that align with your professional interests. Whether you are a freshman or a graduate student, this event is designed to help you explore career possibilities, gain networking experience by talking with employers, and make connections that may eventually lead to a job or internship. And there will be fun mixed in with the opportunity to win\u00a0 raffle prizes , and Rocky, Roxy, or Pebbles might stop by! Light refreshments will be served. More Information: \n \n Mark your calendar : Tuesday, February 24, 3:30 pm - 6:30 pm, University Hall Conference Center (7th floor) \n Visit with non-profit, government, and corporate employers that have a service-oriented mission\u00a0 \n Open to current students and alumni in any major or graduate program \n Register on Handshake! \n \n Hosted by The College of Humanities and Social Sciences"
   },
   {
-    "title": "Group X - Pilates",
-    "date": "2026-02-24T23:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12180370",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays, 01/20 - 04/24 \n 6:00 pm - 6:45 pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Ashley"
-  },
-  {
     "title": "Group X - Kickboxing",
     "date": "2026-02-24T23:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12065826",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
+  },
+  {
+    "title": "Group X - Pilates",
+    "date": "2026-02-24T23:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12180370",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays, 01/20 - 04/24 \n 6:00 pm - 6:45 pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Ashley"
   },
   {
     "title": "Integrative Studio II Student-Led Exhibition",
@@ -1000,20 +952,20 @@
     "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
   },
   {
-    "title": "Food & God! ",
-    "date": "2026-02-25T19:15:00+00:00",
-    "organization": "Cru",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12154572",
-    "description": "Cru is a caring community of students passionate about connecting people to Jesus Christ!  Join us for Food & God - an open and inviting space where you can explore faith, ask questions, and engage in meaningful conversations\u2014all over a delicious meal. This event is not about debating or convincing; it\u2019s about listening, sharing, and creating a space where everyone feels heard and respected. Whether you have deep spiritual questions, doubts, or just want to hear different perspectives, you are welcome here. \n As you enjoy your meal, we\u2019ll dive into honest discussions about life, God, and what it all means. There\u2019s no pressure, no expectations\u2014just real talk in a relaxed and judgment-free environment. We believe that great conversations happen over great food, and this is an opportunity to connect with others in a way that is both thought-provoking and welcoming. \n So come hungry, bring a friend, and join us for an afternoon of free food, good company, and genuine conversations. We\u2019d love to hear your thoughts, share our experiences, and explore faith together\u2014one plate at a time."
-  },
-  {
     "title": "UAASO General Body Meeting (GBM)",
     "date": "2026-02-25T19:15:00+00:00",
     "organization": "Unified Asian American Student Organization",
     "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12190752",
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
+  },
+  {
+    "title": "Food & God! ",
+    "date": "2026-02-25T19:15:00+00:00",
+    "organization": "Cru",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12154572",
+    "description": "Cru is a caring community of students passionate about connecting people to Jesus Christ!  Join us for Food & God - an open and inviting space where you can explore faith, ask questions, and engage in meaningful conversations\u2014all over a delicious meal. This event is not about debating or convincing; it\u2019s about listening, sharing, and creating a space where everyone feels heard and respected. Whether you have deep spiritual questions, doubts, or just want to hear different perspectives, you are welcome here. \n As you enjoy your meal, we\u2019ll dive into honest discussions about life, God, and what it all means. There\u2019s no pressure, no expectations\u2014just real talk in a relaxed and judgment-free environment. We believe that great conversations happen over great food, and this is an opportunity to connect with others in a way that is both thought-provoking and welcoming. \n So come hungry, bring a friend, and join us for an afternoon of free food, good company, and genuine conversations. We\u2019d love to hear your thoughts, share our experiences, and explore faith together\u2014one plate at a time."
   },
   {
     "title": "The Faculty Review \u2013 Competitive Prep Session",
@@ -1598,6 +1550,14 @@
     "location": "Talbott Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12206156",
     "description": "A time to reflect, celebrate, uplift voice and stories that continue to shape our world."
+  },
+  {
+    "title": "Films That Matter to Me: Gun Crazy with Lee Behlman",
+    "date": "2026-02-26T23:00:00+00:00",
+    "organization": "College of Humanities and Social Sciences (CHSS)",
+    "location": "Cohen Lounge, Dickson Hall 178",
+    "link": "https://montclair.campuslabs.com/engage/event/12269976",
+    "description": "Films That Matter to Me: Gun Crazy (1950) \n Join us for a screening and faculty conversation on this iconic film noir. \n Professor Lee Behlman, Department of English Dr. Patrick Blanchfield, Journalist \n Thursday, February 26 6:00 - 8:30 PM Dickson Hall Cohen Lounge, Room 178 \n All are welcome! \n Sponsored by the Marie Frazee-Baldassarre Professorship"
   },
   {
     "title": "Voces del Siglo ",
@@ -2584,20 +2544,20 @@
     "description": "A mind-body conditioning technique that focuses on trunk stability and coordinated breathing through a series of exercises.\u00a0 Pilates develops a longer, leaner, stronger, and more graceful body by improving muscular symmetry, alignment, posture, core strength, and flexibility. All levels are welcome. \n \n \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Tuesday, Jan 20 - April 24 \n 2 pm - 2:45 p.m. \n Student Recreation Center - Multipurpose Room 1 \n \n \n \n \n \n Instructor - Ashley"
   },
   {
-    "title": "Canva Masterclass: Advanced Pro Tools & Design Hacks",
-    "date": "2026-03-03T19:00:00+00:00",
-    "organization": "The ADP Center",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/11985028",
-    "description": "Ready to level up your Canva skills? This advanced workshop dives into powerful features like animations, brand kits, collaboration tools, and interactive content creation. Go beyond the basics and learn how to streamline your design process with features like Canva\u2019s Whiteboard for brainstorming, Website Builder for creating interactive web pages, and Presentation Mode with embedded video and transitions. Whether you're building classroom resources, school branding materials, or engaging digital content. Participants will also explore team templates, content scheduling, and how to manage brand consistency across multiple projects. RSVP:\u00a0https://www.tickettailor.com/events/adpcenterforlearningtechnologies"
-  },
-  {
     "title": "Caribbean Student Organization Plate Fundraiser",
     "date": "2026-03-03T19:00:00+00:00",
     "organization": "Caribbean Students' Organization",
     "location": "University Hall 1C01 - Lobby Table",
     "link": "https://montclair.campuslabs.com/engage/event/12171079",
     "description": "Join us for our Caribbean Plate Sale! We\u2019re serving up Caribbean- inspired plates while rising funds for upcoming events and cultural programming. Come support and enjoy island flavor"
+  },
+  {
+    "title": "Canva Masterclass: Advanced Pro Tools & Design Hacks",
+    "date": "2026-03-03T19:00:00+00:00",
+    "organization": "The ADP Center",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/11985028",
+    "description": "Ready to level up your Canva skills? This advanced workshop dives into powerful features like animations, brand kits, collaboration tools, and interactive content creation. Go beyond the basics and learn how to streamline your design process with features like Canva\u2019s Whiteboard for brainstorming, Website Builder for creating interactive web pages, and Presentation Mode with embedded video and transitions. Whether you're building classroom resources, school branding materials, or engaging digital content. Participants will also explore team templates, content scheduling, and how to manage brand consistency across multiple projects. RSVP:\u00a0https://www.tickettailor.com/events/adpcenterforlearningtechnologies"
   },
   {
     "title": "Build-a-Monster",
@@ -5000,20 +4960,20 @@
     "description": "The Polish Club General Meeting is open to all students interested in Polish culture and community engagement. During the meeting, we will review club goals, upcoming events, leadership opportunities, and ways to get involved. New and returning members are encouraged to attend and participate."
   },
   {
-    "title": "Powerful Mujeras ",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "The Women Of Color Alliance ",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12154619",
-    "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "Latin American Student Organization",
     "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12154350",
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting, where we have fun activities planned to learn about different Latin cultures! Check out our Instagram @laso1970 for this week's topic!"
+  },
+  {
+    "title": "Powerful Mujeras ",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "The Women Of Color Alliance ",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12154619",
+    "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
   },
   {
     "title": "MSU Political Science Club General Body Meeting",
@@ -5622,14 +5582,6 @@
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12107747",
     "description": "In preparation for the various galas during the spring semester, Complexionettes will be getting together to learn and perfect choreography."
-  },
-  {
-    "title": "Ivy & Pearls Etiquette Academy",
-    "date": "2026-03-20T22:45:00+00:00",
-    "organization": "Alpha Kappa Alpha Sorority, Inc. ",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12247414",
-    "description": "Come enjoy an evening of refinement and growth as we learn proper table etiquette"
   },
   {
     "title": "Cru Grocery Bingo! ",
