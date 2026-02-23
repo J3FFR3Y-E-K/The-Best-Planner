@@ -120,14 +120,6 @@
     "description": "Join us every week for our PASO General Board Meetings, where culture, community, and leadership come together! These meetings are open to all members and students interested in learning more about Peruvian culture, supporting Latinx representation, and getting involved. \n \n \n All Montclair / Bloomfield Campus Students are Invited to Attend!"
   },
   {
-    "title": "Cru Bible Study! ",
-    "date": "2026-02-23T19:15:00+00:00",
-    "organization": "Cru",
-    "location": "University Hall 3006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12155099",
-    "description": "Cru is a caring community passionate about connecting people to Jesus Christ! \n We'll be going through scripture, having discussions, and fellowship in a safe space with the Lord."
-  },
-  {
     "title": "MUFASA Monday!",
     "date": "2026-02-23T19:15:00+00:00",
     "organization": "Montclair Unified Filipino American Student Association",
@@ -152,20 +144,20 @@
     "description": "Join us for DECA\u2019s first GBM to learn what Collegiate DECA is, how our chapter works, and how you can get involved. We\u2019ll cover opportunities, events, and what to expect this semester \u2014 no experience required."
   },
   {
-    "title": "Coca Cola Tabling",
-    "date": "2026-02-23T19:00:00+00:00",
-    "organization": "EATS by Gourmet Dining",
-    "location": "REC",
-    "link": "https://montclair.campuslabs.com/engage/event/12253466",
-    "description": "Stop by the table & try a sample!"
-  },
-  {
     "title": "CALI SCHOOL OF MUSIC | Billy Hart | Jazz Drum Faculty Masterclass",
     "date": "2026-02-23T19:00:00+00:00",
     "organization": "The College of the Arts",
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12233806",
     "description": "CALI SCHOOL OF MUSIC | Billy Hart | Jazz Drum Faculty Masterclass \n Don\u2019t miss this rare opportunity to learn from one of the most influential voices in modern jazz drumming. \n Legendary jazz drummer Billy Hart, known for his work with  Herbie Hancock, Stan Getz,  and countless others, leads a dynamic masterclass at the Cali School of Music.  \n Billy Hart  is one of the most influential jazz drummers of his generation, celebrated for his versatility across straight-ahead, avant-garde, and popular styles. He has released 12 albums as a leader and appeared on more than 600 recordings, working with legends such as Herbie Hancock, Miles Davis, Wes Montgomery, Stan Getz, and Charles Lloyd. A founding member of Quest and a longtime member of the Cookers, Hart also leads his own acclaimed quartet. Born in Washington, D.C., he began performing as a teenager with Buck Hill and Shirley Horn before touring in the 1960s with Jimmy Smith, Wes Montgomery, and Eddie Harris. Since then, his career has spanned collaborations with both jazz icons and experimental innovators."
+  },
+  {
+    "title": "Coca Cola Tabling",
+    "date": "2026-02-23T19:00:00+00:00",
+    "organization": "EATS by Gourmet Dining",
+    "location": "REC",
+    "link": "https://montclair.campuslabs.com/engage/event/12253466",
+    "description": "Stop by the table & try a sample!"
   },
   {
     "title": "Eboard meeting ",
@@ -958,14 +950,6 @@
     "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12190752",
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
-  },
-  {
-    "title": "Food & God! ",
-    "date": "2026-02-25T19:15:00+00:00",
-    "organization": "Cru",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12154572",
-    "description": "Cru is a caring community of students passionate about connecting people to Jesus Christ!  Join us for Food & God - an open and inviting space where you can explore faith, ask questions, and engage in meaningful conversations\u2014all over a delicious meal. This event is not about debating or convincing; it\u2019s about listening, sharing, and creating a space where everyone feels heard and respected. Whether you have deep spiritual questions, doubts, or just want to hear different perspectives, you are welcome here. \n As you enjoy your meal, we\u2019ll dive into honest discussions about life, God, and what it all means. There\u2019s no pressure, no expectations\u2014just real talk in a relaxed and judgment-free environment. We believe that great conversations happen over great food, and this is an opportunity to connect with others in a way that is both thought-provoking and welcoming. \n So come hungry, bring a friend, and join us for an afternoon of free food, good company, and genuine conversations. We\u2019d love to hear your thoughts, share our experiences, and explore faith together\u2014one plate at a time."
   },
   {
     "title": "The Faculty Review \u2013 Competitive Prep Session",
@@ -11008,20 +10992,20 @@
     "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
-    "title": "HOSA General Body Meeting",
-    "date": "2026-04-22T18:00:00+00:00",
-    "organization": "Health Occupations Students of America - Future Health Professionals ",
-    "location": "University Hall 2009 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12171209",
-    "description": "HOSA GBM!"
-  },
-  {
     "title": "Caribbean Students' Organization: General body Meetings ",
     "date": "2026-04-22T18:00:00+00:00",
     "organization": "Caribbean Students' Organization",
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12161079",
     "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
+    "title": "HOSA General Body Meeting",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "Health Occupations Students of America - Future Health Professionals ",
+    "location": "University Hall 2009 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12171209",
+    "description": "HOSA GBM!"
   },
   {
     "title": "UAASO General Body Meeting (GBM)",
