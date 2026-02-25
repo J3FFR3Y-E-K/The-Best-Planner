@@ -1,85 +1,5 @@
 [
   {
-    "title": "Group X - BJJ",
-    "date": "2026-02-25T00:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12066131",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 7pm - 8:30pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
-  },
-  {
-    "title": "Breakfast Bar Night",
-    "date": "2026-02-25T00:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center 11C2A - Lobby Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/11965129",
-    "description": "Wind down with a fun, build-your-own breakfast experience featuring a full cereal bar and fresh, customizable waffles. Mix, match, and top your favorites however you like. It\u2019s the perfect cozy treat to end your day\u2014sweet, simple, and delicious! \n \u00a0 \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesday, February 24 \n 7pm-9pm, must be checked in by 8:30pm to participate \n Student Recreation Center Lounge"
-  },
-  {
-    "title": "Line Dancing Lessons ",
-    "date": "2026-02-25T00:00:00+00:00",
-    "organization": "Black Student Union",
-    "location": "Student Center 250BC - Ballrooms B and C",
-    "link": "https://montclair.campuslabs.com/engage/event/12094481",
-    "description": "Line Dancing Lessons with BSU"
-  },
-  {
-    "title": " Krey\u00f2l 101",
-    "date": "2026-02-25T01:30:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12251794",
-    "description": "Ready to learn a new language  and  vibe? Come through to  Krey\u00f2l 101 , a fun and interactive intro to Haitian Creole and culture. We\u2019ll cover basic phrases, pronunciation, popular sayings, and cultural gems you can actually use on a day to day basis. Whether you\u2019re trying to tap into your roots, impress your Haitian friends, or just learn something new, this session is perfect for you. No experience needed, see you soon!"
-  },
-  {
-    "title": "Into the Woods Auditions ",
-    "date": "2026-02-24T22:45:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/12019826",
-    "description": "Players is hosting Auditions Day 2 for our 2026 Musical,  Into the Woods . Please fill out the audition form prior to arrival."
-  },
-  {
-    "title": "One Acts Tech Rehearsal ",
-    "date": "2026-02-24T22:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12023436",
-    "description": "Tech Rehearsal for Players' One Acts Festival"
-  },
-  {
-    "title": "InterVarsity Music Bible Study ",
-    "date": "2026-02-25T01:00:00+00:00",
-    "organization": "InterVarsity Christian Fellowship",
-    "location": "Susan A. Cole Hall 141 - Admissions Presentation Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12236031",
-    "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sisters in Christ."
-  },
-  {
-    "title": "CALI SCHOOL OF MUSIC: HUES | A Concert Celebrating Culture",
-    "date": "2026-02-25T01:00:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "Leshowitz Recital Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12190332",
-    "description": "HUES:  A Concert Celebrating Culture, Showcasing Artists, and Underscoring the Need for Unity in Our Lives."
-  },
-  {
-    "title": "BSU 3 Part Movie Night ",
-    "date": "2026-02-25T01:30:00+00:00",
-    "organization": "Black Student Union",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12229646",
-    "description": "Pop to Black Student Union 3 Part Movie Night"
-  },
-  {
-    "title": "Good Vibes & Easy Living Bingo",
-    "date": "2026-02-25T02:00:00+00:00",
-    "organization": "Sigma Delta Phi",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12232887",
-    "description": "Join the sisters of Sigma Delta Phi for an exciting night of Bingo, all while supporting their philanthropy, the Good Vibes & Easy Living Foundation! Enjoy free admission, compete for amazing prizes, and help us spread awareness for a great cause. Every game brings a chance to win, don't miss out on the fun!"
-  },
-  {
     "title": "Group X - HIIT",
     "date": "2026-02-25T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -200,20 +120,20 @@
     "description": "Montclair State University and Bloomfield students are welcome to join the Montclair State Marketing Club in their weekly general body meeting."
   },
   {
-    "title": "General Body Meeting",
-    "date": "2026-02-25T19:00:00+00:00",
-    "organization": "Montclair State University Democrats",
-    "location": "University Hall 2040 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12234252",
-    "description": "Every other Wednesday\u2019s at 2:00 PM. Join us for an open, student-led discussion on democracy, civic engagement, and current issues shaping campus. All are welcome!"
-  },
-  {
     "title": "CALI SCHOOL OF MUSIC | Piano Recital",
     "date": "2026-02-25T19:00:00+00:00",
     "organization": "The College of the Arts",
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12219558",
     "description": "CALI MIDWEEK SERIES \n On Wednesday, February 25, 2026, at 2:00pm, the School Mid-Day Recital series will feature piano students of the Cali School of Music. Presenting both grad students and undergrad students, these pianists will present a range of composers spanning Baroque Music to the Twenty-First century. \n This recital is open and welcome to all. Reservations are not necessary. \n CALI MIDWEEK SERIES : FREE Student and Faculty Concerts Most Wednesdays at 2PM \u2022 Cali School of Music, Chapin Hall, Montclair State University"
+  },
+  {
+    "title": "General Body Meeting",
+    "date": "2026-02-25T19:00:00+00:00",
+    "organization": "Montclair State University Democrats",
+    "location": "University Hall 2040 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12234252",
+    "description": "Every other Wednesday\u2019s at 2:00 PM. Join us for an open, student-led discussion on democracy, civic engagement, and current issues shaping campus. All are welcome!"
   },
   {
     "title": "Bible Talk",
@@ -2712,14 +2632,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 1pm - 1:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Angel"
   },
   {
-    "title": "upLIFT",
-    "date": "2026-03-05T19:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center PLAE Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12179127",
-    "description": "Step into the brand-new PLAE Room and discover upLIFT\u2014a judgement-free program designed to help every student, from complete beginners to seasoned gym-goers, feel confident and capable with free-weight training. Learn proper lifting technique, get personalized form checks, and master the basics of creating your own effective workout programs. Whether you\u2019re looking to meet other students who love to lift, pursue new fitness goals, or simply feel more at home in the weight room, upLIFT offers a supportive community and a dedicated space to grow. The program is structured for steady progression throughout the semester, but you\u2019re welcome to drop in anytime and join at your own pace. \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Beginning February 3, ending April 23 \n Tuesdays 3 PM - 4 PM, Wednesdays 6 PM - 7 PM, and Thursdays 2 PM - 3 PM \n Student Recreation Center PLAE Room"
-  },
-  {
     "title": "General Body Meeting #4",
     "date": "2026-03-05T19:00:00+00:00",
     "organization": "Montclair State Circle K",
@@ -4352,20 +4264,20 @@
     "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
   },
   {
-    "title": "Haitian Student Association General Body Meeting ",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12165443",
-    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
-  },
-  {
     "title": "MSU Political Science Club General Body Meeting",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "Political Science Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12160996",
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12165443",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "NASO General Body Meeting",
@@ -5328,20 +5240,20 @@
     "description": "Tired of eating the same things on campus? Come have an empanada from your favorite Cussies!"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2026-03-23T18:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12242986",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "Guess the Anime OP ",
     "date": "2026-03-23T18:00:00+00:00",
     "organization": "Japan Club",
     "location": "University Hall 2011 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12244256",
     "description": "Confident in your music guessing skills, or in your knowledge of anime? Come test them in our Guess that Anime Opening event! Play with and against your friends for prizes!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2026-03-23T18:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12242986",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "\ud83c\udf38 Sonny Angel Club Bi-Weekly Hangout! \ud83c\udf38",
@@ -10398,14 +10310,6 @@
     "location": "University Hall 2009 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12171209",
     "description": "HOSA GBM!"
-  },
-  {
-    "title": "Caribbean Students' Organization: General body Meetings ",
-    "date": "2026-04-22T18:00:00+00:00",
-    "organization": "Caribbean Students' Organization",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12161079",
-    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
   },
   {
     "title": "UAASO General Body Meeting (GBM)",
