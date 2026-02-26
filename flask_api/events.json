@@ -509,7 +509,7 @@
     "organization": "Campus Activities",
     "location": "Student Center Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/11970343",
-    "description": ""
+    "description": "Join fellow trainers for a Pok\u00e9mon-themed hangout featuring games, fun activities, and a raffle! Perfect for fans of all generations."
   },
   {
     "title": "Coffee House Night RA+P",
@@ -3760,20 +3760,20 @@
     "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
   },
   {
-    "title": "Haitian Student Association General Body Meeting ",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12165443",
-    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
-  },
-  {
     "title": "MSU Political Science Club General Body Meeting",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "Political Science Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12160996",
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12165443",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "NASO General Body Meeting",
@@ -7296,20 +7296,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
   },
   {
-    "title": "General Body Meeting",
-    "date": "2026-04-06T18:00:00+00:00",
-    "organization": "Bangladesh Student Association ",
-    "location": "School Of Business 421 - Flexible Standard Tech Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12251782",
-    "description": "Join us for our first spring general body meeting! A meeting filled with laughter and yummy snacks!"
-  },
-  {
     "title": "Polishing and Proofreading Tips for Final Drafts",
     "date": "2026-04-06T18:00:00+00:00",
     "organization": "Center for Writing Excellence",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12236378",
     "description": "A well-edited final draft makes all the difference so your hard work can shine. Learn how to polish, proofread, and edit your own work for excellent final papers and projects."
+  },
+  {
+    "title": "General Body Meeting",
+    "date": "2026-04-06T18:00:00+00:00",
+    "organization": "Bangladesh Student Association ",
+    "location": "School Of Business 421 - Flexible Standard Tech Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12251782",
+    "description": "Join us for our first spring general body meeting! A meeting filled with laughter and yummy snacks!"
   },
   {
     "title": "Study Abroad 101",
