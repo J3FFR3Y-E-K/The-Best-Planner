@@ -1,29 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2026-02-27T15:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12108443",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 01/20 - 04/24 \n 10:00am - 10:45am \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
-  },
-  {
-    "title": "Group X - Pilates",
-    "date": "2026-02-27T16:15:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12108322",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Fridays, 01/20 - 04/24 \n 11:15am - 12:00pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Bridget"
-  },
-  {
-    "title": "Group X - Cycling",
-    "date": "2026-02-27T17:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/12108289",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Fridays, 01/20 - 04/24 \n 12pm - 12:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
-  },
-  {
     "title": "Splatoon Club Craft Day",
     "date": "2026-02-27T17:00:00+00:00",
     "organization": "Montclair Splatoon Club",
@@ -104,14 +80,6 @@
     "description": "Come hang out with us! If you like painting or just like vibing with cool people, this event is for you! It's a perfect place to be creative and relaxed after class. No experiences needed, just show up to have a good time."
   },
   {
-    "title": "Integrative Studio II Student-Led Exhibition",
-    "date": "2026-02-27T16:00:00+00:00",
-    "organization": "Art and Design",
-    "location": "Finley Gallery, Finley Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12265109",
-    "description": "The Department of Art & Design is delighted to announce the Integrative Studio II Student-Led Exhibitions for the Spring 2026 semester. The exhibition will be presented in Finley Gallery & the adjoining Annex Galleries from February 24th through March 3rd, with a public reception on February 24th from 3:00pm until 4:30pm. \n \u00a0 \n The ISII exhibition is the culmination of a six-week journey shared by visual arts majors across two sections of Integrative Studio II. Using the pi\u00f1ata as a point of origin for their investigation, the artists delved deeply into the subject to expand their understanding of its history, materiality, and cultural significance. Building on this initial research, they created artworks across media exploring a range of themes, including construction, deconstruction, regeneration, and transformation. The artists themselves collectively organized this public sharing of their work\u2014together they met the challenge of presenting a visual through line within the shared gallery spaces while still highlighting the unique voices of each class, as reflected by the two exhibition subtitles:  From the Outside In , and  Divergence of Reactions .\u00a0 \n \u00a0 \n From the Outside In  led by Professor Jess Blaustein \n \u00a0 \n From the Outside In  features diverse works of thirteen artists from Integrative Studio 2, providing an intimate glimpse into their personal memories, emotions, and cultural backgrounds. From larger than life to up close and personal, these exceptional works touch upon the wondrous human experience on a whole new level. \n \u00a0 \n Students: Marley Balkau, Sandra Benlian, Emily Carrasco Perez, Ibelis Feliciano, Lisette Flor, Nila Freeman, Lena Harrison, Jenny Hernandez, Chloe Hwang, Brianna Mariconda, Hannah Michelson, Yanilda Munoz, Yan Bing Tan \n \u00a0 \n Divergence of Reactions  led by Professor Genevieve Lowe \n \u00a0 \n Divergence of Reactions  shares works made by a diverse group of growing artists. The artists cover a wide range of topics in their work, bravely sharing emotional themes such as anxiety, depression, and different forms of abuse. Additional elements the work addresses include beauty, sportsmanship, fragility of life and more - giving viewers a window into the artists personal experiences. \n \u00a0 \n Students: Ofelia Alves, David Arrigoni, Anandria Campbell, Kalee Chaudhry, Kaitlyn Ferguson, Andrew Frazier, Keith Melendez, Bridget Perez, Stanley Piercin, Shyeann Rapley, Francois Rivero, Swetha Sivakumar, Sam Wortche \n \u00a0 \n Integrative Studio II Student-led Exhibition Finley Gallery, Finley Hall Exhibition dates: Feb 24\u2013 March 3, 2026 Opening Reception: Tuesday, Feb 24, 2026, 3:00pm\u20134:30pm"
-  },
-  {
     "title": "Rap and Poetry",
     "date": "2026-02-27T22:00:00+00:00",
     "organization": "Black Student Union",
@@ -126,6 +94,14 @@
     "location": "1908 Pub, Student Center",
     "link": "https://montclair.campuslabs.com/engage/event/11967637",
     "description": "From Kanto to Paldea, see if you have what it takes to be a Pok\u00e9mon Master. Teams encouraged\u2014gotta catch \u2019em all!"
+  },
+  {
+    "title": "Integrative Studio II Student-Led Exhibition",
+    "date": "2026-02-27T16:00:00+00:00",
+    "organization": "Art and Design",
+    "location": "Finley Gallery, Finley Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12265109",
+    "description": "The Department of Art & Design is delighted to announce the Integrative Studio II Student-Led Exhibitions for the Spring 2026 semester. The exhibition will be presented in Finley Gallery & the adjoining Annex Galleries from February 24th through March 3rd, with a public reception on February 24th from 3:00pm until 4:30pm. \n \u00a0 \n The ISII exhibition is the culmination of a six-week journey shared by visual arts majors across two sections of Integrative Studio II. Using the pi\u00f1ata as a point of origin for their investigation, the artists delved deeply into the subject to expand their understanding of its history, materiality, and cultural significance. Building on this initial research, they created artworks across media exploring a range of themes, including construction, deconstruction, regeneration, and transformation. The artists themselves collectively organized this public sharing of their work\u2014together they met the challenge of presenting a visual through line within the shared gallery spaces while still highlighting the unique voices of each class, as reflected by the two exhibition subtitles:  From the Outside In , and  Divergence of Reactions .\u00a0 \n \u00a0 \n From the Outside In  led by Professor Jess Blaustein \n \u00a0 \n From the Outside In  features diverse works of thirteen artists from Integrative Studio 2, providing an intimate glimpse into their personal memories, emotions, and cultural backgrounds. From larger than life to up close and personal, these exceptional works touch upon the wondrous human experience on a whole new level. \n \u00a0 \n Students: Marley Balkau, Sandra Benlian, Emily Carrasco Perez, Ibelis Feliciano, Lisette Flor, Nila Freeman, Lena Harrison, Jenny Hernandez, Chloe Hwang, Brianna Mariconda, Hannah Michelson, Yanilda Munoz, Yan Bing Tan \n \u00a0 \n Divergence of Reactions  led by Professor Genevieve Lowe \n \u00a0 \n Divergence of Reactions  shares works made by a diverse group of growing artists. The artists cover a wide range of topics in their work, bravely sharing emotional themes such as anxiety, depression, and different forms of abuse. Additional elements the work addresses include beauty, sportsmanship, fragility of life and more - giving viewers a window into the artists personal experiences. \n \u00a0 \n Students: Ofelia Alves, David Arrigoni, Anandria Campbell, Kalee Chaudhry, Kaitlyn Ferguson, Andrew Frazier, Keith Melendez, Bridget Perez, Stanley Piercin, Shyeann Rapley, Francois Rivero, Swetha Sivakumar, Sam Wortche \n \u00a0 \n Integrative Studio II Student-led Exhibition Finley Gallery, Finley Hall Exhibition dates: Feb 24\u2013 March 3, 2026 Opening Reception: Tuesday, Feb 24, 2026, 3:00pm\u20134:30pm"
   },
   {
     "title": "Powerpoint Night",
@@ -1440,6 +1416,22 @@
     "description": "HOSA GBM!"
   },
   {
+    "title": "Kcla random dance play ",
+    "date": "2026-03-04T19:00:00+00:00",
+    "organization": "Korean Culture & Language Association",
+    "location": "University Hall 4052 - Classroom ESPE",
+    "link": "https://montclair.campuslabs.com/engage/event/12293003",
+    "description": "Join us for a K-Pop Random Dance Play! Random songs will play\u2014if you know the choreo, jump in and dance. All levels welcome. Come for the music, stay for the vibes \ud83d\udc83\ud83c\udfb6"
+  },
+  {
+    "title": "CALI SCHOOL OF MUSIC MIDWEEK SERIES | Cali Composers Recital",
+    "date": "2026-03-04T19:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Leshowitz Recital Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12292085",
+    "description": "Cali Midweek Concert: Cali Composers \n Cali Composers  present chamber music, choral works, and songwriting, including the premiere of works written for  Kronos Quartet  and performed by MSU\u2019s Graduate Quartet-in-Residence  Arachne Quartet. Music by:  Sabina Kunze  (MA \u201927),  Samuel Sanchez  (BMus \u201926),  Rosalie Judd  (BMus \u201928),  Daniel Giermanski  (BMus \u201928),  Milo Berntsen  (BMus \u201928),  James Quinn  (BMus \u201926),  Lily Kearney  (BMus \u201928)"
+  },
+  {
     "title": "Free Swim Clinic - Breaststroke",
     "date": "2026-02-04T19:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1486,6 +1478,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12287699",
     "description": "Local Black and\u00a0Latina\u00a0professional women will critically reflect on identity, resilience, self-esteem, and leadership. Library resources and literature for support will be shared. Students, staff, faculty, and community members of all\u00a0backgrounds are welcome to join.\u00a0 \n Panelists \n Elaine Meryl Brown: Daytime Emmy\u00ae Award-winning writer and former HBO media executive, Elaine reflects on her experience within the media and entertainment industry empowering Black women through her book The Next Little Black Book of Success. \n Catherine Sackey: Policy Strategist, Systems Architect, Founder and CEO of POP Consulting, Catherine works to inspire women on their professional journeys. \n Gladys Vonglahn:\u00a0Originally from Chile, and a first-generation college student, Gladys is a determined and visionary leader as well as an expert on economic progress, entrepreneurship, self-esteem and personal improvement. \n Register Here: \u00a0https://montclair.libcal.com/event/16399085"
+  },
+  {
+    "title": "Kirby Airiders Hangout",
+    "date": "2026-03-04T19:00:00+00:00",
+    "organization": "Bloomfield Game Club",
+    "location": "Bloomfield - Talbott Hall 002 - Game Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12111474",
+    "description": "Get ready to race and compete in this chaos filled party racer featuring Kirby and Friends. Join Game Club this afternoon as we play Kirby Airriders Races and City Trial."
   },
   {
     "title": "WOCA General Body Meetings  ",
@@ -1840,20 +1840,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 1pm - 1:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Angel"
   },
   {
-    "title": "General Body Meeting #4",
-    "date": "2026-03-05T19:00:00+00:00",
-    "organization": "Montclair State Circle K",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12234617",
-    "description": "Join Circle K and Montclair Unraveled with\u00a0a community outreach service event where members will assemble gift bags filled with small toys and trinkets to be donated to local children\u2019s hospitals. This allows members from both organizations to give back, spread joy, and provide comfort to children receiving medical care while fostering a spirit of compassion and community engagement."
-  },
-  {
     "title": "upLIFT",
     "date": "2026-03-05T19:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Center PLAE Room",
     "link": "https://montclair.campuslabs.com/engage/event/12179127",
     "description": "Step into the brand-new PLAE Room and discover upLIFT\u2014a judgement-free program designed to help every student, from complete beginners to seasoned gym-goers, feel confident and capable with free-weight training. Learn proper lifting technique, get personalized form checks, and master the basics of creating your own effective workout programs. Whether you\u2019re looking to meet other students who love to lift, pursue new fitness goals, or simply feel more at home in the weight room, upLIFT offers a supportive community and a dedicated space to grow. The program is structured for steady progression throughout the semester, but you\u2019re welcome to drop in anytime and join at your own pace. \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Beginning February 3, ending April 23 \n Tuesdays 3 PM - 4 PM, Wednesdays 6 PM - 7 PM, and Thursdays 2 PM - 3 PM \n Student Recreation Center PLAE Room"
+  },
+  {
+    "title": "General Body Meeting #4",
+    "date": "2026-03-05T19:00:00+00:00",
+    "organization": "Montclair State Circle K",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12234617",
+    "description": "Join Circle K and Montclair Unraveled with\u00a0a community outreach service event where members will assemble gift bags filled with small toys and trinkets to be donated to local children\u2019s hospitals. This allows members from both organizations to give back, spread joy, and provide comfort to children receiving medical care while fostering a spirit of compassion and community engagement."
   },
   {
     "title": "First-Gen Spa Kits",
@@ -2054,6 +2054,14 @@
     "location": "Russ Hall KOPS Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12261590",
     "description": "Join us for our March floor meeting! We\u2019ll go over important community reminders, quiet hours, guest policies, and any building updates.\u00a0 Attendance is expected. \n Commuters may attend but must be signed in by a resident following Residence Life guest procedures."
+  },
+  {
+    "title": "Lambda Theta Phi Timemangement Worksjop",
+    "date": "2026-03-06T00:30:00+00:00",
+    "organization": "Lambda Theta Phi",
+    "location": "University Hall 3002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12293030",
+    "description": "This time management workshop, hosted by  Lambda Theta Phi Latin Fraternity, Inc.  at  Montclair State University , is open to all students looking to strengthen their productivity and organizational skills. Participants will learn practical strategies to prioritize responsibilities, manage their time effectively, and create habits that support academic, professional, and personal success."
   },
   {
     "title": "Department of Theatre and Dance | Spring Dance '26",
@@ -2600,14 +2608,6 @@
     "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
   },
   {
-    "title": "Kirby Airiders Hangout",
-    "date": "2026-03-11T18:00:00+00:00",
-    "organization": "Bloomfield Game Club",
-    "location": "Bloomfield - Talbott Hall 002 - Game Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12111474",
-    "description": "Get ready to race and compete in this chaos filled party racer featuring Kirby and Friends. Join Game Club this afternoon as we play Kirby Airriders Races and City Trial."
-  },
-  {
     "title": "NASO General Body Meeting",
     "date": "2026-03-11T18:30:00+00:00",
     "organization": "Native African Student Organization",
@@ -2992,20 +2992,20 @@
     "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization. \n For information about the weekly GBM theme/topic, please check out our instagram: @montclair_prso"
   },
   {
-    "title": "History of St Patricks Day",
-    "date": "2026-03-16T18:00:00+00:00",
-    "organization": "The Historical Society at Montclair State",
-    "location": "University Hall 2006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12235021",
-    "description": "History Club invites students to a presentation exploring the history of St. Patrick\u2019s Day and how it developed from a religious observance into a widely celebrated cultural holiday. The program will examine its Irish roots, traditions, and evolving meaning in the United States."
-  },
-  {
     "title": "Daughta Speaks GBM",
     "date": "2026-03-16T18:00:00+00:00",
     "organization": "Daughta Speaks",
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12286827",
     "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
+  },
+  {
+    "title": "History of St Patricks Day",
+    "date": "2026-03-16T18:00:00+00:00",
+    "organization": "The Historical Society at Montclair State",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12235021",
+    "description": "History Club invites students to a presentation exploring the history of St. Patrick\u2019s Day and how it developed from a religious observance into a widely celebrated cultural holiday. The program will examine its Irish roots, traditions, and evolving meaning in the United States."
   },
   {
     "title": "MSU Republicans General Meeting",
@@ -3237,7 +3237,7 @@
     "organization": "CAPS (Counseling and Psychological Services)",
     "location": "Student Center Ballrooms B&C",
     "link": "https://montclair.campuslabs.com/engage/event/12289631",
-    "description": "As part of AOD (Alcohol and other Drugs) Week CAPS is offering  confidential Alcohol & Cannabis screenings. \n Screenings can help you: Reflect on your use Understand potential risks Learn about harm reduction Explore campus support options"
+    "description": "As part of AOD (Alcohol and other Drugs) Week CAPS is offering  CONFIDENTIAL & FREE Alcohol & Cannabis screenings. \n Screenings can help you: Reflect on your use Understand potential risks Learn about harm reduction Explore campus support options"
   },
   {
     "title": "Group X - Pilates",
@@ -3608,20 +3608,20 @@
     "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
   },
   {
-    "title": "MSU Political Science Club General Body Meeting",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Political Science Club",
-    "location": "Dickson Hall 272 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12160996",
-    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
-  },
-  {
     "title": "Haitian Student Association General Body Meeting ",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "Haitian Student Association",
     "location": "University Hall 2026 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12165443",
     "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12160996",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
     "title": "NASO General Body Meeting",
@@ -3886,6 +3886,14 @@
     "location": "Student Center Quad Information Table 1 - Information Table 1",
     "link": "https://montclair.campuslabs.com/engage/event/12051634",
     "description": "Stop by and pie one of the Future Educator Association E-Board Members!"
+  },
+  {
+    "title": "AOD Week POT(s) with CAPS",
+    "date": "2026-03-19T17:00:00+00:00",
+    "organization": "CAPS (Counseling and Psychological Services)",
+    "location": "Student Center, Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12292432",
+    "description": "Join us for  POT(s) with CAPS  \u2014 a hands-on interactive event\u00a0\u00a0 to increase your knowledge of cannabis and alcohol. Students will also be given potting supplies to grow your own flower!\u00a0 Learn about ways to live a healthy lifestyle and take good care of yourself."
   },
   {
     "title": "upLIFT",
@@ -4422,6 +4430,14 @@
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12107748",
     "description": "In preparation for the various galas during the spring semester, Complexionettes will be getting together to learn and perfect choreography."
+  },
+  {
+    "title": "Night of Love : Lanmou Danj\u00e9",
+    "date": "2026-03-22T21:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 7500- Conference Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12292276",
+    "description": "Join us for Night of Love:  Lanmou Danje  \u2014 a celebration of love, culture, and connection. Experience the passion behind \u201cdangerous love\u201d through music, energy, and meaningful moments. Taking place on the 7th floor of the university, this evening will feature live music, compelling performances, delicious cuisine, a night to never forget. Open to all students and their guests, this is your chance to experience the beauty, rhythm, and sensuality of Haiti\u2019s heritage. Don\u2019t miss it!"
   },
   {
     "title": "Hall Hits",
@@ -5166,6 +5182,14 @@
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12161075",
     "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
+    "title": "Bible Talk",
+    "date": "2026-03-25T18:00:00+00:00",
+    "organization": "Alpha Omega",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12293208",
+    "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
   },
   {
     "title": "CSAM Science Teaching Program - Program Meeting",
@@ -7216,20 +7240,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
   },
   {
-    "title": "Polishing and Proofreading Tips for Final Drafts",
-    "date": "2026-04-06T18:00:00+00:00",
-    "organization": "Center for Writing Excellence",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12236378",
-    "description": "A well-edited final draft makes all the difference so your hard work can shine. Learn how to polish, proofread, and edit your own work for excellent final papers and projects."
-  },
-  {
     "title": "General Body Meeting",
     "date": "2026-04-06T18:00:00+00:00",
     "organization": "Bangladesh Student Association ",
     "location": "School Of Business 421 - Flexible Standard Tech Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12251782",
     "description": "Join us for our first spring general body meeting! A meeting filled with laughter and yummy snacks!"
+  },
+  {
+    "title": "Polishing and Proofreading Tips for Final Drafts",
+    "date": "2026-04-06T18:00:00+00:00",
+    "organization": "Center for Writing Excellence",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12236378",
+    "description": "A well-edited final draft makes all the difference so your hard work can shine. Learn how to polish, proofread, and edit your own work for excellent final papers and projects."
   },
   {
     "title": "Study Abroad 101",
@@ -7552,20 +7576,20 @@
     "description": "Join us for our small group as we dive into Scripture, build authentic relationships, and grow in our walk with God. This group is a safe space to learn, be encouraged, and be challenged! Whether you are just curious about the faith or have been walking with Jesus for years, you belong here. Come as you are, we would love to have you!"
   },
   {
-    "title": "Free Swim Lessons *Intermediate*",
-    "date": "2026-04-07T21:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Pool",
-    "link": "https://montclair.campuslabs.com/engage/event/11940107",
-    "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Tuesday: 5-6PM \n Student Recreation Center - Pool"
-  },
-  {
     "title": "Submitting a Master\u2019s Thesis",
     "date": "2026-04-07T21:00:00+00:00",
     "organization": "The Graduate School",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11999567",
     "description": "This session outlines the final steps in the thesis submission process, including required forms, deadlines, and electronic submission procedures. Students will learn what to expect during final review and how to avoid common submission issues. Who should attend: \u00a0Master\u2019s students nearing thesis completion or planning to graduate in an upcoming term. Please RSVP using this link. Want to see what else is coming up this semester?\u00a0 Explore all events for graduate students."
+  },
+  {
+    "title": "Free Swim Lessons *Intermediate*",
+    "date": "2026-04-07T21:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center - Pool",
+    "link": "https://montclair.campuslabs.com/engage/event/11940107",
+    "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Tuesday: 5-6PM \n Student Recreation Center - Pool"
   },
   {
     "title": "Free Swim Lessons *Beginner*",
@@ -9848,20 +9872,20 @@
     "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
-    "title": "HOSA General Body Meeting",
-    "date": "2026-04-22T18:00:00+00:00",
-    "organization": "Health Occupations Students of America - Future Health Professionals ",
-    "location": "University Hall 2009 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12171209",
-    "description": "HOSA GBM!"
-  },
-  {
     "title": "Caribbean Students' Organization: General body Meetings ",
     "date": "2026-04-22T18:00:00+00:00",
     "organization": "Caribbean Students' Organization",
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12161079",
     "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
+    "title": "HOSA General Body Meeting",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "Health Occupations Students of America - Future Health Professionals ",
+    "location": "University Hall 2009 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12171209",
+    "description": "HOSA GBM!"
   },
   {
     "title": "UAASO General Body Meeting (GBM)",
