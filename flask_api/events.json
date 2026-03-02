@@ -1,77 +1,5 @@
 [
   {
-    "title": "Freeman and Russ March Floor Meeting",
-    "date": "2026-03-02T01:00:00+00:00",
-    "organization": "Freeman Hall & Russ Hall",
-    "location": "Freeman Hall First Floor Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12261501",
-    "description": "Join us for our March floor meeting! We\u2019ll go over important community reminders, quiet hours, guest policies, and any building updates.\u00a0 Attendance is expected. \n Commuters may attend but must be signed in by a resident following Residence Life guest procedures."
-  },
-  {
-    "title": "Weekly Chapter Meeting",
-    "date": "2026-03-01T23:00:00+00:00",
-    "organization": "Phi Sigma Sigma",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12130398",
-    "description": "A weekly meeting where members of Phi Sigma Sigma come together."
-  },
-  {
-    "title": "Complexions Practice",
-    "date": "2026-03-01T23:30:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12098803",
-    "description": "Complexions majorette band dance team will be meeting to practice for upcoming performances."
-  },
-  {
-    "title": "Freeman and Russ March Floor Meeting",
-    "date": "2026-03-02T01:00:00+00:00",
-    "organization": "Freeman Hall & Russ Hall",
-    "location": "Russ Hall KOPS Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12261496",
-    "description": "Join us for our March floor meeting! We\u2019ll go over important community reminders, quiet hours, guest policies, and any building updates.\u00a0 Attendance is expected. \n Commuters may attend but must be signed in by a resident following Residence Life guest procedures."
-  },
-  {
-    "title": "The Ebony ball ",
-    "date": "2026-03-01T23:00:00+00:00",
-    "organization": "The Brotherhood/La Hermandad",
-    "location": "University Hall 7500 - Conference Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12263807",
-    "description": "Ebony Ball is an elegant, high-energy celebration of Black excellence, culture, and community. It brings students and organizations together for a night of luxury, connection, and unforgettable moments filled with music, dancing, and elevated style. More than just a formal event, it creates a space where Black students feel seen, valued, and celebrated while highlighting the beauty, brilliance, and impact of our campus community. Ebony Ball isn\u2019t just a night out, \u00a0it\u2019s an experience that honors legacy, unity, and excellence in its finest form."
-  },
-  {
-    "title": "DIY Trinket Trays ",
-    "date": "2026-03-02T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12250571",
-    "description": "Come and make your own trinket tray with us. Stop by the Blanton lounge on March 1st from 8:00pm - 10:00pm and get yourself some trinkets. All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Invincible Kahoot Trivia ",
-    "date": "2026-03-02T01:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Hawk Crossings",
-    "link": "https://montclair.campuslabs.com/engage/event/12250587",
-    "description": "Join us in Hawks Crossing Office at 8PM on March 1st in honor of the new season of Invincible coming out this month! All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Theta Phi Alpha- March Chapter Meetings",
-    "date": "2026-03-01T22:00:00+00:00",
-    "organization": "Theta Phi Alpha",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12165805",
-    "description": "Weekly Chapter Meetings for the active sisters of Theta Phi Alpha"
-  },
-  {
-    "title": "Phi Delta Theta",
-    "date": "2026-03-01T23:30:00+00:00",
-    "organization": "Phi Delta Theta",
-    "location": "University Hall 2032 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12215178",
-    "description": "Weekly Chapter Meeting"
-  },
-  {
     "title": "Group X - HIIT",
     "date": "2026-03-02T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -296,20 +224,20 @@
     "description": "Join Japan Club for a fun filled night where you can snack on some Ramen while watching films!"
   },
   {
-    "title": "Fashion Design Kit Event",
-    "date": "2026-03-02T19:00:00+00:00",
-    "organization": "Montclair Fashion Club",
-    "location": "University Hall 2013 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12287083",
-    "description": "DRAPE AND DESIGN ON A MINI MANNEQUIN"
-  },
-  {
     "title": "Daughta Speaks GBM",
     "date": "2026-03-02T19:00:00+00:00",
     "organization": "Daughta Speaks",
     "location": "University Hall 2021 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12286826",
     "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
+  },
+  {
+    "title": "Fashion Design Kit Event",
+    "date": "2026-03-02T19:00:00+00:00",
+    "organization": "Montclair Fashion Club",
+    "location": "University Hall 2013 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12287083",
+    "description": "DRAPE AND DESIGN ON A MINI MANNEQUIN"
   },
   {
     "title": "Forward Into Light: An Inclusive History of the Women\u2019s Suffrage Movement",
@@ -2200,6 +2128,14 @@
     "description": "Introducing \n El Colibr\u00ed \"The Hummingbird Magazine\"   A Spanish and Latino Studies Student Publication  Monday, February 9, 5:30-7:30pm SCHM 104  Please RSVP by 2/8  https://forms.gle/7v7LSW1ToHx7JVTa9 Pizza will be served! All are welcome!"
   },
   {
+    "title": "Manhood Mondays ",
+    "date": "2026-03-09T23:00:00+00:00",
+    "organization": "Bloomfield Omega Psi Phi Fraternity, Inc.",
+    "location": "Bloomfield - Talbott Hall TM04 - Room of Excellence",
+    "link": "https://montclair.campuslabs.com/engage/event/12295953",
+    "description": "Join us for Manhood Monday as we focus on professional growth and career readiness. This session will cover personal branding, workplace etiquette, networking strategies, goal setting, and career preparation. We will also have an open  Talking Circle , creating a safe space for participants to share experiences, discuss challenges, offer support, and learn from one another. Come ready to engage, connect, and invest in your personal and professional development."
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2026-03-10T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -3078,6 +3014,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12180254",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 01/20 - 04/24 \n 4:00pm - 4:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "\ud83c\udf39 WOMEN\u2019S HISTORY MONTH APPRECIATION \ud83c\udf39",
+    "date": "2026-03-17T18:00:00+00:00",
+    "organization": "Bloomfield Omega Psi Phi Fraternity, Inc.",
+    "location": "Bloomfield - Talbott Hall InfoS - Information Table Stairs",
+    "link": "https://montclair.campuslabs.com/engage/event/12295954",
+    "description": "In honor of Women\u2019s History Month, the AEZ Chapter of  Omega Psi Phi Fraternity, Inc.  will be celebrating and appreciating the phenomenal women on campus. Join us at  Talbott Hall  as we pass out roses to the queens in recognition of their strength, leadership, and impact. \n A moment of appreciation. A gesture of respect. A celebration of excellence. \ud83c\udf39"
   },
   {
     "title": "Group X - Yoga",
@@ -4448,20 +4392,20 @@
     "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2026-03-23T18:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12242986",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "Guess the Anime OP ",
     "date": "2026-03-23T18:00:00+00:00",
     "organization": "Japan Club",
     "location": "University Hall 2011 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12244256",
     "description": "Confident in your music guessing skills, or in your knowledge of anime? Come test them in our Guess that Anime Opening event! Play with and against your friends for prizes!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2026-03-23T18:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12242986",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "\ud83c\udf38 Sonny Angel Club Bi-Weekly Hangout! \ud83c\udf38",
@@ -7070,6 +7014,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12131535",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
+  },
+  {
+    "title": "General Body Meeting",
+    "date": "2026-04-06T18:00:00+00:00",
+    "organization": "Bangladesh Student Association ",
+    "location": "School Of Business 421 - Flexible Standard Tech Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12251782",
+    "description": "Join us for our first spring general body meeting! A meeting filled with laughter and yummy snacks!"
   },
   {
     "title": "Polishing and Proofreading Tips for Final Drafts",
