@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - HIIT",
-    "date": "2026-03-02T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12130096",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays, 01/20 - 04/24 \n 9am - 9:45am \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Alexa V"
-  },
-  {
     "title": " Group X - Pilates",
     "date": "2026-03-02T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -182,6 +174,14 @@
     "location": "University Hall 3006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12155100",
     "description": "Cru is a caring community passionate about connecting people to Jesus Christ! \n We'll be going through scripture, having discussions, and fellowship in a safe space with the Lord."
+  },
+  {
+    "title": "MUFASA Monday! - ELECTIONS",
+    "date": "2026-03-02T19:15:00+00:00",
+    "organization": "Montclair Unified Filipino American Student Association",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12296264",
+    "description": "Join us for our weekly general body meetings every Monday!"
   },
   {
     "title": "Red Hawk Pantry",
@@ -800,12 +800,20 @@
     "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sisters in Christ."
   },
   {
-    "title": "Glass Cup Paint & Sip",
+    "title": "Diaspora to Diaspora ",
+    "date": "2026-03-04T01:30:00+00:00",
+    "organization": "Black Student Union",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12296289",
+    "description": "This event is designed to bridge gaps between our communities by exploring shared histories, cultural similarities, and lived experiences across the African and Caribbean diaspora. Together, we will examine the roots of \u201cdiaspora wars\u201d ,where they come from, how colonialism and systemic oppression shaped them, and how misunderstandings continue to create division today. Through dialogue, reflection, and storytelling, we aim to move beyond comparison and competition toward solidarity, cultural appreciation, and collective empowerment."
+  },
+  {
+    "title": "Italian Game Night",
     "date": "2026-03-04T01:30:00+00:00",
     "organization": "Amici Club",
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12293232",
-    "description": "Join the Amici Club and paint your own glass cups to take home, while enjoying light refreshments!"
+    "description": "Join the Amici Club for game night! We'll be playing Tombola and Scopa!"
   },
   {
     "title": "WOCA Karaoke & Open Mic Night",
@@ -1461,6 +1469,14 @@
     "organization": "Unified Asian American Student Organization",
     "location": "University Hall 2008 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12293251",
+    "description": "Join us for our chill fort building event!"
+  },
+  {
+    "title": "Fort Night",
+    "date": "2026-03-05T02:00:00+00:00",
+    "organization": "Unified Asian American Student Organization",
+    "location": "University Hall 2042 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12296261",
     "description": "Join us for our chill fort building event!"
   },
   {
@@ -2416,6 +2432,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 2:45pm - 3:30pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle"
   },
   {
+    "title": "Popcorn Lover's Day ",
+    "date": "2026-03-12T18:00:00+00:00",
+    "organization": "Food Recovery Network",
+    "location": "Student Center 2C01 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12296600",
+    "description": "Join Food Recovery Network on March 12 as we celebrate  Popcorn Lover\u2019s Day  with a fun and engaging POP-up event! Stop by our informational table to learn more about how FRN reduces food waste and fights food insecurity in our community. \n We\u2019ll be sharing details about our weekly recoveries, volunteer opportunities, and the impact we\u2019ve made on campus and beyond. Plus, students can grab a popcorn pack to go while supplies last! \ud83c\udf7f \n Come snack, learn, and discover how you can get involved in making a difference."
+  },
+  {
     "title": "Group X - Kickboxing",
     "date": "2026-03-12T19:45:00+00:00",
     "organization": "Campus Recreation",
@@ -3344,20 +3368,20 @@
     "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
   },
   {
-    "title": "Haitian Student Association General Body Meeting ",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12165443",
-    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
-  },
-  {
     "title": "MSU Political Science Club General Body Meeting",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "Political Science Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12160996",
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12165443",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "NASO General Body Meeting",
@@ -4392,20 +4416,20 @@
     "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2026-03-23T18:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12242986",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "Guess the Anime OP ",
     "date": "2026-03-23T18:00:00+00:00",
     "organization": "Japan Club",
     "location": "University Hall 2011 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12244256",
     "description": "Confident in your music guessing skills, or in your knowledge of anime? Come test them in our Guess that Anime Opening event! Play with and against your friends for prizes!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2026-03-23T18:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12242986",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "\ud83c\udf38 Sonny Angel Club Bi-Weekly Hangout! \ud83c\udf38",
@@ -5550,14 +5574,6 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12117806",
     "description": "Players invites you to join us at\u00a0Kate Hamill's  Dracula: A Feminist Revenge Fantasy, Really . All ticket purchases are directed through Eventbrite. \n Fri, Mar 27 @7pm \n Sat, Mar 28 @2pm + 7pm \n Sun, Mar 29 @2pm"
-  },
-  {
-    "title": "Womens Gala ",
-    "date": "2026-03-27T22:00:00+00:00",
-    "organization": "LadiesFIRST",
-    "location": "Student Center 251 - Dining Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12137555",
-    "description": "Annual Ladies First Women's Gala to celebrate Women's History Month"
   },
   {
     "title": "Red Hawk Pantry",
@@ -7352,20 +7368,20 @@
     "description": "Join us for our small group as we dive into Scripture, build authentic relationships, and grow in our walk with God. This group is a safe space to learn, be encouraged, and be challenged! Whether you are just curious about the faith or have been walking with Jesus for years, you belong here. Come as you are, we would love to have you!"
   },
   {
-    "title": "Free Swim Lessons *Intermediate*",
-    "date": "2026-04-07T21:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Pool",
-    "link": "https://montclair.campuslabs.com/engage/event/11940107",
-    "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Tuesday: 5-6PM \n Student Recreation Center - Pool"
-  },
-  {
     "title": "Submitting a Master\u2019s Thesis",
     "date": "2026-04-07T21:00:00+00:00",
     "organization": "The Graduate School",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11999567",
     "description": "This session outlines the final steps in the thesis submission process, including required forms, deadlines, and electronic submission procedures. Students will learn what to expect during final review and how to avoid common submission issues. Who should attend: \u00a0Master\u2019s students nearing thesis completion or planning to graduate in an upcoming term. Please RSVP using this link. Want to see what else is coming up this semester?\u00a0 Explore all events for graduate students."
+  },
+  {
+    "title": "Free Swim Lessons *Intermediate*",
+    "date": "2026-04-07T21:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center - Pool",
+    "link": "https://montclair.campuslabs.com/engage/event/11940107",
+    "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Tuesday: 5-6PM \n Student Recreation Center - Pool"
   },
   {
     "title": "Free Swim Lessons *Beginner*",
@@ -8070,14 +8086,6 @@
     "location": "Blanton Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12286014",
     "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, faculty, and Alumni at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Wednesdays: 5-7pm \n Saturdays: 11-1pm"
-  },
-  {
-    "title": "Voices of Impact: A Feliciano Women in Business Panel ",
-    "date": "2026-04-11T17:00:00+00:00",
-    "organization": "Feliciano Women in Business",
-    "location": "Student Center 251 - Dining Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12293560",
-    "description": "Join the Feliciano Women in Business for an interactive panel and brunch featuring women leaders in Finance, Real Estate, Marketing, and Strategic Communications. \n This isn't just a lecture. Come ready for real talk, hands-on workshops, and the chance to network with professionals who have been exactly where you are. \n Whether you're figuring out your path or polishing your resume, leave with a game plan for your future. \n Lunch provided. Open to all students."
   },
   {
     "title": "Into the Woods Rehearsal",
@@ -9190,6 +9198,14 @@
     "location": "Blanton Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12286017",
     "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, faculty, and Alumni at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Wednesdays: 5-7pm \n Saturdays: 11-1pm"
+  },
+  {
+    "title": "Voices of Impact: A Feliciano Women in Business Panel ",
+    "date": "2026-04-18T17:00:00+00:00",
+    "organization": "Feliciano Women in Business",
+    "location": "Feliciano School of Business, Room 140 ",
+    "link": "https://montclair.campuslabs.com/engage/event/12293560",
+    "description": "Join the Feliciano Women in Business for an interactive panel and brunch featuring women leaders in Finance, Real Estate, Marketing, and Strategic Communications. \n This isn't just a lecture. Come ready for real talk, hands-on workshops, and the chance to network with professionals who have been exactly where you are. \n Whether you're figuring out your path or polishing your resume, leave with a game plan for your future. \n Lunch provided. Open to all students."
   },
   {
     "title": "Holland Ridge Tulip Farm",
