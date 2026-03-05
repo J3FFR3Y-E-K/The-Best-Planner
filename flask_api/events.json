@@ -1,67 +1,11 @@
 [
   {
-    "title": "Group X - Cycling",
-    "date": "2026-03-05T15:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/12079196",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 10pm - 10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
-  },
-  {
-    "title": "Group X - Pilates",
-    "date": "2026-03-05T17:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12079366",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 12pm - 12:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Maddie"
-  },
-  {
-    "title": "OPT Workshop - International Students (F-1 Visa Holders) Only",
-    "date": "2026-03-05T17:00:00+00:00",
-    "organization": "Office of Global Engagement",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/11921531",
-    "description": "Learn more about pre-completion and post-completion Optional Practical Training (OPT) for F-1 students. Any student planning to apply for OPT is REQUIRED to attend a workshop before they can apply. This workshop is for CURRENT students ONLY - any other attendees will be removed."
-  },
-  {
-    "title": "Spaghettieis and German Game Afternoon",
-    "date": "2026-03-05T17:30:00+00:00",
-    "organization": "German Club",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12234606",
-    "description": "German Club will host a special German Cultural Ice Cream Social and play games."
-  },
-  {
-    "title": "Group X - Kickboxing",
-    "date": "2026-03-05T18:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12079490",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 1pm - 1:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Angel"
-  },
-  {
-    "title": "Teaching Kitchen",
-    "date": "2026-03-05T18:00:00+00:00",
-    "organization": "EATS by Gourmet Dining",
-    "location": "Sam's Place",
-    "link": "https://montclair.campuslabs.com/engage/event/12295831",
-    "description": "Join Chef Adam in the TK and learn how to make\u00a0 ricotta gnocchi with bolognese!"
-  },
-  {
     "title": "Veteran Affairs Pop-Up Closet Shop",
     "date": "2026-03-05T16:00:00+00:00",
     "organization": "Advocacy and Outreach",
     "location": "Student Center Annex Room 111",
     "link": "https://montclair.campuslabs.com/engage/event/12308144",
     "description": "Join Montclair's Veteran Affairs for a clothing pop-up shop on Thursday, March 5, 2026 at 11:00am-3:00pm in the Veteran Lounge in the Student Center Annex, Room 111 \n All items are FREE and provided by Advocacy & Outreach's: Rocky's Closet."
-  },
-  {
-    "title": "upLIFT",
-    "date": "2026-03-05T19:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center PLAE Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12179127",
-    "description": "Step into the brand-new PLAE Room and discover upLIFT\u2014a judgement-free program designed to help every student, from complete beginners to seasoned gym-goers, feel confident and capable with free-weight training. Learn proper lifting technique, get personalized form checks, and master the basics of creating your own effective workout programs. Whether you\u2019re looking to meet other students who love to lift, pursue new fitness goals, or simply feel more at home in the weight room, upLIFT offers a supportive community and a dedicated space to grow. The program is structured for steady progression throughout the semester, but you\u2019re welcome to drop in anytime and join at your own pace. \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Beginning February 3, ending April 23 \n Tuesdays 3 PM - 4 PM, Wednesdays 6 PM - 7 PM, and Thursdays 2 PM - 3 PM \n Student Recreation Center PLAE Room"
   },
   {
     "title": "General Body Meeting #4",
@@ -72,6 +16,14 @@
     "description": "Join Circle K and Montclair Unraveled with\u00a0a community outreach service event where members will assemble gift bags filled with small toys and trinkets to be donated to local children\u2019s hospitals. This allows members from both organizations to give back, spread joy, and provide comfort to children receiving medical care while fostering a spirit of compassion and community engagement."
   },
   {
+    "title": "upLIFT",
+    "date": "2026-03-05T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center PLAE Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12179127",
+    "description": "Step into the brand-new PLAE Room and discover upLIFT\u2014a judgement-free program designed to help every student, from complete beginners to seasoned gym-goers, feel confident and capable with free-weight training. Learn proper lifting technique, get personalized form checks, and master the basics of creating your own effective workout programs. Whether you\u2019re looking to meet other students who love to lift, pursue new fitness goals, or simply feel more at home in the weight room, upLIFT offers a supportive community and a dedicated space to grow. The program is structured for steady progression throughout the semester, but you\u2019re welcome to drop in anytime and join at your own pace. \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Beginning February 3, ending April 23 \n Tuesdays 3 PM - 4 PM, Wednesdays 6 PM - 7 PM, and Thursdays 2 PM - 3 PM \n Student Recreation Center PLAE Room"
+  },
+  {
     "title": "First-Gen Spa Kits",
     "date": "2026-03-05T19:00:00+00:00",
     "organization": "First Generation Initiatives",
@@ -80,20 +32,20 @@
     "description": "Happy First-Gen Wellness week! In support of our first-gen students, we are giving away free spa kits! Stop by our table in the Student Center Lobby to get one! First Come, First Serve."
   },
   {
-    "title": "Banana Pudding Sale ",
-    "date": "2026-03-05T18:00:00+00:00",
-    "organization": "Black Student Union",
-    "location": "Student Center 2C01 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12304905",
-    "description": "Join the ladies of the Black Student Union as we come together to raise funds for Covenant House New Jersey! \ud83d\udc9b Stop by and grab a cup of our homemade banana pudding \u2014 sweet treats for a sweeter cause."
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2026-03-05T19:45:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12079603",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 2:45pm - 3:30pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle"
+  },
+  {
+    "title": "Banana Pudding Sale ",
+    "date": "2026-03-05T18:00:00+00:00",
+    "organization": "Black Student Union",
+    "location": "Student Center 2C01 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12304905",
+    "description": "Join the ladies of the Black Student Union as we come together to raise funds for Covenant House New Jersey! \ud83d\udc9b Stop by and grab a cup of our homemade banana pudding \u2014 sweet treats for a sweeter cause."
   },
   {
     "title": "Fireside Chats",
@@ -128,14 +80,6 @@
     "description": "Showcase what our organization is about, invite people to join us, and have friendly conversations about Faith!"
   },
   {
-    "title": "Letters to Political Prisoners",
-    "date": "2026-03-05T19:00:00+00:00",
-    "organization": "The Apple Core Community",
-    "location": "Student Center 250BC - Ballrooms B and C",
-    "link": "https://montclair.campuslabs.com/engage/event/12117464",
-    "description": "Join the Apple Core Community in being a part of a collective action to support those impacted by the justice system by sending letters of solidarity. These letters will be written to Political Prisoners, juvenile prisoners, and assault survivors."
-  },
-  {
     "title": "Grab and Go: Spring Cleaning Supplies",
     "date": "2026-03-05T20:00:00+00:00",
     "organization": "Residence Life",
@@ -160,6 +104,14 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Thursday: 4-5PM \n Student Recreation Center - Pool"
   },
   {
+    "title": "Letters to Political Prisoners",
+    "date": "2026-03-05T19:00:00+00:00",
+    "organization": "The Apple Core Community",
+    "location": "Student Center 250BC - Ballrooms B and C",
+    "link": "https://montclair.campuslabs.com/engage/event/12117464",
+    "description": "Join the Apple Core Community in being a part of a collective action to support those impacted by the justice system by sending letters of solidarity. These letters will be written to Political Prisoners, juvenile prisoners, and assault survivors."
+  },
+  {
     "title": "Meet the Volunteers ",
     "date": "2026-03-05T20:40:00+00:00",
     "organization": "Global Medical Brigades",
@@ -176,22 +128,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 5pm - 5:30pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
   },
   {
-    "title": "Game Roulette",
-    "date": "2026-03-05T19:00:00+00:00",
-    "organization": "Bloomfield Lambda Sigma Upsilon Latino Fraternity, Inc.",
-    "location": "Bloomfield - Talbott Hall 002 - Game Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12113081",
-    "description": "Join us in a night of games. Rotate games or stay at your favorite one, Adventure time Munchkin, Mario kart, Dominoes, and more! In collaboration with Game club and Lambda Theta Alpha Sorority Inc."
-  },
-  {
-    "title": "Game Roulette",
-    "date": "2026-03-05T19:00:00+00:00",
-    "organization": "Bloomfield Lambda Sigma Upsilon Latino Fraternity, Inc.",
-    "location": "Bloomfield - Talbott Hall 001 - Commuter Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12113082",
-    "description": "Join us in a night of games. Rotate games or stay at your favorite one, Adventure time Munchkin, Mario kart, Dominoes, and more! In collaboration with Game club and Lambda Theta Alpha Sorority Inc."
-  },
-  {
     "title": "Whine N WOCA Dance Class",
     "date": "2026-03-05T21:00:00+00:00",
     "organization": "The Women Of Color Alliance ",
@@ -206,6 +142,22 @@
     "location": "Bloomfield - Talbott Hall TM04 - Room of Excellence",
     "link": "https://montclair.campuslabs.com/engage/event/12273641",
     "description": "Join the  Black Student Union (BSU)  for our General Body Meeting at  Bloomfield College ! This is a space to connect, share ideas, and stay updated on upcoming events, initiatives, and opportunities within BSU. Whether you\u2019re a returning member or new and curious, all are welcome to come build community and have your voice heard. \n Room of Excellence,  Talbot Hall Every Thursday 5:00 PM"
+  },
+  {
+    "title": "Game Roulette",
+    "date": "2026-03-05T19:00:00+00:00",
+    "organization": "Bloomfield Lambda Sigma Upsilon Latino Fraternity, Inc.",
+    "location": "Bloomfield - Talbott Hall 002 - Game Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12113081",
+    "description": "Join us in a night of games. Rotate games or stay at your favorite one, Adventure time Munchkin, Mario kart, Dominoes, and more! In collaboration with Game club and Lambda Theta Alpha Sorority Inc."
+  },
+  {
+    "title": "Game Roulette",
+    "date": "2026-03-05T19:00:00+00:00",
+    "organization": "Bloomfield Lambda Sigma Upsilon Latino Fraternity, Inc.",
+    "location": "Bloomfield - Talbott Hall 001 - Commuter Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12113082",
+    "description": "Join us in a night of games. Rotate games or stay at your favorite one, Adventure time Munchkin, Mario kart, Dominoes, and more! In collaboration with Game club and Lambda Theta Alpha Sorority Inc."
   },
   {
     "title": "Group X - Kickboxing",
@@ -494,6 +446,14 @@
     "location": "G55",
     "link": "https://montclair.campuslabs.com/engage/event/12228315",
     "description": "Atlantic Brass Quintet Masterclass FREE and Open to the Public Reservations not required \n The  Atlantic Brass Quintet  performs the uniquely American music of composer  Jeff Scott , and will coach Cali School brass ensembles in a masterclass setting. \n Widely acclaimed as one of the world's finest and most versatile brass chamber ensembles, the  Atlantic Brass Quintet  has performed in 48 of the United States and dozens of countries across four continents. Atlantic specializes in masterful and vibrant presentations of repertoire spanning five centuries and a broad spectrum of styles, from artistic transcription of baroque music to the lively music of Balkan brass bands. Winner of six international chamber music competitions, the Quintet's distinctive sound, impeccable ensemble, stunning virtuosity, and warm, inviting stage presence have won praise from scores of critics."
+  },
+  {
+    "title": "Safer Spring Break Mystery Bag",
+    "date": "2026-03-06T14:30:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Drop-In Center ",
+    "link": "https://montclair.campuslabs.com/engage/event/12312761",
+    "description": "Stop by the Drop-In Center for a fun surprise! Students are invited to swing in to pick up a Mystery Giveaway Bag filled with free Spring Break goodies. Supplies are limited, so come early to snag your mystery bag! We hope to see you there!"
   },
   {
     "title": "Group X - BJJ",
@@ -1304,20 +1264,20 @@
     "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization. \n For information about the weekly GBM theme/topic, please check out our instagram: @montclair_prso"
   },
   {
-    "title": "History of St Patricks Day",
-    "date": "2026-03-16T18:00:00+00:00",
-    "organization": "The Historical Society at Montclair State",
-    "location": "University Hall 2006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12235021",
-    "description": "History Club invites students to a presentation exploring the history of St. Patrick\u2019s Day and how it developed from a religious observance into a widely celebrated cultural holiday. The program will examine its Irish roots, traditions, and evolving meaning in the United States."
-  },
-  {
     "title": "Daughta Speaks GBM",
     "date": "2026-03-16T18:00:00+00:00",
     "organization": "Daughta Speaks",
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12286827",
     "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
+  },
+  {
+    "title": "History of St Patricks Day",
+    "date": "2026-03-16T18:00:00+00:00",
+    "organization": "The Historical Society at Montclair State",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12235021",
+    "description": "History Club invites students to a presentation exploring the history of St. Patrick\u2019s Day and how it developed from a religious observance into a widely celebrated cultural holiday. The program will examine its Irish roots, traditions, and evolving meaning in the United States."
   },
   {
     "title": "MSU Republicans General Meeting",
@@ -1856,6 +1816,14 @@
     "description": "A mind-body conditioning technique that focuses on trunk stability and coordinated breathing through a series of exercises.\u00a0 Pilates develops a longer, leaner, stronger, and more graceful body by improving muscular symmetry, alignment, posture, core strength, and flexibility. All levels are welcome. \n \n \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Wednesday, Jan 20 - April 24 \n 11am - 11:45 a.m. \n Student Recreation Center - Multipurpose Room 1 \n \n \n \n \n \n Instructor - Ashley"
   },
   {
+    "title": "STUDENT HEALTH CENTER'S OPEN HOUSE!!!",
+    "date": "2026-03-18T15:00:00+00:00",
+    "organization": "Student Health Center",
+    "location": "BLANTON HALL 1ST FLOOR ",
+    "link": "https://montclair.campuslabs.com/engage/event/12312292",
+    "description": "DID YOU KNOW THERE ARE HEALTH RESOURCES AVAILABLE TO  YOU  RIGHT HERE ON CAMPUS??!\u00a0 \n STOP BY OUR OPEN HOUSE AND EXPLORE OUR INTERACTIVE STATIONS --- \n GET  FREE  BLOOD PRESSURE SCREENINGS, LEARN ABOUT SAFER SEX AND HIV EDUCATION, SPEAK TO OUR CAMPUS DIETITIANS, LEARN MORE ABOUT THE REC CENTER, AND WHY EXERCISE IS MEDICINE !!! PLAY OUR SPIN THE WHEEL, ENJOY SNACKS, AND COLLECT A PRIZE AT THE END!\u00a0\u00a0 \n \u00a0 \n MAKE SURE YOU JOIN US AND BRING YOUR FRIENDS   | \u00a0  DON'T FORGET TO HAVE YOUR ENGAGE PASSES READY"
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2026-03-18T16:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1968,20 +1936,20 @@
     "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
   },
   {
-    "title": "MSU Political Science Club General Body Meeting",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Political Science Club",
-    "location": "Dickson Hall 272 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12160996",
-    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
-  },
-  {
     "title": "Haitian Student Association General Body Meeting ",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "Haitian Student Association",
     "location": "University Hall 2026 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12165443",
     "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12160996",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
     "title": "TLC Philanthropy Event",
@@ -3080,20 +3048,20 @@
     "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
   },
   {
-    "title": "Guess the Anime OP ",
-    "date": "2026-03-23T18:00:00+00:00",
-    "organization": "Japan Club",
-    "location": "University Hall 2011 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12244256",
-    "description": "Confident in your music guessing skills, or in your knowledge of anime? Come test them in our Guess that Anime Opening event! Play with and against your friends for prizes!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2026-03-23T18:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2026 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12242986",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "Guess the Anime OP ",
+    "date": "2026-03-23T18:00:00+00:00",
+    "organization": "Japan Club",
+    "location": "University Hall 2011 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12244256",
+    "description": "Confident in your music guessing skills, or in your knowledge of anime? Come test them in our Guess that Anime Opening event! Play with and against your friends for prizes!"
   },
   {
     "title": "\ud83c\udf38 Sonny Angel Club Bi-Weekly Hangout! \ud83c\udf38",
@@ -3701,7 +3669,7 @@
     "organization": "Government Relations and Community Affairs ",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12262773",
-    "description": "NEW DATE FOR SESSIONS!\u00a0 \n As immigration policies develop, it is best to stay educated. Know your rights and responsibilities! \n Join the New Jersey Consortium for Immigrant Children for a webinar on key legal and policy issues impacting the Montclair community. Information will be provided on immigration statuses, policy updates, legal protections, judicial vs. administrative orders, and understanding your rights if encountering law enforcement. Sessions are open for students, family, faculty, and staff in both English and Spanish.\u00a0 \n The New Jersey Consortium for Immigrant Children (NJCIC) is a state-wide legal and policy advocacy and education organization specializing in youth immigration. They provide objective legal resources, aid, and advice on immigration rights. \n \u00a0 \n Student & Family English Session: March 25, 2:00-3:15: https://us06web.zoom.us/ webinar/register/WN_FxYlh_ kDRkCYCoOhfmEKyA \n Student & Family Spanish Session: April 9, 5:30-6:45: \n https://us06web.zoom.us/j/82724283081?pwd=KzAjQw24vxqmzbURBXGmbBLV3V60m3.1"
+    "description": "NEW DATE FOR SESSIONS!\u00a0 \n As immigration policies develop, it is best to stay educated. Know your rights and responsibilities! \n Join the New Jersey Consortium for Immigrant Children for a webinar on key legal and policy issues impacting the Montclair community. Information will be provided on immigration statuses, policy updates, legal protections, judicial vs. administrative orders, and understanding your rights if encountering law enforcement. Sessions are open for students, family, faculty, and staff in both English and Spanish.\u00a0 \n The New Jersey Consortium for Immigrant Children (NJCIC) is a state-wide legal and policy advocacy and education organization specializing in youth immigration. They provide objective legal resources, aid, and advice on immigration rights. \n \u00a0 \n Student & Family English Session: March 25, 2:00-3:15:\u00a0 https://us06web.zoom.us/webinar/register/WN_FxYlh_kDRkCYCoOhfmEKyA#/registration \n Student & Family Spanish Session: April 9, 5:30-6:45:  https://us06web.zoom.us/j/82724283081?pwd=KzAjQw24vxqmzbURBXGmbBLV3V60m3.1"
   },
   {
     "title": "UAASO General Body Meeting (GBM)",
@@ -4710,14 +4678,6 @@
     "location": "University Hall 2002 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12286775",
     "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization. \n For information about the weekly GBM theme/topic, please check out our instagram: @montclair_prso"
-  },
-  {
-    "title": "Complexions eboard meeting",
-    "date": "2026-03-30T18:00:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 416 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12098855",
-    "description": "Complexions will be coming together to plan events and discuss this semesters galas."
   },
   {
     "title": "Daughta Speaks GBM",
@@ -6813,7 +6773,7 @@
     "organization": "Government Relations and Community Affairs ",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12262774",
-    "description": "As immigration policies develop, it is best to stay educated. Know your rights and responsibilities! \n Join the New Jersey Consortium for Immigrant Children for a webinar on key legal and policy issues impacting the Montclair community. Information will be provided on immigration statuses, policy updates, legal protections, judicial vs. administrative orders, and understanding your rights if encountering law enforcement. Sessions are open for students, family, faculty, and staff in both English and Spanish.\u00a0 \n The New Jersey Consortium for Immigrant Children (NJCIC) is a state-wide legal and policy advocacy and education organization specializing in youth immigration. They provide objective legal resources, aid, and advice on immigration rights. \n Student & Family English Session: March 4, 2:30-3:45:  https://us06web.zoom.us/webinar/register/WN_iGJLl9ZWR7KXRUE_aniMsA \n Student & Family Spanish Session: April 9, 5:30-6:45: \n https://us06web.zoom.us/j/82724283081?pwd=KzAjQw24vxqmzbURBXGmbBLV3V60m3.1"
+    "description": "As immigration policies develop, it is best to stay educated. Know your rights and responsibilities! \n Join the New Jersey Consortium for Immigrant Children for a webinar on key legal and policy issues impacting the Montclair community. Information will be provided on immigration statuses, policy updates, legal protections, judicial vs. administrative orders, and understanding your rights if encountering law enforcement. Sessions are open for students, family, faculty, and staff in both English and Spanish.\u00a0 \n The New Jersey Consortium for Immigrant Children (NJCIC) is a state-wide legal and policy advocacy and education organization specializing in youth immigration. They provide objective legal resources, aid, and advice on immigration rights. \n Student & Family English Session: March 25, 2:30-3:45:\u00a0 https://us06web.zoom.us/webinar/register/WN_FxYlh_kDRkCYCoOhfmEKyA#/registration \n Student & Family Spanish Session: April 9, 5:30-6:45:\u00a0 https://us06web.zoom.us/j/82724283081?pwd=KzAjQw24vxqmzbURBXGmbBLV3V60m3.1"
   },
   {
     "title": "Group X - Kickboxing",
