@@ -1,13 +1,5 @@
 [
   {
-    "title": "Softball, Indoor Soccer",
-    "date": "2026-01-16T05:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center",
-    "link": "https://montclair.campuslabs.com/engage/event/11931766",
-    "description": "Teams can add players to their roster up until the last game of the regular season. Payment can be made via QR code or at the main office of the Student Recreation Center to secure your spot in the league!  \n How do I sign-up? \n \n Fee :\u00a0 $10/player or $60/organization (team fee for student organizations only)\u00a0 \n Registration :\u00a0 Payment can be made via QR code or at the main office of the Student Center to secure your spot in the league!\u00a0 Teams can add players to their roster throughout the season up until the last game of the regular season\u201d \n \n Where and when? \n \n Friday, March 6 \n Student Recreation Center"
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2026-03-06T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -904,20 +896,20 @@
     "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization. \n For information about the weekly GBM theme/topic, please check out our instagram: @montclair_prso"
   },
   {
-    "title": "History of St Patricks Day",
-    "date": "2026-03-16T18:00:00+00:00",
-    "organization": "The Historical Society at Montclair State",
-    "location": "University Hall 2006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12235021",
-    "description": "History Club invites students to a presentation exploring the history of St. Patrick\u2019s Day and how it developed from a religious observance into a widely celebrated cultural holiday. The program will examine its Irish roots, traditions, and evolving meaning in the United States."
-  },
-  {
     "title": "Daughta Speaks GBM",
     "date": "2026-03-16T18:00:00+00:00",
     "organization": "Daughta Speaks",
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12286827",
     "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
+  },
+  {
+    "title": "History of St Patricks Day",
+    "date": "2026-03-16T18:00:00+00:00",
+    "organization": "The Historical Society at Montclair State",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12235021",
+    "description": "History Club invites students to a presentation exploring the history of St. Patrick\u2019s Day and how it developed from a religious observance into a widely celebrated cultural holiday. The program will examine its Irish roots, traditions, and evolving meaning in the United States."
   },
   {
     "title": "MSU Republicans General Meeting",
@@ -3992,20 +3984,20 @@
     "description": "This event is dedicated to merengue and showing off our dance moves. There will be good music, all the classics and the new. We will be having snacks and the dominos table set up as well. This event is open to all MSU students!"
   },
   {
-    "title": "Mini Flower Pot Painting",
-    "date": "2026-03-27T23:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Russ Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12250628",
-    "description": "Drop in, paint a mini flower pot, and leave with something cute for your space. All supplies provided!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Blind Box Bingo",
     "date": "2026-03-27T23:00:00+00:00",
     "organization": "Campus Activities",
     "location": "Student Center Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/11970716",
     "description": "Bingo just got way more exciting! Play for a chance to win Blind boxes as prizes in every round. Come for the game, stay for the laughs\u2014maybe you'll get a secret!"
+  },
+  {
+    "title": "Mini Flower Pot Painting",
+    "date": "2026-03-27T23:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Russ Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12250628",
+    "description": "Drop in, paint a mini flower pot, and leave with something cute for your space. All supplies provided!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Movie Night ",
