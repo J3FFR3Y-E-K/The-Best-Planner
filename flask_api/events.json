@@ -1,14 +1,6 @@
 [
   {
     "title": "Department of Theatre and Dance | Spring Dance '26",
-    "date": "2026-03-07T19:00:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "Alexander Kasser Theatre",
-    "link": "https://montclair.campuslabs.com/engage/event/12220002",
-    "description": "Spring Dance presents Montclair State dancers in distinguished guest artist and faculty choreography, curated by the faculty artistic directors. LATE SEATING - DISCRETION OF THE HOUSE MANAGER \n Tickets"
-  },
-  {
-    "title": "Department of Theatre and Dance | Spring Dance '26",
     "date": "2026-03-08T00:30:00+00:00",
     "organization": "The College of the Arts",
     "location": "Alexander Kasser Theatre",
@@ -3912,20 +3904,20 @@
     "description": "This event is dedicated to merengue and showing off our dance moves. There will be good music, all the classics and the new. We will be having snacks and the dominos table set up as well. This event is open to all MSU students!"
   },
   {
-    "title": "Blind Box Bingo",
-    "date": "2026-03-27T23:00:00+00:00",
-    "organization": "Campus Activities",
-    "location": "Student Center Ballrooms",
-    "link": "https://montclair.campuslabs.com/engage/event/11970716",
-    "description": "Bingo just got way more exciting! Play for a chance to win Blind boxes as prizes in every round. Come for the game, stay for the laughs\u2014maybe you'll get a secret!"
-  },
-  {
     "title": "Mini Flower Pot Painting",
     "date": "2026-03-27T23:00:00+00:00",
     "organization": "Residence Life",
     "location": "Russ Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12250628",
     "description": "Drop in, paint a mini flower pot, and leave with something cute for your space. All supplies provided!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Blind Box Bingo",
+    "date": "2026-03-27T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/11970716",
+    "description": "Bingo just got way more exciting! Play for a chance to win Blind boxes as prizes in every round. Come for the game, stay for the laughs\u2014maybe you'll get a secret!"
   },
   {
     "title": "Movie Night ",
@@ -5518,6 +5510,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12236378",
     "description": "A well-edited final draft makes all the difference so your hard work can shine. Learn how to polish, proofread, and edit your own work for excellent final papers and projects."
+  },
+  {
+    "title": "General Body Meeting",
+    "date": "2026-04-06T18:00:00+00:00",
+    "organization": "Bangladesh Student Association ",
+    "location": "School Of Business 421 - Flexible Standard Tech Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12251782",
+    "description": "Join us for our first spring general body meeting! A meeting filled with laughter and yummy snacks!"
   },
   {
     "title": "Study Abroad 101",
@@ -8390,6 +8390,14 @@
     "location": "University Hall 2009 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12171209",
     "description": "HOSA GBM!"
+  },
+  {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161079",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
   },
   {
     "title": "UAASO General Body Meeting (GBM)",
