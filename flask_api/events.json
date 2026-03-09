@@ -1,29 +1,5 @@
 [
   {
-    "title": "Group X - Pilates",
-    "date": "2026-03-09T18:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12131531",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
-  },
-  {
-    "title": "Red Hawk Pantry",
-    "date": "2026-03-09T17:30:00+00:00",
-    "organization": "Red Hawk Pantry",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12286002",
-    "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, faculty, and Alumni at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Wednesdays: 5-7pm \n Saturdays: 11-1pm"
-  },
-  {
-    "title": "Group X - Cycling",
-    "date": "2026-03-09T19:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12131735",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 01/20 - 04/24 \n 3:30pm - 4:15pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jack"
-  },
-  {
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-03-09T21:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1392,20 +1368,20 @@
     "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
   },
   {
-    "title": "Haitian Student Association General Body Meeting ",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12165443",
-    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
-  },
-  {
     "title": "MSU Political Science Club General Body Meeting",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "Political Science Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12160996",
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12165443",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "TLC Philanthropy Event",
@@ -2022,6 +1998,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12108229",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 01/20 - 04/24 \n 1:00pm - 1:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "2nd Annual STEM Summit: Building Skills for Success",
+    "date": "2026-03-20T13:00:00+00:00",
+    "organization": "College of Science and Mathematics (CSAM)",
+    "location": "Center for Environmental and Life Sciences, Atrium",
+    "link": "https://montclair.campuslabs.com/engage/event/12322030",
+    "description": "The  2nd Annual STEM Summit  at Montclair State University will bring together students, faculty and industry professionals from across New Jersey, to explore the interdisciplinary skills shaping the future of science and mathematics. The summit will feature a keynote address and include student-led research presentations across diverse scientific disciplines. \n \u00a0 \n Attendees will participate in engaging panels, networking opportunities and interactive workshops designed to enhance key professional skills. Through exploring diverse career opportunities in teaching, academia, industry, and beyond, participants will uncover how collaboration across disciplines drives innovation, problem-solving and real-world impact.\u00a0 \n \u00a0 \n The Summit aims to foster community and amplify all student voices in STEM by empowering the next generation of scientists and innovators."
   },
   {
     "title": "HOSA CPR Event",
@@ -3848,14 +3832,6 @@
     "description": "This event is dedicated to merengue and showing off our dance moves. There will be good music, all the classics and the new. We will be having snacks and the dominos table set up as well. This event is open to all MSU students!"
   },
   {
-    "title": "Blind Box Bingo",
-    "date": "2026-03-27T23:00:00+00:00",
-    "organization": "Campus Activities",
-    "location": "Student Center Ballrooms",
-    "link": "https://montclair.campuslabs.com/engage/event/11970716",
-    "description": "Bingo just got way more exciting! Play for a chance to win Blind boxes as prizes in every round. Come for the game, stay for the laughs\u2014maybe you'll get a secret!"
-  },
-  {
     "title": "Mini Flower Pot Painting",
     "date": "2026-03-27T23:00:00+00:00",
     "organization": "Residence Life",
@@ -4816,12 +4792,12 @@
     "description": "Are you a junior or senior interested in graduate school, research, public service, or international experiences? The Prestigious Scholarships Program is here to support you!\u00a0 A prestigious scholarship provides you with the opportunity to develop your skills and reach your goals through engagement with people and places around the world. Montclair\u2019s Prestigious Scholarships Program helps all students and alumni learn of and apply for nationally and internationally competitive and prestigious awards. These awards fund a wide range of opportunities, as well as independent research projects, and many are connected to undergraduate and graduate degree programs or internships around the globe."
   },
   {
-    "title": "AAPI \"Day\" Market",
+    "title": "AANHPI \"Day\" Market",
     "date": "2026-04-01T15:00:00+00:00",
     "organization": "Asian Pacific Islander Caucus",
     "location": "Student Center Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12239578",
-    "description": "Come shop at the first ever\u00a0 AAPI \"Day\" Market \u00a0to kick off Asian American Pacific Islander Heritage Month!\u00a0 Many vendors will be there to show off their unique\u00a0creations, handmade goods, and creative finds to the campus community.\u00a0 Catch the vibe of an Asian Night Market, during the day!\u00a0 And hang out for the AAPI Heritage Month flag raising at 12:00p.m. \n \u00a0 \n If you would like to be a vendor at the AAPI \"Day\" Market,  please sign up here .\u00a0 Space is limited, so sign up soon! \n \u00a0 \n \n AAPI \"DAY\" MARKET \n Wednesday, April 1, 2026 \n 11:00am - 2:00pm \n Student Center Quad (rain location: Student Center Ballrooms) \n \n \u00a0 \n Email Tzu-Lin Toner, Assistant Director of Campus Recreation, with any questions: tonert@montclair.edu."
+    "description": "Come shop at the first ever\u00a0 AAPI \"Day\" Market \u00a0to kick off Asian American, Native Hawaiian & Pacific Islander (AANHPI) Heritage Month!\u00a0 Many vendors will be there to show off their unique\u00a0creations, handmade goods, and creative finds to the campus community.\u00a0 Catch the vibe of an Asian Night Market, during the day!\u00a0 And hang out for the AAPI Heritage Month flag raising at 12:00p.m. \n \u00a0 \n If you would like to be a vendor at the AAPI \"Day\" Market,  please sign up here .\u00a0 Space is limited, so sign up soon! \n \u00a0 \n \n AANHPI \"DAY\" MARKET \n Wednesday, April 1, 2026 \n 11:00am - 2:00pm \n Student Center Quad (rain location: Student Center Ballrooms) \n \n \u00a0 \n Email Tzu-Lin Toner, Assistant Director of Campus Recreation, with any questions: tonert@montclair.edu."
   },
   {
     "title": "VR in the Classroom",
@@ -5456,20 +5432,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
   },
   {
-    "title": "Polishing and Proofreading Tips for Final Drafts",
-    "date": "2026-04-06T18:00:00+00:00",
-    "organization": "Center for Writing Excellence",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12236378",
-    "description": "A well-edited final draft makes all the difference so your hard work can shine. Learn how to polish, proofread, and edit your own work for excellent final papers and projects."
-  },
-  {
     "title": "General Body Meeting",
     "date": "2026-04-06T18:00:00+00:00",
     "organization": "Bangladesh Student Association ",
     "location": "School Of Business 421 - Flexible Standard Tech Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12251782",
     "description": "Join us for our first spring general body meeting! A meeting filled with laughter and yummy snacks!"
+  },
+  {
+    "title": "Polishing and Proofreading Tips for Final Drafts",
+    "date": "2026-04-06T18:00:00+00:00",
+    "organization": "Center for Writing Excellence",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12236378",
+    "description": "A well-edited final draft makes all the difference so your hard work can shine. Learn how to polish, proofread, and edit your own work for excellent final papers and projects."
   },
   {
     "title": "Study Abroad 101",
