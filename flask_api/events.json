@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2026-03-10T17:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12065403",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesdays, 01/20 - 04/24 \n 1pm-1:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle"
-  },
-  {
     "title": "Group X - Pilates",
     "date": "2026-03-10T18:00:00+00:00",
     "organization": "Campus Recreation",
@@ -62,6 +54,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12180293",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays, 01/20 - 04/24 \n 5pm - 5:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Angel"
+  },
+  {
+    "title": "Baseball vs. FDU - Florham ",
+    "date": "2026-03-10T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324279",
+    "description": "Parking & Ticket Info"
   },
   {
     "title": "Formatting Your Thesis",
@@ -184,6 +184,14 @@
     "description": "Join us for the Native African Student Organization's General Body Meeting! This is a space where we come together to celebrate and explore the richness of African cultures, while also connecting with other cultures from around the world. At each meeting, we'll engage in lively discussions, learn about Africa\u2019s diverse history, traditions, and current events, and empower each other to understand and embrace our heritage. Whether you're looking to deepen your cultural knowledge, make meaningful connections, or simply have fun with fellow students who share a passion for Africa and global cultures, this is the place to be! Let\u2019s build a supportive community, amplify African voices on campus, and create lasting friendships. All are welcome, come, learn, share, and connect!"
   },
   {
+    "title": "Men's Lacrosse vs. Manhattanville",
+    "date": "2026-03-11T20:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Sprague Field",
+    "link": "https://montclair.campuslabs.com/engage/event/12324405",
+    "description": "Tickets & Parking Info"
+  },
+  {
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-03-11T21:00:00+00:00",
     "organization": "Campus Recreation",
@@ -229,7 +237,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 2",
     "link": "https://montclair.campuslabs.com/engage/event/12079197",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 10pm - 10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
   },
   {
     "title": "Group X - Pilates",
@@ -374,6 +382,30 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12108082",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 3:30pm- 5:00pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
+  },
+  {
+    "title": "Baseball vs. MIT",
+    "date": "2026-03-13T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324320",
+    "description": "Tickets & Parking Info"
+  },
+  {
+    "title": "Baseball vs. MIT",
+    "date": "2026-03-14T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324739",
+    "description": "Tickets & Parking Info"
+  },
+  {
+    "title": "Baseball vs. MIT",
+    "date": "2026-03-15T18:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324758",
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "CALI SCHOOL OF MUSIC | Ukrainian Contemporary Music Festival at Montclair State University",
@@ -600,20 +632,20 @@
     "description": "Jewlery Making while getting to know the Child Advocacy Club!"
   },
   {
-    "title": "Daughta Speaks GBM",
-    "date": "2026-03-16T18:00:00+00:00",
-    "organization": "Daughta Speaks",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12286827",
-    "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
-  },
-  {
     "title": "History of St Patricks Day",
     "date": "2026-03-16T18:00:00+00:00",
     "organization": "The Historical Society at Montclair State",
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12235021",
     "description": "History Club invites students to a presentation exploring the history of St. Patrick\u2019s Day and how it developed from a religious observance into a widely celebrated cultural holiday. The program will examine its Irish roots, traditions, and evolving meaning in the United States."
+  },
+  {
+    "title": "Daughta Speaks GBM",
+    "date": "2026-03-16T18:00:00+00:00",
+    "organization": "Daughta Speaks",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12286827",
+    "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
   },
   {
     "title": "MSU Republicans General Meeting",
@@ -686,6 +718,14 @@
     "location": "Student Center 2C01 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12313797",
     "description": "SGA Elections Tabling"
+  },
+  {
+    "title": "Baseball vs. NJCU",
+    "date": "2026-03-16T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324887",
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "Free Swim Lessons *Beginner*",
@@ -984,6 +1024,14 @@
     "description": "In honor of Women\u2019s History Month, the AEZ Chapter of  Omega Psi Phi Fraternity, Inc.  will be celebrating and appreciating the phenomenal women on campus. Join us at  Talbott Hall  as we pass out roses to the queens in recognition of their strength, leadership, and impact. \n A moment of appreciation. A gesture of respect. A celebration of excellence. \ud83c\udf39"
   },
   {
+    "title": "Women's Lacrosse vs. Bowdoin",
+    "date": "2026-03-17T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Sprague Field",
+    "link": "https://montclair.campuslabs.com/engage/event/12324554",
+    "description": "Tickets & Parking Info"
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2026-03-17T20:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1014,6 +1062,14 @@
     "location": "Student Recreation Center - Multipurpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12065678",
     "description": "A mind-body conditioning technique that focuses on trunk stability and coordinated breathing through a series of exercises.\u00a0 Pilates develops a longer, leaner, stronger, and more graceful body by improving muscular symmetry, alignment, posture, core strength, and flexibility. All levels are welcome. \n \n \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Tuesday, Jan 20 - April 24 \n 5 pm - 5:45 p.m. \n Student Recreation Center - Multipurpose Room 1 \n \n \n \n \n \n Instructor - Colin"
+  },
+  {
+    "title": "Baseball vs. New Paltz",
+    "date": "2026-03-17T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324767",
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "Chi Alpha Bible Study",
@@ -1344,20 +1400,20 @@
     "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
   },
   {
-    "title": "MSU Political Science Club General Body Meeting",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Political Science Club",
-    "location": "Dickson Hall 272 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12160996",
-    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
-  },
-  {
     "title": "Haitian Student Association General Body Meeting ",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "Haitian Student Association",
     "location": "University Hall 2026 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12165443",
     "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12160996",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
     "title": "TLC Philanthropy Event",
@@ -1536,6 +1592,14 @@
     "description": "Join the Worship Warriors in fellowship as we honor the Lord through dance!"
   },
   {
+    "title": "Softball vs. Stevens (DH)",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Softball Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324605",
+    "description": "Tickets & Parking Info"
+  },
+  {
     "title": "Girl Code vs. Guy Code",
     "date": "2026-03-18T23:00:00+00:00",
     "organization": "Bloomfield Swing Phi Swing Social Fellowship, Inc.",
@@ -1566,6 +1630,14 @@
     "location": "Calcia Hall 140 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12315471",
     "description": "History Club invites students to a movie night featuring Night at the Museum as a companion event to our upcoming visit to the American Museum of Natural History."
+  },
+  {
+    "title": "Men's Lacrosse vs. Kean",
+    "date": "2026-03-18T23:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Sprague Field",
+    "link": "https://montclair.campuslabs.com/engage/event/12324424",
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "Choir Practice",
@@ -2040,6 +2112,14 @@
     "description": "Join us as we fundraise for our Chapter, while enjoying a delicious meal"
   },
   {
+    "title": "Baseball vs. Westfield",
+    "date": "2026-03-20T18:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324793",
+    "description": "Tickets & Parking Info"
+  },
+  {
     "title": "Egg-cellent Tarts: A Taste of Hong Kong!",
     "date": "2026-03-20T19:00:00+00:00",
     "organization": "Baking Club",
@@ -2152,6 +2232,14 @@
     "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, faculty, and Alumni at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Wednesdays: 5-7pm \n Saturdays: 11-1pm"
   },
   {
+    "title": "Baseball vs. Westfield",
+    "date": "2026-03-21T16:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324809",
+    "description": "Tickets & Parking Info"
+  },
+  {
     "title": "Dracula Rehearsal",
     "date": "2026-03-21T15:45:00+00:00",
     "organization": "Montclair State University Players",
@@ -2182,6 +2270,14 @@
     "location": "Student Recreation Center",
     "link": "https://montclair.campuslabs.com/engage/event/12265374",
     "description": "Take in classic Catskill views on this scenic hike to  Balsam Lake Mountain  via the  Dry Brook Ridge Trail  in the Balsam Lake Mountain Wild Forest. This moderately rated  6-mile out-and-back hike  features a steady climb with  1,197 feet of elevation gain , winding through hardwood forests before reaching the summit. At the top, hikers are rewarded with sweeping mountain views and a historic fire tower that offers a perfect spot to rest, refuel, and soak it all in. This trail is ideal for hikers looking for a solid challenge with a big payoff. \n How do I sign up? \n \n Register in the Student Recreation Center main office or over the phone (973-655-3340). \n Cost for Students $10 / Faculty, Staff $20 \n \n Where and when? \n \n Saturday, March 21, 2026 \n 10:00 a.m. \u2013 5:00 p.m. \n Begins at the Student Recreation Center \n \n What to bring: Water, lunch/snacks, sunscreen, bug spray, layered clothing (depending on weather), sturdy close-toe hiking shoes or boots \n Potential Hazards: Uneven and rocky terrain; steep sections; slippery surfaces (especially if wet); sudden weather changes; sun exposure; dehydration; insect bites; poisonous plants/allergies; wildlife encounters; and injuries including sprains/strains, abrasions, lacerations, and fractures."
+  },
+  {
+    "title": "Softball vs. Hunter (DH)",
+    "date": "2026-03-21T17:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Softball Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324607",
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "The Red Hawk Community Ball 2026",
@@ -2246,6 +2342,14 @@
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12160928",
     "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
+  },
+  {
+    "title": "Baseball vs. Westfield",
+    "date": "2026-03-22T18:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324815",
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "Theta Phi Alpha- March Sisterhood Event",
@@ -2512,20 +2616,20 @@
     "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
   },
   {
-    "title": "Guess the Anime OP ",
-    "date": "2026-03-23T18:00:00+00:00",
-    "organization": "Japan Club",
-    "location": "University Hall 2011 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12244256",
-    "description": "Confident in your music guessing skills, or in your knowledge of anime? Come test them in our Guess that Anime Opening event! Play with and against your friends for prizes!"
-  },
-  {
     "title": "MSU Republicans General Meeting",
     "date": "2026-03-23T18:00:00+00:00",
     "organization": "Montclair State Republican Party",
     "location": "University Hall 2026 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12242986",
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
+  },
+  {
+    "title": "Guess the Anime OP ",
+    "date": "2026-03-23T18:00:00+00:00",
+    "organization": "Japan Club",
+    "location": "University Hall 2011 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12244256",
+    "description": "Confident in your music guessing skills, or in your knowledge of anime? Come test them in our Guess that Anime Opening event! Play with and against your friends for prizes!"
   },
   {
     "title": "\ud83c\udf38 Sonny Angel Club Bi-Weekly Hangout! \ud83c\udf38",
@@ -2870,6 +2974,14 @@
     "location": "Student Recreation Center - Multipurpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12065679",
     "description": "A mind-body conditioning technique that focuses on trunk stability and coordinated breathing through a series of exercises.\u00a0 Pilates develops a longer, leaner, stronger, and more graceful body by improving muscular symmetry, alignment, posture, core strength, and flexibility. All levels are welcome. \n \n \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Tuesday, Jan 20 - April 24 \n 5 pm - 5:45 p.m. \n Student Recreation Center - Multipurpose Room 1 \n \n \n \n \n \n Instructor - Colin"
+  },
+  {
+    "title": "Baseball vs. Maritime",
+    "date": "2026-03-24T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324823",
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "Chi Alpha Bible Study",
@@ -3296,6 +3408,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
   },
   {
+    "title": "Softball vs. Brooklyn (DH)",
+    "date": "2026-03-25T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Softball Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324610",
+    "description": "Tickets & Parking Info"
+  },
+  {
     "title": "Red Hawk Pantry",
     "date": "2026-03-25T21:00:00+00:00",
     "organization": "Red Hawk Pantry",
@@ -3566,6 +3686,14 @@
     "location": "Student Recreation Multi-Purpose Room 2",
     "link": "https://montclair.campuslabs.com/engage/event/12080268",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 5pm - 5:30pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
+  },
+  {
+    "title": "Men's Lacrosse vs. Western Connecticut",
+    "date": "2026-03-26T20:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Sprague Field",
+    "link": "https://montclair.campuslabs.com/engage/event/12324454",
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "Educational Leadership Virtual Information Session: For M.A. (Online, Fast Track, Core Choice, Offsite) and Certification Programs for: Supervisor, Principal, Director of School Counseling Services",
@@ -3856,6 +3984,14 @@
     "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, faculty, and Alumni at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Wednesdays: 5-7pm \n Saturdays: 11-1pm"
   },
   {
+    "title": "Men's Lacrosse vs. Maritime",
+    "date": "2026-03-28T16:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Sprague Field",
+    "link": "https://montclair.campuslabs.com/engage/event/12324472",
+    "description": "Tickets & Parking Info"
+  },
+  {
     "title": "LASO Leadership Conference",
     "date": "2026-03-28T13:00:00+00:00",
     "organization": "Latin American Student Organization",
@@ -3926,6 +4062,14 @@
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12160933",
     "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
+  },
+  {
+    "title": "Women's Lacrosse vs. Stevens",
+    "date": "2026-03-28T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Sprague Field",
+    "link": "https://montclair.campuslabs.com/engage/event/12324563",
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "Young Women's Conference",
@@ -4280,6 +4424,14 @@
     "description": "Spring Strength Shadow! Welcome back to our annual Bench Press & Squat Competition. Come and test power and show your gains. Each event will feature 5 reps max. Whether you're chasing PRs or just want to flex for fun, this event is for you! Bring your friends and your lifting straps, and see who can lift their way to the top prize! \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n When and Where? \n \n Data: March 30th \n Time: 3pm - 6pm \n Student Recreation Center, Plae Room \n \n How are results scored \n \n Maximum 5 repetitions\u00a0 \n 1 attempt per lift after a warm up set \n Scoring calculation: Weight lifted x repetitions divided by body weight\u00a0 \n Final score will be a total of both lifts combined\u00a0 \n \n Prizes :  \n \n Will be given to the top 3 winners\u00a0 \n Tier 1: Beat Headphone ,  Fitness Watch ,  Air Fryer  $100-$200 \n Tier 2:  Massage Gun ,  Meal Prep Kit ,  Pilates Kit  $50-$100 \n Tier 3:  Foam Roller Set ,  Liquid IV ,  Owala Water Bottle  $20-$50 \n \n Free T-shirts - limited supply so show up early to claim one!"
   },
   {
+    "title": "Baseball vs. Stevens",
+    "date": "2026-03-30T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324832",
+    "description": "Tickets & Parking Info"
+  },
+  {
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-03-30T21:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4510,6 +4662,14 @@
     "location": "Student Recreation Center PLAE Room",
     "link": "https://montclair.campuslabs.com/engage/event/12179115",
     "description": "Step into the brand-new PLAE Room and discover upLIFT\u2014a judgement-free program designed to help every student, from complete beginners to seasoned gym-goers, feel confident and capable with free-weight training. Learn proper lifting technique, get personalized form checks, and master the basics of creating your own effective workout programs. Whether you\u2019re looking to meet other students who love to lift, pursue new fitness goals, or simply feel more at home in the weight room, upLIFT offers a supportive community and a dedicated space to grow. The program is structured for steady progression throughout the semester, but you\u2019re welcome to drop in anytime and join at your own pace. \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Beginning February 3, ending April 23 \n Tuesdays 3 PM - 4 PM, Wednesdays 6 PM - 7 PM, and Thursdays 2 PM - 3 PM \n Student Recreation Center PLAE Room"
+  },
+  {
+    "title": "From Crisis to Care: The Future of Community Safety Symposium",
+    "date": "2026-03-31T14:00:00+00:00",
+    "organization": "Office of Community Engagement and Partnerships",
+    "location": "Montclair State University, University Hall Conference Center, 7th Floor",
+    "link": "https://montclair.campuslabs.com/engage/event/12324601",
+    "description": "Hosted by Dr. Jason Williams (Montclair State University) and Dr. Liza Chowdhury (Reimagining Justice Inc/Paterson Healing Collective)\u00a0 \n This event will present Paterson Healing Collective's five years of impact data while advancing policy and funding solutions to expand community-led responses to violence, mental health crises, and trauma. Panelists will include community responders, leaders in the CVI field, experts in mental health and crisis response, policy advocates, and research experts. \n Registration Link:\u00a0 https://docs.google.com/forms/d/e/1FAIpQLSeZyHEGs5JYNLUS9YPahizH_RMK8zcUVbs2aYV9xw_6ZkHBLg/viewform \n Parking in Red Hawk Deck."
   },
   {
     "title": "Group X - Zumba",
@@ -4952,6 +5112,14 @@
     "description": "Join us for weekly discussions, presentations, ice breakers, and more!"
   },
   {
+    "title": "Men's Lacrosse vs. Marywood",
+    "date": "2026-04-01T20:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Sprague Field",
+    "link": "https://montclair.campuslabs.com/engage/event/12324510",
+    "description": "Tickets & Parking Info"
+  },
+  {
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-04-01T21:00:00+00:00",
     "organization": "Campus Recreation",
@@ -5192,12 +5360,28 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 5pm - 5:30pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
   },
   {
+    "title": "Baseball vs. WPU",
+    "date": "2026-04-02T19:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324841",
+    "description": "Tickets & Parking Info"
+  },
+  {
     "title": "Group X - Kickboxing",
     "date": "2026-04-02T22:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12080802",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
+  },
+  {
+    "title": "Softball vs. Farmingdale (DH)",
+    "date": "2026-04-02T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Softball Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324638",
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "Group X - Pilates",
@@ -5344,6 +5528,22 @@
     "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, faculty, and Alumni at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Wednesdays: 5-7pm \n Saturdays: 11-1pm"
   },
   {
+    "title": "Baseball vs. Rowan (DH)",
+    "date": "2026-04-04T15:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324861",
+    "description": "Tickets & Parking Info"
+  },
+  {
+    "title": "Softball vs. Rutgers - Newark (DH)",
+    "date": "2026-04-04T17:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Softball Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324657",
+    "description": "Tickets & Parking Info"
+  },
+  {
     "title": "Group X - HIIT",
     "date": "2026-04-06T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -5416,20 +5616,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
   },
   {
-    "title": "Polishing and Proofreading Tips for Final Drafts",
-    "date": "2026-04-06T18:00:00+00:00",
-    "organization": "Center for Writing Excellence",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12236378",
-    "description": "A well-edited final draft makes all the difference so your hard work can shine. Learn how to polish, proofread, and edit your own work for excellent final papers and projects."
-  },
-  {
     "title": "General Body Meeting",
     "date": "2026-04-06T18:00:00+00:00",
     "organization": "Bangladesh Student Association ",
     "location": "School Of Business 421 - Flexible Standard Tech Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12251782",
     "description": "Join us for our first spring general body meeting! A meeting filled with laughter and yummy snacks!"
+  },
+  {
+    "title": "Polishing and Proofreading Tips for Final Drafts",
+    "date": "2026-04-06T18:00:00+00:00",
+    "organization": "Center for Writing Excellence",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12236378",
+    "description": "A well-edited final draft makes all the difference so your hard work can shine. Learn how to polish, proofread, and edit your own work for excellent final papers and projects."
   },
   {
     "title": "Study Abroad 101",
@@ -5816,6 +6016,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays, 01/20 - 04/24 \n 6:00 pm - 6:45 pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Ashley"
   },
   {
+    "title": "Softball vs. WPU (DH)",
+    "date": "2026-04-07T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Softball Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324676",
+    "description": "Tickets & Parking Info"
+  },
+  {
     "title": "Group X - Goodnight Yoga",
     "date": "2026-04-07T23:00:00+00:00",
     "organization": "Campus Recreation",
@@ -5997,7 +6205,7 @@
     "organization": "The Office for Experiential Education and Career Connections",
     "location": "Student Center Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/11921552",
-    "description": "The Spring Part-time Job Fair offers students the opportunity to meet with both on-campus and off-campus employers interested in hiring various positions. The Fair will be held in the Student Center Ballrooms from 1-3 p.m., on Wednesday, April 8.\u00a0 \n \n \n More Information : \n \n Bring plenty of copies of your resume \n Students must bring their Montclair State University Student IDs \n Registration is required through\u00a0Handshake \n The location is the Student Center Ballrooms \n \n \n \n Wednesday, Apr 8, 1:00 pm - 3:00 pm \n Student Center Ballrooms"
+    "description": ""
   },
   {
     "title": "CSAM Science Teaching Program - Program Meeting",
@@ -6512,6 +6720,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 3:30pm- 5:00pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
   },
   {
+    "title": "Baseball vs. Kean",
+    "date": "2026-04-10T19:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324873",
+    "description": "Tickets & Parking Info"
+  },
+  {
     "title": "Pop Culture Trivia ",
     "date": "2026-04-10T22:00:00+00:00",
     "organization": "Campus Activities",
@@ -6590,6 +6806,14 @@
     "location": "Hawk Crossings",
     "link": "https://montclair.campuslabs.com/engage/event/12307253",
     "description": "Please join us for some goody bags & a game of UNO on April 11th from 12:00 PM to 2:00 PM in Hawk Crossings.\u2028 All students are welcome; Commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Baseball vs. TCNJ (DH)",
+    "date": "2026-04-11T15:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324883",
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "Into the Woods Rehearsal",
@@ -6854,6 +7078,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12131740",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 01/20 - 04/24 \n 3:30pm - 4:15pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Men's Lacrosse vs. SUNY Delhi",
+    "date": "2026-04-13T20:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Sprague Field",
+    "link": "https://montclair.campuslabs.com/engage/event/12324518",
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "MSU Players General Body Meeting",
@@ -7376,6 +7608,14 @@
     "description": "Join the Mexican-American Student Association for our weekly General Miembro Meeting where we have fun activities planned to learn about Mexican culture! Check out our instagram @montclair_masa for this week's topic!"
   },
   {
+    "title": "Women's Lacrosse vs. Rowan",
+    "date": "2026-04-15T20:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Sprague Field",
+    "link": "https://montclair.campuslabs.com/engage/event/12324593",
+    "description": "Tickets & Parking Info"
+  },
+  {
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-04-15T21:00:00+00:00",
     "organization": "Campus Recreation",
@@ -7608,12 +7848,28 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 5pm - 5:30pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
   },
   {
+    "title": "Baseball vs. NJCU",
+    "date": "2026-04-16T19:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324910",
+    "description": "Tickets & Parking Info"
+  },
+  {
     "title": "Group X - Kickboxing",
     "date": "2026-04-16T22:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12080804",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
+  },
+  {
+    "title": "Softball vs. Baruch (DH)",
+    "date": "2026-04-16T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Softball Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324691",
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "Group X - Pilates",
@@ -7862,6 +8118,14 @@
     "location": "Cream Ridge, NJ - Begins and ends at Student Recreation Center",
     "link": "https://montclair.campuslabs.com/engage/event/12179894",
     "description": "Get ready for a gorgeous day of frolicking through fields of flowers as we take you to Holland Ridge Farms, famous for their seasonal flower picking fields. As the HRF tulip festival gets started, join us for a day of fun including live music, petting zoo areas with farm animals, photo taking attractions, food trucks, a farmers and makers market, and a complimentary shuttle around the farm. Flower picking costs $1for each flower picked! \n How do I sign-up? \n \n Registration Opens on Fusion on March 1st \n Register online through  Fusion , in the Student Recreation Center's main office, or over the phone (973-655-3340). \n Cost for Students - $10 | Faculty/Staff - $20 \n \n Where and when? \n \n Saturday, April 18, 2026 \n 10:00 am - 5:00 pm \n Cream Ridge, NJ - Begins and ends at Student Recreation Center \n \n What to bring: \n \n Money for spending, lunch, water, comfortable shoes, sunscreen. \n \n Potential Hazards:  Poisonous plants/allergies, insect bites, unpredictable weather changes, sunburn/heat exhaustion, dehydration, and injuries, including sprains/strains, abrasions, lacerations and fractures."
+  },
+  {
+    "title": "Softball vs. Rutgers - Camden (DH)",
+    "date": "2026-04-18T17:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Softball Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324708",
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "Family Reunion X THEE Yard Show",
@@ -8880,6 +9144,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 3:30pm- 5:00pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
   },
   {
+    "title": "Baseball vs. Ramapo",
+    "date": "2026-04-24T19:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324896",
+    "description": "Tickets & Parking Info"
+  },
+  {
     "title": "Meme Trivia ",
     "date": "2026-04-24T22:00:00+00:00",
     "organization": "Campus Activities",
@@ -8982,6 +9254,14 @@
     "location": "Montclair campus, Student Center, Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12262637",
     "description": "Stop by to meet Pebbles, Montclair\u2019s favorite pupscot! Snap a photo, grab a hug and enjoy a tail-wagging moment with this campus favorite. It\u2019s the perfect feel-good stop during Family Weekend for smiles, memories and a little extra Red Hawk spirit. \ud83d\udc3e"
+  },
+  {
+    "title": "Softball vs. TCNJ (DH)",
+    "date": "2026-04-25T17:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Softball Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12324729",
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "Family Weekend: 1908 Happy Hour",
