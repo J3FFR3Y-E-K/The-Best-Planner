@@ -520,20 +520,20 @@
     "description": "Jewlery Making while getting to know the Child Advocacy Club!"
   },
   {
-    "title": "History of St Patricks Day",
-    "date": "2026-03-16T18:00:00+00:00",
-    "organization": "The Historical Society at Montclair State",
-    "location": "University Hall 2006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12235021",
-    "description": "History Club invites students to a presentation exploring the history of St. Patrick\u2019s Day and how it developed from a religious observance into a widely celebrated cultural holiday. The program will examine its Irish roots, traditions, and evolving meaning in the United States."
-  },
-  {
     "title": "Daughta Speaks GBM",
     "date": "2026-03-16T18:00:00+00:00",
     "organization": "Daughta Speaks",
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12286827",
     "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
+  },
+  {
+    "title": "History of St Patricks Day",
+    "date": "2026-03-16T18:00:00+00:00",
+    "organization": "The Historical Society at Montclair State",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12235021",
+    "description": "History Club invites students to a presentation exploring the history of St. Patrick\u2019s Day and how it developed from a religious observance into a widely celebrated cultural holiday. The program will examine its Irish roots, traditions, and evolving meaning in the United States."
   },
   {
     "title": "MSU Republicans General Meeting",
@@ -3824,20 +3824,20 @@
     "description": "This event is dedicated to merengue and showing off our dance moves. There will be good music, all the classics and the new. We will be having snacks and the dominos table set up as well. This event is open to all MSU students!"
   },
   {
-    "title": "Blind Box Bingo",
-    "date": "2026-03-27T23:00:00+00:00",
-    "organization": "Campus Activities",
-    "location": "Student Center Ballrooms",
-    "link": "https://montclair.campuslabs.com/engage/event/11970716",
-    "description": "Bingo just got way more exciting! Play for a chance to win Blind boxes as prizes in every round. Come for the game, stay for the laughs\u2014maybe you'll get a secret!"
-  },
-  {
     "title": "Mini Flower Pot Painting",
     "date": "2026-03-27T23:00:00+00:00",
     "organization": "Residence Life",
     "location": "Russ Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12250628",
     "description": "Drop in, paint a mini flower pot, and leave with something cute for your space. All supplies provided!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Blind Box Bingo",
+    "date": "2026-03-27T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/11970716",
+    "description": "Bingo just got way more exciting! Play for a chance to win Blind boxes as prizes in every round. Come for the game, stay for the laughs\u2014maybe you'll get a secret!"
   },
   {
     "title": "Movie Night ",
@@ -4232,20 +4232,20 @@
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
-    "title": "Complexions eboard meeting",
-    "date": "2026-03-30T18:00:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 416 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12098855",
-    "description": "Complexions will be coming together to plan events and discuss this semesters galas."
-  },
-  {
     "title": "Puerto Rican Student Org: General Body Meeting",
     "date": "2026-03-30T18:00:00+00:00",
     "organization": "Puerto Rican Student Organization",
     "location": "University Hall 2002 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12286775",
     "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization. \n For information about the weekly GBM theme/topic, please check out our instagram: @montclair_prso"
+  },
+  {
+    "title": "Complexions eboard meeting",
+    "date": "2026-03-30T18:00:00+00:00",
+    "organization": "Complexions",
+    "location": "Student Center 416 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12098855",
+    "description": "Complexions will be coming together to plan events and discuss this semesters galas."
   },
   {
     "title": "Daughta Speaks GBM",
