@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Cycling",
-    "date": "2026-03-12T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/12079197",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 10pm - 10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
-  },
-  {
     "title": "Group X - Pilates",
     "date": "2026-03-12T16:00:00+00:00",
     "organization": "Campus Recreation",
@@ -400,20 +392,20 @@
     "description": "Jewlery Making while getting to know the Child Advocacy Club!"
   },
   {
-    "title": "History of St Patricks Day",
-    "date": "2026-03-16T18:00:00+00:00",
-    "organization": "The Historical Society at Montclair State",
-    "location": "University Hall 2006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12235021",
-    "description": "History Club invites students to a presentation exploring the history of St. Patrick\u2019s Day and how it developed from a religious observance into a widely celebrated cultural holiday. The program will examine its Irish roots, traditions, and evolving meaning in the United States."
-  },
-  {
     "title": "Daughta Speaks GBM",
     "date": "2026-03-16T18:00:00+00:00",
     "organization": "Daughta Speaks",
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12286827",
     "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
+  },
+  {
+    "title": "History of St Patricks Day",
+    "date": "2026-03-16T18:00:00+00:00",
+    "organization": "The Historical Society at Montclair State",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12235021",
+    "description": "History Club invites students to a presentation exploring the history of St. Patrick\u2019s Day and how it developed from a religious observance into a widely celebrated cultural holiday. The program will examine its Irish roots, traditions, and evolving meaning in the United States."
   },
   {
     "title": "MSU Republicans General Meeting",
@@ -648,6 +640,14 @@
     "description": "Join the Amici Club for a fun night of the Italian game Tombola! Light refreshments will be provided!"
   },
   {
+    "title": "MILF Round 4 Workshop",
+    "date": "2026-03-17T00:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "University Hall 2011 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12330548",
+    "description": "Workshop for PokeM.I.L.F. (Montclair Improv League and Friends Round 4)"
+  },
+  {
     "title": "Tri Sigma New Member Education",
     "date": "2026-03-17T00:30:00+00:00",
     "organization": "Sigma Sigma Sigma",
@@ -726,6 +726,14 @@
     "location": "Student Center 2C03 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12283055",
     "description": "Celebrate St. Patrick\u2019s Day with Turning Point USA at our festive Polaroid Photo Booth Tabling Event! Stop by our table to take a fun, St. Patrick\u2019s Day themed Polaroid photo, enjoy the festive atmosphere, and connect with fellow students. This tabling event is a great chance to hang out, meet the TPUSA team, and add a unique keepsake to your day."
+  },
+  {
+    "title": "Bible Talk",
+    "date": "2026-03-17T18:00:00+00:00",
+    "organization": "Alpha Omega",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12330545",
+    "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
   },
   {
     "title": "Interviewing tips to land your next job",
@@ -1550,6 +1558,14 @@
     "location": "Student Center, Underground",
     "link": "https://montclair.campuslabs.com/engage/event/12292432",
     "description": "Join us for  POT(s) with CAPS  \u2014 a hands-on interactive event\u00a0\u00a0 to increase your knowledge of cannabis and alcohol. Students will also be given potting supplies to grow your own flower!\u00a0 Learn about ways to live a healthy lifestyle and take good care of yourself."
+  },
+  {
+    "title": "Bible Talk",
+    "date": "2026-03-19T18:00:00+00:00",
+    "organization": "Alpha Omega",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12330546",
+    "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
   },
   {
     "title": "upLIFT",
@@ -2400,20 +2416,20 @@
     "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2026-03-23T18:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12242986",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "Guess the Anime OP ",
     "date": "2026-03-23T18:00:00+00:00",
     "organization": "Japan Club",
     "location": "University Hall 2011 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12244256",
     "description": "Confident in your music guessing skills, or in your knowledge of anime? Come test them in our Guess that Anime Opening event! Play with and against your friends for prizes!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2026-03-23T18:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12242986",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "\ud83c\udf38 Sonny Angel Club Bi-Weekly Hangout! \ud83c\udf38",
@@ -3752,6 +3768,14 @@
     "description": "Join us on March 27th in Dinallo Heights MPR for a night of snacks and enjoyment! Whether you're here for the vibes, the snacks, or the movie\u2014 there's something for everyone. All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "CALI SCHOOL OF MUSIC | The Reawakening of the Gods - Musical Reading",
+    "date": "2026-03-28T00:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Leshowitz Recital Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12330880",
+    "description": "The Reawakening of the Gods \n A Public Reading of a New Musical \n Friday, March 27, 2026 at 8:00 PM Leshowitz Recital Hall John J. Cali School of Music Montclair State University \n The John J. Cali School of Music, in collaboration with the Inserra Chair in Italian and Italian American Studies and the Musical Theatre Program, presents a public reading of  The Reawakening of the Gods , a new musical written and directed by Marco Savatteri and produced in partnership with Savatteri Produzioni. \n This staged reading will be interpreted by students from the Cali School\u2019s Musical Theatre Program (CART), with assistance from Toti Maria Geraci and accompaniment by David Fraley. The event also features brief talks by Teresa Fiore, an English translation by Brianna Coppolino, and reflections on the Savatteri internship experience by Mia Grizzuti. \n Blending classical themes with contemporary musical storytelling,  The Reawakening of the Gods  offers audiences an opportunity to experience the development of new work while engaging with an international creative collaboration. This special event highlights the Cali School\u2019s commitment to interdisciplinary performance, global artistic exchange, and student-centered creative practice. \n Admission:  Free and open to the public More information:  tinyurl.com/ReadingReawakening"
+  },
+  {
     "title": "Kate Hamill's Dracula",
     "date": "2026-03-27T20:30:00+00:00",
     "organization": "Montclair State University Players",
@@ -4144,20 +4168,20 @@
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
-    "title": "Puerto Rican Student Org: General Body Meeting",
-    "date": "2026-03-30T18:00:00+00:00",
-    "organization": "Puerto Rican Student Organization",
-    "location": "University Hall 2002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12286775",
-    "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization. \n For information about the weekly GBM theme/topic, please check out our instagram: @montclair_prso"
-  },
-  {
     "title": "Complexions eboard meeting",
     "date": "2026-03-30T18:00:00+00:00",
     "organization": "Complexions",
     "location": "Student Center 416 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12098855",
     "description": "Complexions will be coming together to plan events and discuss this semesters galas."
+  },
+  {
+    "title": "Puerto Rican Student Org: General Body Meeting",
+    "date": "2026-03-30T18:00:00+00:00",
+    "organization": "Puerto Rican Student Organization",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12286775",
+    "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization. \n For information about the weekly GBM theme/topic, please check out our instagram: @montclair_prso"
   },
   {
     "title": "Daughta Speaks GBM",
@@ -6678,6 +6702,14 @@
     "location": "Student Recreation Center",
     "link": "https://montclair.campuslabs.com/engage/event/12267639",
     "description": "Catch the action live as the New York Mets take on the Oakland Athletics on April 11th at 4:10 PM at Citi Field! Join fellow students for an exciting afternoon of baseball, school spirit, and big-league fun. No need to worry about transportation \u2014 bus service will be provided from the Montclair Rec Center, making it easy to be part of the action. Don\u2019 t miss this chance to experience the energy of a live MLB game with your friends! \n \u00a0 \n How do I sign-up? \n \n Registration is Open from\u00a0 3/16/2026 - 4/10/2026 \n Tickets are $35 \n \n When and where? \n \n Saturday, April 11, 2026 \n 2pm pick up time at the Student Recreation Center \n City Field, Queens , NYC"
+  },
+  {
+    "title": "Complexions 13th Birthday Gala",
+    "date": "2026-04-11T20:00:00+00:00",
+    "organization": "Complexions",
+    "location": "University Hall 7500 - Conference Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12331097",
+    "description": "Come join Complexions for a night of fun, sisterhood, and dance."
   },
   {
     "title": "MILF Round 4",
