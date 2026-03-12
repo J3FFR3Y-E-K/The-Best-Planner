@@ -1,21 +1,5 @@
 [
   {
-    "title": "Group X - Pilates",
-    "date": "2026-03-12T16:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12079367",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 12pm - 12:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Maddie"
-  },
-  {
-    "title": "Group X - Kickboxing",
-    "date": "2026-03-12T17:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12079491",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 1pm - 1:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Angel"
-  },
-  {
     "title": "upLIFT",
     "date": "2026-03-12T18:00:00+00:00",
     "organization": "Campus Recreation",
@@ -150,6 +134,22 @@
     "location": "Yogi Berra Stadium",
     "link": "https://montclair.campuslabs.com/engage/event/12324320",
     "description": "Tickets & Parking Info"
+  },
+  {
+    "title": "Chand Raat - Pakistan Student Association",
+    "date": "2026-03-13T22:00:00+00:00",
+    "organization": "Pakistani Student Organization",
+    "location": "School Of Business 324 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12331599",
+    "description": "Let\u2019s come together to share a beautiful iftar, celebrate the spirit of Ramadan, and embrace the joy of Eid. \ud83e\ude94\u2728 \n Join us for an evening filled with delicious food, henna, gajra making, and so much more! Plus, enjoy fun Eidi favors from PSA, a small festive treat from us to you as we welcome this special occasion together. \ud83c\udf19\ud83d\udcab"
+  },
+  {
+    "title": "Chand Raat - Pakistan Student Association",
+    "date": "2026-03-13T22:00:00+00:00",
+    "organization": "Pakistani Student Organization",
+    "location": "School Of Business 327 - Seminar Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12331600",
+    "description": "Let\u2019s come together to share a beautiful iftar, celebrate the spirit of Ramadan, and embrace the joy of Eid. \ud83e\ude94\u2728 \n Join us for an evening filled with delicious food, henna, gajra making, and so much more! Plus, enjoy fun Eidi favors from PSA, a small festive treat from us to you as we welcome this special occasion together. \ud83c\udf19\ud83d\udcab"
   },
   {
     "title": "Baseball vs. MIT",
@@ -328,6 +328,14 @@
     "description": "Come join us at the Student Center Quad to celebrate Pi Day. With a donation of $5 you can \"pie\" the members of STEM Synergy!"
   },
   {
+    "title": "MUFASA Monday!",
+    "date": "2026-03-16T18:15:00+00:00",
+    "organization": "Montclair Unified Filipino American Student Association",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12331566",
+    "description": "Join us for our weekly general body meetings every Monday!"
+  },
+  {
     "title": "Cru Bible Study! ",
     "date": "2026-03-16T18:15:00+00:00",
     "organization": "Cru",
@@ -358,6 +366,14 @@
     "location": "School Of Business 421 - Flexible Standard Tech Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12251781",
     "description": "Join us for our first spring general body meeting! A meeting filled with laughter and yummy snacks!"
+  },
+  {
+    "title": "General Body meeting ",
+    "date": "2026-03-16T18:00:00+00:00",
+    "organization": "Bangladesh Student Association ",
+    "location": "School Of Business 422 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12331531",
+    "description": "Join us for our first general body meeting of the semester!"
   },
   {
     "title": "5th DECA GBM",
@@ -392,20 +408,20 @@
     "description": "Jewlery Making while getting to know the Child Advocacy Club!"
   },
   {
-    "title": "Daughta Speaks GBM",
-    "date": "2026-03-16T18:00:00+00:00",
-    "organization": "Daughta Speaks",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12286827",
-    "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
-  },
-  {
     "title": "History of St Patricks Day",
     "date": "2026-03-16T18:00:00+00:00",
     "organization": "The Historical Society at Montclair State",
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12235021",
     "description": "History Club invites students to a presentation exploring the history of St. Patrick\u2019s Day and how it developed from a religious observance into a widely celebrated cultural holiday. The program will examine its Irish roots, traditions, and evolving meaning in the United States."
+  },
+  {
+    "title": "Daughta Speaks GBM",
+    "date": "2026-03-16T18:00:00+00:00",
+    "organization": "Daughta Speaks",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12286827",
+    "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
   },
   {
     "title": "MSU Republicans General Meeting",
@@ -640,6 +656,22 @@
     "description": "Join the Amici Club for a fun night of the Italian game Tombola! Light refreshments will be provided!"
   },
   {
+    "title": "Wealth Bulding Event ",
+    "date": "2026-03-17T00:30:00+00:00",
+    "organization": "Black Student Union",
+    "location": "University Hall 2009 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12331542",
+    "description": "Building Your Wealth: Empowerment in the Black Community \n Join us for an engaging and meaningful conversation on  Building Your Wealth as a Black Individual and the Importance of Financial Empowerment in Our Community.  This event will explore how wealth-building tools such as education, homeownership, investing, and financial planning can create long-term stability and generational prosperity. \n We will also highlight the historical importance of economic empowerment within the Black community and discuss how investing in ourselves and our communities helps create lasting opportunities for future generations. \n Come learn, share ideas, and gain practical insights on how we can collectively build stronger financial futures. \n \ud83d\udcc5  Date:  March 16 \u23f0  Time:  8:30 PM \u2013 10:00 PM \ud83d\udccd  Location:  University Hall, Room 2009 \n All are welcome to join this important conversation on wealth, legacy, and community empowerment."
+  },
+  {
+    "title": "Tri Sigma New Member Education",
+    "date": "2026-03-17T00:30:00+00:00",
+    "organization": "Sigma Sigma Sigma",
+    "location": "University Hall 2025 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12331532",
+    "description": "A New Member Education (NME) meeting is a structured gathering designed to help new members learn about Tri Sigma\u2019s history, values, traditions, and expectations. During these meetings, new members build connections with one another, develop leadership and personal growth skills, and gain a deeper understanding of what it means to be a lifelong member of the organization. NME meetings create a supportive environment where new members can ask questions, reflect on their experiences, and prepare for initiation while strengthening their sense of belonging within the chapter."
+  },
+  {
     "title": "MILF Round 4 Workshop",
     "date": "2026-03-17T00:30:00+00:00",
     "organization": "Montclair State University Players",
@@ -774,6 +806,14 @@
     "location": "Talbott Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12205785",
     "description": "A weekly event where you get a chance to try different things. From DJing, to D.I.Y. projects and BINGO with a twist. This is a day you don't want to miss, 1st person to come gets a prize every time."
+  },
+  {
+    "title": "Weekly Food Recovery Initiative",
+    "date": "2026-03-17T18:00:00+00:00",
+    "organization": "Food Recovery Network",
+    "location": "Blanton Hall Resident Kitchenette",
+    "link": "https://montclair.campuslabs.com/engage/event/12331652",
+    "description": "Join our weekly Food Recovery events, where dedicated volunteers and members gather to make a difference in our community. Each week, participants help collect perfectly good leftover food from Gourmet Dining and transport it to Blanton. There, the food is repackaged into individual microwavable containers and stocked in the food pantry, providing meals for those in need throughout the week.\u00a0 \n To Participate :\u00a0RSVP to attend the event each week. Meet in Blanton Hall Residence Hall Kitchenette in the Communal Area (Tell them you are working with Food Recovery), Sign in via Event Pass and your set! \n Requirements: \n \n Volunteers must be Food Safe Certified to participate. \n Complete the certification by following the step-by-step instructions provided in this  link . \n Once certified, email your certification to  foodrecoverynetwork@sgamsu.org  to confirm your eligibility to participate. \n \n Your involvement helps reduce food waste and insecurity while supporting individuals in our community who are in need. We look forward to your participation! *Please Note: This event end time is dependent on the amount of food given. You can estimate for max of hour and a half for recoveries."
   },
   {
     "title": "upLIFT",
@@ -1016,6 +1056,14 @@
     "description": "Join us on March 17th in the Blanton Atrium to get and be able to plot your own plant! We'll be plotting all different types of succulents so come and stop by! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "Building Bonds and Breaking barriers ",
+    "date": "2026-03-18T00:30:00+00:00",
+    "organization": "STEM Synergy",
+    "location": "University Hall 2042 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12331545",
+    "description": "In honor of women\u2019s history month we will be having a self improvement workshop. Giving students an opportunity to strengthens their personal views, building connections with other people and mini experiments."
+  },
+  {
     "title": "complexions practice",
     "date": "2026-03-18T00:30:00+00:00",
     "organization": "Complexions",
@@ -1160,12 +1208,28 @@
     "description": "Our weekly general body meeting where you get to learn about different Asian cultures and connect with others who are also interested in the culture!"
   },
   {
+    "title": "Garfield Club's Spring Chill",
+    "date": "2026-03-18T18:15:00+00:00",
+    "organization": "Garfield club",
+    "location": "University Hall 2025 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12331563",
+    "description": "Need something fun to do after Spring Break? Chill out and relax with the Garfield Club as we wind down from midterms with games like Jackbox!"
+  },
+  {
     "title": "Polish Club General Meeting",
     "date": "2026-03-18T18:15:00+00:00",
     "organization": "Montclair State Polish Club",
     "location": "School Of Business 421 - Flexible Standard Tech Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12150021",
     "description": "The Polish Club General Meeting is open to all students interested in Polish culture and community engagement. During the meeting, we will review club goals, upcoming events, leadership opportunities, and ways to get involved. New and returning members are encouraged to attend and participate."
+  },
+  {
+    "title": "Eid with SASA!",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "South Asian Student Association",
+    "location": "University Hall 3046 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12331557",
+    "description": "Join us this Wednesday to celebrate Eid as a SASA family! We will be having plenty of henna for everyone to do henna art! \n All Montclair State and Bloomfield College students welcome."
   },
   {
     "title": "General Miembro Meeting",
@@ -1184,12 +1248,12 @@
     "description": "At \u201cPowerful Mujeras,\u201d we gather to explore identity, self-love, and the journeys of Latina and Hispanic women on campus and beyond. Expect storytelling, supportive dialogue, and opportunities to connect, affirm, and grow together."
   },
   {
-    "title": "Haitian Student Association General Body Meeting ",
+    "title": "The Mock Session \u2013 Competitive Prep Series",
     "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12165443",
-    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
+    "organization": "Future Business Leaders of America",
+    "location": "SBUS 255",
+    "link": "https://montclair.campuslabs.com/engage/event/12331520",
+    "description": "This session is meant for\u00a0 Montclair FBLA SLC competitors.\u00a0 Join us for the final Competitive Prep event before the State Leadership Conference. We will meet in the Graduate Lounge (SBUS 255) and disperse into groups according to the provided schedule. You will be under a full simulation for event judging, must comply with the FBLA Dress Code, and be aware of your allowed times. Please have your complete project/presentation ready."
   },
   {
     "title": "MSU Political Science Club General Body Meeting",
@@ -1198,6 +1262,14 @@
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12160996",
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12165443",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "TLC Philanthropy Event",
@@ -1246,6 +1318,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12315477",
     "description": "Come check out the University Libraries' table at the\u00a0 Spring Career and Internship Fair ! \n Wednesday, March 18, 1 \u2013 4 p.m.\u00a0University Hall Conference Center, 7th Floor. \n Looking to launch your career and gain experience through a full-time job or internship? The Office for Experiential Education and Career Connections invites students of all levels to network with employers in a wide variety of industries! \n \n Open to all students and alumni \n Bring plenty of copies of your resume \n Students must bring their Montclair State University Student IDs \n Registration is required through Handshake . \n \n The Libraries will be hosting a table to show you where to \u00a0 explore career options,\u00a0test prep eBooks, and practice tests for LSATS, PRAXIS, NCLEX-PN, and more."
+  },
+  {
+    "title": "Weekly Food Recovery Initiative",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Food Recovery Network",
+    "location": "Blanton Hall Resident Kitchenette",
+    "link": "https://montclair.campuslabs.com/engage/event/12331651",
+    "description": "Join our weekly Food Recovery events, where dedicated volunteers and members gather to make a difference in our community. Each week, participants help collect perfectly good leftover food from Gourmet Dining and transport it to Blanton. There, the food is repackaged into individual microwavable containers and stocked in the food pantry, providing meals for those in need throughout the week.\u00a0 \n To Participate :\u00a0RSVP to attend the event each week. Meet in Blanton Hall Residence Hall Kitchenette in the Communal Area (Tell them you are working with Food Recovery), Sign in via Event Pass and your set! \n Requirements: \n \n Volunteers must be Food Safe Certified to participate. \n Complete the certification by following the step-by-step instructions provided in this  link . \n Once certified, email your certification to  foodrecoverynetwork@sgamsu.org  to confirm your eligibility to participate. \n \n Your involvement helps reduce food waste and insecurity while supporting individuals in our community who are in need. We look forward to your participation! *Please Note: This event end time is dependent on the amount of food given. You can estimate for max of hour and a half for recoveries."
   },
   {
     "title": "Building Custom Course GPTs",
@@ -1437,7 +1517,7 @@
     "organization": "The Good Samaritan Club",
     "location": "Student Center 251 - Dining Room",
     "link": "https://montclair.campuslabs.com/engage/event/12244394",
-    "description": "Join us and learn about the Feast that Christ taught us to keep in order to have eternal life!"
+    "description": ""
   },
   {
     "title": "Into the Woods Rehearsal",
@@ -5440,20 +5520,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
   },
   {
-    "title": "Polishing and Proofreading Tips for Final Drafts",
-    "date": "2026-04-06T18:00:00+00:00",
-    "organization": "Center for Writing Excellence",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12236378",
-    "description": "A well-edited final draft makes all the difference so your hard work can shine. Learn how to polish, proofread, and edit your own work for excellent final papers and projects."
-  },
-  {
     "title": "General Body Meeting",
     "date": "2026-04-06T18:00:00+00:00",
     "organization": "Bangladesh Student Association ",
     "location": "School Of Business 421 - Flexible Standard Tech Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12251782",
     "description": "Join us for our first spring general body meeting! A meeting filled with laughter and yummy snacks!"
+  },
+  {
+    "title": "Polishing and Proofreading Tips for Final Drafts",
+    "date": "2026-04-06T18:00:00+00:00",
+    "organization": "Center for Writing Excellence",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12236378",
+    "description": "A well-edited final draft makes all the difference so your hard work can shine. Learn how to polish, proofread, and edit your own work for excellent final papers and projects."
   },
   {
     "title": "Study Abroad 101",
