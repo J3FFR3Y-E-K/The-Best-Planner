@@ -1,29 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2026-03-13T18:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12108159",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 01/20 - 04/24 \n 2:00pm - 2:45 pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Vincent"
-  },
-  {
-    "title": "Take-and-Make Craft Kit: Camp Site",
-    "date": "2026-03-04T14:00:00+00:00",
-    "organization": "Office of Health Promotion",
-    "location": "Drop-In Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12022131",
-    "description": "All campers welcome! Create a mini camping scene complete with tents and a campfire for a fun, hands-on craft that will bring you cozy outdoor vibes! No hiking required.\u00a0 \n \n \n Take-and-Make craft kits are available for pick up at the Drop-In Center during business hours starting Wednesday, March 3rd, 2026. While supplies last! FREE for students with a valid Montclair or Bloomfield campus ID. Craft kits include adhesive and camping foam pieces."
-  },
-  {
-    "title": "Group X - BJJ",
-    "date": "2026-03-13T19:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12108082",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 3:30pm- 5:00pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
-  },
-  {
     "title": "Baseball vs. MIT",
     "date": "2026-03-13T19:00:00+00:00",
     "organization": "Athletics",
@@ -158,6 +134,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12131532",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
+  },
+  {
+    "title": "Creators' Corner: Shop Tonz of Kyuz",
+    "date": "2026-03-16T17:30:00+00:00",
+    "organization": "Feliciano Center for Entrepreneurship and Innovation",
+    "location": "Feliciano Center for Entrepreneurship and Innovation",
+    "link": "https://montclair.campuslabs.com/engage/event/12335230",
+    "description": "Hi, I am Tonz Of Kyuz, and my whole business is based off of three words that get me through each day \u201cJoy and Whimsy\u201d. My stickers, pins, keychains, prints and overall art style is made make people feel some sort of joy. Everything you see in store was designed by me, the buttons more specifically was made by hand! So feel free to take a gander!   \n C-Ro's business is on display in the Center throughout the week."
   },
   {
     "title": "Study Abroad 101",
@@ -326,6 +310,14 @@
     "location": "University Hall 2040 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12332872",
     "description": "Join DSO in our weekly GBM where we will have open discussion on current topics and have a fun time while we bond over our culture and love for the culture. This even is open to all MSU/BLOOMFIELD STUDENTS!"
+  },
+  {
+    "title": "Impactful Women",
+    "date": "2026-03-16T18:30:00+00:00",
+    "organization": "Dominican Student Organization",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12334985",
+    "description": "This GBM is based around Women's History Month and will be talking about powerful women figures and how women all over the world have positively impacted the world."
   },
   {
     "title": "CALI SCHOOL OF MUSIC | Billy Hart | Jazz Drum Faculty Masterclass",
@@ -662,6 +654,14 @@
     "location": "Student Center 2C02 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12303035",
     "description": "Stop by the Medical Case & Diagnostics Club (MCDC) recruitment table to learn how we help students explore medicine and healthcare through interactive case studies and collaborative problem-solving. \n MCDC focuses on building critical thinking and diagnostic reasoning skills while fostering interest in medical careers. We provide a supportive environment for mentorship, professional development, guest speakers, workshops, and discussions on real-world medical challenges. \n All students are welcome. Come see how you can get involved!"
+  },
+  {
+    "title": "The Brotherhood/ La Hermanidad General Body Meeting ",
+    "date": "2026-03-17T18:00:00+00:00",
+    "organization": "The Brotherhood/La Hermandad",
+    "location": "Susan A. Cole Hall 141 - Admissions Presentation Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12334983",
+    "description": "Join us for the  Brotherhood / La Hermanidad General Body Meeting  this Tuesday from  2:00 PM \u2013 3:30 PM ! \n This meeting is a space for unity, empowerment, and community building. We\u2019ll be discussing upcoming initiatives, leadership opportunities, campus involvement, and ways we can continue uplifting and supporting one another. Whether you\u2019re a returning member or new and interested in joining, this is a great opportunity to connect, build brotherhood, and strengthen our presence on campus. \n Come ready to engage, share ideas, and grow together. We look forward to seeing you there!"
   },
   {
     "title": "Horror Trivia",
@@ -1008,6 +1008,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 12pm - 12:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Alexa G"
   },
   {
+    "title": "Creators' Corner: Shop Tonz of Kyuz",
+    "date": "2026-03-18T13:00:00+00:00",
+    "organization": "Feliciano Center for Entrepreneurship and Innovation",
+    "location": "Feliciano Center for Entrepreneurship and Innovation",
+    "link": "https://montclair.campuslabs.com/engage/event/12335231",
+    "description": "Hi, I am Tonz Of Kyuz, and my whole business is based off of three words that get me through each day \u201cJoy and Whimsy\u201d. My stickers, pins, keychains, prints and overall art style is made make people feel some sort of joy. Everything you see in store was designed by me, the buttons more specifically was made by hand! So feel free to take a gander!   \n C-Ro's business is on display in the Center throughout the week."
+  },
+  {
     "title": "Nursing Bible Study ",
     "date": "2026-03-18T16:00:00+00:00",
     "organization": "InterVarsity Christian Fellowship",
@@ -1078,6 +1086,14 @@
     "location": "University Hall 2009 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12171206",
     "description": "HOSA GBM!"
+  },
+  {
+    "title": "Creators' Corner: Shop Tonz of Kyuz",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Feliciano Center for Entrepreneurship and Innovation",
+    "location": "Feliciano Center for Entrepreneurship and Innovation",
+    "link": "https://montclair.campuslabs.com/engage/event/12335233",
+    "description": "Hi, I am Tonz Of Kyuz, and my whole business is based off of three words that get me through each day \u201cJoy and Whimsy\u201d. My stickers, pins, keychains, prints and overall art style is made make people feel some sort of joy. Everything you see in store was designed by me, the buttons more specifically was made by hand! So feel free to take a gander!   \n C-Ro's business is on display in the Center throughout the week."
   },
   {
     "title": "UAASO General Body Meeting (GBM)",
@@ -1174,6 +1190,14 @@
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12167560",
     "description": "Join us for the Native African Student Organization's General Body Meeting! This is a space where we come together to celebrate and explore the richness of African cultures, while also connecting with other cultures from around the world. At each meeting, we'll engage in lively discussions, learn about Africa\u2019s diverse history, traditions, and current events, and empower each other to understand and embrace our heritage. Whether you're looking to deepen your cultural knowledge, make meaningful connections, or simply have fun with fellow students who share a passion for Africa and global cultures, this is the place to be! Let\u2019s build a supportive community, amplify African voices on campus, and create lasting friendships. All are welcome, come, learn, share, and connect!"
+  },
+  {
+    "title": "Community Health Pizza Social ",
+    "date": "2026-03-18T18:30:00+00:00",
+    "organization": "College for Community Health",
+    "location": "University Hall CCHL Student Success Center UNIV 1170",
+    "link": "https://montclair.campuslabs.com/engage/event/12331375",
+    "description": "Are you a student in the College for Community Health or interested in learning more about our programs? Join us for an opportunity to meet Dean Werner-Wilson. Come ask questions, talk about academics, share how your semester is going, or simply chat over some pizza. \n Dean Werner-Wilson welcomes the opportunity to connect with students in the college and those interested in becoming part of the College for Community Health. Come discuss academics, your spring break, and take a moment to wind down from classes."
   },
   {
     "title": "The DJ Academy: Music Matters 101 ",
@@ -1798,6 +1822,14 @@
     "location": "Student Recreation Multi-Purpose Room 2",
     "link": "https://montclair.campuslabs.com/engage/event/12108292",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Fridays, 01/20 - 04/24 \n 12pm - 12:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
+  },
+  {
+    "title": "Creators' Corner: Shop Tonz of Kyuz",
+    "date": "2026-03-20T14:00:00+00:00",
+    "organization": "Feliciano Center for Entrepreneurship and Innovation",
+    "location": "Feliciano Center for Entrepreneurship and Innovation",
+    "link": "https://montclair.campuslabs.com/engage/event/12335232",
+    "description": "Hi, I am Tonz Of Kyuz, and my whole business is based off of three words that get me through each day \u201cJoy and Whimsy\u201d. My stickers, pins, keychains, prints and overall art style is made make people feel some sort of joy. Everything you see in store was designed by me, the buttons more specifically was made by hand! So feel free to take a gander!   \n C-Ro's business is on display in the Center throughout the week."
   },
   {
     "title": "Group X - Zumba",
@@ -4344,6 +4376,14 @@
     "description": "DDC rehearsal"
   },
   {
+    "title": "Hawk Crossings Building Meeting",
+    "date": "2026-03-30T23:00:00+00:00",
+    "organization": "Hawk Crossings",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12335102",
+    "description": "Join the CAs for the Hawk Crossings Building Meeting! \n During these meetings, the CAs will provide information about living on campus and information to Hawk Crossings specifically. You only need to attend one meeting as the information will be the same at every meeting. Attendance will be taken. \n During these meetings, residents will have the chance to ask questions! \n This event is for Residents of Hawk Crossings. \n Join via Zoom: \n https://montclair.zoom.us/j/97209318556?pwd=Y7mPXcwo6uWERhPcpdpjaMG1H7zC73.1 Password: C3k8A2"
+  },
+  {
     "title": "Trivia Night ",
     "date": "2026-03-30T23:30:00+00:00",
     "organization": "Montclair State Dance Company",
@@ -4654,6 +4694,14 @@
     "location": "Newman Catholic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12104544",
     "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
+  },
+  {
+    "title": "Hawk Crossings Building Meeting",
+    "date": "2026-03-31T23:00:00+00:00",
+    "organization": "Hawk Crossings",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12335103",
+    "description": "Join the CAs for the Hawk Crossings Building Meeting! \n During these meetings, the CAs will provide information about living on campus and information to Hawk Crossings specifically. You only need to attend one meeting as the information will be the same at every meeting. Attendance will be taken. \n During these meetings, residents will have the chance to ask questions! \n This event is for Residents of Hawk Crossings. \n Join via Zoom: \n https://montclair.zoom.us/j/97209318556?pwd=Y7mPXcwo6uWERhPcpdpjaMG1H7zC73.1 Password: C3k8A2"
   },
   {
     "title": "Group X - BJJ",
@@ -5056,6 +5104,14 @@
     "description": "Have you been thinking about revamping your middle school slime business? Join us in the Russ Lounge to make and take some free slime! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "Hawk Crossings Building Meeting",
+    "date": "2026-04-01T23:00:00+00:00",
+    "organization": "Hawk Crossings",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12335104",
+    "description": "Join the CAs for the Hawk Crossings Building Meeting! \n During these meetings, the CAs will provide information about living on campus and information to Hawk Crossings specifically. You only need to attend one meeting as the information will be the same at every meeting. Attendance will be taken. \n During these meetings, residents will have the chance to ask questions! \n This event is for Residents of Hawk Crossings. \n Join via Zoom: \n https://montclair.zoom.us/j/97209318556?pwd=Y7mPXcwo6uWERhPcpdpjaMG1H7zC73.1 Password: C3k8A2"
+  },
+  {
     "title": "Stretch & Dance with the Swings",
     "date": "2026-04-01T23:00:00+00:00",
     "organization": "Bloomfield Swing Phi Swing Social Fellowship, Inc.",
@@ -5294,6 +5350,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12081105",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 7pm - 7:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Colin"
+  },
+  {
+    "title": "Hawk Crossings Building Meeting",
+    "date": "2026-04-02T23:00:00+00:00",
+    "organization": "Hawk Crossings",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12335105",
+    "description": "Join the CAs for the Hawk Crossings Building Meeting! \n During these meetings, the CAs will provide information about living on campus and information to Hawk Crossings specifically. You only need to attend one meeting as the information will be the same at every meeting. Attendance will be taken. \n During these meetings, residents will have the chance to ask questions! \n This event is for Residents of Hawk Crossings. \n Join via Zoom: \n https://montclair.zoom.us/j/97209318556?pwd=Y7mPXcwo6uWERhPcpdpjaMG1H7zC73.1 Password: C3k8A2"
   },
   {
     "title": "Plant A Succulent",
@@ -8312,6 +8376,14 @@
     "description": "Join the Worship Warriors in fellowship as we honor the Lord through dance!"
   },
   {
+    "title": "Hawk Crossings Closing Building Meeting",
+    "date": "2026-04-20T23:00:00+00:00",
+    "organization": "Hawk Crossings",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12335136",
+    "description": "Join the CAs for the Hawk Crossings Closing Building Meeting! \n During these meetings, the CAs will provide information about the guidelines and expectations with moving out, living on campus, and information to Hawk Crossings specifically. You only need to attend one meeting as the information will be the same at every meeting. Attendance will be taken. \n During these meetings, residents will have the chance to ask questions! \n This event is for Residents of Hawk Crossings. \n Join via Zoom: \n https://montclair.zoom.us/j/98678488329?pwd=znkw4Ow9XjZicEYbV7beP4UJIasTPq.1 Password: m2u46x"
+  },
+  {
     "title": "Journaling Night",
     "date": "2026-04-20T23:30:00+00:00",
     "organization": "Montclair State Dance Company",
@@ -8536,6 +8608,14 @@
     "description": "Looking to spice up your appearance for a couple of days? Join us in the Basie Lounge in the Village to make your own custom temporary tattoos. All students are welcome, commuters need to be signed in with a resident, following Residence Life guest registration procedures."
   },
   {
+    "title": "Hawk Crossings Closing Building Meeting",
+    "date": "2026-04-21T23:00:00+00:00",
+    "organization": "Hawk Crossings",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12335137",
+    "description": "Join the CAs for the Hawk Crossings Closing Building Meeting! \n During these meetings, the CAs will provide information about the guidelines and expectations with moving out, living on campus, and information to Hawk Crossings specifically. You only need to attend one meeting as the information will be the same at every meeting. Attendance will be taken. \n During these meetings, residents will have the chance to ask questions! \n This event is for Residents of Hawk Crossings. \n Join via Zoom: \n https://montclair.zoom.us/j/98678488329?pwd=znkw4Ow9XjZicEYbV7beP4UJIasTPq.1 Password: m2u46x"
+  },
+  {
     "title": "Newman Night",
     "date": "2026-04-21T23:00:00+00:00",
     "organization": "Red Hawk Catholic",
@@ -8656,20 +8736,20 @@
     "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
-    "title": "Caribbean Students' Organization: General body Meetings ",
-    "date": "2026-04-22T18:00:00+00:00",
-    "organization": "Caribbean Students' Organization",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12161079",
-    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
-  },
-  {
     "title": "HOSA General Body Meeting",
     "date": "2026-04-22T18:00:00+00:00",
     "organization": "Health Occupations Students of America - Future Health Professionals ",
     "location": "University Hall 2009 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12171209",
     "description": "HOSA GBM!"
+  },
+  {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161079",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
   },
   {
     "title": "UAASO General Body Meeting (GBM)",
@@ -8782,6 +8862,14 @@
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12119800",
     "description": "Join the Worship Warriors in fellowship as we honor the Lord through dance!"
+  },
+  {
+    "title": "Hawk Crossings Closing Building Meeting",
+    "date": "2026-04-22T23:00:00+00:00",
+    "organization": "Hawk Crossings",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12335138",
+    "description": "Join the CAs for the Hawk Crossings Closing Building Meeting! \n During these meetings, the CAs will provide information about the guidelines and expectations with moving out, living on campus, and information to Hawk Crossings specifically. You only need to attend one meeting as the information will be the same at every meeting. Attendance will be taken. \n During these meetings, residents will have the chance to ask questions! \n This event is for Residents of Hawk Crossings. \n Join via Zoom: \n https://montclair.zoom.us/j/98678488329?pwd=znkw4Ow9XjZicEYbV7beP4UJIasTPq.1 Password: m2u46x"
   },
   {
     "title": "Black Girl Recess",
@@ -9014,6 +9102,14 @@
     "location": "Student Center Quad123 - All Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12137959",
     "description": "Join ALPFA Montclair for our final event of the semester, ALPFA Under the Sun, a relaxed outdoor picnic celebrating the close of the academic year. This gathering is a chance to unwind, reflect on our accomplishments, and enjoy food, music, and community as we look ahead to what\u2019s next."
+  },
+  {
+    "title": "Hawk Crossings Closing Building Meeting",
+    "date": "2026-04-23T23:00:00+00:00",
+    "organization": "Hawk Crossings",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12335139",
+    "description": "Join the CAs for the Hawk Crossings Closing Building Meeting! \n During these meetings, the CAs will provide information about the guidelines and expectations with moving out, living on campus, and information to Hawk Crossings specifically. You only need to attend one meeting as the information will be the same at every meeting. Attendance will be taken. \n During these meetings, residents will have the chance to ask questions! \n This event is for Residents of Hawk Crossings. \n Join via Zoom: \n https://montclair.zoom.us/j/98678488329?pwd=znkw4Ow9XjZicEYbV7beP4UJIasTPq.1 Password: m2u46x"
   },
   {
     "title": "Movie Night",
