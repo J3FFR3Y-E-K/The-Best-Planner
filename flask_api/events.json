@@ -1,29 +1,5 @@
 [
   {
-    "title": "Group X - Cycling Express",
-    "date": "2026-03-12T21:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/12080266",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 5pm - 5:30pm \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Colin"
-  },
-  {
-    "title": "Group X - Kickboxing",
-    "date": "2026-03-12T22:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12080799",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
-  },
-  {
-    "title": "Group X - Pilates",
-    "date": "2026-03-12T23:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12081102",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 7pm - 7:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Colin"
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2026-03-13T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -94,22 +70,6 @@
     "location": "Yogi Berra Stadium",
     "link": "https://montclair.campuslabs.com/engage/event/12324320",
     "description": "Tickets & Parking Info"
-  },
-  {
-    "title": "Chand Raat - Pakistan Student Association",
-    "date": "2026-03-13T22:00:00+00:00",
-    "organization": "Pakistani Student Organization",
-    "location": "School Of Business 324 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12331599",
-    "description": "Let\u2019s come together to share a beautiful iftar, celebrate the spirit of Ramadan, and embrace the joy of Eid. \ud83e\ude94\u2728 \n Join us for an evening filled with delicious food, henna, gajra making, and so much more! Plus, enjoy fun Eidi favors from PSA, a small festive treat from us to you as we welcome this special occasion together. \ud83c\udf19\ud83d\udcab"
-  },
-  {
-    "title": "Chand Raat - Pakistan Student Association",
-    "date": "2026-03-13T22:00:00+00:00",
-    "organization": "Pakistani Student Organization",
-    "location": "School Of Business 327 - Seminar Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12331600",
-    "description": "Let\u2019s come together to share a beautiful iftar, celebrate the spirit of Ramadan, and embrace the joy of Eid. \ud83e\ude94\u2728 \n Join us for an evening filled with delicious food, henna, gajra making, and so much more! Plus, enjoy fun Eidi favors from PSA, a small festive treat from us to you as we welcome this special occasion together. \ud83c\udf19\ud83d\udcab"
   },
   {
     "title": "Baseball vs. MIT",
@@ -4216,20 +4176,20 @@
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
-    "title": "Puerto Rican Student Org: General Body Meeting",
-    "date": "2026-03-30T18:00:00+00:00",
-    "organization": "Puerto Rican Student Organization",
-    "location": "University Hall 2002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12286775",
-    "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization. \n For information about the weekly GBM theme/topic, please check out our instagram: @montclair_prso"
-  },
-  {
     "title": "Complexions eboard meeting",
     "date": "2026-03-30T18:00:00+00:00",
     "organization": "Complexions",
     "location": "Student Center 416 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12098855",
     "description": "Complexions will be coming together to plan events and discuss this semesters galas."
+  },
+  {
+    "title": "Puerto Rican Student Org: General Body Meeting",
+    "date": "2026-03-30T18:00:00+00:00",
+    "organization": "Puerto Rican Student Organization",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12286775",
+    "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization. \n For information about the weekly GBM theme/topic, please check out our instagram: @montclair_prso"
   },
   {
     "title": "Daughta Speaks GBM",
@@ -5488,20 +5448,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
   },
   {
-    "title": "Polishing and Proofreading Tips for Final Drafts",
-    "date": "2026-04-06T18:00:00+00:00",
-    "organization": "Center for Writing Excellence",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12236378",
-    "description": "A well-edited final draft makes all the difference so your hard work can shine. Learn how to polish, proofread, and edit your own work for excellent final papers and projects."
-  },
-  {
     "title": "General Body Meeting",
     "date": "2026-04-06T18:00:00+00:00",
     "organization": "Bangladesh Student Association ",
     "location": "School Of Business 421 - Flexible Standard Tech Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12251782",
     "description": "Join us for our first spring general body meeting! A meeting filled with laughter and yummy snacks!"
+  },
+  {
+    "title": "Polishing and Proofreading Tips for Final Drafts",
+    "date": "2026-04-06T18:00:00+00:00",
+    "organization": "Center for Writing Excellence",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12236378",
+    "description": "A well-edited final draft makes all the difference so your hard work can shine. Learn how to polish, proofread, and edit your own work for excellent final papers and projects."
   },
   {
     "title": "Study Abroad 101",
