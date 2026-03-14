@@ -1152,20 +1152,20 @@
     "description": "Join the Psychology Club for a special in-person talk with a mental health professional specializing in adolescent psychology, youth and family mental health, counseling, and social work. Our guest will share their professional journey, discuss real-world work in mental health settings, and offer insights into careers supporting young people and families. The session will include a Q&A where students can ask questions about graduate school, career paths, and working in mental health fields."
   },
   {
-    "title": "MSU Political Science Club General Body Meeting",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Political Science Club",
-    "location": "Dickson Hall 272 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12160996",
-    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
-  },
-  {
     "title": "Haitian Student Association General Body Meeting ",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "Haitian Student Association",
     "location": "University Hall 2026 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12165443",
     "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
+  },
+  {
+    "title": "MSU Political Science Club General Body Meeting",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Political Science Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12160996",
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
     "title": "TLC Philanthropy Event",
@@ -3792,20 +3792,20 @@
     "description": "This event is dedicated to merengue and showing off our dance moves. There will be good music, all the classics and the new. We will be having snacks and the dominos table set up as well. This event is open to all MSU students!"
   },
   {
-    "title": "Mini Flower Pot Painting",
-    "date": "2026-03-27T23:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Russ Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12250628",
-    "description": "Drop in, paint a mini flower pot, and leave with something cute for your space. All supplies provided!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Blind Box Bingo",
     "date": "2026-03-27T23:00:00+00:00",
     "organization": "Campus Activities",
     "location": "Student Center Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/11970716",
     "description": "Bingo just got way more exciting! Play for a chance to win Blind boxes as prizes in every round. Come for the game, stay for the laughs\u2014maybe you'll get a secret!"
+  },
+  {
+    "title": "Mini Flower Pot Painting",
+    "date": "2026-03-27T23:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Russ Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12250628",
+    "description": "Drop in, paint a mini flower pot, and leave with something cute for your space. All supplies provided!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Movie Night ",
