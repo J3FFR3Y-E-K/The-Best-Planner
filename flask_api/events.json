@@ -3768,20 +3768,20 @@
     "description": "This event is dedicated to merengue and showing off our dance moves. There will be good music, all the classics and the new. We will be having snacks and the dominos table set up as well. This event is open to all MSU students!"
   },
   {
-    "title": "Blind Box Bingo",
-    "date": "2026-03-27T23:00:00+00:00",
-    "organization": "Campus Activities",
-    "location": "Student Center Ballrooms",
-    "link": "https://montclair.campuslabs.com/engage/event/11970716",
-    "description": "Bingo just got way more exciting! Play for a chance to win Blind boxes as prizes in every round. Come for the game, stay for the laughs\u2014maybe you'll get a secret!"
-  },
-  {
     "title": "Mini Flower Pot Painting",
     "date": "2026-03-27T23:00:00+00:00",
     "organization": "Residence Life",
     "location": "Russ Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12250628",
     "description": "Drop in, paint a mini flower pot, and leave with something cute for your space. All supplies provided!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Blind Box Bingo",
+    "date": "2026-03-27T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/11970716",
+    "description": "Bingo just got way more exciting! Play for a chance to win Blind boxes as prizes in every round. Come for the game, stay for the laughs\u2014maybe you'll get a secret!"
   },
   {
     "title": "Movie Night ",
