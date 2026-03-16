@@ -280,6 +280,14 @@
     "description": "Join the Student Government Association for a constitutional meeting where we discuss campus business including, but not limited to, programming events, community service initiatives, improvements of student life, leadership, and engagement. Welcome to all students, faulty, and staff. Your voice matters here on our campus. Great things happen in small rooms. Meet us in the  Room of Excellence  at  Talbott Hall ,  every other Monday  at  2pm ."
   },
   {
+    "title": "Residence Hall Association Interest Meeting",
+    "date": "2026-03-16T18:00:00+00:00",
+    "organization": "Residence Hall Association (RHA)",
+    "location": "Bohn Hall Main Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12336416",
+    "description": "Interested in Getting more involved on campus?\u00a0 \n Join our interest meeting to learn how you can help shape your residence hall community, build leadership skills, plan programs, and create positive change across campus."
+  },
+  {
     "title": "Montclair Unraveled General Body Meeting!",
     "date": "2026-03-16T19:00:00+00:00",
     "organization": "Montclair Unraveled",
@@ -1096,20 +1104,20 @@
     "description": "This session is meant for\u00a0 Montclair FBLA SLC competitors.\u00a0 Join us for the final Competitive Prep event before the State Leadership Conference. We will meet in the Graduate Lounge (SBUS 255) and disperse into groups according to the provided schedule. You will be under a full simulation for event judging, must comply with the FBLA Dress Code, and be aware of your allowed times. Please have your complete project/presentation ready."
   },
   {
-    "title": "Haitian Student Association General Body Meeting ",
-    "date": "2026-03-18T18:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12165443",
-    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
-  },
-  {
     "title": "MSU Political Science Club General Body Meeting",
     "date": "2026-03-18T18:00:00+00:00",
     "organization": "Political Science Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12160996",
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-03-18T18:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12165443",
+    "description": "Sak Pase! Welcome back to another great semester with your favorite Zoes on campus! Come chill with us every week as we go beyond the culture and tackle college life, personal life and serious topics in the world of a college student today. Although we are a culturally Haitian-based Organization, all are loved and all are welcomed! find us in room 2026 Wednesday, 2:00-3:30!"
   },
   {
     "title": "TLC Philanthropy Event",
@@ -2360,20 +2368,20 @@
     "description": "Montclair State University's Premier Black LGBTQ+ Alliance"
   },
   {
-    "title": "MSU Republicans General Meeting",
-    "date": "2026-03-23T18:00:00+00:00",
-    "organization": "Montclair State Republican Party",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12242986",
-    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
-  },
-  {
     "title": "Guess the Anime OP ",
     "date": "2026-03-23T18:00:00+00:00",
     "organization": "Japan Club",
     "location": "University Hall 2011 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12244256",
     "description": "Confident in your music guessing skills, or in your knowledge of anime? Come test them in our Guess that Anime Opening event! Play with and against your friends for prizes!"
+  },
+  {
+    "title": "MSU Republicans General Meeting",
+    "date": "2026-03-23T18:00:00+00:00",
+    "organization": "Montclair State Republican Party",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12242986",
+    "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
     "title": "\ud83c\udf38 Sonny Angel Club Bi-Weekly Hangout! \ud83c\udf38",
@@ -2406,6 +2414,14 @@
     "location": "Student Center",
     "link": "https://montclair.campuslabs.com/engage/event/12333630",
     "description": "Find our team walking outside near the Student Center to interact with students! Answer some quick questions about sleep to win a prize, including our sleep kits - exclusive to this week only!"
+  },
+  {
+    "title": "Residence Hall Association Interest Meeting",
+    "date": "2026-03-23T18:00:00+00:00",
+    "organization": "Residence Hall Association (RHA)",
+    "location": "Bohn Hall Main Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12336417",
+    "description": "Interested in Getting more involved on campus?\u00a0 \n Join our interest meeting to learn how you can help shape your residence hall community, build leadership skills, plan programs, and create positive change across campus."
   },
   {
     "title": "Pie your ALPFAmilia",
@@ -2702,6 +2718,14 @@
     "location": "Talbott Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12205786",
     "description": "A weekly event where you get a chance to try different things. From DJing, to D.I.Y. projects and BINGO with a twist. This is a day you don't want to miss, 1st person to come gets a prize every time."
+  },
+  {
+    "title": "Residence Hall Association Interest Meeting",
+    "date": "2026-03-24T18:00:00+00:00",
+    "organization": "Residence Hall Association (RHA)",
+    "location": "Dinallo Heights 1st Floor Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12336418",
+    "description": "Interested in Getting more involved on campus?\u00a0 \n Join our interest meeting to learn how you can help shape your residence hall community, build leadership skills, plan programs, and create positive change across campus."
   },
   {
     "title": "upLIFT",
@@ -5544,20 +5568,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
   },
   {
-    "title": "Polishing and Proofreading Tips for Final Drafts",
-    "date": "2026-04-06T18:00:00+00:00",
-    "organization": "Center for Writing Excellence",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12236378",
-    "description": "A well-edited final draft makes all the difference so your hard work can shine. Learn how to polish, proofread, and edit your own work for excellent final papers and projects."
-  },
-  {
     "title": "General Body Meeting",
     "date": "2026-04-06T18:00:00+00:00",
     "organization": "Bangladesh Student Association ",
     "location": "School Of Business 421 - Flexible Standard Tech Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12251782",
     "description": "Join us for our first spring general body meeting! A meeting filled with laughter and yummy snacks!"
+  },
+  {
+    "title": "Polishing and Proofreading Tips for Final Drafts",
+    "date": "2026-04-06T18:00:00+00:00",
+    "organization": "Center for Writing Excellence",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12236378",
+    "description": "A well-edited final draft makes all the difference so your hard work can shine. Learn how to polish, proofread, and edit your own work for excellent final papers and projects."
   },
   {
     "title": "Study Abroad 101",
@@ -8672,20 +8696,20 @@
     "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
-    "title": "Caribbean Students' Organization: General body Meetings ",
-    "date": "2026-04-22T18:00:00+00:00",
-    "organization": "Caribbean Students' Organization",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12161079",
-    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
-  },
-  {
     "title": "HOSA General Body Meeting",
     "date": "2026-04-22T18:00:00+00:00",
     "organization": "Health Occupations Students of America - Future Health Professionals ",
     "location": "University Hall 2009 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12171209",
     "description": "HOSA GBM!"
+  },
+  {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161079",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
   },
   {
     "title": "UAASO General Body Meeting (GBM)",
