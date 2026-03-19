@@ -4624,20 +4624,20 @@
     "description": "Celebrate Polish tradition with a twist at our \u015amigus-Dyngus Fundraiser! Inspired by the Polish holiday where friends splash water on one another to welcome spring and bring good luck, the Polish Club is giving you the chance to dump water on one of our executive board members! \n For a donation, you\u2019ll get the opportunity to take part in this playful tradition and soak an exec, all for a great cause. Every splash helps us raise money for future cultural events, community service initiatives, and exciting Polish Club programming. \n Come support, bring your friends, and get ready to make a splash while celebrating Polish culture in the most fun way possible!"
   },
   {
-    "title": "General Body Meeting",
-    "date": "2026-04-06T18:00:00+00:00",
-    "organization": "Bangladesh Student Association ",
-    "location": "School Of Business 421 - Flexible Standard Tech Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12251782",
-    "description": "Join us for our first spring general body meeting! A meeting filled with laughter and yummy snacks!"
-  },
-  {
     "title": "Polishing and Proofreading Tips for Final Drafts",
     "date": "2026-04-06T18:00:00+00:00",
     "organization": "Center for Writing Excellence",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12236378",
     "description": "A well-edited final draft makes all the difference so your hard work can shine. Learn how to polish, proofread, and edit your own work for excellent final papers and projects."
+  },
+  {
+    "title": "General Body Meeting",
+    "date": "2026-04-06T18:00:00+00:00",
+    "organization": "Bangladesh Student Association ",
+    "location": "School Of Business 421 - Flexible Standard Tech Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12251782",
+    "description": "Join us for our first spring general body meeting! A meeting filled with laughter and yummy snacks!"
   },
   {
     "title": "Study Abroad 101",
@@ -5301,7 +5301,7 @@
     "organization": "Political Science Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12160999",
-    "description": ""
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
     "title": "General Miembro Meeting ",
@@ -7872,20 +7872,20 @@
     "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
-    "title": "HOSA General Body Meeting",
-    "date": "2026-04-22T18:00:00+00:00",
-    "organization": "Health Occupations Students of America - Future Health Professionals ",
-    "location": "University Hall 2009 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12171209",
-    "description": "HOSA GBM!"
-  },
-  {
     "title": "Caribbean Students' Organization: General body Meetings ",
     "date": "2026-04-22T18:00:00+00:00",
     "organization": "Caribbean Students' Organization",
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12161079",
     "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
+    "title": "HOSA General Body Meeting",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "Health Occupations Students of America - Future Health Professionals ",
+    "location": "University Hall 2009 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12171209",
+    "description": "HOSA GBM!"
   },
   {
     "title": "UAASO General Body Meeting (GBM)",
