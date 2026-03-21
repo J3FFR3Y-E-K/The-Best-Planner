@@ -80,14 +80,6 @@
     "description": "Join us for a night written in the stars! \n Tadhana , the Filipino word for destiny and fate, is the unseen force that guides our stories, even when we don\u2019t realize it. MUFASA invites you to step into that magic at our annual cultural ball inspired by precolonial Filipino mythology. \n Come dressed as a deity, monster, or myth that speaks to you. This is a night for self-expression, creativity, and honoring our heritage while choosing how we show up in the present. \n While we celebrate Filipino culture at the heart of  Tadhana ,  all cultures, identities, and backgrounds are wholeheartedly welcome . Whether you\u2019re channeling an ancestor, a legend, or your own destiny, there is space for you at  Tadhana ."
   },
   {
-    "title": "Dance Show, Shows",
-    "date": "2026-03-21T15:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12023481",
-    "description": "Players: A Programming Board of the SGA is holding the performances for the Dance show."
-  },
-  {
     "title": "Spring Flowerpot Painting",
     "date": "2026-03-22T00:00:00+00:00",
     "organization": "Residence Life",
@@ -102,6 +94,14 @@
     "location": "Dinallo Heights",
     "link": "https://montclair.campuslabs.com/engage/event/12250669",
     "description": "Join us on March 21st to test your Disney knowledge with Disney trivia night, held in the Dinallo MPR from 8:00 - 10:00pm. Winner gets a prize. All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Dance Show, Shows",
+    "date": "2026-03-21T15:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12023481",
+    "description": "Players: A Programming Board of the SGA is holding the performances for the Dance show."
   },
   {
     "title": "Hometown Arcade Trip",
@@ -3917,7 +3917,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center PLAE Room",
     "link": "https://montclair.campuslabs.com/engage/event/12179200",
-    "description": ""
+    "description": "Step into the brand-new PLAE Room and discover upLIFT\u2014a judgement-free program designed to help every student, from complete beginners to seasoned gym-goers, feel confident and capable with free-weight training. Learn proper lifting technique, get personalized form checks, and master the basics of creating your own effective workout programs. Whether you\u2019re looking to meet other students who love to lift, pursue new fitness goals, or simply feel more at home in the weight room, upLIFT offers a supportive community and a dedicated space to grow. The program is structured for steady progression throughout the semester, but you\u2019re welcome to drop in anytime and join at your own pace. \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Beginning February 3, ending April 23 \n Tuesdays 3 PM - 4 PM, Wednesdays 6 PM - 7 PM, and Thursdays 2 PM - 3 PM \n Student Recreation Center PLAE Room"
   },
   {
     "title": "Group X - Yoga",
