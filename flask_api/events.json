@@ -1,45 +1,5 @@
 [
   {
-    "title": "Baseball vs. Westfield",
-    "date": "2026-03-21T16:00:00+00:00",
-    "organization": "Athletics",
-    "location": "Yogi Berra Stadium",
-    "link": "https://montclair.campuslabs.com/engage/event/12324809",
-    "description": "Tickets & Parking Info \n School Spirit Survey"
-  },
-  {
-    "title": "Dracula Rehearsal",
-    "date": "2026-03-21T15:45:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/12109206",
-    "description": "Closed rehearsal for  Dracula ."
-  },
-  {
-    "title": "Into the Woods Rehearsal",
-    "date": "2026-03-21T15:45:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/12109161",
-    "description": "Closed rehearsal for  Into the Woods ."
-  },
-  {
-    "title": "MILF Round 4 Rehearsals",
-    "date": "2026-03-21T17:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12160927",
-    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
-  },
-  {
-    "title": "Balsam Lake Mountain Hike",
-    "date": "2026-03-21T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12265374",
-    "description": "Take in classic Catskill views on this scenic hike to  Balsam Lake Mountain  via the  Dry Brook Ridge Trail  in the Balsam Lake Mountain Wild Forest. This moderately rated  6-mile out-and-back hike  features a steady climb with  1,197 feet of elevation gain , winding through hardwood forests before reaching the summit. At the top, hikers are rewarded with sweeping mountain views and a historic fire tower that offers a perfect spot to rest, refuel, and soak it all in. This trail is ideal for hikers looking for a solid challenge with a big payoff. \n How do I sign up? \n \n Register in the Student Recreation Center main office or over the phone (973-655-3340). \n Cost for Students $10 / Faculty, Staff $20 \n \n Where and when? \n \n Saturday, March 21, 2026 \n 10:00 a.m. \u2013 5:00 p.m. \n Begins at the Student Recreation Center \n \n What to bring: Water, lunch/snacks, sunscreen, bug spray, layered clothing (depending on weather), sturdy close-toe hiking shoes or boots \n Potential Hazards: Uneven and rocky terrain; steep sections; slippery surfaces (especially if wet); sudden weather changes; sun exposure; dehydration; insect bites; poisonous plants/allergies; wildlife encounters; and injuries including sprains/strains, abrasions, lacerations, and fractures."
-  },
-  {
     "title": "Softball vs. Hunter (DH)",
     "date": "2026-03-21T17:00:00+00:00",
     "organization": "Athletics",
@@ -56,20 +16,20 @@
     "description": "The New Jersey Future Business Leaders of America (FBLA) is hosting its annual State Leadership Conference on  March 21, 2026 . All FBLA Members with the Montclair FBLA student organization will be competing with other NJ and NY FBLA Collegiate chapters at Kean University.\u00a0 ONLY STUDENTS REGISTERED WITH THE MONTCLAIR FBLA RSO CAN ATTEND. Students who qualify within their own competitive category can progress to the National stage at the National Leadership Conference. The SLC will feature competitive events, officer elections, opening and closing sessions, and workshops. All registrants must be dues-paid members. All competitors must register and pay the registration fee. A full schedule, competitive event procedures, required permission slips, and all other applicable information will be shared in advance of the event. Late registrations will not be accepted. In no circumstance will SLC be canceled."
   },
   {
-    "title": "The Red Hawk Community Ball 2026",
-    "date": "2026-03-21T20:30:00+00:00",
-    "organization": "Daughta Speaks",
-    "location": "Student Center 250ABC - Ballrooms A, B, and C",
-    "link": "https://montclair.campuslabs.com/engage/event/12109261",
-    "description": "Join Daughta Speaks for our annual Red Hawk Community Ball!"
-  },
-  {
     "title": "Tadhana: MUFASA\u2019s 2026 Semiformal",
     "date": "2026-03-21T22:00:00+00:00",
     "organization": "Montclair Unified Filipino American Student Association",
     "location": "University Hall 7500 - Conference Center",
     "link": "https://montclair.campuslabs.com/engage/event/12309796",
     "description": "Join us for a night written in the stars! \n Tadhana , the Filipino word for destiny and fate, is the unseen force that guides our stories, even when we don\u2019t realize it. MUFASA invites you to step into that magic at our annual cultural ball inspired by precolonial Filipino mythology. \n Come dressed as a deity, monster, or myth that speaks to you. This is a night for self-expression, creativity, and honoring our heritage while choosing how we show up in the present. \n While we celebrate Filipino culture at the heart of  Tadhana ,  all cultures, identities, and backgrounds are wholeheartedly welcome . Whether you\u2019re channeling an ancestor, a legend, or your own destiny, there is space for you at  Tadhana ."
+  },
+  {
+    "title": "The Red Hawk Community Ball 2026",
+    "date": "2026-03-21T20:30:00+00:00",
+    "organization": "Daughta Speaks",
+    "location": "Student Center 250ABC - Ballrooms A, B, and C",
+    "link": "https://montclair.campuslabs.com/engage/event/12109261",
+    "description": "Join Daughta Speaks for our annual Red Hawk Community Ball!"
   },
   {
     "title": "Spring Flowerpot Painting",
