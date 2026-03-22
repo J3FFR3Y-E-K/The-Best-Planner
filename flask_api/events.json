@@ -1,29 +1,5 @@
 [
   {
-    "title": "Unidos Por Servicio: Day of Service",
-    "date": "2026-03-22T12:30:00+00:00",
-    "organization": "Mexican-American Student Association",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12339703",
-    "description": "Join\u00a0 MASA \u00a0and the\u00a0 Bonner Leadership Program \u00a0for\u00a0 Unidos Por Servicio: Day of Service , a collaborative event dedicated to giving back to our community. Together, we will engage in meaningful service initiatives that promote unity, leadership, and positive impact. Come connect, serve, and make a difference as we stand united through service."
-  },
-  {
-    "title": "MILF Round 4 Rehearsals",
-    "date": "2026-03-22T17:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12160928",
-    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
-  },
-  {
-    "title": "Baseball vs. Westfield",
-    "date": "2026-03-22T19:00:00+00:00",
-    "organization": "Athletics",
-    "location": "Yogi Berra Stadium",
-    "link": "https://montclair.campuslabs.com/engage/event/12324815",
-    "description": "Tickets & Parking Info \n School Spirit Survey"
-  },
-  {
     "title": "Theta Phi Alpha- March Sisterhood Event",
     "date": "2026-03-22T20:00:00+00:00",
     "organization": "Theta Phi Alpha",
@@ -64,14 +40,6 @@
     "description": "Come out to the 2nd open gym of the semester and join your fellow Bears for a game of basketball and other fun challenges! There will be a side for competitive 3 on 3s and another for those just looking to come out, jog, play games and play basketball for fun. We're excited to see you all there! Free waters, Gatorades and energy bars will be provided.\u00a0 \n *7:00pm -9:30pm at the Bloomfield Gymnasium"
   },
   {
-    "title": "Night of Love : Lanmou Danj\u00e9",
-    "date": "2026-03-22T21:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 7500- Conference Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12292276",
-    "description": "Join us for Night of Love:  Lanmou Danje  \u2014 a celebration of love, culture, and connection. Experience the passion behind \u201cdangerous love\u201d through music, energy, and meaningful moments. Taking place on the 7th floor of the university, this evening will feature live music, compelling performances, delicious cuisine, a night to never forget. Open to all students and their guests, this is your chance to experience the beauty, rhythm, and sensuality of Haiti\u2019s heritage. Don\u2019t miss it!"
-  },
-  {
     "title": "Hall Hits",
     "date": "2026-03-23T00:00:00+00:00",
     "organization": "Residence Life",
@@ -88,12 +56,12 @@
     "description": "Come relax in the Bohn lounge at 8:00 P.M. on March 22nd and create some butterfly suncatchers! As daylight savings comes to an end, these colorful butterfly suncatchers will illuminate your dorm!  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Theta Phi Alpha- March Chapter Meetings",
+    "title": "Night of Love : Lanmou Danj\u00e9",
     "date": "2026-03-22T21:00:00+00:00",
-    "organization": "Theta Phi Alpha",
-    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12165806",
-    "description": "Weekly Chapter Meetings for the active sisters of Theta Phi Alpha"
+    "organization": "Haitian Student Association",
+    "location": "University Hall 7500- Conference Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12292276",
+    "description": "Join us for Night of Love:  Lanmou Danje  \u2014 a celebration of love, culture, and connection. Experience the passion behind \u201cdangerous love\u201d through music, energy, and meaningful moments. Taking place on the 7th floor of the university, this evening will feature live music, compelling performances, delicious cuisine, a night to never forget. Open to all students and their guests, this is your chance to experience the beauty, rhythm, and sensuality of Haiti\u2019s heritage. Don\u2019t miss it!"
   },
   {
     "title": "Phi Delta Theta Chapter Meeting",
@@ -102,6 +70,14 @@
     "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12230617",
     "description": "Weekly chapter meeting"
+  },
+  {
+    "title": "Theta Phi Alpha- March Chapter Meetings",
+    "date": "2026-03-22T21:00:00+00:00",
+    "organization": "Theta Phi Alpha",
+    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12165806",
+    "description": "Weekly Chapter Meetings for the active sisters of Theta Phi Alpha"
   },
   {
     "title": "Group X - HIIT",
@@ -222,14 +198,6 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12236333",
     "description": "If you are in the process of learning English or if English is not your native tongue, there are common writing errors that you will find in your writing. This workshop reviews the grammar rules for some of the most common errors made by multilingual writers. Join us to review strategies for catching preposition usage mistakes and more."
-  },
-  {
-    "title": "General Body Meeting ",
-    "date": "2026-03-23T18:00:00+00:00",
-    "organization": "The Public Health Association at Montclair State University",
-    "location": "University Hall 2032 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12234315",
-    "description": "Want to learn more about the world around you? The Public Health Association is the perfect place to start! We invite you to join us to meet and have an educational discussion about how health applies to more everyday events than we may think. Hope to see you there."
   },
   {
     "title": "French Conversation Hour With Assane K! Every Monday",
@@ -616,20 +584,20 @@
     "description": "Come to the Machuga MPR on March 23rd to make your own mini macrames! These mini macrames will be the perfect decoration for bookbags, purses, keychains, and more! We will be weaving our macrames from 8:00 P.M. to 10:00 P.M.  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "DIY Coasters",
-    "date": "2026-03-24T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12250659",
-    "description": "Want to make your own drink coasters? Come to Blanton Hall on March 23rd at 8PM! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Founders Week: Educate, Elevate & Empower Networking Event",
     "date": "2026-03-24T00:00:00+00:00",
     "organization": "Chi Upsilon Sigma National Latin Sorority, INC",
     "location": "Student Center 251 - Dining Room",
     "link": "https://montclair.campuslabs.com/engage/event/12339619",
     "description": "Are you networked enough? Join the Sisters of Chi Upsilon Sigma as we share and meet various professionals who are in different careers and leave with guidance and wisdom towards your next steps in life! \n * Free head shots are being provided as well!"
+  },
+  {
+    "title": "DIY Coasters",
+    "date": "2026-03-24T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12250659",
+    "description": "Want to make your own drink coasters? Come to Blanton Hall on March 23rd at 8PM! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Yo Amo Mi Pajon ",
