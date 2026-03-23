@@ -1,53 +1,5 @@
 [
   {
-    "title": "BEARS OPEN GYM II",
-    "date": "2026-03-22T23:00:00+00:00",
-    "organization": "Bloomfield's Office of Residence Life",
-    "location": "Bloomfield Gymnasium ",
-    "link": "https://montclair.campuslabs.com/engage/event/12350979",
-    "description": "Come out to the 2nd open gym of the semester and join your fellow Bears for a game of basketball and other fun challenges! There will be a side for competitive 3 on 3s and another for those just looking to come out, jog, play games and play basketball for fun. We're excited to see you all there! Free waters, Gatorades and energy bars will be provided.\u00a0 \n *7:00pm -9:30pm at the Bloomfield Gymnasium"
-  },
-  {
-    "title": "Hall Hits",
-    "date": "2026-03-23T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Freeman Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12250664",
-    "description": "Got a song you love? Add it to our hall\u2019s playlist jar! Write down your favorite tracks, drop them in the jar, and help build a playlist for residents to listen to!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "DIY Suncatcher Butterflies",
-    "date": "2026-03-23T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Bohn Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12250667",
-    "description": "Come relax in the Bohn lounge at 8:00 P.M. on March 22nd and create some butterfly suncatchers! As daylight savings comes to an end, these colorful butterfly suncatchers will illuminate your dorm!  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Night of Love : Lanmou Danj\u00e9",
-    "date": "2026-03-22T21:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 7500- Conference Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12292276",
-    "description": "Join us for Night of Love:  Lanmou Danje  \u2014 a celebration of love, culture, and connection. Experience the passion behind \u201cdangerous love\u201d through music, energy, and meaningful moments. Taking place on the 7th floor of the university, this evening will feature live music, compelling performances, delicious cuisine, a night to never forget. Open to all students and their guests, this is your chance to experience the beauty, rhythm, and sensuality of Haiti\u2019s heritage. Don\u2019t miss it!"
-  },
-  {
-    "title": "Theta Phi Alpha- March Chapter Meetings",
-    "date": "2026-03-22T21:00:00+00:00",
-    "organization": "Theta Phi Alpha",
-    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12165806",
-    "description": "Weekly Chapter Meetings for the active sisters of Theta Phi Alpha"
-  },
-  {
-    "title": "Phi Delta Theta Chapter Meeting",
-    "date": "2026-03-22T22:30:00+00:00",
-    "organization": "Phi Delta Theta",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12230617",
-    "description": "Weekly chapter meeting"
-  },
-  {
     "title": "Group X - HIIT",
     "date": "2026-03-23T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -494,6 +446,14 @@
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12247430",
     "description": "DDC rehearsal"
+  },
+  {
+    "title": "Destressing for Spring",
+    "date": "2026-03-23T23:00:00+00:00",
+    "organization": "The Village",
+    "location": "The Village, Count Basie Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12355844",
+    "description": "Join Peer Mentor Gesselle in taking a moment to destress as the spring season kicks off! Whether you want a calm space to complete assignments or do some coloring, the space is open to all. \n When : Monday, March 23 from 7pm-8pm \n Where : The Village, Count Basie 1st Floor Lounge \n All students are welcome; commuters need to be signed in a with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Choir Practice ",
@@ -1000,14 +960,6 @@
     "description": "Join us to learn more about women\u2019s health and advocacy through an interactive bingo experience. Explore how politics, policy, and systemic barriers impact women\u2019s access to healthcare, workplace conditions, safety, and mental well-being\u2014while playing bingo and engaging in meaningful discussion."
   },
   {
-    "title": "MILF Round 4 Rehearsals",
-    "date": "2026-03-25T00:30:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12160930",
-    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
-  },
-  {
     "title": "Group X - HIIT",
     "date": "2026-03-25T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1488,14 +1440,6 @@
     "description": "The Alpha Zeta Chapter of Sigma Lambda Beta will be holding an informational event to teach interested individuals about our fraternity and what we stand for."
   },
   {
-    "title": "MILF Round 4 Rehearsals",
-    "date": "2026-03-26T00:30:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12160931",
-    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
-  },
-  {
     "title": "Tri Sigma New Member Education",
     "date": "2026-03-26T00:30:00+00:00",
     "organization": "Sigma Sigma Sigma",
@@ -1872,14 +1816,6 @@
     "description": "A New Member Education (NME) meeting is a structured gathering designed to help new members learn about Tri Sigma\u2019s history, values, traditions, and expectations. During these meetings, new members build connections with one another, develop leadership and personal growth skills, and gain a deeper understanding of what it means to be a lifelong member of the organization. NME meetings create a supportive environment where new members can ask questions, reflect on their experiences, and prepare for initiation while strengthening their sense of belonging within the chapter."
   },
   {
-    "title": "MILF Round 4 Rehearsals",
-    "date": "2026-03-27T00:30:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12160932",
-    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
-  },
-  {
     "title": "Purses With Purpose ",
     "date": "2026-03-27T00:30:00+00:00",
     "organization": "Lambda Tau Omega Sorority, Inc.",
@@ -2184,14 +2120,6 @@
     "description": "Closed rehearsal for  Into the Woods ."
   },
   {
-    "title": "MILF Round 4 Rehearsals",
-    "date": "2026-03-28T17:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12160933",
-    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
-  },
-  {
     "title": "An Ode to Her ",
     "date": "2026-03-28T14:00:00+00:00",
     "organization": "Alpha Kappa Alpha Sorority, Inc. ",
@@ -2262,14 +2190,6 @@
     "location": "Finley Gallery, Finley Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12352692",
     "description": "The Department of Art & Design invites you to  From the Basement , the BFA Visual Communications Design 2026 Graduate Exhibition. Join us at the Finley Gallery from March 25 to April 7 to experience a dynamic showcase of work by graduating VCDS students, featuring posters, motion graphics, packaging, editorial, and more. With the opening reception on Friday, March 27, 4 to 6pm. \n \u00a0 \n Venture into the world of graphic design at the VCDS 2026 graduate exhibition,  From the Basement.  This exhibition highlights the work of graduating Visual Communication Design students and the projects they developed throughout their time in the VCDS BFA program. A range of mediums will be featured, including posters, motion graphics, packaging, editorial, and more! Together, these works reflect the unique styles and creative voices of the class. \n \u00a0 \n Featured Designers: \n Jalen Aguirre, Ysabella De Leon, Brett Diese, Domenic Falivene, Anna Fronczkowski, Tori Gallagher, Camila Garcia, Robert Gaskill, Britany Giraldo, David Guerra, Audrey Hitchens, Natalia Kurpiewski, Paolo La Rosa, Izzy Latella, Katie Mascuch, Caitlin Mendoza, Evan Okun, Erika Oliva, Julia Oliveri, Christian Pajaro, Nicole Ricci, Christopher Rizzi, Casey Ryu, Tom Sheridan, Michael Shimabukuro, Gabby Trezza, Maral Tutunjian, and Dogan Uludogan \n \u00a0 \n BFA Visual Communications Design Graduate Exhibition \n Exhibition dates: March 25\u2013April 7, 2026 \n Opening Reception: Friday, March 27, 4\u20136pm \n Finley Gallery, Finley Hall \n \u00a0 \n Come meet the designers and celebrate their work! Support the next generation of designers as they transition from academia into the professional world."
-  },
-  {
-    "title": "MILF Round 4 Rehearsals",
-    "date": "2026-03-29T17:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12160934",
-    "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
   },
   {
     "title": "Turkey Mountain Hike (Easy)",
@@ -4669,7 +4589,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12180441",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays, 01/20 - 04/24 \n 7:00 pm - 7:45 pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Alexa G"
   },
   {
     "title": "Passover",
