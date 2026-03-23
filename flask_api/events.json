@@ -1,37 +1,5 @@
 [
   {
-    "title": "Theta Phi Alpha- March Sisterhood Event",
-    "date": "2026-03-22T20:00:00+00:00",
-    "organization": "Theta Phi Alpha",
-    "location": "Student Center 251 - Dining Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12109444",
-    "description": "This is a closed sisterhood event"
-  },
-  {
-    "title": "Dance Show, Shows",
-    "date": "2026-03-22T15:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12023482",
-    "description": "Players: A Programming Board of the SGA is holding the performances for the Dance show."
-  },
-  {
-    "title": "Weekly Chapter Meeting",
-    "date": "2026-03-22T22:00:00+00:00",
-    "organization": "Phi Sigma Sigma",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12130399",
-    "description": "A weekly meeting where members of Phi Sigma Sigma come together."
-  },
-  {
-    "title": "complexions practice",
-    "date": "2026-03-22T22:30:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/12107748",
-    "description": "In preparation for the various galas during the spring semester, Complexionettes will be getting together to learn and perfect choreography."
-  },
-  {
     "title": "BEARS OPEN GYM II",
     "date": "2026-03-22T23:00:00+00:00",
     "organization": "Bloomfield's Office of Residence Life",
@@ -64,20 +32,20 @@
     "description": "Join us for Night of Love:  Lanmou Danje  \u2014 a celebration of love, culture, and connection. Experience the passion behind \u201cdangerous love\u201d through music, energy, and meaningful moments. Taking place on the 7th floor of the university, this evening will feature live music, compelling performances, delicious cuisine, a night to never forget. Open to all students and their guests, this is your chance to experience the beauty, rhythm, and sensuality of Haiti\u2019s heritage. Don\u2019t miss it!"
   },
   {
-    "title": "Phi Delta Theta Chapter Meeting",
-    "date": "2026-03-22T22:30:00+00:00",
-    "organization": "Phi Delta Theta",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12230617",
-    "description": "Weekly chapter meeting"
-  },
-  {
     "title": "Theta Phi Alpha- March Chapter Meetings",
     "date": "2026-03-22T21:00:00+00:00",
     "organization": "Theta Phi Alpha",
     "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12165806",
     "description": "Weekly Chapter Meetings for the active sisters of Theta Phi Alpha"
+  },
+  {
+    "title": "Phi Delta Theta Chapter Meeting",
+    "date": "2026-03-22T22:30:00+00:00",
+    "organization": "Phi Delta Theta",
+    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12230617",
+    "description": "Weekly chapter meeting"
   },
   {
     "title": "Group X - HIIT",
@@ -4701,7 +4669,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12180441",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays, 01/20 - 04/24 \n 7:00 pm - 7:45 pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Alexa G"
+    "description": ""
   },
   {
     "title": "Passover",
