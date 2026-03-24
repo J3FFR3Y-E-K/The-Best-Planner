@@ -1,109 +1,5 @@
 [
   {
-    "title": "Choir Practice ",
-    "date": "2026-03-24T00:00:00+00:00",
-    "organization": "Voices of Unity",
-    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12106464",
-    "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
-  },
-  {
-    "title": "Sigma Pi Chapter Meeting",
-    "date": "2026-03-24T00:30:00+00:00",
-    "organization": "Sigma Pi",
-    "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12349355",
-    "description": "weekly meeting for bros of sigma pi"
-  },
-  {
-    "title": "Manhood Mondays ",
-    "date": "2026-03-23T23:00:00+00:00",
-    "organization": "Bloomfield Omega Psi Phi Fraternity, Inc.",
-    "location": "Bloomfield - Talbott Hall TM04 - Room of Excellence",
-    "link": "https://montclair.campuslabs.com/engage/event/12295953",
-    "description": "Join us for Manhood Monday as we focus on professional growth and career readiness. This session will cover personal branding, workplace etiquette, networking strategies, goal setting, and career preparation. We will also have an open  Talking Circle , creating a safe space for participants to share experiences, discuss challenges, offer support, and learn from one another. Come ready to engage, connect, and invest in your personal and professional development."
-  },
-  {
-    "title": "Bingo and Pizza",
-    "date": "2026-03-24T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Dinallo Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/12250661",
-    "description": "Come play bingo in the Dinallo MPR for pizza and prizes! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Into the Woods Rehearsal",
-    "date": "2026-03-23T21:45:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12117542",
-    "description": "Closed rehearsal for  Into the Woods ."
-  },
-  {
-    "title": "Dracula Tech Rehearsal",
-    "date": "2026-03-23T22:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12045155",
-    "description": "Tech Rehearsal for  Dracula ."
-  },
-  {
-    "title": "Make Your Own Mini Macrames",
-    "date": "2026-03-24T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Machuga Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/12250665",
-    "description": "Come to the Machuga MPR on March 23rd to make your own mini macrames! These mini macrames will be the perfect decoration for bookbags, purses, keychains, and more! We will be weaving our macrames from 8:00 P.M. to 10:00 P.M.  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Yo Amo Mi Pajon ",
-    "date": "2026-03-24T00:30:00+00:00",
-    "organization": "Dominican Student Organization",
-    "location": "University Hall 2032 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12299914",
-    "description": "The Dominican student organization is hosting a natural hair event featuring a panel discussion on personal hair care journeys and a presentation on general hair care tips. Snacks will be provided, and there will be exciting raffle giveaways as well. Join us for an informative and enjoyable experience!"
-  },
-  {
-    "title": "Chi Alpha Campus Ministries",
-    "date": "2026-03-24T00:30:00+00:00",
-    "organization": "Chi Alpha Campus Ministries",
-    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12155202",
-    "description": "Our weekly Chi Alpha Large Group is a time for the whole community to come together for passionate worship, relevant teaching from God\u2019s Word, and authentic fellowship. It\u2019s a space where students can encounter Jesus, be encouraged in their faith, and connect with others who are pursuing God on campus."
-  },
-  {
-    "title": "Founders Week: Educate, Elevate & Empower Networking Event",
-    "date": "2026-03-24T00:00:00+00:00",
-    "organization": "Chi Upsilon Sigma National Latin Sorority, INC",
-    "location": "Student Center 251 - Dining Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12339619",
-    "description": "Are you networked enough? Join the Sisters of Chi Upsilon Sigma as we share and meet various professionals who are in different careers and leave with guidance and wisdom towards your next steps in life! \n * Free head shots are being provided as well!"
-  },
-  {
-    "title": "DIY Coasters",
-    "date": "2026-03-24T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12250659",
-    "description": "Want to make your own drink coasters? Come to Blanton Hall on March 23rd at 8PM! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Tri Sigma New Member Education",
-    "date": "2026-03-23T23:30:00+00:00",
-    "organization": "Sigma Sigma Sigma",
-    "location": "School Of Business 011 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12251779",
-    "description": "A New Member Education (NME) meeting is a structured gathering designed to help new members learn about Tri Sigma\u2019s history, values, traditions, and expectations. During these meetings, new members build connections with one another, develop leadership and personal growth skills, and gain a deeper understanding of what it means to be a lifelong member of the organization. NME meetings create a supportive environment where new members can ask questions, reflect on their experiences, and prepare for initiation while strengthening their sense of belonging within the chapter."
-  },
-  {
-    "title": "MSDC Practice ",
-    "date": "2026-03-24T01:00:00+00:00",
-    "organization": "Montclair State Dance Company",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/12117575",
-    "description": "Rehearsal for Montclair State Dance Company."
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2026-03-24T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -2853,7 +2749,7 @@
     "organization": "Caribbean Students' Organization",
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12161076",
-    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+    "description": ""
   },
   {
     "title": "HOSA General Body Meeting",
@@ -5125,7 +5021,7 @@
     "organization": "Red Hawk Pantry",
     "location": "Blanton Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12286014",
-    "description": ""
+    "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, faculty, and Alumni at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Wednesdays: 5-7pm \n Saturdays: 11-1pm"
   },
   {
     "title": "Goodies + UNO",
@@ -5966,14 +5862,6 @@
     "location": "School Of Business 421 - Flexible Standard Tech Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12150022",
     "description": "The Polish Club General Meeting is open to all students interested in Polish culture and community engagement. During the meeting, we will review club goals, upcoming events, leadership opportunities, and ways to get involved. New and returning members are encouraged to attend and participate."
-  },
-  {
-    "title": "Bake Sale ",
-    "date": "2026-04-15T17:30:00+00:00",
-    "organization": "Bangladesh Student Association ",
-    "location": "Student Center 2C03 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12266806",
-    "description": "\u2728 Sweet treats for a sweet cause! Stop by our bake sale to grab something delicious and support a great effort. Every bite makes a difference! \ud83c\udf6a\ud83e\uddc1"
   },
   {
     "title": "General Miembro Meeting",
