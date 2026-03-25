@@ -1,61 +1,5 @@
 [
   {
-    "title": "NASO Fashion Show Practice",
-    "date": "2026-03-24T23:00:00+00:00",
-    "organization": "Native African Student Organization",
-    "location": "Student Center Underground - The Underground",
-    "link": "https://montclair.campuslabs.com/engage/event/12343869",
-    "description": "Naso fashion show practice"
-  },
-  {
-    "title": "Into the Woods Rehearsal",
-    "date": "2026-03-24T21:45:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/12117634",
-    "description": "Closed rehearsal for  Into the Woods ."
-  },
-  {
-    "title": "Founders Week: The Power in Every Square ",
-    "date": "2026-03-25T00:30:00+00:00",
-    "organization": "Chi Upsilon Sigma National Latin Sorority, INC",
-    "location": "University Hall 2040 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12244382",
-    "description": "Join us to learn more about women\u2019s health and advocacy through an interactive bingo experience. Explore how politics, policy, and systemic barriers impact women\u2019s access to healthcare, workplace conditions, safety, and mental well-being\u2014while playing bingo and engaging in meaningful discussion."
-  },
-  {
-    "title": "Grab & Go: Grow a flower",
-    "date": "2026-03-25T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Hawk Crossings",
-    "link": "https://montclair.campuslabs.com/engage/event/12250656",
-    "description": "Stop by Grab & Go: Grab a Flower to pick up a free flower and brighten your day with a small moment of positivity!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Dracula Tech Rehearsal",
-    "date": "2026-03-24T21:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12056322",
-    "description": "Tech rehearsal for\u00a0 Dracula ."
-  },
-  {
-    "title": "Lego Night ",
-    "date": "2026-03-25T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Dinallo Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/12250658",
-    "description": "Join us for LEGO Night, a fun and relaxing event where you can build, create, and hang out with other residents!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "InterVarsity Music Bible Study ",
-    "date": "2026-03-25T00:00:00+00:00",
-    "organization": "InterVarsity Christian Fellowship",
-    "location": "Susan A. Cole Hall 141 - Admissions Presentation Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12354082",
-    "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sisters in Christ."
-  },
-  {
     "title": "Group X - HIIT",
     "date": "2026-03-25T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -184,20 +128,20 @@
     "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
   },
   {
-    "title": "CSAM Science Teaching Program - Program Meeting",
-    "date": "2026-03-25T18:00:00+00:00",
-    "organization": "College of Science and Mathematics (CSAM)",
-    "location": "SCHM 329 (CSAM Innovation and Design Lab)",
-    "link": "https://montclair.campuslabs.com/engage/event/11712552",
-    "description": "Please join us for two exciting activities! First, Ms. Jenny Pollack, Education Director for the Yogi Berra Museum & Learning Center will speak about employment opportunities to be a STEM and Sports educator to K-12 students who visit the Museum & Learning Center on class trips throughout the academic year. This is a terrific opportunity for CSAM science students who want to get experience teaching science to children - and it is right here on campus! The second activity will be a social 'build your own button' activity -- leave with a custom button of your own design for your backpack! \n \u00a0 \n The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
-  },
-  {
     "title": "Chopped Culinary Contest",
     "date": "2026-03-25T18:00:00+00:00",
     "organization": "Dietetics Organization",
     "location": "Freeman Dining Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12356436",
     "description": "Join us for our second annual chopped contest at Freeman Dining Hall teaching kitchen presented by the Department of Nutrition."
+  },
+  {
+    "title": "CSAM Science Teaching Program - Program Meeting",
+    "date": "2026-03-25T18:00:00+00:00",
+    "organization": "College of Science and Mathematics (CSAM)",
+    "location": "SCHM 329 (CSAM Innovation and Design Lab)",
+    "link": "https://montclair.campuslabs.com/engage/event/11712552",
+    "description": "Please join us for two exciting activities! First, Ms. Jenny Pollack, Education Director for the Yogi Berra Museum & Learning Center will speak about employment opportunities to be a STEM and Sports educator to K-12 students who visit the Museum & Learning Center on class trips throughout the academic year. This is a terrific opportunity for CSAM science students who want to get experience teaching science to children - and it is right here on campus! The second activity will be a social 'build your own button' activity -- leave with a custom button of your own design for your backpack! \n \u00a0 \n The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
     "title": "Understanding Rights and Responsibilities\u2014 Immigration Policy",
@@ -360,20 +304,20 @@
     "description": "Stuff a Plush Movie night is BACK! Come join the Office of Student Belonging for an animal themed movie night! The first 100 students will be given a plush to stuff."
   },
   {
-    "title": "MASA General Miembro Meeting",
-    "date": "2026-03-25T19:30:00+00:00",
-    "organization": "Mexican-American Student Association",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12056998",
-    "description": "Join the Mexican-American Student Association for our weekly General Miembro Meeting where we have fun activities planned to learn about Mexican culture! Check out our instagram @montclair_masa for this week's topic!"
-  },
-  {
     "title": "SGA Elections tabling",
     "date": "2026-03-25T19:30:00+00:00",
     "organization": "Student Government Association, Inc.",
     "location": "Student Center 2C01 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12313802",
     "description": "SGA Elections Tabling"
+  },
+  {
+    "title": "MASA General Miembro Meeting",
+    "date": "2026-03-25T19:30:00+00:00",
+    "organization": "Mexican-American Student Association",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12056998",
+    "description": "Join the Mexican-American Student Association for our weekly General Miembro Meeting where we have fun activities planned to learn about Mexican culture! Check out our instagram @montclair_masa for this week's topic!"
   },
   {
     "title": "Ping Pong and Pool Tournamnet",
@@ -4174,6 +4118,14 @@
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12160999",
     "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+  },
+  {
+    "title": "You're Invited to Cherry Blossom Viewing \"Ohanami\"",
+    "date": "2026-04-08T18:00:00+00:00",
+    "organization": "College of Humanities and Social Sciences (CHSS)",
+    "location": "Alumni Green",
+    "link": "https://montclair.campuslabs.com/engage/event/12365817",
+    "description": "\"Ohanami\" event is sponsored by the Japan Club and the Japanese Language Circle. All are welcome! Date: Wednesday, April 8th, 2026 Time: 2:00-3:30pm Location: Alumni Green (in front of Cole Hall) Stop by to enjoy cherry blossoms with us, grab a delicious Japanese onigiri rice ball and Japanese candies in the Spring air."
   },
   {
     "title": "General Miembro Meeting ",
