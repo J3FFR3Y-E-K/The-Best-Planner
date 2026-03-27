@@ -1,21 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2026-03-27T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12108447",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 01/20 - 04/24 \n 10:00am - 10:45am \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
-  },
-  {
-    "title": "CALI SCHOOL OF MUSIC | Colin Carr Cello Masterclass",
-    "date": "2026-03-27T14:00:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "Leshowitz Recital Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12290610",
-    "description": "Colin Carr Cello Masterclass \n Internationally acclaimed cellist  Colin Carr,  renowned as a soloist, chamber musician, recording artist, and dedicated teacher, will visit the Cali School for a masterclass and share his insights into cello performance and musical artistry. \n Bio \n Colin Carr  appears throughout the world as a soloist, chamber musician, recording artist, and teacher. He has played with major orchestras worldwide, including the Royal Concertgebouw Orchestra, The Philharmonia, Royal Philharmonic, BBC Symphony, the orchestras of Chicago, Los Angeles, Washington, Philadelphia, Montr\u00e9al and all the major orchestras of Australia and New Zealand. Conductors with whom he has worked include Rattle, Gergiev, Dutoit, Elder, Skrowasczewski and Marriner. Chamber music plays an important role in his musical life. He is a frequent visitor to international festivals and has appeared often as a guest with the Guarneri and Emerson string quartets and with New York's Chamber Music Society of Lincoln Center. He has held teaching positions at the New England Conservatory and the Royal Academy of Music. St John\u2019s College, Oxford created the post of \u201cMusician in Residence\u201d for him. Since 2002 he been a professor at Stony Brook University in New York."
-  },
-  {
     "title": "Group X - Pilates",
     "date": "2026-03-27T15:15:00+00:00",
     "organization": "Campus Recreation",
@@ -632,6 +616,14 @@
     "description": "Join the Office of International Academic Initiatives to learn about the Study Abroad Opportunities that Montclair State University has to offer. Learn about our different programs that are as short as one week up to an academic year as well as scholarship information. Whether you want to stay as close to home as Pennsylvania or travel as far away as South Korea, Montclair State University has programs for you."
   },
   {
+    "title": "Montclair State Democrats General Body Meeting ",
+    "date": "2026-03-30T18:00:00+00:00",
+    "organization": "Montclair State University Democrats",
+    "location": "University Hall 2040 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12373738",
+    "description": "Every other Monday at 2:00 PM. Join us for an open, student-led discussion on democracy, civic engagement, and current issues shaping campus. All are welcome!"
+  },
+  {
     "title": "Splice Up Your Life: Understanding Comma Splices",
     "date": "2026-03-30T18:00:00+00:00",
     "organization": "Center for Writing Excellence",
@@ -766,6 +758,14 @@
     "location": "Student Center 2C01 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12232461",
     "description": "Come out to our SGA Elections Tabling"
+  },
+  {
+    "title": "InterVarsity Men's Bible Study ",
+    "date": "2026-03-30T20:00:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Dickson Hall 178 - Cohen Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12373764",
+    "description": "An InterVarsity small group that helps men follow Jesus with their whole lives, for the rest of their lives. We pray for revival together and get to do life together."
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
@@ -944,6 +944,14 @@
     "description": "Our weekly Chi Alpha Large Group is a time for the whole community to come together for passionate worship, relevant teaching from God\u2019s Word, and authentic fellowship. It\u2019s a space where students can encounter Jesus, be encouraged in their faith, and connect with others who are pursuing God on campus."
   },
   {
+    "title": "STEM Synergy Study Hall ",
+    "date": "2026-03-31T00:30:00+00:00",
+    "organization": "STEM Synergy",
+    "location": "University Hall 2032 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12373742",
+    "description": "Come study with the ladies of STEM Synergy!"
+  },
+  {
     "title": "MILF Round 4 Rehearsals",
     "date": "2026-03-31T00:30:00+00:00",
     "organization": "Montclair State University Players",
@@ -966,6 +974,14 @@
     "location": "University Hall 2012 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12350750",
     "description": "In celebration of Women's History Month, Complexions is having a crafty yet calming event where fellow Montclair students can come and make their own shea butter and scented body oil."
+  },
+  {
+    "title": "Meeting sorority ",
+    "date": "2026-03-31T01:00:00+00:00",
+    "organization": "Zeta Phi Beta Sorority, Incorporated",
+    "location": "University Hall 2021 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12374590",
+    "description": "Meeting"
   },
   {
     "title": "MSDC practice ",
@@ -1304,6 +1320,14 @@
     "description": "ITS GAME NIGHT! Come have fun in Dinallo Heights on March 31st at 8pm and play musical chairs. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "She Means Business",
+    "date": "2026-04-01T00:30:00+00:00",
+    "organization": "National Association for the Advancement of Colored People",
+    "location": "University Hall 1010 - James B. Todd Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12374607",
+    "description": "The purpose of this event is to givethe women on campus a space to discuss how they are navigating the workforce as young women, challenges that we are facing, how we plan to combat those challenges and the steps we have to take to get to where we want to be in our career life."
+  },
+  {
     "title": "MILF Round 4 Rehearsals",
     "date": "2026-04-01T00:30:00+00:00",
     "organization": "Montclair State University Players",
@@ -1486,6 +1510,14 @@
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12363864",
     "description": "Cali Midweek Series - Voice Recital \n Students perform works\u00a0 from classical and\u00a0 contemporary repertoire. \n -------------------------- \n Cali Midweek Concerts 2025-26 Wednesdays at 2 PM Chapin Hall, Leshowitz Recital Hall FREE ADMISSION! \n Join us for the Cali Midweek Concerts at Montclair State University\u2019s John J. Cali School of Music, where we bring a diverse array of musical performances and educational events every Wednesday at 2PM in Leshowitz Recital Hall, Chapin Hall. Our concert series showcases the immense talent within our faculty, students, and esteemed guest artists."
+  },
+  {
+    "title": "Finance Society: Fireside chat with Matt Molta",
+    "date": "2026-04-01T18:00:00+00:00",
+    "organization": "Finance Society",
+    "location": "Feliciano School of Business, SBUS Room 225",
+    "link": "https://montclair.campuslabs.com/engage/event/12373827",
+    "description": "We\u2019re excited to welcome Matt Molta, Equity Research Associate at Jefferies, as Guest Speaker #3 in our speaker series. \n Matt brings experience across equity research, investment banking, and asset management, with previous experience at Goldman Sachs and leadership roles at Fairfield University. \n Join us on April 1st from 2\u20133PM in SBUS 225 to hear about his journey and insights into breaking into finance."
   },
   {
     "title": "Dress for Success: From Top to Toe  ",
@@ -1790,6 +1822,14 @@
     "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12118382",
     "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sister in Christ"
+  },
+  {
+    "title": "Spring Shellabration - Join RA Auco",
+    "date": "2026-04-01T23:00:00+00:00",
+    "organization": "Bloomfield's Office of Residence Life",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12373970",
+    "description": "An Eggsperience To Remember \n \ud83c\udfa8 Egg Decorating Program \n Celebrate creativity and seasonal fun with our Egg Decorating Workshop!  This hands-on program invites participants of all ages to explore a variety of decorating techniques\u2014from classic dyeing to modern, imaginative designs. \n During the session, guests can experiment with: \n \n \n Vibrant dyes and color blends \n \n \n Stickers, stencils, and decorative tapes \n \n \n Paints, markers, and metallic accents \n \n \n Natural dye options  for an eco-friendly twist \n \n \n Creative themes  like animals, patterns, characters, and abstract art \n \n \n \u00a0 \n Location - Bloomfield Campus: Franklin Hall - 460 Franklin Street, Bloomfield, NJ 07003 [Third Floor - Multipurpose Room (MPR) - Room 314]"
   },
   {
     "title": "Rooting For You",
@@ -2798,6 +2838,14 @@
     "location": "Student Recreation Center - Multipurpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12065500",
     "description": "A mind-body conditioning technique that focuses on trunk stability and coordinated breathing through a series of exercises.\u00a0 Pilates develops a longer, leaner, stronger, and more graceful body by improving muscular symmetry, alignment, posture, core strength, and flexibility. All levels are welcome. \n \n \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Tuesday, Jan 20 - April 24 \n 2 pm - 2:45 p.m. \n Student Recreation Center - Multipurpose Room 1 \n \n \n \n \n \n Instructor - Ashley"
+  },
+  {
+    "title": "Homeward Bound: Preparing for Summer with Family",
+    "date": "2026-04-07T18:00:00+00:00",
+    "organization": "CAPS (Counseling and Psychological Services)",
+    "location": "CAPS, Russ Hall, Right Side of the Building",
+    "link": "https://montclair.campuslabs.com/engage/event/12374593",
+    "description": "Does summer make you feel excited? overwhelmed? A little bit of everything? Whether you\u2019re thinking about the shift in independence, missing friends or a partner, navigating family dynamics, or figuring out summer plans\u2014this transition can bring up a lot. \n Join CAPS on Tuesday, April 7th 2-2:45 for a supportive space to reflect, connect, and prepare for the shift home. \n Sign up today!"
   },
   {
     "title": "Escape Room ",
@@ -4656,6 +4704,14 @@
     "description": "Each year, our graduating class participates in a proud Class Gift tradition where members of the class invest in the University by supporting areas of Montclair State University that are most important to them. We invite the Class of 2026 to come together to show your support! \n All gifts to Montclair count! Make your gift to any area of campus you feel most passionate about \u2013 such as the Emergency Book Fund, The Red Hawk Pantry, your school or college, The Fund for Montclair State or athletic program. \n Your gift will pay it forward for future Red Hawks and kick-start your philanthropic connection to Montclair. \n \n Commemorate your class year! Make a gift of at least\u00a0 $20.26 \u00a0and you\u2019ll receive your customized philanthropy cord to wear over your commencement robe.\u00a0 \n For a gift of\u00a0 $40 , celebrate this milestone with your family, friends and colleagues by having your message displayed on the screen at the Commencement you will be participating in, and receive a customized philanthropy cord. \n \n How do I get my customized philanthropy cord? \n Customized philanthropy cords will be available for pick-up: \n \n Tuesday, October 28 from 1:00 \u2013 3:00 p.m. in the Student Center Lobby \n Thursday, November 20\u00a0 from 1:00 \u2013 3:00 p.m. in the Student Center Lobby \n Tuesday, December 2 from 12:00 \u2013 3:00 p.m. in the Student Center Lobby \n Bloomfield Campus Graduation Fair: Wednesday, December 10th from 12:00 \u2013 6:00 p.m. in Deacon\u2019s Den, Talbott Hall\u00a0 (for Bloomfield graduates only) \n Montclair Campus Graduation Fairs: Thursday, December 11th from 10:00 a.m. \u2013 7:00 p.m. in the Student Center Ballrooms\u00a0 (for Montclair or Bloomfield graduates) \n \n Graduates can also arrange to pick up their philanthropy cords in the Overlook Corporate Center, 150 Clove Road, Little Falls, NJ during business hours, Monday through Friday, 8:30 a.m. \u2013 4:30 p.m. Philanthropy cords can also be mailed to those who cannot pick it up. The last day we will mail the cords is Monday,\u00a0December 22, 2025 at 2:30 p.m.\u00a0Please contact James Stewart, Associate Director of Annual Giving at\u00a0stewartj@montclair.edu\u00a0or 973-655-5328 to finalize options to get your cords for the Winter Commencement. \n Every student has benefitted from donor generosity to areas of academic support, emergency funding for students and overall priorities to boost students\u2019 success every day. Thank you for paying it forward! For more information, please contact James Stewart, Associate Director of Annual Giving, at 973-655-5328 or\u00a0stewartj@montclair.edu."
   },
   {
+    "title": "World Art Day: Paint & Chill",
+    "date": "2026-04-15T17:30:00+00:00",
+    "organization": "Bloomfield Student Life",
+    "location": "Talbott Hall, Deacon's Den",
+    "link": "https://montclair.campuslabs.com/engage/event/12373794",
+    "description": "Join us for paint, coloring and crafts with an assortment of snacks to celebrate World Art Day!\u00a0 \n \u00a0 \n Date: Wednesday, April 15 \n Location: Talbott Hall, Deacon's Den \n Time: 1:30 pm - 3 pm"
+  },
+  {
     "title": "CALI SCHOOL OF MUSIC | Cali Midweek Series: Chamber Music Recital",
     "date": "2026-04-15T18:00:00+00:00",
     "organization": "The College of the Arts",
@@ -5136,20 +5192,20 @@
     "description": "Create and paint ceramic plants that never need watering. Perfect for adding some personality to your room or desk."
   },
   {
-    "title": "Shooting Stars Art Showcase",
-    "date": "2026-04-16T23:00:00+00:00",
-    "organization": "Daughta Speaks",
-    "location": "Student Center Underground - The Underground",
-    "link": "https://montclair.campuslabs.com/engage/event/12346987",
-    "description": "Daughta Speaks invites you to reach for the stars at our Shooting Stars Art Showcase! Bear witness to a variety of queer artists whose work breaches the fabric of our reality and creates a fresh and exciting dreamscape full of possibility and wonder. For more information, be sure to check our Instagram:\u00a0 @daughtaspeaks.msu \n Part of Daughta's Pink Diamond Week"
-  },
-  {
     "title": "CALI SCHOOL OF MUSIC | Flute Masterclass with Jennifer Grim",
     "date": "2026-04-16T23:00:00+00:00",
     "organization": "The College of the Arts",
     "location": "Room 201",
     "link": "https://montclair.campuslabs.com/engage/event/12353914",
     "description": "Flute Masterclass with Jennifer Grim \n Jennifer Grim,  professor at the  University of Miami,  will present a masterclass for the Cali flute studio, where students will perform and receive individualized feedback. \n Praised by  The New York Times   as \u201ca deft, smooth flute soloist,\u201d  Jennifer Grim  is a versatile performer whose work spans solo, chamber, and orchestral stages worldwide. \n A member of the flute-percussion duo  Solidaire  and contemporary ensemble  Flagelot , she has collaborated with leading groups including the  Boston Chamber Music Society  and  Chamber Music Society of Lincoln Center .  Her acclaimed album  T hrough Broken Time  reflects her strong commitment to contemporary music. \n Grim is Professor and Chair of Instrumental Performance at the  Frost School of Music, University of Miami,  and serves as President of the  National Flute Association Board."
+  },
+  {
+    "title": "Shooting Stars Art Showcase",
+    "date": "2026-04-16T23:00:00+00:00",
+    "organization": "Daughta Speaks",
+    "location": "Student Center Underground - The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12346987",
+    "description": "Daughta Speaks invites you to reach for the stars at our Shooting Stars Art Showcase! Bear witness to a variety of queer artists whose work breaches the fabric of our reality and creates a fresh and exciting dreamscape full of possibility and wonder. For more information, be sure to check our Instagram:\u00a0 @daughtaspeaks.msu \n Part of Daughta's Pink Diamond Week"
   },
   {
     "title": "Into the Woods Tech Rehearsal",
@@ -6038,6 +6094,14 @@
     "location": "Front of Susan A. Cole Hall",
     "link": "https://montclair.campuslabs.com/engage/event/11965142",
     "description": "Help bring the campus pathways to life! Join us for a fun, creative outdoor event where you can decorate the sidewalk with colorful chalk designs. Whether you\u2019re drawing big, bold art or simple uplifting messages, stop by and add your mark to our bright community mural. All chalk provided! \n \u00a0 \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Thursday, April 22 \n 1pm-3pm, must be checked in by 2:30pm to participate \n Front of Susan A. Cole Hall"
+  },
+  {
+    "title": "Finance Society: Finance Alumni Guest Panel ",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "Finance Society",
+    "location": "UNIV 1020",
+    "link": "https://montclair.campuslabs.com/engage/event/12373834",
+    "description": "We\u2019re excited to host our Finance Guest Panel on April 22nd. \n Join us as Kenny Santos (Financial Advisor at Merrill Lynch), Sebastian Jaramillo (Operations Associate at PGIM), and Clint Ochieng (Finance Rotational Program at Comcast) share insights on their career paths and experiences across different areas of finance. \n \ud83d\udcc5 April 22nd \u23f0 2:00\u20133:30 PM \ud83d\udccd UNIV 1020"
   },
   {
     "title": "CSAM Science Teaching Program - Program Meeting",
