@@ -16,6 +16,14 @@
     "description": "Tickets & Parking Info \n School Spirit Survey"
   },
   {
+    "title": "Into the Woods Rehearsal",
+    "date": "2026-03-28T15:45:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12117844",
+    "description": "Closed rehearsal for  Into the Woods ."
+  },
+  {
     "title": "LASO Leadership Conference",
     "date": "2026-03-28T13:00:00+00:00",
     "organization": "Latin American Student Organization",
@@ -72,14 +80,6 @@
     "description": "Join the Latin American Student Organization at our annual Latino Leadership Conference! Guided by this year\u2019s theme, Sembrando Semillas, we will explore how students can cultivate leadership, growth, and opportunity that lasts beyond the conference. Open to all students and faculty, the day will include a keynote speaker and interactive breakout sessions with professionals from diverse industries. Don\u2019t miss this empowering professional development experience and the exciting extras planned just for you!"
   },
   {
-    "title": "Into the Woods Rehearsal",
-    "date": "2026-03-28T15:45:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12117844",
-    "description": "Closed rehearsal for  Into the Woods ."
-  },
-  {
     "title": "An Ode to Her ",
     "date": "2026-03-28T14:00:00+00:00",
     "organization": "Alpha Kappa Alpha Sorority, Inc. ",
@@ -120,20 +120,20 @@
     "description": "Naso proudly presents our annual Fashion Show \u2014 a celebration of African culture, creativity, and identity. This event showcases the richness and diversity of African fashion through bold designs, traditional attire, and modern interpretations from across the continent. Join us for an evening of culture, confidence, and self-expression as we honor heritage through style."
   },
   {
-    "title": "Kate Hamill's Dracula",
-    "date": "2026-03-28T15:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12117830",
-    "description": "Players invites you to join us at\u00a0Kate Hamill's \u00a0Dracula: A Feminist Revenge Fantasy, Really . All ticket purchases are directed through Eventbrite. \n Fri, Mar 27 @7pm \n Sat, Mar 28 @2pm + 7pm \n Sun, Mar 29 @2pm"
-  },
-  {
     "title": "Build-A-Bowl",
     "date": "2026-03-29T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Stone Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12250626",
     "description": "Take a break and build your own fresh fruit bowl! Stop by to mix and match your favorite fruits and toppings for a healthy, customizable snack.\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Kate Hamill's Dracula",
+    "date": "2026-03-28T15:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12117830",
+    "description": "Players invites you to join us at\u00a0Kate Hamill's \u00a0Dracula: A Feminist Revenge Fantasy, Really . All ticket purchases are directed through Eventbrite. \n Fri, Mar 27 @7pm \n Sat, Mar 28 @2pm + 7pm \n Sun, Mar 29 @2pm"
   },
   {
     "title": "Sorority meeting ",
