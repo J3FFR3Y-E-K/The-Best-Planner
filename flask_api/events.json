@@ -1,29 +1,5 @@
 [
   {
-    "title": "Red Hawk Pantry",
-    "date": "2026-03-28T15:00:00+00:00",
-    "organization": "Red Hawk Pantry",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12286008",
-    "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, faculty, and Alumni at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Wednesdays: 5-7pm \n Saturdays: 11-1pm"
-  },
-  {
-    "title": "Men's Lacrosse vs. Maritime",
-    "date": "2026-03-28T16:00:00+00:00",
-    "organization": "Athletics",
-    "location": "Sprague Field",
-    "link": "https://montclair.campuslabs.com/engage/event/12324472",
-    "description": "Tickets & Parking Info \n School Spirit Survey"
-  },
-  {
-    "title": "Into the Woods Rehearsal",
-    "date": "2026-03-28T15:45:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12117844",
-    "description": "Closed rehearsal for  Into the Woods ."
-  },
-  {
     "title": "LASO Leadership Conference",
     "date": "2026-03-28T13:00:00+00:00",
     "organization": "Latin American Student Organization",
@@ -46,6 +22,14 @@
     "location": "University Hall 1010 - James B. Todd Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12155476",
     "description": "Join the Latin American Student Organization at our annual Latino Leadership Conference! Guided by this year\u2019s theme, Sembrando Semillas, we will explore how students can cultivate leadership, growth, and opportunity that lasts beyond the conference. Open to all students and faculty, the day will include a keynote speaker and interactive breakout sessions with professionals from diverse industries. Don\u2019t miss this empowering professional development experience and the exciting extras planned just for you!"
+  },
+  {
+    "title": "Into the Woods Rehearsal",
+    "date": "2026-03-28T15:45:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12117844",
+    "description": "Closed rehearsal for  Into the Woods ."
   },
   {
     "title": "LASO Leadership Conference",
@@ -5016,20 +5000,20 @@
     "description": "Create and paint ceramic plants that never need watering. Perfect for adding some personality to your room or desk."
   },
   {
-    "title": "CALI SCHOOL OF MUSIC | Flute Masterclass with Jennifer Grim",
-    "date": "2026-04-16T23:00:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "Room 201",
-    "link": "https://montclair.campuslabs.com/engage/event/12353914",
-    "description": "Flute Masterclass with Jennifer Grim \n Jennifer Grim,  professor at the  University of Miami,  will present a masterclass for the Cali flute studio, where students will perform and receive individualized feedback. \n Praised by  The New York Times   as \u201ca deft, smooth flute soloist,\u201d  Jennifer Grim  is a versatile performer whose work spans solo, chamber, and orchestral stages worldwide. \n A member of the flute-percussion duo  Solidaire  and contemporary ensemble  Flagelot , she has collaborated with leading groups including the  Boston Chamber Music Society  and  Chamber Music Society of Lincoln Center .  Her acclaimed album  T hrough Broken Time  reflects her strong commitment to contemporary music. \n Grim is Professor and Chair of Instrumental Performance at the  Frost School of Music, University of Miami,  and serves as President of the  National Flute Association Board."
-  },
-  {
     "title": "Shooting Stars Art Showcase",
     "date": "2026-04-16T23:00:00+00:00",
     "organization": "Daughta Speaks",
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/12346987",
     "description": "Daughta Speaks invites you to reach for the stars at our Shooting Stars Art Showcase! Bear witness to a variety of queer artists whose work breaches the fabric of our reality and creates a fresh and exciting dreamscape full of possibility and wonder. For more information, be sure to check our Instagram:\u00a0 @daughtaspeaks.msu \n Part of Daughta's Pink Diamond Week"
+  },
+  {
+    "title": "CALI SCHOOL OF MUSIC | Flute Masterclass with Jennifer Grim",
+    "date": "2026-04-16T23:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Room 201",
+    "link": "https://montclair.campuslabs.com/engage/event/12353914",
+    "description": "Flute Masterclass with Jennifer Grim \n Jennifer Grim,  professor at the  University of Miami,  will present a masterclass for the Cali flute studio, where students will perform and receive individualized feedback. \n Praised by  The New York Times   as \u201ca deft, smooth flute soloist,\u201d  Jennifer Grim  is a versatile performer whose work spans solo, chamber, and orchestral stages worldwide. \n A member of the flute-percussion duo  Solidaire  and contemporary ensemble  Flagelot , she has collaborated with leading groups including the  Boston Chamber Music Society  and  Chamber Music Society of Lincoln Center .  Her acclaimed album  T hrough Broken Time  reflects her strong commitment to contemporary music. \n Grim is Professor and Chair of Instrumental Performance at the  Frost School of Music, University of Miami,  and serves as President of the  National Flute Association Board."
   },
   {
     "title": "Into the Woods Tech Rehearsal",
