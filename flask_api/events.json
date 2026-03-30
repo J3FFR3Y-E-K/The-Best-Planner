@@ -1,37 +1,5 @@
 [
   {
-    "title": "Movie Night",
-    "date": "2026-03-30T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Stone Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12250610",
-    "description": "Please Join us on March 29th from 8:00 PM to 10:00 PM in Stone Hall's lounge for a movie and pizza! All students are welcome; Commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Diy Body Butters",
-    "date": "2026-03-30T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Machuga Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/12250616",
-    "description": "Please Join us on March 29th from 8:00 PM to 10:00 PM in Machuga Heights MPR and make your own body butter! All students are welcome; Commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Theta Phi Alpha- March Chapter Meetings",
-    "date": "2026-03-29T21:00:00+00:00",
-    "organization": "Theta Phi Alpha",
-    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12165807",
-    "description": "Weekly Chapter Meetings for the active sisters of Theta Phi Alpha"
-  },
-  {
-    "title": "Phi Delta Theta Chapter meeting ",
-    "date": "2026-03-29T22:30:00+00:00",
-    "organization": "Phi Delta Theta",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12350699",
-    "description": "Weekly chapter meeting"
-  },
-  {
     "title": "Group X - HIIT",
     "date": "2026-03-30T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4792,20 +4760,20 @@
     "description": "Create and paint ceramic plants that never need watering. Perfect for adding some personality to your room or desk."
   },
   {
-    "title": "Shooting Stars Art Showcase",
-    "date": "2026-04-16T23:00:00+00:00",
-    "organization": "Daughta Speaks",
-    "location": "Student Center Underground - The Underground",
-    "link": "https://montclair.campuslabs.com/engage/event/12346987",
-    "description": "Daughta Speaks invites you to reach for the stars at our Shooting Stars Art Showcase! Bear witness to a variety of queer artists whose work breaches the fabric of our reality and creates a fresh and exciting dreamscape full of possibility and wonder. For more information, be sure to check our Instagram:\u00a0 @daughtaspeaks.msu \n Part of Daughta's Pink Diamond Week"
-  },
-  {
     "title": "CALI SCHOOL OF MUSIC | Flute Masterclass with Jennifer Grim",
     "date": "2026-04-16T23:00:00+00:00",
     "organization": "The College of the Arts",
     "location": "Room 201",
     "link": "https://montclair.campuslabs.com/engage/event/12353914",
     "description": "Flute Masterclass with Jennifer Grim \n Jennifer Grim,  professor at the  University of Miami,  will present a masterclass for the Cali flute studio, where students will perform and receive individualized feedback. \n Praised by  The New York Times   as \u201ca deft, smooth flute soloist,\u201d  Jennifer Grim  is a versatile performer whose work spans solo, chamber, and orchestral stages worldwide. \n A member of the flute-percussion duo  Solidaire  and contemporary ensemble  Flagelot , she has collaborated with leading groups including the  Boston Chamber Music Society  and  Chamber Music Society of Lincoln Center .  Her acclaimed album  T hrough Broken Time  reflects her strong commitment to contemporary music. \n Grim is Professor and Chair of Instrumental Performance at the  Frost School of Music, University of Miami,  and serves as President of the  National Flute Association Board."
+  },
+  {
+    "title": "Shooting Stars Art Showcase",
+    "date": "2026-04-16T23:00:00+00:00",
+    "organization": "Daughta Speaks",
+    "location": "Student Center Underground - The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12346987",
+    "description": "Daughta Speaks invites you to reach for the stars at our Shooting Stars Art Showcase! Bear witness to a variety of queer artists whose work breaches the fabric of our reality and creates a fresh and exciting dreamscape full of possibility and wonder. For more information, be sure to check our Instagram:\u00a0 @daughtaspeaks.msu \n Part of Daughta's Pink Diamond Week"
   },
   {
     "title": "Into the Woods Tech Rehearsal",
