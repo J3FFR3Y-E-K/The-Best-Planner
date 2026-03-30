@@ -1,45 +1,5 @@
 [
   {
-    "title": "Kate Hamill's Dracula",
-    "date": "2026-03-29T15:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12118208",
-    "description": "Players invites you to join us at\u00a0Kate Hamill's \u00a0Dracula: A Feminist Revenge Fantasy, Really . All ticket purchases are directed through Eventbrite. \n Fri, Mar 27 @7pm \n Sat, Mar 28 @2pm + 7pm \n Sun, Mar 29 @2pm"
-  },
-  {
-    "title": "Battle of the Islands",
-    "date": "2026-03-29T22:00:00+00:00",
-    "organization": "Caribbean Students' Organization",
-    "location": "Student Center 250ABC - Ballrooms A, B, and C",
-    "link": "https://montclair.campuslabs.com/engage/event/12118244",
-    "description": "Battle of the Islands is a cultural showcase celebrating Caribbean and island cultures through music, dance, food, and friendly competition between Caribbean student organizations."
-  },
-  {
-    "title": "Weekly Chapter Meeting",
-    "date": "2026-03-29T22:00:00+00:00",
-    "organization": "Phi Sigma Sigma",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12130400",
-    "description": "A weekly meeting where members of Phi Sigma Sigma come together."
-  },
-  {
-    "title": "Mood Mocktail Lab",
-    "date": "2026-03-29T23:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12250624",
-    "description": "Join us on March 29th in Blanton's Lounge for a night full of drinks, music, and fun! Whether you're here for the vibes, the snacks, or the dancing \u2014 there's something for everyone. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Freeman and Russ April Floor Meeting",
-    "date": "2026-03-30T00:00:00+00:00",
-    "organization": "Freeman Hall & Russ Hall",
-    "location": "Freeman Hall First Floor Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12333689",
-    "description": "Join us for our April floor meeting! We\u2019ll go over important community reminders, quiet hours, guest policies, and any building updates.\u00a0 Attendance is expected. \n Commuters may attend but must be signed in by a resident following Residence Life guest procedures."
-  },
-  {
     "title": "Movie Night",
     "date": "2026-03-30T00:00:00+00:00",
     "organization": "Residence Life",
@@ -56,20 +16,20 @@
     "description": "Please Join us on March 29th from 8:00 PM to 10:00 PM in Machuga Heights MPR and make your own body butter! All students are welcome; Commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Phi Delta Theta Chapter meeting ",
-    "date": "2026-03-29T22:30:00+00:00",
-    "organization": "Phi Delta Theta",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12350699",
-    "description": "Weekly chapter meeting"
-  },
-  {
     "title": "Theta Phi Alpha- March Chapter Meetings",
     "date": "2026-03-29T21:00:00+00:00",
     "organization": "Theta Phi Alpha",
     "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12165807",
     "description": "Weekly Chapter Meetings for the active sisters of Theta Phi Alpha"
+  },
+  {
+    "title": "Phi Delta Theta Chapter meeting ",
+    "date": "2026-03-29T22:30:00+00:00",
+    "organization": "Phi Delta Theta",
+    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12350699",
+    "description": "Weekly chapter meeting"
   },
   {
     "title": "Group X - HIIT",
@@ -1584,14 +1544,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 1pm - 1:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Angel"
   },
   {
-    "title": "Pie a Panda ",
-    "date": "2026-04-02T15:00:00+00:00",
-    "organization": "Theta Kappa Chi",
-    "location": "Student Center Quad Information Table 1 - Information Table 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12118425",
-    "description": "The sisters of Theta Kappa Chi will be hosting a Pie a Panda to raise funds for The Ramapo Bergen Animal Refuge."
-  },
-  {
     "title": "Autism Awareness Walk",
     "date": "2026-04-02T17:00:00+00:00",
     "organization": "Future Educators Association",
@@ -2230,6 +2182,14 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12019720",
     "description": "General body meeting of MSU Players open to all Undergraduate Students!"
+  },
+  {
+    "title": "MUNSEE @ MONTCLAIR!",
+    "date": "2026-04-06T22:00:00+00:00",
+    "organization": "College of Humanities and Social Sciences (CHSS)",
+    "location": "Virtual Event",
+    "link": "https://montclair.campuslabs.com/engage/event/12377407",
+    "description": "MUNSEE @ MONTCLAIR! \n Northern NJ's ancestral language lives in the knowledge, traditions, and voices of today's language keepers, who work hard to safeguard Munsee for future generations. \n Join Indigenous language keepers from the Stockbridge-Munsee Community to explore the basics of Munsee (Lunaape/Delaware) language. \n DATES:  April 6 & 13 TIME:  6:00 PM to 6:45 PM \n LOCATION: Via Zoom https://montclair.zoom.us/munsee \n GUEST SPEAKER: Nikole Pecore, Language Manager \n SPONSORS: Native American & Indigenous Studies NJ Center for Indigenous Justice \n REGISTER HERE: https://montclair.zoom.us/j/98765404647?pwd=b7jXWkXPoYeQesVWGp30T7dTKV9zAh.1"
   },
   {
     "title": "BFA Visual Communications Design Graduate Exhibition",
@@ -3912,6 +3872,14 @@
     "description": "Community and Social Services Career Expo Date:  April 13, 2026 Time:  3:30pm-6:30pm Location:  University Hall Conference Center (7th Floor) \n Registration is available on Handshake:\u00a0 https://app.joinhandshake.com/career_fairs/37dfb726-9582-4e23-9c82-6561adbc3e11/student_preview \n \u00a0 \n Description: \n Calling all community and service-minded students exploring clinical and non-clinical career options! \n \u00a0 \n Are you looking for a job or internship? Are you curious about the career paths you can pursue with your major or graduate program? If so, the Community and Social Services Career Expo is an amazing opportunity to meet employers that align with your professional interests. Whether you are a freshman or a graduate student, this event is designed to help you explore career possibilities, gain networking experience by talking with employers, and make connections that may eventually lead to a job or internship. There will be fun mixed in with the opportunity to win raffle prizes!\u00a0 \n \u00a0 \n More Information: - Mark your calendar! Monday, April 13, 3:30pm - 6:30pm, University Hall Conference Center (7th Floor) - Visit with non-profit, government, and corporate employers that have a service-oriented mission - Discover opportunities with campus organizations and departments, including international experiences that incorporate social impact - Pre-registration is strongly encouraged -  Register on Handshake! - Event details and employer list can be found on  Handshake .\u00a0 - Dress neatly and bring resumes! Check out  Rocky's Closet  for free professional attire.\u00a0 \n \u00a0 \n This event is ideal for graduate and undergraduate students seeking jobs and internships in: Counseling, Child Advocacy, Justice Studies, Social Work, Political Science, Psychology and so much more! \n \u00a0 \n Co-sponsored by:   College of Humanities and Social Sciences, College for Community Health, Office of Community Engagement and Partnerships, Office of Experiential Education and Career Connections, Office of Government Relations, Office of International Academic Initiatives \n \u00a0 \n Questions? Contact Jennifer Dudeck-Lenis at  dudecklenisj@montclair.edu."
   },
   {
+    "title": "MUNSEE @ MONTCLAIR!",
+    "date": "2026-04-13T22:00:00+00:00",
+    "organization": "College of Humanities and Social Sciences (CHSS)",
+    "location": "Virtual Event",
+    "link": "https://montclair.campuslabs.com/engage/event/12377413",
+    "description": "MUNSEE @ MONTCLAIR! \n Northern NJ's ancestral language lives in the knowledge, traditions, and voices of today's language keepers, who work hard to safeguard Munsee for future generations. \n Join Indigenous language keepers from the Stockbridge-Munsee Community to explore the basics of Munsee (Lunaape/Delaware) language. \n DATES:  April 6 & 13 TIME:  6:00 PM to 6:45 PM \n LOCATION: Via Zoom https://montclair.zoom.us/munsee \n GUEST SPEAKER: Nikole Pecore, Language Manager \n SPONSORS: Native American & Indigenous Studies NJ Center for Indigenous Justice \n REGISTER HERE: https://montclair.zoom.us/j/98765404647?pwd=b7jXWkXPoYeQesVWGp30T7dTKV9zAh.1"
+  },
+  {
     "title": "Bracelet Making",
     "date": "2026-04-13T21:00:00+00:00",
     "organization": "Residence Life",
@@ -4824,20 +4792,20 @@
     "description": "Create and paint ceramic plants that never need watering. Perfect for adding some personality to your room or desk."
   },
   {
-    "title": "CALI SCHOOL OF MUSIC | Flute Masterclass with Jennifer Grim",
-    "date": "2026-04-16T23:00:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "Room 201",
-    "link": "https://montclair.campuslabs.com/engage/event/12353914",
-    "description": "Flute Masterclass with Jennifer Grim \n Jennifer Grim,  professor at the  University of Miami,  will present a masterclass for the Cali flute studio, where students will perform and receive individualized feedback. \n Praised by  The New York Times   as \u201ca deft, smooth flute soloist,\u201d  Jennifer Grim  is a versatile performer whose work spans solo, chamber, and orchestral stages worldwide. \n A member of the flute-percussion duo  Solidaire  and contemporary ensemble  Flagelot , she has collaborated with leading groups including the  Boston Chamber Music Society  and  Chamber Music Society of Lincoln Center .  Her acclaimed album  T hrough Broken Time  reflects her strong commitment to contemporary music. \n Grim is Professor and Chair of Instrumental Performance at the  Frost School of Music, University of Miami,  and serves as President of the  National Flute Association Board."
-  },
-  {
     "title": "Shooting Stars Art Showcase",
     "date": "2026-04-16T23:00:00+00:00",
     "organization": "Daughta Speaks",
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/12346987",
     "description": "Daughta Speaks invites you to reach for the stars at our Shooting Stars Art Showcase! Bear witness to a variety of queer artists whose work breaches the fabric of our reality and creates a fresh and exciting dreamscape full of possibility and wonder. For more information, be sure to check our Instagram:\u00a0 @daughtaspeaks.msu \n Part of Daughta's Pink Diamond Week"
+  },
+  {
+    "title": "CALI SCHOOL OF MUSIC | Flute Masterclass with Jennifer Grim",
+    "date": "2026-04-16T23:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Room 201",
+    "link": "https://montclair.campuslabs.com/engage/event/12353914",
+    "description": "Flute Masterclass with Jennifer Grim \n Jennifer Grim,  professor at the  University of Miami,  will present a masterclass for the Cali flute studio, where students will perform and receive individualized feedback. \n Praised by  The New York Times   as \u201ca deft, smooth flute soloist,\u201d  Jennifer Grim  is a versatile performer whose work spans solo, chamber, and orchestral stages worldwide. \n A member of the flute-percussion duo  Solidaire  and contemporary ensemble  Flagelot , she has collaborated with leading groups including the  Boston Chamber Music Society  and  Chamber Music Society of Lincoln Center .  Her acclaimed album  T hrough Broken Time  reflects her strong commitment to contemporary music. \n Grim is Professor and Chair of Instrumental Performance at the  Frost School of Music, University of Miami,  and serves as President of the  National Flute Association Board."
   },
   {
     "title": "Into the Woods Tech Rehearsal",
