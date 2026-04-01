@@ -1853,7 +1853,7 @@
     "organization": "Montclair State University Players",
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12119829",
-    "description": "Closed rehearsal for  Into the Woods ."
+    "description": ""
   },
   {
     "title": "Cabaret Auditions",
@@ -1973,7 +1973,7 @@
     "organization": "The Graduate School",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11999568",
-    "description": "This session outlines the final steps in the thesis submission process, including required forms, deadlines, and electronic submission procedures. Students will learn what to expect during final review and how to avoid common submission issues. Who should attend: \u00a0Master\u2019s students nearing thesis completion or planning to graduate in an upcoming term. Please RSVP using this link. Want to see what else is coming up this semester?\u00a0 Explore all events for graduate students."
+    "description": ""
   },
   {
     "title": "Group X - Yoga",
@@ -2085,7 +2085,7 @@
     "organization": "South Asian Student Association",
     "location": "Student Center Quad123 - All Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12051567",
-    "description": "Join us this Wednesday for some outdoor fun! We will have volleyball, badminton, cricket, and more games.\u00a0 \n We will also be having a little egg hunt to celebrate Easter!"
+    "description": ""
   },
   {
     "title": "MSU Political Science Club General Body Meeting",
@@ -2157,7 +2157,7 @@
     "organization": "Mexican-American Student Association",
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12045106",
-    "description": "Join the Mexican-American Student Association for our MASA eboard election."
+    "description": ""
   },
   {
     "title": "Spanish Writing Center - Workshop Series - Online - April 2026",
@@ -2405,7 +2405,7 @@
     "organization": "Montclair State Circle K",
     "location": "Student Center Quad Information Table 1 - Information Table 1",
     "link": "https://montclair.campuslabs.com/engage/event/12346910",
-    "description": "Pie a CKI Member is a fun and interactive fundraising event where students can donate for the opportunity to pie a Circle K member. The event is designed to engage the campus community while raising funds to support the club\u2019s service initiatives."
+    "description": ""
   },
   {
     "title": "CPT Workshop - International Students (F-1 Visa Holders) Only",
@@ -2765,7 +2765,7 @@
     "organization": "Campus Activities",
     "location": "Student Center Room 160, The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/11970178",
-    "description": "Whether you\u2019ve got a hidden talent or just want a fun night out, Open Mic Night is the place to be. Music, poetry, comedy, and good vibes all around\u2014come perform, cheer on your friends, or just hang out and enjoy the energy. \ud83c\udfa4"
+    "description": ""
   },
   {
     "title": "CALI SCHOOL OF MUSIC | Undergraduate Voice Night",
@@ -3997,7 +3997,7 @@
     "organization": "InterVarsity Christian Fellowship",
     "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12128022",
-    "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sister in Christ"
+    "description": ""
   },
   {
     "title": "Open Night Bible Studies",
@@ -4037,7 +4037,7 @@
     "organization": "Residence Life",
     "location": "Machuga Heights",
     "link": "https://montclair.campuslabs.com/engage/event/12307294",
-    "description": "Join us on April 15th in the Machuga MPR for some DIY Pillow Crafts. Drop in design and stuff your own pillow! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+    "description": ""
   },
   {
     "title": "Sigma Gamma Rho Reunion ",
@@ -4093,7 +4093,7 @@
     "organization": "Alpha Iota Chi Local Sorority Inc.",
     "location": "University Hall 1C01 - Lobby Table",
     "link": "https://montclair.campuslabs.com/engage/event/12266870",
-    "description": "Enjoy homemade treats and support our fundraising efforts."
+    "description": ""
   },
   {
     "title": "upLIFT",
@@ -4280,20 +4280,20 @@
     "description": "Create and paint ceramic plants that never need watering. Perfect for adding some personality to your room or desk."
   },
   {
-    "title": "CALI SCHOOL OF MUSIC | Flute Masterclass with Jennifer Grim",
-    "date": "2026-04-16T23:00:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "Room 201",
-    "link": "https://montclair.campuslabs.com/engage/event/12353914",
-    "description": "Flute Masterclass with Jennifer Grim \n Jennifer Grim,  professor at the  University of Miami,  will present a masterclass for the Cali flute studio, where students will perform and receive individualized feedback. \n Praised by  The New York Times   as \u201ca deft, smooth flute soloist,\u201d  Jennifer Grim  is a versatile performer whose work spans solo, chamber, and orchestral stages worldwide. \n A member of the flute-percussion duo  Solidaire  and contemporary ensemble  Flagelot , she has collaborated with leading groups including the  Boston Chamber Music Society  and  Chamber Music Society of Lincoln Center .  Her acclaimed album  T hrough Broken Time  reflects her strong commitment to contemporary music. \n Grim is Professor and Chair of Instrumental Performance at the  Frost School of Music, University of Miami,  and serves as President of the  National Flute Association Board."
-  },
-  {
     "title": "Shooting Stars Art Showcase",
     "date": "2026-04-16T23:00:00+00:00",
     "organization": "Daughta Speaks",
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/12346987",
     "description": "Daughta Speaks invites you to reach for the stars at our Shooting Stars Art Showcase! Bear witness to a variety of queer artists whose work breaches the fabric of our reality and creates a fresh and exciting dreamscape full of possibility and wonder. For more information, be sure to check our Instagram:\u00a0 @daughtaspeaks.msu \n Part of Daughta's Pink Diamond Week"
+  },
+  {
+    "title": "CALI SCHOOL OF MUSIC | Flute Masterclass with Jennifer Grim",
+    "date": "2026-04-16T23:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Room 201",
+    "link": "https://montclair.campuslabs.com/engage/event/12353914",
+    "description": "Flute Masterclass with Jennifer Grim \n Jennifer Grim,  professor at the  University of Miami,  will present a masterclass for the Cali flute studio, where students will perform and receive individualized feedback. \n Praised by  The New York Times   as \u201ca deft, smooth flute soloist,\u201d  Jennifer Grim  is a versatile performer whose work spans solo, chamber, and orchestral stages worldwide. \n A member of the flute-percussion duo  Solidaire  and contemporary ensemble  Flagelot , she has collaborated with leading groups including the  Boston Chamber Music Society  and  Chamber Music Society of Lincoln Center .  Her acclaimed album  T hrough Broken Time  reflects her strong commitment to contemporary music. \n Grim is Professor and Chair of Instrumental Performance at the  Frost School of Music, University of Miami,  and serves as President of the  National Flute Association Board."
   },
   {
     "title": "Into the Woods Tech Rehearsal",
@@ -5501,7 +5501,7 @@
     "organization": "The College of the Arts",
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12368213",
-    "description": "Jazz Vocal Night:  Featuring Vocamotion 1 and 2 Vocamotion, Aubrey Johnson and Dylan Pramuk,  Directors \n Please join us for an evening of exciting performances by Montclair State University\u2019s vocal jazz choral ensembles directed by  Aubrey Johnson and Dylan Pramuk."
+    "description": ""
   },
   {
     "title": "CALI SCHOOL OF MUSIC | Baroque Ensemble Concert",
