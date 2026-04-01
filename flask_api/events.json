@@ -1,53 +1,5 @@
 [
   {
-    "title": "Group X - HIIT",
-    "date": "2026-04-01T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12066415",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 9am - 9:45am \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Alexa V"
-  },
-  {
-    "title": "SGA Elections tabling",
-    "date": "2026-04-01T14:00:00+00:00",
-    "organization": "Student Government Association, Inc.",
-    "location": "Student Center 2C01 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12313804",
-    "description": "SGA Elections Tabling"
-  },
-  {
-    "title": "AI Distinguished Speaker Series: The AI-Ready Campus: From Pockets of Innovation to a Coherent Institutional Strategy",
-    "date": "2026-04-01T14:00:00+00:00",
-    "organization": "College of Humanities and Social Sciences (CHSS)",
-    "location": "Presentation Hall, College of Communication and Media",
-    "link": "https://montclair.campuslabs.com/engage/event/12347607",
-    "description": "The College of Humanities and Social Sciences is launching a new AI  Distinguished Speaker Series \u2014a yearlong exploration of how artificial intelligence is reshaping human systems, knowledge, and society. Designed to be inclusive and engaging, the series will bring thought leaders to campus who not only explain emerging technologies but also invite students and the wider community into critical conversations about their impact. By blending expert insight with student-centered formats, the series aims to spark new ways of learning, questioning, and participating in AI\u2019s future. \n The AI-Ready Campus: From Pockets of Innovation to a Coherent Institutional Strategy \n Across higher education, the adoption of generative AI has been rapid and revolutionary. While many faculty and staff are exploring these powerful new tools, this energy is often siloed, leading to a campus of \u201cAI pockets\u201d rather than a truly AI-ready institution. The next great challenge is moving from this phase of enthusiastic but fragmented experimentation to one of deliberate, strategic, and holistic integration. How do we build an institutional AI strategy that is more than just a collection of policies and tools? \n Register to Attend"
-  },
-  {
-    "title": "Signing Practice/Social ",
-    "date": "2026-04-01T14:30:00+00:00",
-    "organization": "American Sign Language Club",
-    "location": "Student Center 417 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12118309",
-    "description": "Looking to practice your ASL skills? Come hang out with us! \n Don\u2019t know where to start? We will provide you with a list of topics to discuss with others in ASL.\u00a0 \n Light snacks and refreshments will be served.\u00a0 \n ** THIS IS NOT A TEACHING EVENT THIS IS TO COME AND USE YOUR SKILLS WITH OTHER LEARNERS! ASL STRONGLY ENCOURAGED!!"
-  },
-  {
-    "title": "Group X - Pilates",
-    "date": "2026-04-01T15:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Multipurpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12066639",
-    "description": "A mind-body conditioning technique that focuses on trunk stability and coordinated breathing through a series of exercises.\u00a0 Pilates develops a longer, leaner, stronger, and more graceful body by improving muscular symmetry, alignment, posture, core strength, and flexibility. All levels are welcome. \n \n \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Wednesday, Jan 20 - April 24 \n 11am - 11:45 a.m. \n Student Recreation Center - Multipurpose Room 1 \n \n \n \n \n \n Instructor - Ashley"
-  },
-  {
-    "title": "Brew Can't be Serious: Coffee Mixer",
-    "date": "2026-04-01T14:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Machuga Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/12307224",
-    "description": "Brew Can't be Serious On Wednesday April 1, stop by for a coffee mixer in Machuga Heights from 10 am- 12 pm! Start your morning strong with your very own coffee creation!  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2026-04-01T16:00:00+00:00",
     "organization": "Campus Recreation",
@@ -64,6 +16,14 @@
     "description": "Come join us in kicking off\u00a0 Asian American, Native Hawaiian & Pacific Islander (AANHPI) Heritage Month \u00a0at Montclair State University on\u00a0 Wednesday, April 1 at 12:00 p.m. at the Student Center Flag Poles\u00a0 for a flag raising ceremony .\u00a0 \u00a0The Asian Pacific Islander Caucus (APIC) invites you to this ceremony to raise the flag in recognition and honor of the contributions that generations of AAPIs have made to American history, society and culture. \n \u00a0 \n Also, enjoy the first ever  AAPI \"Day\" Market  on the same day Wednesday, April 1 from 11:00am to 2:00pm on the Student Center Quad.\u00a0 \n \u00a0 \n If you have any question, please contact APIC at apic@montclair.edu."
   },
   {
+    "title": "Prestigious Scholarships Info Session",
+    "date": "2026-04-01T17:00:00+00:00",
+    "organization": "Prestigious Scholarships ",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12234707",
+    "description": "Are you a junior or senior interested in graduate school, research, public service, or international experiences? The Prestigious Scholarships Program is here to support you!\u00a0 A prestigious scholarship provides you with the opportunity to develop your skills and reach your goals through engagement with people and places around the world. Montclair\u2019s Prestigious Scholarships Program helps all students and alumni learn of and apply for nationally and internationally competitive and prestigious awards. These awards fund a wide range of opportunities, as well as independent research projects, and many are connected to undergraduate and graduate degree programs or internships around the globe."
+  },
+  {
     "title": "Chi Alpha Tabling",
     "date": "2026-04-01T15:00:00+00:00",
     "organization": "Chi Alpha Campus Ministries",
@@ -78,22 +38,6 @@
     "location": "University Hall 1C01 - Lobby Table",
     "link": "https://montclair.campuslabs.com/engage/event/12172410",
     "description": "Come join us for the LASO Empanadas Fundraiser on March 25th from 11:00 AM to 1:30 PM in Uni Hall. Drop by to enjoy delicious, freshly made empanadas, share in Latin cultural flavors, and connect with friends in a casual and social atmosphere while supporting upcoming LASO programs and initiatives."
-  },
-  {
-    "title": "Prestigious Scholarships Info Session",
-    "date": "2026-04-01T17:00:00+00:00",
-    "organization": "Prestigious Scholarships ",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12234707",
-    "description": "Are you a junior or senior interested in graduate school, research, public service, or international experiences? The Prestigious Scholarships Program is here to support you!\u00a0 A prestigious scholarship provides you with the opportunity to develop your skills and reach your goals through engagement with people and places around the world. Montclair\u2019s Prestigious Scholarships Program helps all students and alumni learn of and apply for nationally and internationally competitive and prestigious awards. These awards fund a wide range of opportunities, as well as independent research projects, and many are connected to undergraduate and graduate degree programs or internships around the globe."
-  },
-  {
-    "title": "AANHPI \"Day\" Market",
-    "date": "2026-04-01T15:00:00+00:00",
-    "organization": "Asian Pacific Islander Caucus",
-    "location": "Student Center Quad",
-    "link": "https://montclair.campuslabs.com/engage/event/12239578",
-    "description": "Come shop at the first ever\u00a0 AAPI \"Day\" Market \u00a0to kick off Asian American, Native Hawaiian & Pacific Islander (AANHPI) Heritage Month!\u00a0 Many vendors will be there to show off their unique\u00a0creations, handmade goods, and creative finds to the campus community.\u00a0 Catch the vibe of an Asian Night Market, during the day!\u00a0 And hang out for the AAPI Heritage Month flag raising at 12:00p.m. \n \u00a0 \n If you would like to be a vendor at the AAPI \"Day\" Market,  please sign up here .\u00a0 Space is limited, so sign up soon! \n \u00a0 \n \n AANHPI \"DAY\" MARKET \n Wednesday, April 1, 2026 \n 11:00am - 2:00pm \n Student Center Quad (rain location: Student Center Ballrooms) \n \n \u00a0 \n Email Tzu-Lin Toner, Assistant Director of Campus Recreation, with any questions: tonert@montclair.edu."
   },
   {
     "title": "InterVarsity Nursing Bible Study ",
@@ -118,6 +62,14 @@
     "location": "Waichungo Family Courtyard",
     "link": "https://montclair.campuslabs.com/engage/event/12349348",
     "description": "Interested in what's next for the Montclair State University Skate Club? Join our bi-weekly general body meetings! This is where we discuss upcoming projects and collaborations before heading out to skate. We want to hear your ideas, questions, and concerns. Your feedback helps shape the club's future."
+  },
+  {
+    "title": "AANHPI \"Day\" Market",
+    "date": "2026-04-01T15:00:00+00:00",
+    "organization": "Asian Pacific Islander Caucus",
+    "location": "Student Center Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12239578",
+    "description": "Come shop at the first ever\u00a0 AAPI \"Day\" Market \u00a0to kick off Asian American, Native Hawaiian & Pacific Islander (AANHPI) Heritage Month!\u00a0 Many vendors will be there to show off their unique\u00a0creations, handmade goods, and creative finds to the campus community.\u00a0 Catch the vibe of an Asian Night Market, during the day!\u00a0 And hang out for the AAPI Heritage Month flag raising at 12:00p.m. \n \u00a0 \n If you would like to be a vendor at the AAPI \"Day\" Market,  please sign up here .\u00a0 Space is limited, so sign up soon! \n \u00a0 \n \n AANHPI \"DAY\" MARKET \n Wednesday, April 1, 2026 \n 11:00am - 2:00pm \n Student Center Quad (rain location: Student Center Ballrooms) \n \n \u00a0 \n Email Tzu-Lin Toner, Assistant Director of Campus Recreation, with any questions: tonert@montclair.edu."
   },
   {
     "title": "Group X - Kickboxing",
@@ -232,14 +184,6 @@
     "description": "Join the Polish Club for a fun and interactive cultural event celebrating Polish Easter traditions! Learn about the history and meaning behind Pisanki (traditional Polish Easter eggs), \u015amigus-Dyngus, Easter baskets (\u015awi\u0119conka), and other holiday customs. \n Participants will have the opportunity to decorate their own fake eggs using colorful paints and patterns while enjoying a welcoming and creative atmosphere. This event is a great way to explore Polish culture, meet new people, and create a unique keepsake to take home."
   },
   {
-    "title": "Powered By Pearls: Boba Fundraiser",
-    "date": "2026-04-01T16:00:00+00:00",
-    "organization": "The Chinese Heritage & Cultural Society",
-    "location": "Student Center 2C04 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12057011",
-    "description": "What you thought two was enough? Not a chance. Fuel your day with boba and purpose at our Powered By Pearls Boba Fundraiser! Power By Pearls serves up boba tea while helping to support CHCS initiatives. Sip, socialize and contribute to something bigger than your boba addiction. Every cup counts. Yes, even the extra pearls."
-  },
-  {
     "title": "General Miembro Meeting",
     "date": "2026-04-01T18:00:00+00:00",
     "organization": "Latin American Student Organization",
@@ -312,20 +256,12 @@
     "description": "WMSC's weekly member meeting to go over the newest and most important information regarding the station, and what each team is up to. \n \u00a0 \n On-air DJs are required to attend several of these meetings throughout the semester."
   },
   {
-    "title": "Rocky's Closet - International Transgender day of Visibility",
-    "date": "2026-04-01T14:00:00+00:00",
-    "organization": "Advocacy and Outreach",
-    "location": "Alice Paul Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12379030",
-    "description": "Rocky's Closet Celebrates International Transgender Day of Visibility! \n Come to Rocky's Closet\u00a0for FREE gender affirming clothing, accessories, and more! \n \u00a0 \n Date & Time: Wednesday, April 1st. 10am to 4pm. \n \ud83d\udccd: The Village - Alice Paul Hall, 4th Floor"
-  },
-  {
-    "title": "Phi Sigma Sigma Spin the Wheel Challenge",
+    "title": "Powered By Pearls: Boba Fundraiser",
     "date": "2026-04-01T16:00:00+00:00",
-    "organization": "Phi Sigma Sigma",
-    "location": "Student Center 2C02 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12346869",
-    "description": "Spin the wheel challenge: anyone can come up and spin the wheel for a small challenge and win a prize! All proceeds will go to our local philanthropy, the Make-A-Wish Foundation. It will be located outside the student center, like maybe the quad or something, from 12 to 4."
+    "organization": "The Chinese Heritage & Cultural Society",
+    "location": "Student Center 2C04 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12057011",
+    "description": "What you thought two was enough? Not a chance. Fuel your day with boba and purpose at our Powered By Pearls Boba Fundraiser! Power By Pearls serves up boba tea while helping to support CHCS initiatives. Sip, socialize and contribute to something bigger than your boba addiction. Every cup counts. Yes, even the extra pearls."
   },
   {
     "title": "School of Nursing Bake Sale",
@@ -352,12 +288,28 @@
     "description": "Celebrate April Fools\u2019 Day with a fun and interactive fundraiser\u00a0Pie a Member. Participants can donate for the chance to pie a selected E-Board member (safely and respectfully). \n This event is designed to bring the campus community together while raising funds to support club activities, educational programming, and future events. It\u2019s open to everyone looking to participate or spectate. All proceeds go directly toward supporting the organization. \n \ud83d\udccd On-campus event \ud83e\udd67 Donations required to participate \ud83c\udfaf Limited pies available"
   },
   {
+    "title": "Rocky's Closet - International Transgender day of Visibility",
+    "date": "2026-04-01T14:00:00+00:00",
+    "organization": "Advocacy and Outreach",
+    "location": "Alice Paul Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12379030",
+    "description": "Rocky's Closet Celebrates International Transgender Day of Visibility! \n Come to Rocky's Closet\u00a0for FREE gender affirming clothing, accessories, and more! \n \u00a0 \n Date & Time: Wednesday, April 1st. 10am to 4pm. \n \ud83d\udccd: The Village - Alice Paul Hall, 4th Floor"
+  },
+  {
     "title": "Vino Blanco Informational",
     "date": "2026-03-31T18:00:00+00:00",
     "organization": "Bloomfield Lambda Tau Omega Sorority, Inc.",
     "location": "Bloomfield - Talbott Hall TM04 - Room of Excellence",
     "link": "https://montclair.campuslabs.com/engage/event/12348551",
     "description": "Our Vino Blanco Informational is a time where interested women can come together to learn about our organization, what it means to be a Mermaid, and the steps in order to pursue our new member education process."
+  },
+  {
+    "title": "Phi Sigma Sigma Spin the Wheel Challenge",
+    "date": "2026-04-01T16:00:00+00:00",
+    "organization": "Phi Sigma Sigma",
+    "location": "Student Center 2C02 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12346869",
+    "description": "Spin the wheel challenge: anyone can come up and spin the wheel for a small challenge and win a prize! All proceeds will go to our local philanthropy, the Make-A-Wish Foundation. It will be located outside the student center, like maybe the quad or something, from 12 to 4."
   },
   {
     "title": "CALI SCHOOL OF MUSIC: Ashley Hall-Tighe Masterclass",
@@ -424,14 +376,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
   },
   {
-    "title": "BFA Visual Communications Design Graduate Exhibition",
-    "date": "2026-04-01T15:00:00+00:00",
-    "organization": "Art and Design",
-    "location": "Finley Gallery, Finley Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12352695",
-    "description": "The Department of Art & Design invites you to  From the Basement , the BFA Visual Communications Design 2026 Graduate Exhibition. Join us at the Finley Gallery from March 25 to April 7 to experience a dynamic showcase of work by graduating VCDS students, featuring posters, motion graphics, packaging, editorial, and more. With the opening reception on Friday, March 27, 4 to 6pm. \n \u00a0 \n Venture into the world of graphic design at the VCDS 2026 graduate exhibition,  From the Basement.  This exhibition highlights the work of graduating Visual Communication Design students and the projects they developed throughout their time in the VCDS BFA program. A range of mediums will be featured, including posters, motion graphics, packaging, editorial, and more! Together, these works reflect the unique styles and creative voices of the class. \n \u00a0 \n Featured Designers: \n Jalen Aguirre, Ysabella De Leon, Brett Diese, Domenic Falivene, Anna Fronczkowski, Tori Gallagher, Camila Garcia, Robert Gaskill, Britany Giraldo, David Guerra, Audrey Hitchens, Natalia Kurpiewski, Paolo La Rosa, Izzy Latella, Katie Mascuch, Caitlin Mendoza, Evan Okun, Erika Oliva, Julia Oliveri, Christian Pajaro, Nicole Ricci, Christopher Rizzi, Casey Ryu, Tom Sheridan, Michael Shimabukuro, Gabby Trezza, Maral Tutunjian, and Dogan Uludogan \n \u00a0 \n BFA Visual Communications Design Graduate Exhibition \n Exhibition dates: March 25\u2013April 7, 2026 \n Opening Reception: Friday, March 27, 4\u20136pm \n Finley Gallery, Finley Hall \n \u00a0 \n Come meet the designers and celebrate their work! Support the next generation of designers as they transition from academia into the professional world."
-  },
-  {
     "title": "Red Hawk Pantry",
     "date": "2026-04-01T21:00:00+00:00",
     "organization": "Red Hawk Pantry",
@@ -446,6 +390,14 @@
     "location": "Student Recreation Center PLAE Room",
     "link": "https://montclair.campuslabs.com/engage/event/12179123",
     "description": "Step into the brand-new PLAE Room and discover upLIFT\u2014a judgement-free program designed to help every student, from complete beginners to seasoned gym-goers, feel confident and capable with free-weight training. Learn proper lifting technique, get personalized form checks, and master the basics of creating your own effective workout programs. Whether you\u2019re looking to meet other students who love to lift, pursue new fitness goals, or simply feel more at home in the weight room, upLIFT offers a supportive community and a dedicated space to grow. The program is structured for steady progression throughout the semester, but you\u2019re welcome to drop in anytime and join at your own pace. \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Beginning February 3, ending April 23 \n Tuesdays 3 PM - 4 PM, Wednesdays 6 PM - 7 PM, and Thursdays 2 PM - 3 PM \n Student Recreation Center PLAE Room"
+  },
+  {
+    "title": "BFA Visual Communications Design Graduate Exhibition",
+    "date": "2026-04-01T15:00:00+00:00",
+    "organization": "Art and Design",
+    "location": "Finley Gallery, Finley Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12352695",
+    "description": "The Department of Art & Design invites you to  From the Basement , the BFA Visual Communications Design 2026 Graduate Exhibition. Join us at the Finley Gallery from March 25 to April 7 to experience a dynamic showcase of work by graduating VCDS students, featuring posters, motion graphics, packaging, editorial, and more. With the opening reception on Friday, March 27, 4 to 6pm. \n \u00a0 \n Venture into the world of graphic design at the VCDS 2026 graduate exhibition,  From the Basement.  This exhibition highlights the work of graduating Visual Communication Design students and the projects they developed throughout their time in the VCDS BFA program. A range of mediums will be featured, including posters, motion graphics, packaging, editorial, and more! Together, these works reflect the unique styles and creative voices of the class. \n \u00a0 \n Featured Designers: \n Jalen Aguirre, Ysabella De Leon, Brett Diese, Domenic Falivene, Anna Fronczkowski, Tori Gallagher, Camila Garcia, Robert Gaskill, Britany Giraldo, David Guerra, Audrey Hitchens, Natalia Kurpiewski, Paolo La Rosa, Izzy Latella, Katie Mascuch, Caitlin Mendoza, Evan Okun, Erika Oliva, Julia Oliveri, Christian Pajaro, Nicole Ricci, Christopher Rizzi, Casey Ryu, Tom Sheridan, Michael Shimabukuro, Gabby Trezza, Maral Tutunjian, and Dogan Uludogan \n \u00a0 \n BFA Visual Communications Design Graduate Exhibition \n Exhibition dates: March 25\u2013April 7, 2026 \n Opening Reception: Friday, March 27, 4\u20136pm \n Finley Gallery, Finley Hall \n \u00a0 \n Come meet the designers and celebrate their work! Support the next generation of designers as they transition from academia into the professional world."
   },
   {
     "title": "Praise Dance Practice",
@@ -624,6 +576,14 @@
     "description": "M.I.L.F. (Montclair Improv League and Friends) Round 4 rehearsals."
   },
   {
+    "title": "Complexions Practice",
+    "date": "2026-04-02T00:30:00+00:00",
+    "organization": "Complexions",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/12387443",
+    "description": "Complexions wil be practicing for their upcoming gala."
+  },
+  {
     "title": "Group X - Cycling",
     "date": "2026-04-02T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -670,6 +630,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12079494",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 1pm - 1:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Angel"
+  },
+  {
+    "title": "Protect Your Crown ",
+    "date": "2026-04-02T17:00:00+00:00",
+    "organization": "National Association for the Advancement of Colored People",
+    "location": "Student Center 2C01 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12387440",
+    "description": "Join us for  Protect Your Crown , an empowering and educational tabling experience centered on the beauty, history, and politics of Black and Brown hair. This space is dedicated to raising awareness, sparking conversation, and encouraging pride in our natural identities."
   },
   {
     "title": "Autism Awareness Walk",
@@ -1128,6 +1096,14 @@
     "description": "Tickets & Parking Info \n School Spirit Survey"
   },
   {
+    "title": "Holi with SASA!",
+    "date": "2026-04-04T17:00:00+00:00",
+    "organization": "South Asian Student Association",
+    "location": "Lot 45",
+    "link": "https://montclair.campuslabs.com/engage/event/12387673",
+    "description": "Join us this Saturday to celebrate the festival of colors at Lot 45! We will have lots of music, dancing, and colors to play with!\u00a0 \n All MSU and Bloomfield College students welcome!"
+  },
+  {
     "title": "Softball vs. Rutgers - Newark (DH)",
     "date": "2026-04-04T17:00:00+00:00",
     "organization": "Athletics",
@@ -1446,6 +1422,14 @@
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12119798",
     "description": "Join the Worship Warriors in fellowship as we honor the Lord through dance!"
+  },
+  {
+    "title": "Residence Life and NAfME End of Year Event",
+    "date": "2026-04-06T23:00:00+00:00",
+    "organization": "Freeman Hall & Russ Hall",
+    "location": "Russ Hall KOPS Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12387153",
+    "description": "Join Residence Life and NAfME in their final event of the semester!"
   },
   {
     "title": "MSDC Bingo",
@@ -3912,6 +3896,14 @@
     "description": "Raising money for our philanthropy paying to pie sisters."
   },
   {
+    "title": "Mother Earth Arts Fest",
+    "date": "2026-04-15T18:00:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Alumni Green",
+    "link": "https://montclair.campuslabs.com/engage/event/12388335",
+    "description": "This event is a fun celebration of creativity, culture and community bringing students together to honor Earth Day. \ud83c\udf0e \n Throughout the afternoon, participants can engage in a range of hands-on activities such as sun printing, painting sessions, flower pot painting, and dreamcatcher making. There will also be a special performance by the LASO Dance Troupe, highlighting the student talent on campus. \n Designed to inspire creativity and appreciation for nature, the event offers a welcoming space for students to create and enjoy a lively atmosphere outdoors. We invite everyone on and off campus to come together, celebrate the arts, and enjoy a fun-filled day under the sun. \u2600\ufe0f"
+  },
+  {
     "title": "MASA General Miembro Meeting",
     "date": "2026-04-15T19:30:00+00:00",
     "organization": "Mexican-American Student Association",
@@ -4576,12 +4568,28 @@
     "description": "Have a lot on your mind? Come make your own personalized journal/notebook to use as you wish! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "A Seat at the Table: Networking Dinner",
+    "date": "2026-04-18T23:00:00+00:00",
+    "organization": "Association of Latino Professionals For America",
+    "location": "University Hall 7500 - Conference Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12387900",
+    "description": "Join us for an intimate networking dinner bringing together students, alumni, and professionals for meaningful conversation and connection. Through shared meals and open dialogue, attendees will have the opportunity to learn from one another, explore career paths, and build relationships in a supportive and welcoming space. \n Pull up a seat, share a meal, and leave with connections that last."
+  },
+  {
     "title": "Into the Woods ",
     "date": "2026-04-18T15:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12031433",
     "description": "Players invites you to our 2026 Musical production,  Into the Woods . All ticket purchases are directed through Eventbrite. \n Fri, Apr 17 @7pm \n Sat, Apr 18 @2pm & 7pm \n Sun, Apr 19 @2pm"
+  },
+  {
+    "title": "Montclair Masters: Super Smash Bros Ultimate Tournament",
+    "date": "2026-04-18T17:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "University Hall 1010",
+    "link": "https://montclair.campuslabs.com/engage/event/12387863",
+    "description": "How do I Sign-up? \n \n 5 dollars entry for MSU Students \n \n When and Where? \n \n University Hall 1010 \n April 18th, 1pm-10pm"
   },
   {
     "title": "Lakota Wolf Preserve",
@@ -5968,6 +5976,14 @@
     "description": "Celebrate the end of our 2025-2026 dance year with the Montclair State Dance Company. There will be food, fun, and lots of dancing."
   },
   {
+    "title": "Kappa x Kappa Chips and Salsa",
+    "date": "2026-04-24T23:30:00+00:00",
+    "organization": "Chi Upsilon Sigma National Latin Sorority, INC",
+    "location": "University Hall 7500 - Conference Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12388058",
+    "description": "The Kappa Chapter of Chi Upsilon Sigma National Latin Sorority, Inc x the Kappa Chapter of Lambda Theta Phi Fraternity, Inc invite you to Salsa Night! Whether you\u2019re a beginner or advanced, this is a night you don\u2019t want to miss! Learn salsa with professional instructors, enjoy good food, and enter our raffle. Come for the vibes, stay for the dance!"
+  },
+  {
     "title": "Players\u2019 2026 Cabaret",
     "date": "2026-04-25T00:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -5982,6 +5998,14 @@
     "location": "Montclair campus, Student Center, Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/12262573",
     "description": "Start your Saturday morning together at the Opening Breakfast Buffet. Enjoy a delicious spread of breakfast favorites while connecting with other Red Hawk families and campus partners. It\u2019s the perfect way to fuel up, relax and kick off a full day of Family Weekend activities."
+  },
+  {
+    "title": "Pillar Care ",
+    "date": "2026-04-25T14:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Pillar High School 77 Okner Pkwy, Livingston,Nj",
+    "link": "https://montclair.campuslabs.com/engage/event/12387985",
+    "description": "How do I Sign-up? \n \n Register in the Student Recreation Center main office, on  Fusion , or over the phone (973-655-3340). \n FREE with valid Montclair State ID \n \n When and Where? \n \n Pillar High School 77 Okner Pkwy, Livingston,Nj \n Saturday, April 25, 2026 \n 10:00am \u2013 12:30pm"
   },
   {
     "title": "Red Hawk Pantry ",
@@ -6088,6 +6112,14 @@
     "description": "Come join us for our annual Spring concert! We would love to see you all there."
   },
   {
+    "title": "SASA Banquet 2026!",
+    "date": "2026-04-25T23:00:00+00:00",
+    "organization": "South Asian Student Association",
+    "location": "Jyoti Restaurant ",
+    "link": "https://montclair.campuslabs.com/engage/event/12387950",
+    "description": "Join us for our last event of the semester and celebrate our 2026 SASA family! \n The banquet will be taking place at Jyoti Restaurant in Wayne, NJ from 7pm-11pm.\u00a0 \n Western formal attire encouraged, but feel free to wear what you're comfortable in.\u00a0 \n All Montclair State University and Bloomfield College students welcome!"
+  },
+  {
     "title": "Family Weekend ",
     "date": "2026-04-23T16:00:00+00:00",
     "organization": "Parent & Family Programs ",
@@ -6142,6 +6174,14 @@
     "location": "Stone Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12323233",
     "description": "Decorate your own succulent pot! A fun, relaxing way to celebrate spring and Earth Day while adding some greenery to your space. All are welcome, commuters must be signed in by a resident of Montclair State University."
+  },
+  {
+    "title": "LASO Banquet",
+    "date": "2026-04-26T22:00:00+00:00",
+    "organization": "Latin American Student Organization",
+    "location": "University Hall 7500 - Conference Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12387965",
+    "description": "Join us for a Carnival\u2013inspired banquet celebrating community and joy. Enjoy music, vibrant d\u00e9cor, and culture in a welcoming campus space designed for connection and celebration."
   },
   {
     "title": "Mindfulness Meditation ",
@@ -6502,6 +6542,14 @@
     "location": "Cole Hall 141",
     "link": "https://montclair.campuslabs.com/engage/event/11332857",
     "description": "Our Safe Space Training is an intensive, interactive training that provides attendees with information and tools to combat homophobia, biphobia, transphobia, cissexism and heterosexism, on campus and beyond. Through interactive activities and discussion, participants will personally reflect on their own experiences to enhance their personal and professional development, provide further education, and finally, identify ways to create change on campus and beyond. \n All sessions are three hours and are first-come, first-served. Pre-registration is required. Registrants are expected to attend the full session. Only individuals who have fully completed the Safe Space Program and have agreed to the expectations of its membership are able to display the sticker/button of our program. Refreshments are not provided; however, you are more than welcome to bring your lunch, coffee, snacks, etc."
+  },
+  {
+    "title": "Study Abroad Fair Fall 2026",
+    "date": "2026-09-09T17:30:00+00:00",
+    "organization": "Office of International Academic Initiatives",
+    "location": "Student Center Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/12388181",
+    "description": "Ready to take your education global? Join us at the Study Abroad Fair and explore a world of opportunities waiting just beyond your campus. Discover programs around the world, meet representatives from our partners and providers, and hear firsthand stories from students who\u2019ve already taken the leap. \n Whether you're dreaming of practicing your language skills, expanding your horizons in a new corner of the globe, or even seeing a different part of the United States, this is your chance to find the perfect fit. Learn about scholarships, internships, and how to make your journey abroad both affordable and unforgettable. \n \ud83d\udcc5 Date: Wednesday, September 9, 2026 \ud83d\udccd Location: Student Center Ballrooms \u23f0 Time: 1:30-3:30pm"
   },
   {
     "title": "CSAM Internship (Co-op) Workshop!",
