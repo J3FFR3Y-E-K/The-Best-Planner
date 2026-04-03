@@ -1,37 +1,5 @@
 [
   {
-    "title": "Group X - Pilates",
-    "date": "2026-04-03T15:15:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12108327",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Fridays, 01/20 - 04/24 \n 11:15am - 12:00pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Bridget"
-  },
-  {
-    "title": "Group X - Cycling",
-    "date": "2026-04-03T16:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/12108294",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Fridays, 01/20 - 04/24 \n 12pm - 12:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
-  },
-  {
-    "title": "Group X - Zumba",
-    "date": "2026-04-03T17:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12108231",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 01/20 - 04/24 \n 1:00pm - 1:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Pamela"
-  },
-  {
-    "title": "First-Gen Healthcare Leaders General body meeting",
-    "date": "2026-04-03T17:30:00+00:00",
-    "organization": "First-Generation Healthcare Leaders",
-    "location": "University Hall 2002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12353780",
-    "description": "Join us to learn more about our upcoming events and leadership opportunities available this semester!"
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2026-04-03T18:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4515,14 +4483,6 @@
     "title": "Bake Sale",
     "date": "2026-04-21T16:00:00+00:00",
     "organization": "Students for Justice in Palestine",
-    "location": "Student Center 2C01 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12350163",
-    "description": "Students for Justice in Palestine will be holding a bake sale, come show your support and get a tasty treat!"
-  },
-  {
-    "title": "Bake Sale",
-    "date": "2026-04-21T16:00:00+00:00",
-    "organization": "Students for Justice in Palestine",
     "location": "Student Center Quad Information Table 2 - Information Table 2",
     "link": "https://montclair.campuslabs.com/engage/event/12385068",
     "description": "Students for Justice in Palestine will be holding a bake sale, come show your support and get a tasty treat!"
@@ -4768,20 +4728,20 @@
     "description": "Join us for Study Hall + Crafts, a productive yet relaxing event where you can get work done and take creative breaks with fun crafts!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "VOU WEEK 2: Game Night",
-    "date": "2026-04-22T00:30:00+00:00",
-    "organization": "Voices of Unity",
-    "location": "University Hall 3006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12388583",
-    "description": "Welcome again!! Are you ready to get your game on? Come and join us to play some classic games like UNO, board games, and maybe even trivia! Show us what you got."
-  },
-  {
     "title": "STEM Synergy Escape Room",
     "date": "2026-04-22T00:30:00+00:00",
     "organization": "STEM Synergy",
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12393466",
     "description": "Join the ladies of STEM Synergy for some science themed fun! Come test your wit and hopefully win a prize!!!"
+  },
+  {
+    "title": "VOU WEEK 2: Game Night",
+    "date": "2026-04-22T00:30:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "University Hall 3006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12388583",
+    "description": "Welcome again!! Are you ready to get your game on? Come and join us to play some classic games like UNO, board games, and maybe even trivia! Show us what you got."
   },
   {
     "title": "Group X - HIIT",
