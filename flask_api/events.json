@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2026-04-03T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12108448",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 01/20 - 04/24 \n 10:00am - 10:45am \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Group X - Pilates",
     "date": "2026-04-03T15:15:00+00:00",
     "organization": "Campus Recreation",
@@ -2789,7 +2781,7 @@
     "organization": "Student Development and Campus Life",
     "location": "Dean of Students Office",
     "link": "https://montclair.campuslabs.com/engage/event/12247377",
-    "description": ""
+    "description": "If the end of the semester has you stressed, pop or hop on by to the Dean of Students' Office to de-stress with snacks, bubble wrap, and prizes!"
   },
   {
     "title": "Bear Necessities Pantry ",
@@ -3744,20 +3736,20 @@
     "description": "Create and paint ceramic plants that never need watering. Perfect for adding some personality to your room or desk."
   },
   {
-    "title": "Shooting Stars Art Showcase",
-    "date": "2026-04-16T23:00:00+00:00",
-    "organization": "Daughta Speaks",
-    "location": "Student Center Underground - The Underground",
-    "link": "https://montclair.campuslabs.com/engage/event/12346987",
-    "description": "Daughta Speaks invites you to reach for the stars at our Shooting Stars Art Showcase! Bear witness to a variety of queer artists whose work breaches the fabric of our reality and creates a fresh and exciting dreamscape full of possibility and wonder. For more information, be sure to check our Instagram:\u00a0 @daughtaspeaks.msu \n Part of Daughta's Pink Diamond Week"
-  },
-  {
     "title": "CALI SCHOOL OF MUSIC | Flute Masterclass with Jennifer Grim",
     "date": "2026-04-16T23:00:00+00:00",
     "organization": "The College of the Arts",
     "location": "Room 201",
     "link": "https://montclair.campuslabs.com/engage/event/12353914",
     "description": "Flute Masterclass with Jennifer Grim \n Jennifer Grim,  professor at the  University of Miami,  will present a masterclass for the Cali flute studio, where students will perform and receive individualized feedback. \n Praised by  The New York Times   as \u201ca deft, smooth flute soloist,\u201d  Jennifer Grim  is a versatile performer whose work spans solo, chamber, and orchestral stages worldwide. \n A member of the flute-percussion duo  Solidaire  and contemporary ensemble  Flagelot , she has collaborated with leading groups including the  Boston Chamber Music Society  and  Chamber Music Society of Lincoln Center .  Her acclaimed album  T hrough Broken Time  reflects her strong commitment to contemporary music. \n Grim is Professor and Chair of Instrumental Performance at the  Frost School of Music, University of Miami,  and serves as President of the  National Flute Association Board."
+  },
+  {
+    "title": "Shooting Stars Art Showcase",
+    "date": "2026-04-16T23:00:00+00:00",
+    "organization": "Daughta Speaks",
+    "location": "Student Center Underground - The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12346987",
+    "description": "Daughta Speaks invites you to reach for the stars at our Shooting Stars Art Showcase! Bear witness to a variety of queer artists whose work breaches the fabric of our reality and creates a fresh and exciting dreamscape full of possibility and wonder. For more information, be sure to check our Instagram:\u00a0 @daughtaspeaks.msu \n Part of Daughta's Pink Diamond Week"
   },
   {
     "title": "Into the Woods Tech Rehearsal",
@@ -4856,20 +4848,20 @@
     "description": "Help bring the campus pathways to life! Join us for a fun, creative outdoor event where you can decorate the sidewalk with colorful chalk designs. Whether you\u2019re drawing big, bold art or simple uplifting messages, stop by and add your mark to our bright community mural. All chalk provided! \n \u00a0 \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Thursday, April 22 \n 1pm-3pm, must be checked in by 2:30pm to participate \n Front of Susan A. Cole Hall"
   },
   {
-    "title": "Bible Talk",
-    "date": "2026-04-22T18:00:00+00:00",
-    "organization": "Alpha Omega",
-    "location": "University Hall 2007 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12384144",
-    "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
-  },
-  {
     "title": "Finance Society: Finance Alumni Guest Panel ",
     "date": "2026-04-22T18:00:00+00:00",
     "organization": "Finance Society",
     "location": "UNIV 1020",
     "link": "https://montclair.campuslabs.com/engage/event/12373834",
     "description": "We\u2019re excited to host our Finance Guest Panel on April 22nd. \n Join us as Kenny Santos (Financial Advisor at Merrill Lynch), Sebastian Jaramillo (Operations Associate at PGIM), and Clint Ochieng (Finance Rotational Program at Comcast) share insights on their career paths and experiences across different areas of finance. \n \ud83d\udcc5 April 22nd \u23f0 2:00\u20133:30 PM \ud83d\udccd UNIV 1020"
+  },
+  {
+    "title": "Bible Talk",
+    "date": "2026-04-22T18:00:00+00:00",
+    "organization": "Alpha Omega",
+    "location": "University Hall 2007 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12384144",
+    "description": "Public Bible discussion open to all who are looking to grow in their relationship with God/Jesus. It's a great opportunity to come with questions and engage with students who are also looking to develop their faith. This is typically a 30-minute discussion (with snacks)."
   },
   {
     "title": "CSAM Science Teaching Program - Program Meeting",
