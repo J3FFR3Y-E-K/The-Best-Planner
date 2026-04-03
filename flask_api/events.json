@@ -4776,20 +4776,20 @@
     "description": "Join us for Study Hall + Crafts, a productive yet relaxing event where you can get work done and take creative breaks with fun crafts!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "VOU WEEK 2: Game Night",
-    "date": "2026-04-22T00:30:00+00:00",
-    "organization": "Voices of Unity",
-    "location": "University Hall 3006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12388583",
-    "description": "Welcome again!! Are you ready to get your game on? Come and join us to play some classic games like UNO, board games, and maybe even trivia! Show us what you got."
-  },
-  {
     "title": "STEM Synergy Escape Room",
     "date": "2026-04-22T00:30:00+00:00",
     "organization": "STEM Synergy",
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12393466",
     "description": "Join the ladies of STEM Synergy for some science themed fun! Come test your wit and hopefully win a prize!!!"
+  },
+  {
+    "title": "VOU WEEK 2: Game Night",
+    "date": "2026-04-22T00:30:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "University Hall 3006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12388583",
+    "description": "Welcome again!! Are you ready to get your game on? Come and join us to play some classic games like UNO, board games, and maybe even trivia! Show us what you got."
   },
   {
     "title": "Group X - HIIT",
