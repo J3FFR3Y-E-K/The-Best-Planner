@@ -1,21 +1,5 @@
 [
   {
-    "title": "complexions practice",
-    "date": "2026-04-03T22:30:00+00:00",
-    "organization": "Complexions",
-    "location": "University Hall 2002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12384842",
-    "description": "the team will be coming together to learn choreography for the CX birthday gala"
-  },
-  {
-    "title": "CSAM Career Services Resume Presentation (Asynchrounous)",
-    "date": "2026-02-04T05:00:00+00:00",
-    "organization": "College of Science and Mathematics (CSAM) Career Services",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12234902",
-    "description": "Workshop \n Watch this CSAM Resume Presentation anytime! You will learn about the basics of the format, essential categories to include in your resume, and more in this presentation.\u00a0 \n Please log in and join the meeting through Handshake, as this will automatically mark you as registered for the event. \n https://montclair.joinhandshake.com/events/1907099/share_preview"
-  },
-  {
     "title": "EOF Pride Day 2026",
     "date": "2026-04-04T14:00:00+00:00",
     "organization": "Bloomfield College of Montclair State University Educational Opportunity Fund Program",
@@ -1365,7 +1349,7 @@
     "organization": "Bloomfield's Office of Residence Life",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12313676",
-    "description": "Join RA Hafiz for a creative, hands-on program where residents design and craft their own personalized dreamcatchers while relaxing, socializing, and expressing their creativity in a welcoming community space. \n \u00a0 \n Location: 225 Liberty Lobby"
+    "description": ""
   },
   {
     "title": "Bible Series:  History of The Passover",
@@ -4672,20 +4656,20 @@
     "description": "Join us for Study Hall + Crafts, a productive yet relaxing event where you can get work done and take creative breaks with fun crafts!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "VOU WEEK 2: Game Night",
-    "date": "2026-04-22T00:30:00+00:00",
-    "organization": "Voices of Unity",
-    "location": "University Hall 3006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12388583",
-    "description": "Welcome again!! Are you ready to get your game on? Come and join us to play some classic games like UNO, board games, and maybe even trivia! Show us what you got."
-  },
-  {
     "title": "STEM Synergy Escape Room",
     "date": "2026-04-22T00:30:00+00:00",
     "organization": "STEM Synergy",
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12393466",
     "description": "Join the ladies of STEM Synergy for some science themed fun! Come test your wit and hopefully win a prize!!!"
+  },
+  {
+    "title": "VOU WEEK 2: Game Night",
+    "date": "2026-04-22T00:30:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "University Hall 3006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12388583",
+    "description": "Welcome again!! Are you ready to get your game on? Come and join us to play some classic games like UNO, board games, and maybe even trivia! Show us what you got."
   },
   {
     "title": "Group X - HIIT",
