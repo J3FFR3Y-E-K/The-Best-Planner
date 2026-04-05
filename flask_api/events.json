@@ -160,20 +160,20 @@
     "description": "CHAD general body meeting"
   },
   {
-    "title": "French Conversation Hour With Assane K! Every Monday",
-    "date": "2026-04-06T18:00:00+00:00",
-    "organization": "College of Humanities and Social Sciences (CHSS)",
-    "location": "Schmitt Hall Lounge 218",
-    "link": "https://montclair.campuslabs.com/engage/event/12329410",
-    "description": "Conversation Avec Assane K! Lundi 2:00PM - 3:00PM Schmitt Lounge, 218 Mondays | Join us for: SNACKS! FREE FRENCH CONVERSATION! BOARD GAMES! All are welcome!"
-  },
-  {
     "title": "General Body Meeting ",
     "date": "2026-04-06T18:00:00+00:00",
     "organization": "The Public Health Association at Montclair State University",
     "location": "University Hall 2032 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12234316",
     "description": "Want to learn more about the world around you? The Public Health Association is the perfect place to start! We invite you to join us to meet and have an educational discussion about how health applies to more everyday events than we may think. Hope to see you there."
+  },
+  {
+    "title": "French Conversation Hour With Assane K! Every Monday",
+    "date": "2026-04-06T18:00:00+00:00",
+    "organization": "College of Humanities and Social Sciences (CHSS)",
+    "location": "Schmitt Hall Lounge 218",
+    "link": "https://montclair.campuslabs.com/engage/event/12329410",
+    "description": "Conversation Avec Assane K! Lundi 2:00PM - 3:00PM Schmitt Lounge, 218 Mondays | Join us for: SNACKS! FREE FRENCH CONVERSATION! BOARD GAMES! All are welcome!"
   },
   {
     "title": "Cru Bible Study! ",
@@ -2629,7 +2629,7 @@
     "organization": "Student Life At Montclair (SLAM)",
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/12176421",
-    "description": "Come hang out with the SLAM E-Board and get involved in shaping our events for the semester! Our General Body Meetings are a space for students to learn about upcoming programs, share ideas, and help plan and execute events that bring the campus together. Whether you\u2019re interested in event planning, marketing, logistics, or just want your voice heard, this is the place to be. We\u2019ll be discussing what\u2019s ahead for the semester, ways to get involved, and how you can make a real impact through SLAM. No experience is needed\u2014just bring your ideas, energy, and excitement to collaborate with us!"
+    "description": ""
   },
   {
     "title": "Hop on By",
