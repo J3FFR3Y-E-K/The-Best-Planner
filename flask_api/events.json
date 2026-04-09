@@ -1941,7 +1941,7 @@
     "organization": "WMSC 90.3 FM",
     "location": "College of Communication and Media Room 1020",
     "link": "https://montclair.campuslabs.com/engage/event/12176465",
-    "description": "WMSC's weekly member meeting to go over the newest and most important information regarding the station, and what each team is up to. \n \u00a0 \n On-air DJs are required to attend several of these meetings throughout the semester."
+    "description": ""
   },
   {
     "title": "Spring Cleaning: Clothing Drive",
@@ -2141,7 +2141,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12079372",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 12pm - 12:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Maddie"
+    "description": ""
   },
   {
     "title": "Craft Day",
@@ -2408,20 +2408,20 @@
     "description": "Create and paint ceramic plants that never need watering. Perfect for adding some personality to your room or desk."
   },
   {
-    "title": "Shooting Stars Art Showcase",
-    "date": "2026-04-16T23:00:00+00:00",
-    "organization": "Daughta Speaks",
-    "location": "Student Center Underground - The Underground",
-    "link": "https://montclair.campuslabs.com/engage/event/12346987",
-    "description": "Daughta Speaks invites you to reach for the stars at our Shooting Stars Art Showcase! Bear witness to a variety of queer artists whose work breaches the fabric of our reality and creates a fresh and exciting dreamscape full of possibility and wonder. For more information, be sure to check our Instagram:\u00a0 @daughtaspeaks.msu \n Part of Daughta's Pink Diamond Week"
-  },
-  {
     "title": "CALI SCHOOL OF MUSIC | Flute Masterclass with Jennifer Grim",
     "date": "2026-04-16T23:00:00+00:00",
     "organization": "The College of the Arts",
     "location": "Room 201",
     "link": "https://montclair.campuslabs.com/engage/event/12353914",
     "description": "Flute Masterclass with Jennifer Grim \n Jennifer Grim,  professor at the  University of Miami,  will present a masterclass for the Cali flute studio, where students will perform and receive individualized feedback. \n Praised by  The New York Times   as \u201ca deft, smooth flute soloist,\u201d  Jennifer Grim  is a versatile performer whose work spans solo, chamber, and orchestral stages worldwide. \n A member of the flute-percussion duo  Solidaire  and contemporary ensemble  Flagelot , she has collaborated with leading groups including the  Boston Chamber Music Society  and  Chamber Music Society of Lincoln Center .  Her acclaimed album  T hrough Broken Time  reflects her strong commitment to contemporary music. \n Grim is Professor and Chair of Instrumental Performance at the  Frost School of Music, University of Miami,  and serves as President of the  National Flute Association Board."
+  },
+  {
+    "title": "Shooting Stars Art Showcase",
+    "date": "2026-04-16T23:00:00+00:00",
+    "organization": "Daughta Speaks",
+    "location": "Student Center Underground - The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12346987",
+    "description": "Daughta Speaks invites you to reach for the stars at our Shooting Stars Art Showcase! Bear witness to a variety of queer artists whose work breaches the fabric of our reality and creates a fresh and exciting dreamscape full of possibility and wonder. For more information, be sure to check our Instagram:\u00a0 @daughtaspeaks.msu \n Part of Daughta's Pink Diamond Week"
   },
   {
     "title": "Into the Woods Tech Rehearsal",
@@ -3552,20 +3552,20 @@
     "description": "Join us for Study Hall + Crafts, a productive yet relaxing event where you can get work done and take creative breaks with fun crafts!\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "STEM Synergy Escape Room",
-    "date": "2026-04-22T00:30:00+00:00",
-    "organization": "STEM Synergy",
-    "location": "University Hall 2010 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12393466",
-    "description": "Join the ladies of STEM Synergy for some science themed fun! Come test your wit and hopefully win a prize!!!"
-  },
-  {
     "title": "VOU WEEK 2: Game Night",
     "date": "2026-04-22T00:30:00+00:00",
     "organization": "Voices of Unity",
     "location": "University Hall 3006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12388583",
     "description": "Welcome again!! Are you ready to get your game on? Come and join us to play some classic games like UNO, board games, and maybe even trivia! Show us what you got."
+  },
+  {
+    "title": "STEM Synergy Escape Room",
+    "date": "2026-04-22T00:30:00+00:00",
+    "organization": "STEM Synergy",
+    "location": "University Hall 2010 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12393466",
+    "description": "Join the ladies of STEM Synergy for some science themed fun! Come test your wit and hopefully win a prize!!!"
   },
   {
     "title": "Sinners Fork and Film",
