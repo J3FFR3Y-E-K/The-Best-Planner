@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2026-04-10T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12108449",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 01/20 - 04/24 \n 10:00am - 10:45am \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Creators' Corner: Shop Wear Revive",
     "date": "2026-04-10T15:00:00+00:00",
     "organization": "Feliciano Center for Entrepreneurship and Innovation",
@@ -96,20 +88,20 @@
     "description": "Rain or shine, these pups are ready to play! Create an adorable rainy day dog craft with colorful raincoats, umbrellas, and lots of puppy smiles.\u00a0 \n \n \n Take-and-Make craft kits are available for pick up at the Drop-In Center during business hours starting Wednesday, April 1st, 2026. While supplies last! FREE for students with a valid Montclair or Bloomfield campus ID. Designs may vary. Craft kits include adhesive, foam pieces, and a magnet!"
   },
   {
-    "title": "NAACP Earth Day Display",
-    "date": "2026-04-10T13:00:00+00:00",
-    "organization": "National Association for the Advancement of Colored People",
-    "location": "Student Center Window - Window",
-    "link": "https://montclair.campuslabs.com/engage/event/12389748",
-    "description": "Informational displays about the environmental impact on urban cities and people of color."
-  },
-  {
     "title": "Group X - BJJ",
     "date": "2026-04-10T19:30:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12108086",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 3:30pm- 5:00pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
+  },
+  {
+    "title": "NAACP Earth Day Display",
+    "date": "2026-04-10T13:00:00+00:00",
+    "organization": "National Association for the Advancement of Colored People",
+    "location": "Student Center Window - Window",
+    "link": "https://montclair.campuslabs.com/engage/event/12389748",
+    "description": "Informational displays about the environmental impact on urban cities and people of color."
   },
   {
     "title": "Spring's FUR Picnics!",
@@ -126,14 +118,6 @@
     "location": "Yogi Berra Stadium",
     "link": "https://montclair.campuslabs.com/engage/event/12324873",
     "description": "Tickets & Parking Info \n School Spirit Survey"
-  },
-  {
-    "title": "BFA Illustration Thesis Exhibition",
-    "date": "2026-04-10T15:00:00+00:00",
-    "organization": "Art and Design",
-    "location": "Finley Gallery, Finley Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12405391",
-    "description": "The Department of Art & Design proudly presents the BFA Illustration Thesis Exhibition, a vibrant celebration of the talent, vision, and voices of our graduating seniors. The exhibition will be on view in the Finley Gallery from April 9 through April 20, with a closing reception on Monday, April 20 from 1:00 to 5:00pm. \n \u00a0 \n Titled  AI: Actual Illustrators , the exhibition responds to the growing presence of artificial image-making by reaffirming the power of human creativity. From paintings, comics, and doodles to animations, visual development, and editorial illustration, each piece reflects the passion, skill, and individuality that can only come from the artist\u2019s hand. This year\u2019s exhibition features the work of 54 emerging artists pushing the boundaries of contemporary illustration.\u00a0 \n \u00a0 \n Participating artists include Alex Allen-Walden, Hailey Amanna, Alison Ays, Amelie Barritas, Arianna Colon, Joe Corredor, Haley Feimster, Adrian Gonzales, Sam Herrera, Cameron Hill, Kayla Ianos, Abubacar Keita, Gavin Kisla, Jerusa Larancuent, Sophie Mahoney, Justine Massabny, Geraldine Medina Rodriguez, Oliver Nazzaro, Katherine Nicholas, Celeste Nova, Sam Olivo, Ashley Ortiz, Yuliya Pasechko, Priya Patel, Amber Paulino, Ayden Pavese, Kimberly Peralta, Perri Polyviou, Ethan Pozo, Nate Quintero, Abigail Reina, Angel Rodriguez, Liany Sanchez, Cyan Villar, Tiana Yurechko, Kaden Zofrea, Kelsey Ayala, Mel Aydogan, Yooyoung Chung, Emily Correa, Alexa D'Alessandro, Elias Galdamez, Jazmin Gamboa, Jayden Gentles, Brianna Ginart, Mee Hee Lim, Pauline Magos, Arianny Matos, Nic Morales, Odosa Obasuyi, Camila Pena-Marte, Elizabeth Seidemann, Jelena Wall, and Jailynn Winn. \n \u00a0 \n Join us for the closing reception to meet and connect with the artists, explore the diverse range of work on view, and celebrate the achievements of this dynamic graduating class. Family, friends, faculty, and the public are warmly invited. \n \u00a0 \n Mark your calendar and don\u2019t miss this show! \n \u00a0 \n BFA Illustration Thesis Exhibition \n Exhibition dates: April 9 \u2013 April 20, 2026 \n Closing Reception: April 20 from 1:00\u20135:00pm \n Finley Gallery, Finley Hall \n Light refreshments will be served"
   },
   {
     "title": "R&B and Chill With The Centaurs ",
@@ -160,12 +144,28 @@
     "description": "From viral moments to celebrities and trends, see how well you know what\u2019s happening now"
   },
   {
+    "title": "BFA Illustration Thesis Exhibition",
+    "date": "2026-04-10T15:00:00+00:00",
+    "organization": "Art and Design",
+    "location": "Finley Gallery, Finley Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12405391",
+    "description": "The Department of Art & Design proudly presents the BFA Illustration Thesis Exhibition, a vibrant celebration of the talent, vision, and voices of our graduating seniors. The exhibition will be on view in the Finley Gallery from April 9 through April 20, with a closing reception on Monday, April 20 from 1:00 to 5:00pm. \n \u00a0 \n Titled  AI: Actual Illustrators , the exhibition responds to the growing presence of artificial image-making by reaffirming the power of human creativity. From paintings, comics, and doodles to animations, visual development, and editorial illustration, each piece reflects the passion, skill, and individuality that can only come from the artist\u2019s hand. This year\u2019s exhibition features the work of 54 emerging artists pushing the boundaries of contemporary illustration.\u00a0 \n \u00a0 \n Participating artists include Alex Allen-Walden, Hailey Amanna, Alison Ays, Amelie Barritas, Arianna Colon, Joe Corredor, Haley Feimster, Adrian Gonzales, Sam Herrera, Cameron Hill, Kayla Ianos, Abubacar Keita, Gavin Kisla, Jerusa Larancuent, Sophie Mahoney, Justine Massabny, Geraldine Medina Rodriguez, Oliver Nazzaro, Katherine Nicholas, Celeste Nova, Sam Olivo, Ashley Ortiz, Yuliya Pasechko, Priya Patel, Amber Paulino, Ayden Pavese, Kimberly Peralta, Perri Polyviou, Ethan Pozo, Nate Quintero, Abigail Reina, Angel Rodriguez, Liany Sanchez, Cyan Villar, Tiana Yurechko, Kaden Zofrea, Kelsey Ayala, Mel Aydogan, Yooyoung Chung, Emily Correa, Alexa D'Alessandro, Elias Galdamez, Jazmin Gamboa, Jayden Gentles, Brianna Ginart, Mee Hee Lim, Pauline Magos, Arianny Matos, Nic Morales, Odosa Obasuyi, Camila Pena-Marte, Elizabeth Seidemann, Jelena Wall, and Jailynn Winn. \n \u00a0 \n Join us for the closing reception to meet and connect with the artists, explore the diverse range of work on view, and celebrate the achievements of this dynamic graduating class. Family, friends, faculty, and the public are warmly invited. \n \u00a0 \n Mark your calendar and don\u2019t miss this show! \n \u00a0 \n BFA Illustration Thesis Exhibition \n Exhibition dates: April 9 \u2013 April 20, 2026 \n Closing Reception: April 20 from 1:00\u20135:00pm \n Finley Gallery, Finley Hall \n Light refreshments will be served"
+  },
+  {
     "title": "Leadership in Action: ALPFA Montclair Elections",
     "date": "2026-04-10T22:00:00+00:00",
     "organization": "Association of Latino Professionals For America",
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12120035",
     "description": "Join us for ALPFA Elections as we come together as a community to elect the next Executive Board. This process ensures member voices are heard and that our chapter continues to grow with strong, purpose-driven leadership"
+  },
+  {
+    "title": "Paint a Pot ",
+    "date": "2026-04-10T22:00:00+00:00",
+    "organization": "Machuga Heights",
+    "location": "Machuga Heights Multipurpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12416668",
+    "description": "Come join the Machuga Heights Hall Council to paint a pot and plant a succulant! All students are welcome - communters must be signed in at the front desk!"
   },
   {
     "title": "Palestine Lives",
@@ -568,6 +568,14 @@
     "description": "Conversation Avec Assane K! Lundi 2:00PM - 3:00PM Schmitt Lounge, 218 Mondays | Join us for: SNACKS! FREE FRENCH CONVERSATION! BOARD GAMES! All are welcome!"
   },
   {
+    "title": "WIRES April General Body Meeting",
+    "date": "2026-04-13T18:00:00+00:00",
+    "organization": "Women In Recording, Engineering, and Sound",
+    "location": "CCM 2007",
+    "link": "https://montclair.campuslabs.com/engage/event/12415838",
+    "description": "Join us to learn about our upcoming events, as well as to socialize with fellow WIRES members."
+  },
+  {
     "title": "Montclair State Democrats General Body Meeting",
     "date": "2026-04-13T18:00:00+00:00",
     "organization": "Montclair State University Democrats",
@@ -584,12 +592,28 @@
     "description": "Join the Office of International Academic Initiatives to learn about the Study Abroad Opportunities that Montclair State University has to offer. Learn about our different programs that are as short as one week up to an academic year as well as scholarship information. Whether you want to stay as close to home as Pennsylvania or travel as far away as South Korea, Montclair State University has programs for you."
   },
   {
+    "title": "Child Advocacy GBM",
+    "date": "2026-04-13T18:00:00+00:00",
+    "organization": "Child Advocacy and Policy Club",
+    "location": "Dickson Hall 114 - Seminar Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12415844",
+    "description": "General Body Meeting for Child Advocacy Club"
+  },
+  {
     "title": "Cru Bible Study! ",
     "date": "2026-04-13T18:15:00+00:00",
     "organization": "Cru",
     "location": "University Hall 3006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12155105",
     "description": "Cru is a caring community passionate about connecting people to Jesus Christ! \n We'll be going through scripture, having discussions, and fellowship in a safe space with the Lord."
+  },
+  {
+    "title": "NLC Revision Session One \u2013 The Rubric, Project Feedback, and Reflections",
+    "date": "2026-04-13T18:15:00+00:00",
+    "organization": "Future Business Leaders of America",
+    "location": "School Of Business 128 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12415812",
+    "description": "This meeting is exclusively for National Leadership Conference (NLC) qualifiers. Students with club membership can shadow our preparatory process. Congratulations on qualifying for the NLC! We're excited to continue preparing you for the conference with this meeting. Join us for a group reflection session on the judging process, our projects, and our rubric results. Everyone will give a quick glance at each other's projects, and we'll work to understand what it takes to qualify for the NLC."
   },
   {
     "title": "STEM Synergy General Body Meetings",
@@ -656,12 +680,36 @@
     "description": "Are you looking to make a difference in the world? Join us for an engaging meeting on how to get involved in local politics. We'll explore current issues, brainstorm creative ways to engage students, and discuss how you can make a real impact on upcoming campaigns and events."
   },
   {
+    "title": "Montclair Marine Biology Organization Paint & Watch!",
+    "date": "2026-04-13T18:00:00+00:00",
+    "organization": "Montclair Marine Biology Organization ",
+    "location": "University Hall 2013 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12415801",
+    "description": "Come paint and watch a movie with us!"
+  },
+  {
     "title": "Complexions Eboard",
     "date": "2026-04-13T18:00:00+00:00",
     "organization": "Complexions",
     "location": "Student Center 416 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12123650",
     "description": "Complexions will be coming together to discuss the details of various gala events as well as working on preparing for their gala."
+  },
+  {
+    "title": "PSA General Body Meeting",
+    "date": "2026-04-13T18:00:00+00:00",
+    "organization": "Pakistani Student Organization",
+    "location": "School Of Business 324 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12415830",
+    "description": "Join the Pakistani Student Organization for our upcoming General Body Meeting! Come enjoy delicious food, great company, and a fun lineup of games in a relaxed and welcoming atmosphere. This is the perfect chance to meet new friends, catch up with familiar faces, and become a part of our vibrant community. Whether you\u2019re new to the organization or have been involved before, everyone is welcome to join in the fun, share some laughs, and make lasting memories. We can\u2019t wait to see you there and celebrate together!"
+  },
+  {
+    "title": "Chess Club SB Meeting!",
+    "date": "2026-04-13T18:00:00+00:00",
+    "organization": "Montclair State University Chess Club",
+    "location": "University Hall 3050 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12415831",
+    "description": "Join us for an evening of strategy, skill, and friendly competition! Whether you\u2019re a seasoned player or just learning the game, all are welcome. Come at your convenience! We\u2019ll have time for casual matches, analysis, and discussion of tactics and openings.\u00a0 \n Boards and pieces will be provided;  just bring your enthusiasm for the game!"
   },
   {
     "title": "PRSO GBM",
@@ -686,6 +734,14 @@
     "location": "Student Center Quad Information Table 2 - Information Table 2",
     "link": "https://montclair.campuslabs.com/engage/event/12385056",
     "description": "Ice Bucket a BSU Member \n Ready to turn up the energy and cool things down at the same time? Join us for  Ice Bucket a BSU Member , where you\u2019ll have the chance to pour a bucket of ice water over your favorite BSU members!"
+  },
+  {
+    "title": "Dominican Student Organization GBM",
+    "date": "2026-04-13T18:30:00+00:00",
+    "organization": "Dominican Student Organization",
+    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12415837",
+    "description": "A weekly meeting with the General body members to discuss topics respectfully regarding Dominican culture while also trying to have fun. Open to all MSU and Bloomfield students!"
   },
   {
     "title": "DSO GBM",
@@ -912,6 +968,14 @@
     "description": "Join us on April 13th in the Bohn Lounge from 8-10pm and get ready for those finals by studying with mocktails! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "The body remembers ",
+    "date": "2026-04-14T00:15:00+00:00",
+    "organization": "Complexions",
+    "location": "University Hall 2031 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12415802",
+    "description": "A fun educational event where dancers demonstrate moves and STEM Synergy explains the science behind them."
+  },
+  {
     "title": "Poster Wars: Modern Activism",
     "date": "2026-04-14T00:30:00+00:00",
     "organization": "National Association for the Advancement of Colored People",
@@ -950,6 +1014,14 @@
     "location": "Student Center 250B - Ballroom B",
     "link": "https://montclair.campuslabs.com/engage/event/12383515",
     "description": "Girls will come together with a chance to become a complexionette. They will learn technique and choreography while displaying their dancing and comprehension abilities."
+  },
+  {
+    "title": "Complexions TRYOUTS",
+    "date": "2026-04-14T00:30:00+00:00",
+    "organization": "Complexions",
+    "location": "University Hall 2012 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12415826",
+    "description": "Complexionettes majorette band dance team will be hosting tryouts."
   },
   {
     "title": "MSDC practice ",
@@ -1064,6 +1136,14 @@
     "description": "The Brotherhood / La Hermanidad General Body Meetings \n Join  The Brotherhood / La Hermanidad  every Tuesday from  2:00 PM \u2013 3:30 PM  for our weekly General Body Meetings. This is a dedicated space for Black and Brown men to come together in unity, build community, and engage in meaningful conversations that promote personal, academic, and professional growth. \n Each week, we create an environment centered on  brotherhood, empowerment, and accountability \u2014discussing real-life topics, supporting one another, and strengthening our presence on campus and beyond. \n Whether you\u2019re looking to grow, connect, or simply be in a space that understands you, this is where you belong."
   },
   {
+    "title": "The Meme-ification of Politics",
+    "date": "2026-04-14T18:00:00+00:00",
+    "organization": "Panther Progress",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12415799",
+    "description": "How did we go from meaningful political art to memes without a message?"
+  },
+  {
     "title": "Try-it Tuesdays",
     "date": "2026-04-14T18:30:00+00:00",
     "organization": "Campus Activities at Bloomfield",
@@ -1078,6 +1158,22 @@
     "location": "Student Center Quad Information Table 1 - Information Table 1",
     "link": "https://montclair.campuslabs.com/engage/event/12405582",
     "description": "This is an event where you come and ask those hard questions about Christianity. (Judgement Free Zone)."
+  },
+  {
+    "title": "Weekly Food Recovery Initiative",
+    "date": "2026-04-14T18:00:00+00:00",
+    "organization": "Food Recovery Network",
+    "location": "Blanton Hall Resident Kitchenette",
+    "link": "https://montclair.campuslabs.com/engage/event/12415846",
+    "description": "Join our weekly Food Recovery events, where dedicated volunteers and members gather to make a difference in our community. Each week, participants help collect perfectly good leftover food from Gourmet Dining and transport it to Blanton. There, the food is repackaged into individual microwavable containers and stocked in the food pantry, providing meals for those in need throughout the week.\u00a0 \n To Participate :\u00a0RSVP to attend the event each week. Meet in Blanton Hall Residence Hall Kitchenette in the Communal Area (Tell them you are working with Food Recovery), Sign in via Event Pass and your set! \n Requirements: \n \n Volunteers must be Food Safe Certified to participate. \n Complete the certification by following the step-by-step instructions provided in this  link . \n Once certified, email your certification to  foodrecoverynetwork@sgamsu.org  to confirm your eligibility to participate. \n \n Your involvement helps reduce food waste and insecurity while supporting individuals in our community who are in need. We look forward to your participation! *Please Note: This event end time is dependent on the amount of food given. You can estimate for max of hour and a half for recoveries."
+  },
+  {
+    "title": "The Meme-ification of Politics",
+    "date": "2026-04-14T18:00:00+00:00",
+    "organization": "Panther Progress",
+    "location": "University Hall 2048 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12415798",
+    "description": "How did we go from meaningful political art to memes without a message?"
   },
   {
     "title": "upLIFT",
@@ -1296,6 +1392,14 @@
     "description": "Join us on April 14th in the Bohn Lounge from 8-10pm and make your own Boba drink with multiple flavors! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "InterVarsity Music Bible Study ",
+    "date": "2026-04-15T00:00:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Susan A. Cole Hall 141 - Admissions Presentation Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12415849",
+    "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sisters in Christ."
+  },
+  {
     "title": "eXpresso (informational) ",
     "date": "2026-04-15T00:30:00+00:00",
     "organization": "Chi Upsilon Sigma National Latin Sorority, INC",
@@ -1318,6 +1422,14 @@
     "location": "University Hall 2040 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12389340",
     "description": "Take a break from the stress and pull up to LSU Game Night! Join us for a fun, laid-back evening filled with games, good vibes, and even better company. Whether you\u2019re competitive or just here to chill, we\u2019ve got something for everyone\u2014board games, card games, and interactive group games that\u2019ll keep the energy high all night. \n Come through with your friends or meet new people, build connections, and enjoy a well-deserved night of laughs before the semester wraps up. Light snacks, music, and great vibes guaranteed. \n Don\u2019t miss out\u2014let the games begin \ud83c\udccf\u2728"
+  },
+  {
+    "title": "Complexions TRYOUTS",
+    "date": "2026-04-15T00:30:00+00:00",
+    "organization": "Complexions",
+    "location": "University Hall 2010 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12415825",
+    "description": "Complexionettes band dance team will be having tryouts."
   },
   {
     "title": "Tryouts for Complexions",
@@ -1496,12 +1608,28 @@
     "description": "The Polish Club General Meeting is open to all students interested in Polish culture and community engagement. During the meeting, we will review club goals, upcoming events, leadership opportunities, and ways to get involved. New and returning members are encouraged to attend and participate."
   },
   {
+    "title": "NLC Collaborative Workspace Session One",
+    "date": "2026-04-15T18:15:00+00:00",
+    "organization": "Future Business Leaders of America",
+    "location": "School Of Business 412 - Seminar Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12415810",
+    "description": "This meeting is exclusively for National Leadership Conference (NLC) qualifiers. Students with club membership can shadow our preparatory process. Congratulations on qualifying for the NLC! We're excited to continue preparing you for the conference with this meeting. Join us for a collaborative workspace session \u2013 we'll give you an hour to freely work on your projects and ask questions. We encourage all competitors to take advantage of this meeting, given the short remaining time in the semester and limited meeting times."
+  },
+  {
     "title": "Sigma Splash Bash",
     "date": "2026-04-15T16:30:00+00:00",
     "organization": "Sigma Delta Phi",
     "location": "Student Center Quad Information Table 1 - Information Table 1",
     "link": "https://montclair.campuslabs.com/engage/event/12405586",
     "description": "Join the sisters of  Sigma Delta Phi  for a  messy  and unforgettable fundraising event! For a donation, you\u2019ll get the chance to pie a sister or soak her with a sponge\u2014because nothing says giving back like a little chaos. Come laugh, get involved, and make a splash for a great cause!"
+  },
+  {
+    "title": "How to Save A Life: Narcan Workshop",
+    "date": "2026-04-15T17:00:00+00:00",
+    "organization": "Delta Xi Delta",
+    "location": "University Hall 3011 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12415835",
+    "description": "Learn how to react to potential overdoses, including how and when to administer Narcan. We will also go over reporting, Good Samaritan Laws, and University policy."
   },
   {
     "title": "Dabke Club Bakesale",
@@ -1598,6 +1726,14 @@
     "location": "College of Communication and Media Room 1020",
     "link": "https://montclair.campuslabs.com/engage/event/12176465",
     "description": "WMSC's weekly member meeting to go over the newest and most important information regarding the station, and what each team is up to. \n \u00a0 \n On-air DJs are required to attend several of these meetings throughout the semester."
+  },
+  {
+    "title": "Weekly Food Recovery Initiative",
+    "date": "2026-04-15T18:00:00+00:00",
+    "organization": "Food Recovery Network",
+    "location": "Blanton Hall Resident Kitchenette",
+    "link": "https://montclair.campuslabs.com/engage/event/12415845",
+    "description": "Join our weekly Food Recovery events, where dedicated volunteers and members gather to make a difference in our community. Each week, participants help collect perfectly good leftover food from Gourmet Dining and transport it to Blanton. There, the food is repackaged into individual microwavable containers and stocked in the food pantry, providing meals for those in need throughout the week.\u00a0 \n To Participate :\u00a0RSVP to attend the event each week. Meet in Blanton Hall Residence Hall Kitchenette in the Communal Area (Tell them you are working with Food Recovery), Sign in via Event Pass and your set! \n Requirements: \n \n Volunteers must be Food Safe Certified to participate. \n Complete the certification by following the step-by-step instructions provided in this  link . \n Once certified, email your certification to  foodrecoverynetwork@sgamsu.org  to confirm your eligibility to participate. \n \n Your involvement helps reduce food waste and insecurity while supporting individuals in our community who are in need. We look forward to your participation! *Please Note: This event end time is dependent on the amount of food given. You can estimate for max of hour and a half for recoveries."
   },
   {
     "title": "Spring Cleaning: Clothing Drive",
@@ -1768,12 +1904,28 @@
     "description": "Tech rehearsal for  Into the Woods ."
   },
   {
+    "title": "Conectando Raices Mexicanas: A Panel and Networking Event",
+    "date": "2026-04-15T23:30:00+00:00",
+    "organization": "Mexican-American Student Association",
+    "location": "Susan A. Cole Hall 141 - Admissions Presentation Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12415834",
+    "description": "Join us for our first Alumni Panel and Networking Event! Hear from Former MASA Executive Board Members and professionals as they share their career journeys, experiences and insights. Connect with them, ask questions, and expand your network."
+  },
+  {
     "title": "DIY Pillow Making",
     "date": "2026-04-16T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Machuga Heights",
     "link": "https://montclair.campuslabs.com/engage/event/12307294",
     "description": "Join us on April 15th in the Machuga MPR for some DIY Pillow Crafts. Drop in design and stuff your own pillow! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "The Season of Prosperity",
+    "date": "2026-04-16T01:00:00+00:00",
+    "organization": "Alpha Kappa Alpha Sorority, Inc. ",
+    "location": "University Hall 2008 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12415822",
+    "description": "Come out and discuss saving and financial wealth building!"
   },
   {
     "title": "Midnight Run",
@@ -1790,6 +1942,22 @@
     "location": "Student Center 251 - Dining Room",
     "link": "https://montclair.campuslabs.com/engage/event/12127343",
     "description": "A Rhoyal reunion as we celebrate 63 years of Being Greater."
+  },
+  {
+    "title": "Complexions TRYOUTS",
+    "date": "2026-04-16T00:30:00+00:00",
+    "organization": "Complexions",
+    "location": "University Hall 2012 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12415827",
+    "description": "Complexionettes majorette band dance team will be hosting tryouts."
+  },
+  {
+    "title": "IFC Presents: Overdose Awareness Workshop",
+    "date": "2026-04-16T00:00:00+00:00",
+    "organization": "Interfraternity Council",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12415815",
+    "description": "In recognition of the IFC's main philanthropy, Drug Free America, brothers of the IFC will speak about the grim realities of drug use and how to spot and prevent an overdose using Narcan."
   },
   {
     "title": "Group X - Cycling",
@@ -2168,6 +2336,14 @@
     "description": "TO CREATE AN ENVIRONMENT WHERE THOSE FAR AND NEAR FROM GOD CAN EXPERIENCE THE LOVE OF GOD."
   },
   {
+    "title": "Complexions TRYOUTS",
+    "date": "2026-04-17T00:30:00+00:00",
+    "organization": "Complexions",
+    "location": "University Hall 2012 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12415828",
+    "description": "Complexionettes majorette band dance team will be hosting tryouts."
+  },
+  {
     "title": "Group X - Yoga",
     "date": "2026-04-17T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -2214,6 +2390,14 @@
     "location": "Student Center 417 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12128095",
     "description": "Join the Health Occupations Students of America Club for CPR Certification Classes hosted by our Treasurer, Esteban! \n $30 per person, refunds not available."
+  },
+  {
+    "title": "Sports Debate Show ",
+    "date": "2026-04-17T17:00:00+00:00",
+    "organization": "WMSC 90.3 FM",
+    "location": "Student Center Quad Information Table 1 - Information Table 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12416609",
+    "description": "WMSC broadcast live from the Quad, bring your hottest sports takes!"
   },
   {
     "title": "OPT Workshop - International Students (F-1 Visa Holders) Only",
@@ -2336,6 +2520,14 @@
     "description": "Join us for a focused and supportive Study Night in collaboration with LSU! Whether you\u2019re prepping for exams, catching up on assignments, or just need a productive environment, this is the perfect space to lock in. Come study alongside peers, stay motivated, and build community while getting your work done. Snacks, good energy, and great company guaranteed."
   },
   {
+    "title": "Complexions TRYOUTS",
+    "date": "2026-04-18T00:30:00+00:00",
+    "organization": "Complexions",
+    "location": "University Hall 2012 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12415829",
+    "description": "Complexionettes majorette band dance team will be hosting tryouts."
+  },
+  {
     "title": "Community Volunteering: Family of Caring of Montclair",
     "date": "2026-04-18T14:00:00+00:00",
     "organization": "Medical Case & Diagnostics Club ",
@@ -2424,6 +2616,14 @@
     "description": "Join RA Zeek for\u00a0 NBA Kickoff Kahoot & Coloring \u00a0\ud83c\udf89 is a campus engagement event designed to bring students together through both competitive and creative activities. Participants can join a live  NBA\u2011themed Kahoot trivia game  \ud83c\udfc0 featuring questions about teams, players, mascots, and league history, encouraging friendly competition and community building. At the same time, a  coloring station  \ud83c\udfa8 will offer NBA\u2011inspired designs and art materials, providing a relaxing, low\u2011pressure outlet for creativity and stress relief. Together, these elements celebrate the start of the NBA season. \n Enjoy Great Food, Giveaways, Prizes & NBA Games! \u00a0 \n Location: Franklin Hall - Second Floor Theater - Room 214 (Bloomfield Campus)"
   },
   {
+    "title": "Pohela Boishak(Bengali New Year)",
+    "date": "2026-04-18T21:00:00+00:00",
+    "organization": "Bangladesh Student Association ",
+    "location": "Student Center Underground - The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12416611",
+    "description": "Join us in welcoming Bengali New Year with vibrant colors, traditional music and delicious food! Celebrate Pohela Boishak with cultural performances, fun activities for all ages, and a warm community gathering. Let's embrace new beginnings and the spirit of togetherness."
+  },
+  {
     "title": "DIY Journals",
     "date": "2026-04-18T23:00:00+00:00",
     "organization": "Residence Life",
@@ -2454,6 +2654,22 @@
     "location": "University Hall 1010",
     "link": "https://montclair.campuslabs.com/engage/event/12387863",
     "description": "How do I Sign-up? \n \n 5 dollars entry for MSU Students \n \n When and Where? \n \n University Hall 1010 \n April 18th, 1pm-10pm"
+  },
+  {
+    "title": "The Art of Etiquette & Elegance",
+    "date": "2026-04-19T15:45:00+00:00",
+    "organization": "Alpha Kappa Alpha Sorority, Inc. ",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12416625",
+    "description": "Join us for a lesson in grace\u00a0 & Decorum. Learn essential etiquette skills that will help you communicate confidently, present yourself with poise and navigate social and professional setting with ease.\u00a0 \n \u00a0 \n This workshop will provide provide practical tools to carry yourself with grace, make strong first impressions, and build lasting confidence in any environment."
+  },
+  {
+    "title": "Built Different Brunch I",
+    "date": "2026-04-19T15:15:00+00:00",
+    "organization": "The Women Of Color Alliance ",
+    "location": "Student Center Underground - The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12416618",
+    "description": "Join the Women of Color Alliance for an inspiring Women\u2019s Panel & Brunch celebrating resilience, leadership, and sisterhood. \n This powerful experience will feature a dynamic panel of successful Black women who are leaders and change-makers in their fields. Through honest conversation and shared wisdom, our panelists will discuss navigating success and thriving with purpose."
   },
   {
     "title": "BFA Illustration Thesis Exhibition",
@@ -2776,6 +2992,14 @@
     "description": "The Department of Art & Design proudly presents the Spring 2026 BFA Illustration Thesis Exhibition, a vibrant celebration of the talent, vision, and voice of our graduating seniors. The exhibition will be on view in the Finley Gallery from April 9 through April 20, with a closing reception on Monday, April 20 from 1:00 to 5:00pm. \n \u00a0 \n Titled  AI: Actual Illustrators , the exhibition responds to the growing presence of artificial image-making by reaffirming the power of human creativity. From paintings, comics, and doodles to animations, visual development, and editorial illustration, each piece reflects the passion, skill, and individuality that can only come from the artist\u2019s hand. This year\u2019s exhibition features the work of 54 emerging artists pushing the boundaries of contemporary illustration.\u00a0 \n \u00a0 \n Participating artists include Alex Allen-Walden, Hailey Amanna, Alison Ays, Amelie Barritas, Arianna Colon, Joe Corredor, Haley Feimster, Adrian Gonzales, Sam Herrera, Cameron Hill, Kayla Ianos, Abubacar Keita, Gavin Kisla, Jerusa Larancuent, Sophie Mahoney, Justine Massabny, Geraldine Medina Rodriguez, Oliver Nazzaro, Katherine Nicholas, Celeste Nova, Sam Olivo, Ashley Ortiz, Yuliya Pasechko, Priya Patel, Amber Paulino, Ayden Pavese, Kimberly Peralta, Perri Polyviou, Ethan Pozo, Nate Quintero, Abigail Reina, Angel Rodriguez, Liany Sanchez, Cyan Villar, Tiana Yurechko, Kaden Zofrea, Kelsey Ayala, Mel Aydogan, Yooyoung Chung, Emily Correa, Alexa D'Alessandro, Elias Galdamez, Jazmin Gamboa, Jayden Gentles, Brianna Ginart, Mee Hee Lim, Pauline Magos, Arianny Matos, Nic Morales, Odosa Obasuyi, Camila Pena-Marte, Elizabeth Seidemann, Jelena Wall, and Jailynn Winn. \n \u00a0 \n Join us for the closing reception to meet and connect with the artists, explore the diverse range of work on view, and celebrate the achievements of this dynamic graduating class. Family, friends, faculty, and the public are warmly invited. \n \u00a0 \n Mark your calendar and don\u2019t miss this show! \n \u00a0 \n BFA Illustration Thesis  Exhibition \n Closing Reception: April 20 from 1:00\u20135:00pm \n Exhibition dates: April 9 \u2013 April 20, 2026 \n Finley Gallery, Finley Hall \n Light refreshments will be served"
   },
   {
+    "title": "Floreciendo Juntos",
+    "date": "2026-04-20T19:30:00+00:00",
+    "organization": "Mexican-American Student Association",
+    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12416650",
+    "description": "Join M\u00c1SA and explore the beauty and meaning of flowers both Mexican and local ecosystems.\u00a0 \n Learn about native flowers from Mexico and New Jersey while discovering how flora has shaped Mexican traditions, symbolism, and celebrations. \n Participants will also take part in a hands-on workshop where they will create their own mini spring bouquets using seasonal flowers."
+  },
+  {
     "title": "MSU Players General Body Meeting",
     "date": "2026-04-20T21:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -2856,6 +3080,14 @@
     "description": "Join the amici club and our other cultural organizations for a night filled with delicious foods, cultural performances, and giveaways! Enjoy cuisines from all around the world while connecting/networking with different cultural club members!"
   },
   {
+    "title": "Golden Circus",
+    "date": "2026-04-20T23:00:00+00:00",
+    "organization": "Sigma Lambda Upsilon",
+    "location": "Student Center Underground - The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12416657",
+    "description": "Golden circus is a valued annual event that our chapter has held for almost two decades! This event allows members of the campus community to help our organization raise awareness for our philanthropy, which is Literacy. The circus themed night will include snacks, games/entertainment, and community service activities."
+  },
+  {
     "title": "Study Hall + Crafts ",
     "date": "2026-04-21T00:00:00+00:00",
     "organization": "Residence Life",
@@ -2918,6 +3150,14 @@
     "location": "Student Recreation Center - Multipurpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12065321",
     "description": "A mind-body conditioning technique that focuses on trunk stability and coordinated breathing through a series of exercises.\u00a0 Pilates develops a longer, leaner, stronger, and more graceful body by improving muscular symmetry, alignment, posture, core strength, and flexibility. All levels are welcome. \n \n \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Tuesday, Jan 20 - April 24 \n 10:15 - 11 a.m. \n Student Recreation Center - Multipurpose Room 1 \n \n \n \n \n \n Instructor - Bridget"
+  },
+  {
+    "title": "Jewish American Heritage Tabling",
+    "date": "2026-04-21T16:00:00+00:00",
+    "organization": "Hillel",
+    "location": "Student Center 2C02 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12416666",
+    "description": "Shalom Red Hawks, \n We\u2019re inviting you to our table revolving around Jewish-American heritage. Play a quick trivia game, and win a prize!"
   },
   {
     "title": "Group X - Yoga",
@@ -3110,6 +3350,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12401680",
     "description": "You are cordially invited to join  RA Jill  for a relaxing  Sip & Paint\u2013inspired event  \ud83c\udfa8 featuring refreshing  smoothies  \ud83e\udd64. This program is designed to offer a calm and welcoming environment where residents can unwind, express their creativity, and connect with one another. \n All painting materials will be provided, and participants are encouraged to create artwork that reflects their personal inspiration. No prior artistic experience is required\u2014everyone is welcome to participate. \n We look forward to an enjoyable and engaging gathering that promotes community, creativity, and relaxation. \u2728 \n Location: (Bloomfield Campus) Franklin Hall - Fourth Floor Rooftop (414)"
+  },
+  {
+    "title": "Spread The Love: PB&J Service Project",
+    "date": "2026-04-21T21:30:00+00:00",
+    "organization": "Montclair State Circle K",
+    "location": "Student Center 415 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12416669",
+    "description": "We\u2019re turning peanut butter & jelly into PURPOSE! Stop by and help us make sandwiches for those in need while vibing with friends and giving back to the community. Small act, BIG impact\u2014don\u2019t miss it!"
   },
   {
     "title": "Group X - Goodnight Yoga",
