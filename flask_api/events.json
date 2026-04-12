@@ -128,14 +128,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 01/20 - 04/24 \n 1pm - 1:45am \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
   },
   {
-    "title": "Pink Diamond Bake Sale",
-    "date": "2026-04-13T16:00:00+00:00",
-    "organization": "Daughta Speaks",
-    "location": "Student Center Quad Information Table 2 - Information Table 2",
-    "link": "https://montclair.campuslabs.com/engage/event/12405561",
-    "description": "Come celebrate 7 years of Daughta Speaks with a sweet treat!"
-  },
-  {
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-04-13T17:00:00+00:00",
     "organization": "Campus Recreation",
@@ -624,14 +616,6 @@
     "description": "Girls will come together with a chance to become a complexionette. They will learn technique and choreography while displaying their dancing and comprehension abilities."
   },
   {
-    "title": "Complexions TRYOUTS",
-    "date": "2026-04-14T00:30:00+00:00",
-    "organization": "Complexions",
-    "location": "University Hall 2012 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12415826",
-    "description": "Complexionettes majorette band dance team will be hosting tryouts."
-  },
-  {
     "title": "MSDC practice ",
     "date": "2026-04-14T01:00:00+00:00",
     "organization": "Montclair State Dance Company",
@@ -1040,14 +1024,6 @@
     "description": "Take a break from the stress and pull up to LSU Game Night! Join us for a fun, laid-back evening filled with games, good vibes, and even better company. Whether you\u2019re competitive or just here to chill, we\u2019ve got something for everyone\u2014board games, card games, and interactive group games that\u2019ll keep the energy high all night. \n Come through with your friends or meet new people, build connections, and enjoy a well-deserved night of laughs before the semester wraps up. Light snacks, music, and great vibes guaranteed. \n Don\u2019t miss out\u2014let the games begin \ud83c\udccf\u2728"
   },
   {
-    "title": "Complexions TRYOUTS",
-    "date": "2026-04-15T00:30:00+00:00",
-    "organization": "Complexions",
-    "location": "University Hall 2010 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12415825",
-    "description": "Complexionettes band dance team will be having tryouts."
-  },
-  {
     "title": "Tryouts for Complexions",
     "date": "2026-04-15T00:30:00+00:00",
     "organization": "Complexions",
@@ -1184,20 +1160,20 @@
     "description": "Cali Midweek Series: Chamber Music Recital \n A chamber music concert at the Cali School of Music unites ensembles from across the entire program. As part of the vibrant Midweek Series\u2014free and open to the public at 2pm\u2014students from strings, winds, brass, percussion, piano, and voice perform a diverse program that highlights collaboration and the rich musical community of the school. \u00a0 \n --------------------- \n Cali Midweek Concerts 2025-26 Wednesdays at 2 PM Chapin Hall, Leshowitz Recital Hall \n FREE ADMISSION! \n Join us for the Cali Midweek Concerts at Montclair State University\u2019s John J. Cali School of Music, where we bring a diverse array of musical performances and educational events every Wednesday at 2PM in Leshowitz Recital Hall, Chapin Hall. Our concert series showcases the immense talent within our faculty, students, and esteemed guest artists."
   },
   {
-    "title": "HOSA General Body Meeting",
-    "date": "2026-04-15T18:00:00+00:00",
-    "organization": "Health Occupations Students of America - Future Health Professionals ",
-    "location": "University Hall 2009 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12171208",
-    "description": "HOSA GBM!"
-  },
-  {
     "title": "Caribbean Students' Organization: General body Meetings ",
     "date": "2026-04-15T18:00:00+00:00",
     "organization": "Caribbean Students' Organization",
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12161078",
     "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
+    "title": "HOSA General Body Meeting",
+    "date": "2026-04-15T18:00:00+00:00",
+    "organization": "Health Occupations Students of America - Future Health Professionals ",
+    "location": "University Hall 2009 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12171208",
+    "description": "HOSA GBM!"
   },
   {
     "title": "Bible Talk",
