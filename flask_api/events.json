@@ -1,37 +1,5 @@
 [
   {
-    "title": "Take-Your-Own Self Care & Crafts",
-    "date": "2026-04-13T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Count Basie at The Village Apartments",
-    "link": "https://montclair.campuslabs.com/engage/event/12307272",
-    "description": "Want some free crafts and self care items? Come to Count Basie Hall at 8:00 P.M for some free activities and self care! We will be giving out free care kits on April 12th. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "OPEN GYM (PBI-C Champions & ResLife) ",
-    "date": "2026-04-12T23:30:00+00:00",
-    "organization": "Bloomfield's Office of Residence Life",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12414316",
-    "description": "Come out for a night to stretch, let loose and enjoy some competition with your peers! The next OPEN GYM session is here and every time it gets better and better! Meet us the  Bloomfield College of Montclair State University Gymnasium!"
-  },
-  {
-    "title": "Theta Phi Alpha- April Chapter Meetings",
-    "date": "2026-04-12T21:00:00+00:00",
-    "organization": "Theta Phi Alpha",
-    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12165837",
-    "description": "Weekly Chapter meetings for the active sisters of Theta Phi Alpha"
-  },
-  {
-    "title": "Sorority Meeting ",
-    "date": "2026-04-13T00:15:00+00:00",
-    "organization": "Zeta Phi Beta Sorority, Incorporated",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12407632",
-    "description": "Meeting"
-  },
-  {
     "title": "Group X - HIIT",
     "date": "2026-04-13T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -150,14 +118,6 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12128371",
     "description": "Join the Office of International Academic Initiatives to learn about the Study Abroad Opportunities that Montclair State University has to offer. Learn about our different programs that are as short as one week up to an academic year as well as scholarship information. Whether you want to stay as close to home as Pennsylvania or travel as far away as South Korea, Montclair State University has programs for you."
-  },
-  {
-    "title": "Cru Bible Study! ",
-    "date": "2026-04-13T18:15:00+00:00",
-    "organization": "Cru",
-    "location": "University Hall 3006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12155105",
-    "description": "Cru is a caring community passionate about connecting people to Jesus Christ! \n We'll be going through scripture, having discussions, and fellowship in a safe space with the Lord."
   },
   {
     "title": "NLC Revision Session One \u2013 The Rubric, Project Feedback, and Reflections",
@@ -1104,20 +1064,20 @@
     "description": "Cali Midweek Series: Chamber Music Recital \n A chamber music concert at the Cali School of Music unites ensembles from across the entire program. As part of the vibrant Midweek Series\u2014free and open to the public at 2pm\u2014students from strings, winds, brass, percussion, piano, and voice perform a diverse program that highlights collaboration and the rich musical community of the school. \u00a0 \n --------------------- \n Cali Midweek Concerts 2025-26 Wednesdays at 2 PM Chapin Hall, Leshowitz Recital Hall \n FREE ADMISSION! \n Join us for the Cali Midweek Concerts at Montclair State University\u2019s John J. Cali School of Music, where we bring a diverse array of musical performances and educational events every Wednesday at 2PM in Leshowitz Recital Hall, Chapin Hall. Our concert series showcases the immense talent within our faculty, students, and esteemed guest artists."
   },
   {
-    "title": "Caribbean Students' Organization: General body Meetings ",
-    "date": "2026-04-15T18:00:00+00:00",
-    "organization": "Caribbean Students' Organization",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12161078",
-    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
-  },
-  {
     "title": "HOSA General Body Meeting",
     "date": "2026-04-15T18:00:00+00:00",
     "organization": "Health Occupations Students of America - Future Health Professionals ",
     "location": "University Hall 2009 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12171208",
     "description": "HOSA GBM!"
+  },
+  {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-04-15T18:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161078",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
   },
   {
     "title": "Bible Talk",
