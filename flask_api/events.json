@@ -1,30 +1,6 @@
 [
   {
     "title": "Group X - Yoga",
-    "date": "2026-04-14T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center Multipurpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12065067",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesdays, 01/20 - 04/24 \n 9am-9:45am \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Catalina"
-  },
-  {
-    "title": "Group X - Pilates",
-    "date": "2026-04-14T14:15:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Multipurpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12065320",
-    "description": "A mind-body conditioning technique that focuses on trunk stability and coordinated breathing through a series of exercises.\u00a0 Pilates develops a longer, leaner, stronger, and more graceful body by improving muscular symmetry, alignment, posture, core strength, and flexibility. All levels are welcome. \n \n \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Tuesday, Jan 20 - April 24 \n 10:15 - 11 a.m. \n Student Recreation Center - Multipurpose Room 1 \n \n \n \n \n \n Instructor - Bridget"
-  },
-  {
-    "title": "Gratitude Days Tabling",
-    "date": "2026-04-14T14:00:00+00:00",
-    "organization": "Hillel",
-    "location": "Student Center Quad Information Table 1 - Information Table 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12385064",
-    "description": "Shalom Red Hawks, \n We will be bringing a giant blackboard to campus, where you will be invited to take a pause from your busy lives and write about something you\u2019re grateful for! This interactive program was inspired by the \u201cTen Days of Gratitude\u201d project held annually in Israel between Holocaust Remembrance Day and Israel\u2019s Independence Day."
-  },
-  {
-    "title": "Group X - Yoga",
     "date": "2026-04-14T17:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
@@ -40,12 +16,12 @@
     "description": "Come hang out with the SLAM E-Board and get involved in shaping our events for the semester! Our General Body Meetings are a space for students to learn about upcoming programs, share ideas, and help plan and execute events that bring the campus together. Whether you\u2019re interested in event planning, marketing, logistics, or just want your voice heard, this is the place to be. We\u2019ll be discussing what\u2019s ahead for the semester, ways to get involved, and how you can make a real impact through SLAM. No experience is needed\u2014just bring your ideas, energy, and excitement to collaborate with us!"
   },
   {
-    "title": "Hop on By",
-    "date": "2026-04-14T14:30:00+00:00",
-    "organization": "Student Development and Campus Life",
-    "location": "Dean of Students Office",
-    "link": "https://montclair.campuslabs.com/engage/event/12247377",
-    "description": "If the end of the semester has you stressed, pop or hop on by to the Dean of Students' Office to de-stress with snacks, bubble wrap, and prizes!"
+    "title": "HABLAMOS ESPA\u00d1OL - Spanish Conversation MeetUps - Spring 2026",
+    "date": "2026-04-14T17:00:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Schmitt Hall 138",
+    "link": "https://montclair.campuslabs.com/engage/event/12351437",
+    "description": "Join us for informal and friendly meet-ups to speak and practice Spanish. No need to register, no specific level required. \n All are welcome! Te esperamos en Schmitt Hall # 138 every Tuesday at 1-2pm and Thursday 2-3pm"
   },
   {
     "title": "Bear Necessities Pantry ",
@@ -56,20 +32,20 @@
     "description": "Visiting the Pantry: 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week, including visits to MSU Pantry*** Our Mission:\u00a0\u00a0 We aim to address food insecurity across Bloomfield College. The Bear Necessities Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu\u00a0 Stay updated by following us on Instagram: @montclair_redhawkpantry \u00a0 Location: Bloomfield College - Talbott Hall T003"
   },
   {
+    "title": "Hop on By",
+    "date": "2026-04-14T14:30:00+00:00",
+    "organization": "Student Development and Campus Life",
+    "location": "Dean of Students Office",
+    "link": "https://montclair.campuslabs.com/engage/event/12247377",
+    "description": "If the end of the semester has you stressed, pop or hop on by to the Dean of Students' Office to de-stress with snacks, bubble wrap, and prizes!"
+  },
+  {
     "title": "Bake Sale",
     "date": "2026-04-14T16:00:00+00:00",
     "organization": "Students for Justice in Palestine",
     "location": "Student Center Quad Information Table 1 - Information Table 1",
     "link": "https://montclair.campuslabs.com/engage/event/12385067",
     "description": "Students for Justice in Palestine will be holding a bake sale, come show your support and get a tasty treat!"
-  },
-  {
-    "title": "HABLAMOS ESPA\u00d1OL - Spanish Conversation MeetUps - Spring 2026",
-    "date": "2026-04-14T17:00:00+00:00",
-    "organization": "Center for Latino Heritage & Spanish Language Excellence",
-    "location": "Schmitt Hall 138",
-    "link": "https://montclair.campuslabs.com/engage/event/12351437",
-    "description": "Join us for informal and friendly meet-ups to speak and practice Spanish. No need to register, no specific level required. \n All are welcome! Te esperamos en Schmitt Hall # 138 every Tuesday at 1-2pm and Thursday 2-3pm"
   },
   {
     "title": "Group X - Pilates",
@@ -240,22 +216,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays, 01/20 - 04/24 \n 6:00 pm - 6:45 pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Ashley"
   },
   {
-    "title": "BFA Illustration Thesis Exhibition",
-    "date": "2026-04-14T15:00:00+00:00",
-    "organization": "Art and Design",
-    "location": "Finley Gallery, Finley Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12405395",
-    "description": "The Department of Art & Design proudly presents the BFA Illustration Thesis Exhibition, a vibrant celebration of the talent, vision, and voices of our graduating seniors. The exhibition will be on view in the Finley Gallery from April 9 through April 20, with a closing reception on Monday, April 20 from 1:00 to 5:00pm. \n \u00a0 \n Titled  AI: Actual Illustrators , the exhibition responds to the growing presence of artificial image-making by reaffirming the power of human creativity. From paintings, comics, and doodles to animations, visual development, and editorial illustration, each piece reflects the passion, skill, and individuality that can only come from the artist\u2019s hand. This year\u2019s exhibition features the work of 54 emerging artists pushing the boundaries of contemporary illustration.\u00a0 \n \u00a0 \n Participating artists include Alex Allen-Walden, Hailey Amanna, Alison Ays, Amelie Barritas, Arianna Colon, Joe Corredor, Haley Feimster, Adrian Gonzales, Sam Herrera, Cameron Hill, Kayla Ianos, Abubacar Keita, Gavin Kisla, Jerusa Larancuent, Sophie Mahoney, Justine Massabny, Geraldine Medina Rodriguez, Oliver Nazzaro, Katherine Nicholas, Celeste Nova, Sam Olivo, Ashley Ortiz, Yuliya Pasechko, Priya Patel, Amber Paulino, Ayden Pavese, Kimberly Peralta, Perri Polyviou, Ethan Pozo, Nate Quintero, Abigail Reina, Angel Rodriguez, Liany Sanchez, Cyan Villar, Tiana Yurechko, Kaden Zofrea, Kelsey Ayala, Mel Aydogan, Yooyoung Chung, Emily Correa, Alexa D'Alessandro, Elias Galdamez, Jazmin Gamboa, Jayden Gentles, Brianna Ginart, Mee Hee Lim, Pauline Magos, Arianny Matos, Nic Morales, Odosa Obasuyi, Camila Pena-Marte, Elizabeth Seidemann, Jelena Wall, and Jailynn Winn. \n \u00a0 \n Join us for the closing reception to meet and connect with the artists, explore the diverse range of work on view, and celebrate the achievements of this dynamic graduating class. Family, friends, faculty, and the public are warmly invited. \n \u00a0 \n Mark your calendar and don\u2019t miss this show! \n \u00a0 \n BFA Illustration Thesis Exhibition \n Exhibition dates: April 9 \u2013 April 20, 2026 \n Closing Reception: April 20 from 1:00\u20135:00pm \n Finley Gallery, Finley Hall \n Light refreshments will be served"
-  },
-  {
-    "title": "BFA Illustration Thesis Exhibition",
-    "date": "2026-04-14T15:00:00+00:00",
-    "organization": "Art and Design",
-    "location": "Finley Gallery, Finley Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12405396",
-    "description": "The Department of Art & Design proudly presents the BFA Illustration Thesis Exhibition, a vibrant celebration of the talent, vision, and voices of our graduating seniors. The exhibition will be on view in the Finley Gallery from April 9 through April 20, with a closing reception on Monday, April 20 from 1:00 to 5:00pm. \n \u00a0 \n Titled  AI: Actual Illustrators , the exhibition responds to the growing presence of artificial image-making by reaffirming the power of human creativity. From paintings, comics, and doodles to animations, visual development, and editorial illustration, each piece reflects the passion, skill, and individuality that can only come from the artist\u2019s hand. This year\u2019s exhibition features the work of 54 emerging artists pushing the boundaries of contemporary illustration.\u00a0 \n \u00a0 \n Participating artists include Alex Allen-Walden, Hailey Amanna, Alison Ays, Amelie Barritas, Arianna Colon, Joe Corredor, Haley Feimster, Adrian Gonzales, Sam Herrera, Cameron Hill, Kayla Ianos, Abubacar Keita, Gavin Kisla, Jerusa Larancuent, Sophie Mahoney, Justine Massabny, Geraldine Medina Rodriguez, Oliver Nazzaro, Katherine Nicholas, Celeste Nova, Sam Olivo, Ashley Ortiz, Yuliya Pasechko, Priya Patel, Amber Paulino, Ayden Pavese, Kimberly Peralta, Perri Polyviou, Ethan Pozo, Nate Quintero, Abigail Reina, Angel Rodriguez, Liany Sanchez, Cyan Villar, Tiana Yurechko, Kaden Zofrea, Kelsey Ayala, Mel Aydogan, Yooyoung Chung, Emily Correa, Alexa D'Alessandro, Elias Galdamez, Jazmin Gamboa, Jayden Gentles, Brianna Ginart, Mee Hee Lim, Pauline Magos, Arianny Matos, Nic Morales, Odosa Obasuyi, Camila Pena-Marte, Elizabeth Seidemann, Jelena Wall, and Jailynn Winn. \n \u00a0 \n Join us for the closing reception to meet and connect with the artists, explore the diverse range of work on view, and celebrate the achievements of this dynamic graduating class. Family, friends, faculty, and the public are warmly invited. \n \u00a0 \n Mark your calendar and don\u2019t miss this show! \n \u00a0 \n BFA Illustration Thesis Exhibition \n Exhibition dates: April 9 \u2013 April 20, 2026 \n Closing Reception: April 20 from 1:00\u20135:00pm \n Finley Gallery, Finley Hall \n Light refreshments will be served"
-  },
-  {
     "title": "A Most Generous Affair",
     "date": "2026-04-14T21:00:00+00:00",
     "organization": "Alpha Kappa Alpha Sorority, Inc. ",
@@ -270,6 +230,22 @@
     "location": "Student Center 417 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12266802",
     "description": "Do you have any clothing items that just don't fit right anymore? Or maybe you have that one thing you just don't know how to style but you keep in your closet \"just in case\". Join Montclair Unraveled and the Environment Club to learn how to upgrade your clothes and give them some purpose again, whether it be by making a small alteration or creating something entirely new!"
+  },
+  {
+    "title": "BFA Illustration Thesis Exhibition",
+    "date": "2026-04-14T15:00:00+00:00",
+    "organization": "Art and Design",
+    "location": "Finley Gallery, Finley Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12405395",
+    "description": "The Department of Art & Design proudly presents the BFA Illustration Thesis Exhibition, a vibrant celebration of the talent, vision, and voices of our graduating seniors. The exhibition will be on view in the Finley Gallery from April 9 through April 20, with a closing reception on Monday, April 20 from 1:00 to 5:00pm. \n \u00a0 \n Titled  AI: Actual Illustrators , the exhibition responds to the growing presence of artificial image-making by reaffirming the power of human creativity. From paintings, comics, and doodles to animations, visual development, and editorial illustration, each piece reflects the passion, skill, and individuality that can only come from the artist\u2019s hand. This year\u2019s exhibition features the work of 54 emerging artists pushing the boundaries of contemporary illustration.\u00a0 \n \u00a0 \n Participating artists include Alex Allen-Walden, Hailey Amanna, Alison Ays, Amelie Barritas, Arianna Colon, Joe Corredor, Haley Feimster, Adrian Gonzales, Sam Herrera, Cameron Hill, Kayla Ianos, Abubacar Keita, Gavin Kisla, Jerusa Larancuent, Sophie Mahoney, Justine Massabny, Geraldine Medina Rodriguez, Oliver Nazzaro, Katherine Nicholas, Celeste Nova, Sam Olivo, Ashley Ortiz, Yuliya Pasechko, Priya Patel, Amber Paulino, Ayden Pavese, Kimberly Peralta, Perri Polyviou, Ethan Pozo, Nate Quintero, Abigail Reina, Angel Rodriguez, Liany Sanchez, Cyan Villar, Tiana Yurechko, Kaden Zofrea, Kelsey Ayala, Mel Aydogan, Yooyoung Chung, Emily Correa, Alexa D'Alessandro, Elias Galdamez, Jazmin Gamboa, Jayden Gentles, Brianna Ginart, Mee Hee Lim, Pauline Magos, Arianny Matos, Nic Morales, Odosa Obasuyi, Camila Pena-Marte, Elizabeth Seidemann, Jelena Wall, and Jailynn Winn. \n \u00a0 \n Join us for the closing reception to meet and connect with the artists, explore the diverse range of work on view, and celebrate the achievements of this dynamic graduating class. Family, friends, faculty, and the public are warmly invited. \n \u00a0 \n Mark your calendar and don\u2019t miss this show! \n \u00a0 \n BFA Illustration Thesis Exhibition \n Exhibition dates: April 9 \u2013 April 20, 2026 \n Closing Reception: April 20 from 1:00\u20135:00pm \n Finley Gallery, Finley Hall \n Light refreshments will be served"
+  },
+  {
+    "title": "BFA Illustration Thesis Exhibition",
+    "date": "2026-04-14T15:00:00+00:00",
+    "organization": "Art and Design",
+    "location": "Finley Gallery, Finley Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12405396",
+    "description": "The Department of Art & Design proudly presents the BFA Illustration Thesis Exhibition, a vibrant celebration of the talent, vision, and voices of our graduating seniors. The exhibition will be on view in the Finley Gallery from April 9 through April 20, with a closing reception on Monday, April 20 from 1:00 to 5:00pm. \n \u00a0 \n Titled  AI: Actual Illustrators , the exhibition responds to the growing presence of artificial image-making by reaffirming the power of human creativity. From paintings, comics, and doodles to animations, visual development, and editorial illustration, each piece reflects the passion, skill, and individuality that can only come from the artist\u2019s hand. This year\u2019s exhibition features the work of 54 emerging artists pushing the boundaries of contemporary illustration.\u00a0 \n \u00a0 \n Participating artists include Alex Allen-Walden, Hailey Amanna, Alison Ays, Amelie Barritas, Arianna Colon, Joe Corredor, Haley Feimster, Adrian Gonzales, Sam Herrera, Cameron Hill, Kayla Ianos, Abubacar Keita, Gavin Kisla, Jerusa Larancuent, Sophie Mahoney, Justine Massabny, Geraldine Medina Rodriguez, Oliver Nazzaro, Katherine Nicholas, Celeste Nova, Sam Olivo, Ashley Ortiz, Yuliya Pasechko, Priya Patel, Amber Paulino, Ayden Pavese, Kimberly Peralta, Perri Polyviou, Ethan Pozo, Nate Quintero, Abigail Reina, Angel Rodriguez, Liany Sanchez, Cyan Villar, Tiana Yurechko, Kaden Zofrea, Kelsey Ayala, Mel Aydogan, Yooyoung Chung, Emily Correa, Alexa D'Alessandro, Elias Galdamez, Jazmin Gamboa, Jayden Gentles, Brianna Ginart, Mee Hee Lim, Pauline Magos, Arianny Matos, Nic Morales, Odosa Obasuyi, Camila Pena-Marte, Elizabeth Seidemann, Jelena Wall, and Jailynn Winn. \n \u00a0 \n Join us for the closing reception to meet and connect with the artists, explore the diverse range of work on view, and celebrate the achievements of this dynamic graduating class. Family, friends, faculty, and the public are warmly invited. \n \u00a0 \n Mark your calendar and don\u2019t miss this show! \n \u00a0 \n BFA Illustration Thesis Exhibition \n Exhibition dates: April 9 \u2013 April 20, 2026 \n Closing Reception: April 20 from 1:00\u20135:00pm \n Finley Gallery, Finley Hall \n Light refreshments will be served"
   },
   {
     "title": "Group X - Goodnight Yoga",
@@ -501,7 +477,7 @@
     "organization": "InterVarsity Christian Fellowship",
     "location": "Student Center 415 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12383551",
-    "description": ""
+    "description": "Join us as we delve into the Word of God and how it applies to you as a college student studying nursing or healthcare related majors"
   },
   {
     "title": "MSU Skate Club GBM",
@@ -509,7 +485,7 @@
     "organization": "Montclair State University Skate Club",
     "location": "Waichungo Family Courtyard",
     "link": "https://montclair.campuslabs.com/engage/event/12349349",
-    "description": ""
+    "description": "Interested in what's next for the Montclair State University Skate Club? Join our bi-weekly general body meetings! This is where we discuss upcoming projects and collaborations before heading out to skate. We want to hear your ideas, questions, and concerns. Your feedback helps shape the club's future."
   },
   {
     "title": "Group X - Kickboxing",
@@ -536,20 +512,20 @@
     "description": "Cali Midweek Series: Chamber Music Recital \n A chamber music concert at the Cali School of Music unites ensembles from across the entire program. As part of the vibrant Midweek Series\u2014free and open to the public at 2pm\u2014students from strings, winds, brass, percussion, piano, and voice perform a diverse program that highlights collaboration and the rich musical community of the school. \u00a0 \n --------------------- \n Cali Midweek Concerts 2025-26 Wednesdays at 2 PM Chapin Hall, Leshowitz Recital Hall \n FREE ADMISSION! \n Join us for the Cali Midweek Concerts at Montclair State University\u2019s John J. Cali School of Music, where we bring a diverse array of musical performances and educational events every Wednesday at 2PM in Leshowitz Recital Hall, Chapin Hall. Our concert series showcases the immense talent within our faculty, students, and esteemed guest artists."
   },
   {
-    "title": "Caribbean Students' Organization: General body Meetings ",
-    "date": "2026-04-15T18:00:00+00:00",
-    "organization": "Caribbean Students' Organization",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12161078",
-    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
-  },
-  {
     "title": "HOSA General Body Meeting",
     "date": "2026-04-15T18:00:00+00:00",
     "organization": "Health Occupations Students of America - Future Health Professionals ",
     "location": "University Hall 2009 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12171208",
     "description": "HOSA GBM!"
+  },
+  {
+    "title": "Caribbean Students' Organization: General body Meetings ",
+    "date": "2026-04-15T18:00:00+00:00",
+    "organization": "Caribbean Students' Organization",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12161078",
+    "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
   },
   {
     "title": "Bible Talk",
@@ -864,6 +840,14 @@
     "description": "Hungry? Come to the Alice Paul lounge for free dinner! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "Choir Practice",
+    "date": "2026-04-16T00:00:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12423589",
+    "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
+  },
+  {
     "title": "Into the Woods Tech Rehearsal",
     "date": "2026-04-15T21:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -952,12 +936,12 @@
     "description": "Join\u00a0 BEAR Committee\u00a0 and\u00a0 Student Government Association\u00a0 in  Deacon's Den  for a crafty thursday! Bring a friend and break out your comfort zone with this week's activity. Suggest a craft for the next week, let your expression guide you!"
   },
   {
-    "title": "German Club General Body Meetings",
+    "title": "German Club General Body Meetings - End-of-Semester Celebration",
     "date": "2026-04-16T16:15:00+00:00",
     "organization": "German Club",
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12109005",
-    "description": "German Club would like to host general body meetings, open to everybody interested in German culture."
+    "description": "German Club would like to host general body meetings, open to everybody interested in German culture. Enjoy playing bingo together while announcing our upcoming E-Board for 2026-2027."
   },
   {
     "title": "Group X - Kickboxing",
@@ -1414,6 +1398,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12108164",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 01/20 - 04/24 \n 2:00pm - 2:45 pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Vincent"
+  },
+  {
+    "title": "Chess Club SB Meeting!",
+    "date": "2026-04-17T17:00:00+00:00",
+    "organization": "Montclair State University Chess Club",
+    "location": "University Hall 2011 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12423590",
+    "description": "Join us for an evening of strategy, skill, and friendly competition! Whether you\u2019re a seasoned player or just learning the game, all are welcome. Come at your convenience! We\u2019ll have time for casual matches, analysis, and discussion of tactics and openings.\u00a0 \n Boards and pieces will be provided;  just bring your enthusiasm for the game!"
   },
   {
     "title": "Catch Up & Chill",
@@ -1878,6 +1870,14 @@
     "location": "Student Center 2C03 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12417067",
     "description": "Hello, guys! \u2728 \n Get ready for the\u00a0 cutest, most unique bake sale\u00a0 ever! \ud83c\udf82 We\u2019re bringing you\u00a0 Siminski cake pops, Sonny Angel cake pops, Sonny Angel hat cupcakes, yummy Japanese snacks, and more!!\u00a0 \ud83c\udf70\ud83c\udf80 \n The best part? Everything is\u00a0 under $5! \u00a0\ud83d\udc96 So swing by, grab some adorable treats, and support our club! Your sweet tooth (and your wallet) will thank you! \u2728 \n See you there, Angels! \ud83c\udf6a\ud83d\udc97"
+  },
+  {
+    "title": "Recharge & Restore Kits Pick Up",
+    "date": "2026-04-20T17:30:00+00:00",
+    "organization": "Red Hawk Pantry",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12424581",
+    "description": "Take a moment to care for yourself during this demanding time and pick up a Recharge & Restore Kit to help ease your stress!\u00a0 \n \u00a0 \n Date:  Monday, April 20th \n Time:\u00a0 1:30 - 3:30 pm (During Pantry Open hours) \n Location:  Red Hawk Pantry, Blanton Hall \n \u00a0 \n *First come, first served, while supplies last. 1 kit per student. Contents of kits will vary. Items may contain nuts.* \n \u00a0 \n Co-sponsors: Performance Operations - College of the Arts, CAPS, Office of Health Promotion"
   },
   {
     "title": "Red Hawk Pantry",
@@ -2709,7 +2709,7 @@
     "organization": "Political Science Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12161001",
-    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
+    "description": ""
   },
   {
     "title": "Haitian Student Association General Body Meeting ",
@@ -3389,7 +3389,15 @@
     "organization": "Office of Health Promotion",
     "location": "Around campus",
     "link": "https://montclair.campuslabs.com/engage/event/12412657",
-    "description": "Keep an eye out for our team around campus while you prepare for finals! Our teams will be walking around asking fun questions about what helps you reset while you study. Participants will receive a fun prize!"
+    "description": ""
+  },
+  {
+    "title": "Red Baraat in the Amphitheatre",
+    "date": "2026-04-24T18:00:00+00:00",
+    "organization": "PEAK Performances",
+    "location": "Amphitheatre",
+    "link": "https://montclair.campuslabs.com/engage/event/12423694",
+    "description": "The\u00a0\"infectious\" (Rhein Main Press), \"cacophonous bhangra funk band from Brooklyn\" (The Telegraph) is \u201cthe best party band in years\u201d (NPR), and they're coming to Montclair for a free outdoor performance in the Amphitheatre! Join PEAK Performances and Red Baraat for a spring celebration of the year with free ice cream and other free things for Montclair students. \n Red Baraat  is a pioneering band from Brooklyn, New York. Conceived by dhol player Sunny Jain, the group has drawn worldwide praise for its singular sound, a merging of hard driving Punjabi rhythms with elements of hip-hop, jazz and raw punk energy. The band\u2019s live shows are an unparalleled collision of virtuosity, party, and joy, as Red Baraat reminds us that we are truly all in this together.\u00a0Red Baraat has toured the globe the past 16 years with stops at Bonnaroo, Austin City Limits, Bumbershoot, New Orleans Jazz Fest, Peter Gabriel\u2019s WOMAD festivals (Australia, New Zealand, Spain, UK), Dubai World Expo 2021, just to name a few. Along the way they sold out rooms as diverse as the Luxembourg Philharmonic and the New York City\u2019s legendary rock club Bowery Ballroom, and performed at the request of The White House (Obama), TED, London Olympic Games, David Byrne, Padma Lakshmi and recent NYC Mayor-elect, Zohran Mamdani. Red Baraat have released 7 albums with numerous accolades from major media outlets and ranked in top 10 lists on Billboard, Apple Music and World Music Charts Europe."
   },
   {
     "title": "Take-and-Make Craft Kit: Ceramic Sea Creatures",
@@ -3888,6 +3896,14 @@
     "description": "End the semester the right way\u00a0 Come hang out with DECA for an afternoon of food, music, and good vibes as we celebrate everything we\u2019ve built this semester!"
   },
   {
+    "title": "Black Student Org Fair 2026",
+    "date": "2026-04-27T17:30:00+00:00",
+    "organization": "Black Student Union",
+    "location": "Student Center Quad123 - All Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12423779",
+    "description": "Pop out to the last hoorahh of the semester! Welcome to our Black Student org fair!"
+  },
+  {
     "title": "Aurora's Oreo & Rice Krispie Bake Sale! \u2661",
     "date": "2026-04-27T18:00:00+00:00",
     "organization": "Korean Dance Cover Group",
@@ -4054,14 +4070,6 @@
     "location": "Talbott Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12205791",
     "description": "A weekly event where you get a chance to try different things. From DJing, to D.I.Y. projects and BINGO with a twist. This is a day you don't want to miss, 1st person to come gets a prize every time."
-  },
-  {
-    "title": "Newman Night",
-    "date": "2026-04-28T23:00:00+00:00",
-    "organization": "Red Hawk Catholic",
-    "location": "Newman Catholic Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12104548",
-    "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
   },
   {
     "title": "Denim Day Decorating",
