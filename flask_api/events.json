@@ -1,61 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2026-04-14T17:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12065408",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesdays, 01/20 - 04/24 \n 1pm-1:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle"
-  },
-  {
-    "title": "SLAM General Body Meeting",
-    "date": "2026-04-14T17:00:00+00:00",
-    "organization": "Student Life At Montclair (SLAM)",
-    "location": "Student Center Underground - The Underground",
-    "link": "https://montclair.campuslabs.com/engage/event/12176421",
-    "description": "Come hang out with the SLAM E-Board and get involved in shaping our events for the semester! Our General Body Meetings are a space for students to learn about upcoming programs, share ideas, and help plan and execute events that bring the campus together. Whether you\u2019re interested in event planning, marketing, logistics, or just want your voice heard, this is the place to be. We\u2019ll be discussing what\u2019s ahead for the semester, ways to get involved, and how you can make a real impact through SLAM. No experience is needed\u2014just bring your ideas, energy, and excitement to collaborate with us!"
-  },
-  {
-    "title": "HABLAMOS ESPA\u00d1OL - Spanish Conversation MeetUps - Spring 2026",
-    "date": "2026-04-14T17:00:00+00:00",
-    "organization": "Center for Latino Heritage & Spanish Language Excellence",
-    "location": "Schmitt Hall 138",
-    "link": "https://montclair.campuslabs.com/engage/event/12351437",
-    "description": "Join us for informal and friendly meet-ups to speak and practice Spanish. No need to register, no specific level required. \n All are welcome! Te esperamos en Schmitt Hall # 138 every Tuesday at 1-2pm and Thursday 2-3pm"
-  },
-  {
-    "title": "Bear Necessities Pantry ",
-    "date": "2026-04-14T16:00:00+00:00",
-    "organization": "Red Hawk Pantry",
-    "location": "Bloomfield College",
-    "link": "https://montclair.campuslabs.com/engage/event/12181141",
-    "description": "Visiting the Pantry: 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week, including visits to MSU Pantry*** Our Mission:\u00a0\u00a0 We aim to address food insecurity across Bloomfield College. The Bear Necessities Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu\u00a0 Stay updated by following us on Instagram: @montclair_redhawkpantry \u00a0 Location: Bloomfield College - Talbott Hall T003"
-  },
-  {
-    "title": "Hop on By",
-    "date": "2026-04-14T14:30:00+00:00",
-    "organization": "Student Development and Campus Life",
-    "location": "Dean of Students Office",
-    "link": "https://montclair.campuslabs.com/engage/event/12247377",
-    "description": "If the end of the semester has you stressed, pop or hop on by to the Dean of Students' Office to de-stress with snacks, bubble wrap, and prizes!"
-  },
-  {
-    "title": "Bake Sale",
-    "date": "2026-04-14T16:00:00+00:00",
-    "organization": "Students for Justice in Palestine",
-    "location": "Student Center Quad Information Table 1 - Information Table 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12385067",
-    "description": "Students for Justice in Palestine will be holding a bake sale, come show your support and get a tasty treat!"
-  },
-  {
-    "title": "Group X - Pilates",
-    "date": "2026-04-14T18:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Multipurpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12065501",
-    "description": "A mind-body conditioning technique that focuses on trunk stability and coordinated breathing through a series of exercises.\u00a0 Pilates develops a longer, leaner, stronger, and more graceful body by improving muscular symmetry, alignment, posture, core strength, and flexibility. All levels are welcome. \n \n \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Tuesday, Jan 20 - April 24 \n 2 pm - 2:45 p.m. \n Student Recreation Center - Multipurpose Room 1 \n \n \n \n \n \n Instructor - Ashley"
-  },
-  {
     "title": " Pie in the face Fundraiser ",
     "date": "2026-04-14T16:00:00+00:00",
     "organization": "Latin American Student Organization",
@@ -80,6 +24,14 @@
     "description": "The Brotherhood / La Hermanidad General Body Meetings \n Join  The Brotherhood / La Hermanidad  every Tuesday from  2:00 PM \u2013 3:30 PM  for our weekly General Body Meetings. This is a dedicated space for Black and Brown men to come together in unity, build community, and engage in meaningful conversations that promote personal, academic, and professional growth. \n Each week, we create an environment centered on  brotherhood, empowerment, and accountability \u2014discussing real-life topics, supporting one another, and strengthening our presence on campus and beyond. \n Whether you\u2019re looking to grow, connect, or simply be in a space that understands you, this is where you belong."
   },
   {
+    "title": "Try-it Tuesdays",
+    "date": "2026-04-14T18:30:00+00:00",
+    "organization": "Campus Activities at Bloomfield",
+    "location": "Talbott Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12205789",
+    "description": "A weekly event where you get a chance to try different things. From DJing, to D.I.Y. projects and BINGO with a twist. This is a day you don't want to miss, 1st person to come gets a prize every time."
+  },
+  {
     "title": "The Meme-ification of Politics",
     "date": "2026-04-14T18:00:00+00:00",
     "organization": "Panther Progress",
@@ -88,12 +40,12 @@
     "description": "How did we go from meaningful political art to memes without a message?"
   },
   {
-    "title": "Try-it Tuesdays",
-    "date": "2026-04-14T18:30:00+00:00",
-    "organization": "Campus Activities at Bloomfield",
-    "location": "Talbott Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12205789",
-    "description": "A weekly event where you get a chance to try different things. From DJing, to D.I.Y. projects and BINGO with a twist. This is a day you don't want to miss, 1st person to come gets a prize every time."
+    "title": "upLIFT",
+    "date": "2026-04-14T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center PLAE Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12179117",
+    "description": "Step into the brand-new PLAE Room and discover upLIFT\u2014a judgement-free program designed to help every student, from complete beginners to seasoned gym-goers, feel confident and capable with free-weight training. Learn proper lifting technique, get personalized form checks, and master the basics of creating your own effective workout programs. Whether you\u2019re looking to meet other students who love to lift, pursue new fitness goals, or simply feel more at home in the weight room, upLIFT offers a supportive community and a dedicated space to grow. The program is structured for steady progression throughout the semester, but you\u2019re welcome to drop in anytime and join at your own pace. \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Beginning February 3, ending April 23 \n Tuesdays 3 PM - 4 PM, Wednesdays 6 PM - 7 PM, and Thursdays 2 PM - 3 PM \n Student Recreation Center PLAE Room"
   },
   {
     "title": "Apologetics",
@@ -118,14 +70,6 @@
     "location": "University Hall 2048 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12415798",
     "description": "How did we go from meaningful political art to memes without a message?"
-  },
-  {
-    "title": "upLIFT",
-    "date": "2026-04-14T19:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center PLAE Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12179117",
-    "description": "Step into the brand-new PLAE Room and discover upLIFT\u2014a judgement-free program designed to help every student, from complete beginners to seasoned gym-goers, feel confident and capable with free-weight training. Learn proper lifting technique, get personalized form checks, and master the basics of creating your own effective workout programs. Whether you\u2019re looking to meet other students who love to lift, pursue new fitness goals, or simply feel more at home in the weight room, upLIFT offers a supportive community and a dedicated space to grow. The program is structured for steady progression throughout the semester, but you\u2019re welcome to drop in anytime and join at your own pace. \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Beginning February 3, ending April 23 \n Tuesdays 3 PM - 4 PM, Wednesdays 6 PM - 7 PM, and Thursdays 2 PM - 3 PM \n Student Recreation Center PLAE Room"
   },
   {
     "title": "Group X - Zumba",
@@ -280,14 +224,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 7pm - 8:30pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
   },
   {
-    "title": "BBQ & BINGO - Join RA Jill ",
-    "date": "2026-04-14T23:00:00+00:00",
-    "organization": "Bloomfield's Office of Residence Life",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12401775",
-    "description": "BINGO and BBQ \u2014 what a perfect combination!  \ud83c\udf89\ud83d\udd25 Join  RA Jill  for an engaging community experience featuring a friendly game of  BINGO  and a delicious  BBQ  meal. This event is designed to bring residents together for an enjoyable evening of connection, good food, and a bit of friendly competition. \n We look forward to seeing you there for great prizes, great food, and great company. \ud83c\udf7d\ufe0f\u2728 \n Location: (Bloomfield Campus) Franklin Hall - Fourth Floor Rooftop - 414"
-  },
-  {
     "title": "QuickPlay Sports Challenge",
     "date": "2026-04-14T23:00:00+00:00",
     "organization": "Campus Recreation",
@@ -302,6 +238,14 @@
     "location": "Stone Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12307288",
     "description": "Create your own mini bouquet at our Bloom Bar! Mix and match fresh flowers to design a custom arrangement to take home. All are welcome, commuters must be signed in by a Montclair State resident."
+  },
+  {
+    "title": "BBQ & BINGO - Join RA Jill ",
+    "date": "2026-04-14T23:00:00+00:00",
+    "organization": "Bloomfield's Office of Residence Life",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12401775",
+    "description": "BINGO and BBQ \u2014 what a perfect combination!  \ud83c\udf89\ud83d\udd25 Join  RA Jill  for an engaging community experience featuring a friendly game of  BINGO  and a delicious  BBQ  meal. This event is designed to bring residents together for an enjoyable evening of connection, good food, and a bit of friendly competition. \n We look forward to seeing you there for great prizes, great food, and great company. \ud83c\udf7d\ufe0f\u2728 \n Location: (Bloomfield Campus) Franklin Hall - Fourth Floor Rooftop - 414"
   },
   {
     "title": "Paint a Puzzle",
@@ -416,6 +360,14 @@
     "description": "Just a space to chit-chat and get to know us as we spread the love of God!"
   },
   {
+    "title": "Finishing Strong: Accessible Finals Strategies Workshop",
+    "date": "2026-04-15T16:30:00+00:00",
+    "organization": "Disability Resource Center",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12424626",
+    "description": "Struggling with finals prep? Not sure how to study? Come check out this workshop!"
+  },
+  {
     "title": "Prestigious Scholarships Info Session",
     "date": "2026-04-15T17:00:00+00:00",
     "organization": "Prestigious Scholarships ",
@@ -512,20 +464,20 @@
     "description": "Cali Midweek Series: Chamber Music Recital \n A chamber music concert at the Cali School of Music unites ensembles from across the entire program. As part of the vibrant Midweek Series\u2014free and open to the public at 2pm\u2014students from strings, winds, brass, percussion, piano, and voice perform a diverse program that highlights collaboration and the rich musical community of the school. \u00a0 \n --------------------- \n Cali Midweek Concerts 2025-26 Wednesdays at 2 PM Chapin Hall, Leshowitz Recital Hall \n FREE ADMISSION! \n Join us for the Cali Midweek Concerts at Montclair State University\u2019s John J. Cali School of Music, where we bring a diverse array of musical performances and educational events every Wednesday at 2PM in Leshowitz Recital Hall, Chapin Hall. Our concert series showcases the immense talent within our faculty, students, and esteemed guest artists."
   },
   {
-    "title": "HOSA General Body Meeting",
-    "date": "2026-04-15T18:00:00+00:00",
-    "organization": "Health Occupations Students of America - Future Health Professionals ",
-    "location": "University Hall 2009 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12171208",
-    "description": "HOSA GBM!"
-  },
-  {
     "title": "Caribbean Students' Organization: General body Meetings ",
     "date": "2026-04-15T18:00:00+00:00",
     "organization": "Caribbean Students' Organization",
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12161078",
     "description": "CaribSO\u2019s General Body Meetings provide an open and welcoming space for students to connect, engage, and learn about Caribbean culture and community. These meetings are used to share important updates, plan upcoming events, discuss organizational initiatives, and encourage member involvement. General body meetings promote leadership development, collaboration, and cultural awareness while fostering a strong sense of community among members."
+  },
+  {
+    "title": "HOSA General Body Meeting",
+    "date": "2026-04-15T18:00:00+00:00",
+    "organization": "Health Occupations Students of America - Future Health Professionals ",
+    "location": "University Hall 2009 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12171208",
+    "description": "HOSA GBM!"
   },
   {
     "title": "Bible Talk",
@@ -1424,6 +1376,14 @@
     "description": "Tuba Masterclass with Willie Clark \n Willie Clark,   professor of tuba at  University of Maryland  and former tuba with the  United States AIr Force Band   will lead Cali brass students in a masterclass focusing on the fundamentals of expressive brass playing across a landscape of genres. \n Bio \n Willie Clark  is a former member of the  United States Air Force Ceremonial Brass  and a founding member of the professional Disney tuba quartet,  The Tubafours.  An internationally active performer, recording artist, and clinician, he has toured extensively throughout the United States, South America, Asia, Australia, and Europe, performing with leading orchestras, ensembles, and popular artists. Clark currently serves on the tuba faculty at the  University of Maryland  and  Howard University,  and is widely respected for his engaging teaching and expressive approach to brass performance."
   },
   {
+    "title": "Powder Puff Football ",
+    "date": "2026-04-17T17:00:00+00:00",
+    "organization": "The Brotherhood/La Hermandad",
+    "location": "Student Center Quad123 - All Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12425008",
+    "description": "The Brotherhood / La Hermanidad  is proud to present our  Powder Puff Football Game  on the Student Center Quad! Join us for an exciting afternoon of friendly competition, unity, and school spirit as teams take the field for a high-energy matchup. \n This event is all about bringing the community together\u2014celebrating connection, culture, and camaraderie through fun and engaging competition. Whether you\u2019re playing or cheering from the sidelines, expect great vibes, music, and an unforgettable atmosphere. \n \ud83d\uddd3  Date:  April 17th \u23f0  Time:  2:00 PM \u2013 5:00 PM \ud83d\udccd  Location:  Student Center Quad \n Come out, show love, and be part of the experience! \ud83c\udfc8\ud83d\udd25"
+  },
+  {
     "title": "Group X - BJJ",
     "date": "2026-04-17T19:30:00+00:00",
     "organization": "Campus Recreation",
@@ -1941,7 +1901,7 @@
     "organization": "National Association for the Advancement of Colored People",
     "location": "University Hall 1C01 - Lobby Table",
     "link": "https://montclair.campuslabs.com/engage/event/12389699",
-    "description": "NAACP Finance Committee Bake Sale \ud83c\udf6a \n Come out and support the NAACP Finance Committee at our  Bake Sale Fundraiser ! We\u2019re raising funds to attend  Nationals this summer , where we\u2019ll represent our chapter, grow as leaders, and bring back valuable experiences to our campus community. \n Stop by, grab some delicious homemade treats, and support a great cause. Every purchase helps us get one step closer to Nationals! \n Your support means everything\u2014see you there!"
+    "description": ""
   },
   {
     "title": "PRSO GBM",
@@ -1981,7 +1941,7 @@
     "organization": "Sinatra Hall",
     "location": "Francis A. Sinatra Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12389496",
-    "description": "Join the Sinatra Hall CA's for a Picnic on the bench! FOOD -- FUN -- SNACKS!"
+    "description": ""
   },
   {
     "title": "Montclair Unraveled General Body Meeting!",
@@ -2053,7 +2013,7 @@
     "organization": "Hawk Crossings",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12335136",
-    "description": "Join the CAs for the Hawk Crossings Closing Building Meeting! \n During these meetings, the CAs will provide information about the guidelines and expectations with moving out, living on campus, and information to Hawk Crossings specifically. You only need to attend one meeting as the information will be the same at every meeting. Attendance will be taken. \n During these meetings, residents will have the chance to ask questions! \n This event is for Residents of Hawk Crossings. \n Join via Zoom: \n https://montclair.zoom.us/j/98678488329?pwd=znkw4Ow9XjZicEYbV7beP4UJIasTPq.1 Password: m2u46x"
+    "description": ""
   },
   {
     "title": "Journaling Night",
@@ -2198,6 +2158,14 @@
     "location": "Student Center Quad Information Table 2 - Information Table 2",
     "link": "https://montclair.campuslabs.com/engage/event/12385068",
     "description": "Students for Justice in Palestine will be holding a bake sale, come show your support and get a tasty treat!"
+  },
+  {
+    "title": "Finals De-stress Event",
+    "date": "2026-04-21T16:30:00+00:00",
+    "organization": "Student Government Association, Inc.",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12425052",
+    "description": "Come out to our Finals De-Stress Event, Celebrating a successful semester!"
   },
   {
     "title": "HABLAMOS ESPA\u00d1OL - Spanish Conversation MeetUps - Spring 2026",
@@ -2709,7 +2677,7 @@
     "organization": "Political Science Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12161001",
-    "description": ""
+    "description": "Join us for our General Body Meetings every Wednesday from 2:00 to 3:15 p.m. in Dickson Hall, Room 272! Engage in vibrant discussions about domestic and international politics, where all students are welcome to share their thoughts. Each meeting includes a research presentation followed by open discussion, encouraging diverse perspectives and debates. Don't miss this opportunity to deepen your understanding of political issues and connect with fellow students!"
   },
   {
     "title": "Haitian Student Association General Body Meeting ",
@@ -2814,6 +2782,14 @@
     "location": "Freeman/Russ QUAD - Freeman/Russ Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12417205",
     "description": "To celebrate our 59th Anniversary, join WMSC for another year of \"WMSC Ball Games\" where we will be playing sports all around campus! \n \u00a0 \n Stop by for some Kickball on the Freeman Quad and face off against your fellow WMSC Members (Must come wearing comfortable clothes and a friendly attitude)"
+  },
+  {
+    "title": "Fashion Gives Forward ",
+    "date": "2026-04-22T17:00:00+00:00",
+    "organization": "Montclair Ad Club ",
+    "location": "Student Center 250BC - Ballrooms B and C",
+    "link": "https://montclair.campuslabs.com/engage/event/12425035",
+    "description": "Fashion Gives Forward is a partnership between Montclair Ad Club and Thrift-a-Lot. The event is built around the question: how can brands and consumers participate in sustainability in 2026? Thrift-a-Lot is a community-focused flea market built on the entrepreneurial spirit. It\u2019s a place for students, vendors, small business owners, and sustainability heroes to buy, sell, create, and connect. This Earth Day, we are bringing circular fashion to Montclair. Vendors will be selling second-hand clothes, handmade accessories, plants, and more!"
   },
   {
     "title": "General Body Meeting",
@@ -3120,6 +3096,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 2:45pm - 3:30pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle"
   },
   {
+    "title": "Don\u2019t Touch My Hair x Help A Sista",
+    "date": "2026-04-23T17:00:00+00:00",
+    "organization": "National Association for the Advancement of Colored People",
+    "location": "Student Center Quad2 - Lower Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12425066",
+    "description": "\u201cDon\u2019t Touch My Hair\u201d is an event meant to create space for conversations about natural hair, especially for Black women. The goal is to talk about embracing our hair, the struggles many of us face, and how we\u2019ve had to advocate for our hair in school, work, and everyday spaces. \n \u201cHelp a Sista Out\u201d focuses more on accessibility & empowerment through service by providing things like haircuts, manicures, lash services, and other self-care resources for women."
+  },
+  {
     "title": "Fireside Chats",
     "date": "2026-04-23T19:15:00+00:00",
     "organization": "Office of Health Promotion",
@@ -3288,14 +3272,6 @@
     "description": "Express your creativity and add some personality to your keys! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Mermaid Mixer",
-    "date": "2026-04-24T00:30:00+00:00",
-    "organization": "Lambda Tau Omega Sorority, Inc.",
-    "location": "Student Center 251 - Dining Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12134231",
-    "description": "Join Lambda Tau Omega Sorority, Inc. for their Mermaid Mixer!"
-  },
-  {
     "title": "Informal Tea",
     "date": "2026-04-24T00:30:00+00:00",
     "organization": "Sigma Lambda Upsilon",
@@ -3389,7 +3365,7 @@
     "organization": "Office of Health Promotion",
     "location": "Around campus",
     "link": "https://montclair.campuslabs.com/engage/event/12412657",
-    "description": ""
+    "description": "Keep an eye out for our team around campus while you prepare for finals! Our teams will be walking around asking fun questions about what helps you reset while you study. Participants will receive a fun prize!"
   },
   {
     "title": "Red Baraat in the Amphitheatre",
@@ -4070,6 +4046,14 @@
     "location": "Talbott Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12205791",
     "description": "A weekly event where you get a chance to try different things. From DJing, to D.I.Y. projects and BINGO with a twist. This is a day you don't want to miss, 1st person to come gets a prize every time."
+  },
+  {
+    "title": "Newman Night",
+    "date": "2026-04-28T23:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12104548",
+    "description": "We gather on Tuesday nights for a short talk or activity surrounding the Roman Catholic faith, followed by free dinner and social time!"
   },
   {
     "title": "Denim Day Decorating",
