@@ -1,35 +1,11 @@
 [
   {
-    "title": "Group X - HIIT",
-    "date": "2026-04-15T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12066417",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 9am - 9:45am \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Alexa V"
-  },
-  {
-    "title": "Group X - Pilates",
-    "date": "2026-04-15T15:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Multipurpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12066641",
-    "description": "A mind-body conditioning technique that focuses on trunk stability and coordinated breathing through a series of exercises.\u00a0 Pilates develops a longer, leaner, stronger, and more graceful body by improving muscular symmetry, alignment, posture, core strength, and flexibility. All levels are welcome. \n \n \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Wednesday, Jan 20 - April 24 \n 11am - 11:45 a.m. \n Student Recreation Center - Multipurpose Room 1 \n \n \n \n \n \n Instructor - Ashley"
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2026-04-15T16:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12066909",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 12pm - 12:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Alexa G"
-  },
-  {
-    "title": "Chi Alpha Tabling",
-    "date": "2026-04-15T15:00:00+00:00",
-    "organization": "Chi Alpha Campus Ministries",
-    "location": "Student Center 2C01 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12266523",
-    "description": "Just a space to chit-chat and get to know us as we spread the love of God!"
   },
   {
     "title": "Finishing Strong: Accessible Finals Strategies Workshop",
@@ -48,20 +24,12 @@
     "description": "Are you a junior or senior interested in graduate school, research, public service, or international experiences? The Prestigious Scholarships Program is here to support you!\u00a0 A prestigious scholarship provides you with the opportunity to develop your skills and reach your goals through engagement with people and places around the world. Montclair\u2019s Prestigious Scholarships Program helps all students and alumni learn of and apply for nationally and internationally competitive and prestigious awards. These awards fund a wide range of opportunities, as well as independent research projects, and many are connected to undergraduate and graduate degree programs or internships around the globe."
   },
   {
-    "title": "Campus Earth Day",
-    "date": "2026-04-15T15:30:00+00:00",
-    "organization": "Office of Sustainability",
-    "location": "Student Center Quad",
-    "link": "https://montclair.campuslabs.com/engage/event/12394574",
-    "description": "Calling all Red Hawks to the Student Center Quad on April 15, 2026 from 11:30 AM - 2 PM for Campus Earth Day! Celebrate all things sustainable at Montclair by visiting over 40 interactive tables from campus and community partners. There will be free food, swag, and plenty of Earth Month Raffle Code Words to collect! Pick-up an Earth Day Passport and collect enough Code Words to earn your free Montclair Sustainability +1 t-shirt!"
-  },
-  {
-    "title": "Earth Day Tabling",
-    "date": "2026-04-15T15:30:00+00:00",
-    "organization": "Office of Student Belonging",
-    "location": "The Student Center Quad",
-    "link": "https://montclair.campuslabs.com/engage/event/12399947",
-    "description": "Come to the Earth Day Fair in between classes where there will be plenty of giveaways and activities to do! Don't forget to come check out our table where you'll get to make your own potted lucky bamboo!! Don't miss out!"
+    "title": "Chi Alpha Tabling",
+    "date": "2026-04-15T15:00:00+00:00",
+    "organization": "Chi Alpha Campus Ministries",
+    "location": "Student Center 2C01 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12266523",
+    "description": "Just a space to chit-chat and get to know us as we spread the love of God!"
   },
   {
     "title": "FAFSA Completion Support Pop-Up Event",
@@ -110,6 +78,22 @@
     "location": "Waichungo Family Courtyard",
     "link": "https://montclair.campuslabs.com/engage/event/12349349",
     "description": "Interested in what's next for the Montclair State University Skate Club? Join our bi-weekly general body meetings! This is where we discuss upcoming projects and collaborations before heading out to skate. We want to hear your ideas, questions, and concerns. Your feedback helps shape the club's future."
+  },
+  {
+    "title": "Campus Earth Day",
+    "date": "2026-04-15T15:30:00+00:00",
+    "organization": "Office of Sustainability",
+    "location": "Student Center Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12394574",
+    "description": "Calling all Red Hawks to the Student Center Quad on April 15, 2026 from 11:30 AM - 2 PM for Campus Earth Day! Celebrate all things sustainable at Montclair by visiting over 40 interactive tables from campus and community partners. There will be free food, swag, and plenty of Earth Month Raffle Code Words to collect! Pick-up an Earth Day Passport and collect enough Code Words to earn your free Montclair Sustainability +1 t-shirt!"
+  },
+  {
+    "title": "Earth Day Tabling",
+    "date": "2026-04-15T15:30:00+00:00",
+    "organization": "Office of Student Belonging",
+    "location": "The Student Center Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12399947",
+    "description": "Come to the Earth Day Fair in between classes where there will be plenty of giveaways and activities to do! Don't forget to come check out our table where you'll get to make your own potted lucky bamboo!! Don't miss out!"
   },
   {
     "title": "Group X - Kickboxing",
@@ -264,14 +248,6 @@
     "description": "Join us at this semester's Lasagna Day meeting for, yes, FREE LASAGNA!!!! Come to hang out, pig out, and enjoy some amazing food!"
   },
   {
-    "title": "Pet Portraits",
-    "date": "2026-04-15T18:30:00+00:00",
-    "organization": "Pre-Vet/Animal Science Club",
-    "location": "University Hall 3002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12419464",
-    "description": "\ud83c\udfa8\u00a0 Pet Portraits with the Pre-Vet Animal Science Club! \u00a0\ud83d\udc3e Join us for a relaxing and fun art event where you can create your very own portrait of your pet! \ud83d\udc36\ud83d\udc31 \n We\u2019ll provide 8x10 canvases, paints, brushes, and all the supplies you need to make the perfect masterpiece. \ud83c\udfa8 Snacks and drinks will also be provided for everyone to enjoy! \ud83c\udf6a\ud83e\udd64 \n We recommend\u00a0 bringing a printed photo of your pet \u00a0to use as a reference (or for tracing onto your canvas).\u00a0 \n \u2728\u00a0 All majors welcome! \u00a0Come hang out, get creative, and show off your love for animals. \u2764\ufe0f"
-  },
-  {
     "title": "The DJ Academy: Music Matters 101 ",
     "date": "2026-04-15T18:30:00+00:00",
     "organization": "Campus Activities at Bloomfield",
@@ -368,14 +344,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 6pm - 6:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Jayla"
   },
   {
-    "title": "BFA Illustration Thesis Exhibition",
-    "date": "2026-04-15T15:00:00+00:00",
-    "organization": "Art and Design",
-    "location": "Finley Gallery, Finley Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12405397",
-    "description": "The Department of Art & Design proudly presents the BFA Illustration Thesis Exhibition, a vibrant celebration of the talent, vision, and voices of our graduating seniors. The exhibition will be on view in the Finley Gallery from April 9 through April 20, with a closing reception on Monday, April 20 from 1:00 to 5:00pm. \n \u00a0 \n Titled  AI: Actual Illustrators , the exhibition responds to the growing presence of artificial image-making by reaffirming the power of human creativity. From paintings, comics, and doodles to animations, visual development, and editorial illustration, each piece reflects the passion, skill, and individuality that can only come from the artist\u2019s hand. This year\u2019s exhibition features the work of 54 emerging artists pushing the boundaries of contemporary illustration.\u00a0 \n \u00a0 \n Participating artists include Alex Allen-Walden, Hailey Amanna, Alison Ays, Amelie Barritas, Arianna Colon, Joe Corredor, Haley Feimster, Adrian Gonzales, Sam Herrera, Cameron Hill, Kayla Ianos, Abubacar Keita, Gavin Kisla, Jerusa Larancuent, Sophie Mahoney, Justine Massabny, Geraldine Medina Rodriguez, Oliver Nazzaro, Katherine Nicholas, Celeste Nova, Sam Olivo, Ashley Ortiz, Yuliya Pasechko, Priya Patel, Amber Paulino, Ayden Pavese, Kimberly Peralta, Perri Polyviou, Ethan Pozo, Nate Quintero, Abigail Reina, Angel Rodriguez, Liany Sanchez, Cyan Villar, Tiana Yurechko, Kaden Zofrea, Kelsey Ayala, Mel Aydogan, Yooyoung Chung, Emily Correa, Alexa D'Alessandro, Elias Galdamez, Jazmin Gamboa, Jayden Gentles, Brianna Ginart, Mee Hee Lim, Pauline Magos, Arianny Matos, Nic Morales, Odosa Obasuyi, Camila Pena-Marte, Elizabeth Seidemann, Jelena Wall, and Jailynn Winn. \n \u00a0 \n Join us for the closing reception to meet and connect with the artists, explore the diverse range of work on view, and celebrate the achievements of this dynamic graduating class. Family, friends, faculty, and the public are warmly invited. \n \u00a0 \n Mark your calendar and don\u2019t miss this show! \n \u00a0 \n BFA Illustration Thesis Exhibition \n Exhibition dates: April 9 \u2013 April 20, 2026 \n Closing Reception: April 20 from 1:00\u20135:00pm \n Finley Gallery, Finley Hall \n Light refreshments will be served"
-  },
-  {
     "title": "Beta Manhunt ",
     "date": "2026-04-15T21:00:00+00:00",
     "organization": "Sigma Lambda Beta International Fraternity Inc.",
@@ -398,6 +366,14 @@
     "location": "Student Recreation Center PLAE Room",
     "link": "https://montclair.campuslabs.com/engage/event/12179125",
     "description": "Step into the brand-new PLAE Room and discover upLIFT\u2014a judgement-free program designed to help every student, from complete beginners to seasoned gym-goers, feel confident and capable with free-weight training. Learn proper lifting technique, get personalized form checks, and master the basics of creating your own effective workout programs. Whether you\u2019re looking to meet other students who love to lift, pursue new fitness goals, or simply feel more at home in the weight room, upLIFT offers a supportive community and a dedicated space to grow. The program is structured for steady progression throughout the semester, but you\u2019re welcome to drop in anytime and join at your own pace. \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Beginning February 3, ending April 23 \n Tuesdays 3 PM - 4 PM, Wednesdays 6 PM - 7 PM, and Thursdays 2 PM - 3 PM \n Student Recreation Center PLAE Room"
+  },
+  {
+    "title": "BFA Illustration Thesis Exhibition",
+    "date": "2026-04-15T15:00:00+00:00",
+    "organization": "Art and Design",
+    "location": "Finley Gallery, Finley Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12405397",
+    "description": "The Department of Art & Design proudly presents the BFA Illustration Thesis Exhibition, a vibrant celebration of the talent, vision, and voices of our graduating seniors. The exhibition will be on view in the Finley Gallery from April 9 through April 20, with a closing reception on Monday, April 20 from 1:00 to 5:00pm. \n \u00a0 \n Titled  AI: Actual Illustrators , the exhibition responds to the growing presence of artificial image-making by reaffirming the power of human creativity. From paintings, comics, and doodles to animations, visual development, and editorial illustration, each piece reflects the passion, skill, and individuality that can only come from the artist\u2019s hand. This year\u2019s exhibition features the work of 54 emerging artists pushing the boundaries of contemporary illustration.\u00a0 \n \u00a0 \n Participating artists include Alex Allen-Walden, Hailey Amanna, Alison Ays, Amelie Barritas, Arianna Colon, Joe Corredor, Haley Feimster, Adrian Gonzales, Sam Herrera, Cameron Hill, Kayla Ianos, Abubacar Keita, Gavin Kisla, Jerusa Larancuent, Sophie Mahoney, Justine Massabny, Geraldine Medina Rodriguez, Oliver Nazzaro, Katherine Nicholas, Celeste Nova, Sam Olivo, Ashley Ortiz, Yuliya Pasechko, Priya Patel, Amber Paulino, Ayden Pavese, Kimberly Peralta, Perri Polyviou, Ethan Pozo, Nate Quintero, Abigail Reina, Angel Rodriguez, Liany Sanchez, Cyan Villar, Tiana Yurechko, Kaden Zofrea, Kelsey Ayala, Mel Aydogan, Yooyoung Chung, Emily Correa, Alexa D'Alessandro, Elias Galdamez, Jazmin Gamboa, Jayden Gentles, Brianna Ginart, Mee Hee Lim, Pauline Magos, Arianny Matos, Nic Morales, Odosa Obasuyi, Camila Pena-Marte, Elizabeth Seidemann, Jelena Wall, and Jailynn Winn. \n \u00a0 \n Join us for the closing reception to meet and connect with the artists, explore the diverse range of work on view, and celebrate the achievements of this dynamic graduating class. Family, friends, faculty, and the public are warmly invited. \n \u00a0 \n Mark your calendar and don\u2019t miss this show! \n \u00a0 \n BFA Illustration Thesis Exhibition \n Exhibition dates: April 9 \u2013 April 20, 2026 \n Closing Reception: April 20 from 1:00\u20135:00pm \n Finley Gallery, Finley Hall \n Light refreshments will be served"
   },
   {
     "title": "Kabayan Showcase!",
@@ -550,6 +526,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12079372",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 12pm - 12:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Maddie"
+  },
+  {
+    "title": "Summer Kickoff",
+    "date": "2026-04-16T15:00:00+00:00",
+    "organization": "Machuga Heights",
+    "location": "Diaguardi Field",
+    "link": "https://montclair.campuslabs.com/engage/event/12427515",
+    "description": "Join Machuga Heights and Intramural Sports on Thursday, April 16, 2026 from 11:00 AM - 1:00 PM on Diaguardi Field.\u00a0 Come out to KICK off summer right with Kickball, Spikeball, Football, Soccer, Sidewalk Chalk, etc. \n Use this link to pre register:\u00a0 https://rec.montclair.edu/Program/GetProgramDetails?courseId=3c2aeead-0b66-4d41-86bb-ce9457955955 \n Pre Registration NOT required"
   },
   {
     "title": "Craft Day",
@@ -1152,6 +1136,14 @@
     "description": "Join us for a volunteering opportunity off campus at Family of Caring of Montclair, a local nursing home serving the elderly community. \n \ud83d\udccd Off-campus volunteering \ud83e\ude7a Open to all MSU students \ud83d\udccb RSVP required (limited spots available)"
   },
   {
+    "title": "Cricket Match with SASA!",
+    "date": "2026-04-18T13:30:00+00:00",
+    "organization": "South Asian Student Association",
+    "location": "Holster Park ",
+    "link": "https://montclair.campuslabs.com/engage/event/12427566",
+    "description": "Join us on Saturday, April 18th for a friendly match of cricket!\u00a0 \n It will take place at 9:30am at Holster Park in Clifton.\u00a0 \n All Montclair State and Bloomfield College students welcome!"
+  },
+  {
     "title": "Red Hawk Pantry",
     "date": "2026-04-18T15:00:00+00:00",
     "organization": "Red Hawk Pantry",
@@ -1549,7 +1541,7 @@
     "organization": "Complexions",
     "location": "Student Center 415 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12123651",
-    "description": "Complexions will be coming together to discuss the details of various gala events as well as working on preparing for their gala."
+    "description": ""
   },
   {
     "title": "The Mad King George",
@@ -1582,6 +1574,14 @@
     "location": "University Hall 2013 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12420993",
     "description": "Come win prizes at our last meeting of the semester!"
+  },
+  {
+    "title": "Slumber Party Pride Day",
+    "date": "2026-04-20T18:00:00+00:00",
+    "organization": "Montclair Unraveled",
+    "location": "University Hall 2011 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12427923",
+    "description": "Everyone come wear your favorite pjs and make cozy necessities!"
   },
   {
     "title": "Dominican Student Organization GBM",
@@ -2702,6 +2702,14 @@
     "location": "Bloomfield - Talbott Hall DEN - Deacon's Den",
     "link": "https://montclair.campuslabs.com/engage/event/12398684",
     "description": "Join\u00a0 BEAR Committee\u00a0 and\u00a0 Student Government Association\u00a0 in  Deacon's Den  for a crafty thursday! Bring a friend and break out your comfort zone with this week's activity. Suggest a craft for the next week, let your expression guide you!"
+  },
+  {
+    "title": "Iota Phi Theta Interest Meetingb",
+    "date": "2026-04-23T16:00:00+00:00",
+    "organization": "Iota Phi Theta Fraternity Inc.",
+    "location": "University Hall 3002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12427920",
+    "description": "All interested in learning about the traditions and values of Iota Phi Theta Fraternity Inc. come out and get all of your questions answered. Dress professionally and come with an open mind."
   },
   {
     "title": "Group X - Kickboxing",
