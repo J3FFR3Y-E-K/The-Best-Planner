@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2026-04-17T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12108450",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 01/20 - 04/24 \n 10:00am - 10:45am \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Group X - Pilates",
     "date": "2026-04-17T15:15:00+00:00",
     "organization": "Campus Recreation",
@@ -40,12 +32,12 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 01/20 - 04/24 \n 1:00pm - 1:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Pamela"
   },
   {
-    "title": "HOSA CPR Event",
-    "date": "2026-04-17T14:00:00+00:00",
-    "organization": "Health Occupations Students of America - Future Health Professionals ",
-    "location": "Student Center 417 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12128095",
-    "description": "Join the Health Occupations Students of America Club for CPR Certification Classes hosted by our Treasurer, Esteban! \n $30 per person, refunds not available."
+    "title": "Korean Day",
+    "date": "2026-04-17T16:00:00+00:00",
+    "organization": "College of Humanities and Social Sciences (CHSS)",
+    "location": "Alumni Green, Behind Cole Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12434145",
+    "description": "The 6th Annual Korean Day event (Theme: Han River Picnic - Seoul) is sponsored by the WLNC Korean Program and the Korean Education Center of New York. \n Join us for a fun and relaxing celebration of Korean language and culture! \n Date: Friday April 17th, 2026 Time: 12:00 - 2:00pm Location: Alumni Green (in front of Cole Hall) \n All are welcome!"
   },
   {
     "title": "Sports Debate Show ",
@@ -62,6 +54,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11921602",
     "description": "Learn more about pre-completion and post-completion Optional Practical Training (OPT) for F-1 students. Any student planning to apply for OPT is REQUIRED to attend a workshop before they can apply. This workshop is for CURRENT students ONLY - any other attendees will be removed."
+  },
+  {
+    "title": "HOSA CPR Event",
+    "date": "2026-04-17T14:00:00+00:00",
+    "organization": "Health Occupations Students of America - Future Health Professionals ",
+    "location": "Student Center 417 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12128095",
+    "description": "Join the Health Occupations Students of America Club for CPR Certification Classes hosted by our Treasurer, Esteban! \n $30 per person, refunds not available."
   },
   {
     "title": "Group X - Yoga",
@@ -112,6 +112,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 3:30pm- 5:00pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
   },
   {
+    "title": "Greek Life - New Member Orientation",
+    "date": "2026-04-17T21:00:00+00:00",
+    "organization": "Greek Life",
+    "location": "University Hall, Room 1070",
+    "link": "https://montclair.campuslabs.com/engage/event/11984591",
+    "description": "New Member Orientation is mandatory for all Greek life members who were newly initiated as of the Spring 2026 semester."
+  },
+  {
     "title": "BFA Illustration Thesis Exhibition",
     "date": "2026-04-17T15:00:00+00:00",
     "organization": "Art and Design",
@@ -120,12 +128,12 @@
     "description": "The Department of Art & Design proudly presents the BFA Illustration Thesis Exhibition, a vibrant celebration of the talent, vision, and voices of our graduating seniors. The exhibition will be on view in the Finley Gallery from April 9 through April 20, with a closing reception on Monday, April 20 from 1:00 to 5:00pm. \n \u00a0 \n Titled  AI: Actual Illustrators , the exhibition responds to the growing presence of artificial image-making by reaffirming the power of human creativity. From paintings, comics, and doodles to animations, visual development, and editorial illustration, each piece reflects the passion, skill, and individuality that can only come from the artist\u2019s hand. This year\u2019s exhibition features the work of 54 emerging artists pushing the boundaries of contemporary illustration.\u00a0 \n \u00a0 \n Participating artists include Alex Allen-Walden, Hailey Amanna, Alison Ays, Amelie Barritas, Arianna Colon, Joe Corredor, Haley Feimster, Adrian Gonzales, Sam Herrera, Cameron Hill, Kayla Ianos, Abubacar Keita, Gavin Kisla, Jerusa Larancuent, Sophie Mahoney, Justine Massabny, Geraldine Medina Rodriguez, Oliver Nazzaro, Katherine Nicholas, Celeste Nova, Sam Olivo, Ashley Ortiz, Yuliya Pasechko, Priya Patel, Amber Paulino, Ayden Pavese, Kimberly Peralta, Perri Polyviou, Ethan Pozo, Nate Quintero, Abigail Reina, Angel Rodriguez, Liany Sanchez, Cyan Villar, Tiana Yurechko, Kaden Zofrea, Kelsey Ayala, Mel Aydogan, Yooyoung Chung, Emily Correa, Alexa D'Alessandro, Elias Galdamez, Jazmin Gamboa, Jayden Gentles, Brianna Ginart, Mee Hee Lim, Pauline Magos, Arianny Matos, Nic Morales, Odosa Obasuyi, Camila Pena-Marte, Elizabeth Seidemann, Jelena Wall, and Jailynn Winn. \n \u00a0 \n Join us for the closing reception to meet and connect with the artists, explore the diverse range of work on view, and celebrate the achievements of this dynamic graduating class. Family, friends, faculty, and the public are warmly invited. \n \u00a0 \n Mark your calendar and don\u2019t miss this show! \n \u00a0 \n BFA Illustration Thesis Exhibition \n Exhibition dates: April 9 \u2013 April 20, 2026 \n Closing Reception: April 20 from 1:00\u20135:00pm \n Finley Gallery, Finley Hall \n Light refreshments will be served"
   },
   {
-    "title": "Greek Life - New Member Orientation",
-    "date": "2026-04-17T21:00:00+00:00",
-    "organization": "Greek Life",
-    "location": "University Hall, Room 1070",
-    "link": "https://montclair.campuslabs.com/engage/event/11984591",
-    "description": "New Member Orientation is mandatory for all Greek life members who were newly initiated as of the Spring 2026 semester."
+    "title": "Spring Cupcake Decorating",
+    "date": "2026-04-17T22:00:00+00:00",
+    "organization": "Machuga Heights",
+    "location": "Machuga Heights Multipurpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12434351",
+    "description": "Join the Machuga Heights Hall Council for Spring Cupcake Decorating!!  While supplies last!"
   },
   {
     "title": "ALPFA Lounge",
@@ -680,6 +688,14 @@
     "description": "Come join DSO in our weekly GBM! Here we discuss various topics while we share our culture and bond over the culture. We have different topics every week and tackle current news, play games, and educate on the culture! This event is open to all MSU/BLOOMFIELD students!"
   },
   {
+    "title": "Meet the Greeks",
+    "date": "2026-04-20T17:00:00+00:00",
+    "organization": "Greek Council",
+    "location": "Student Center Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12433916",
+    "description": "\ud83c\udf89  Meet the Greeks \u2013 April 20 | 1\u20134 PM | The Quad  \ud83c\udf89 \n Curious about Greek life? Come out to our  Meet the Greeks  tabling event on  April 20th from 1\u20134 PM in the Quad ! \n This is your chance to connect with members from our campus\u2019 fraternities and sororities, learn about their values, philanthropy, leadership opportunities, and events, and discover how Greek life can enhance your college experience. Whether you\u2019re considering joining or just want to explore what each organization is about, this event is open to everyone. \n Stop by the tables, ask questions, grab some giveaways, and find the community that feels like home.\u00a0 \n FREE Ice cream tickets are first come, first serve. \n Stop by \"Pie a President\" and pie some of our Greek Leaders to donate to the Red Hawk Pantry.\u00a0 \n We can\u2019t wait to meet you!"
+  },
+  {
     "title": "Picnic on the Bench!",
     "date": "2026-04-20T18:00:00+00:00",
     "organization": "Sinatra Hall",
@@ -816,6 +832,14 @@
     "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
   },
   {
+    "title": "Celebrate National Library Week: Right to Read Day",
+    "date": "2026-04-20T13:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Bloomfield Campus Library",
+    "link": "https://montclair.campuslabs.com/engage/event/12433893",
+    "description": "Bloomfield Campus Library will be celebrating National Library Week, April 20-25, 2026.  Find Your Library Joy  participating in a variety of activities over the course of the week:  read a banned book , do some relaxing coloring, solve a puzzle, draw a picture or write a poem about your library joy, make a bookmark or your own zine, and more! \n All attendees will have an opportunity to enter our raffle to win a prize."
+  },
+  {
     "title": "World Cultures Night!",
     "date": "2026-04-20T23:00:00+00:00",
     "organization": "Amici Club",
@@ -838,6 +862,14 @@
     "location": "Stone Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12307220",
     "description": "Join us for Study Hall + Crafts, a productive yet relaxing event where you can get work done and take creative breaks with fun crafts! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Greek Week Banner Painting",
+    "date": "2026-04-21T00:00:00+00:00",
+    "organization": "Greek Council",
+    "location": "University Hall 2008",
+    "link": "https://montclair.campuslabs.com/engage/event/12433906",
+    "description": "Get to know your team, enjoy some snacks, and paint your Greek Week banner! \n Check-In in University Hall Room 2008 and head to your team's assigned room!"
   },
   {
     "title": "Waist Beads",
@@ -998,6 +1030,14 @@
     "location": "Talbott Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12205790",
     "description": "A weekly event where you get a chance to try different things. From DJing, to D.I.Y. projects and BINGO with a twist. This is a day you don't want to miss, 1st person to come gets a prize every time."
+  },
+  {
+    "title": "Weekly Food Recovery Initiative",
+    "date": "2026-04-21T18:00:00+00:00",
+    "organization": "Food Recovery Network",
+    "location": "Blanton Hall Resident Kitchenette",
+    "link": "https://montclair.campuslabs.com/engage/event/12433922",
+    "description": "Join our weekly Food Recovery events, where dedicated volunteers and members gather to make a difference in our community. Each week, participants help collect perfectly good leftover food from Gourmet Dining and transport it to Blanton. There, the food is repackaged into individual microwavable containers and stocked in the food pantry, providing meals for those in need throughout the week.\u00a0 \n To Participate :\u00a0RSVP to attend the event each week. Meet in Blanton Hall Residence Hall Kitchenette in the Communal Area (Tell them you are working with Food Recovery), Sign in via Event Pass and your set! \n Requirements: \n \n Volunteers must be Food Safe Certified to participate. \n Complete the certification by following the step-by-step instructions provided in this  link . \n Once certified, email your certification to  foodrecoverynetwork@sgamsu.org  to confirm your eligibility to participate. \n \n Your involvement helps reduce food waste and insecurity while supporting individuals in our community who are in need. We look forward to your participation! *Please Note: This event end time is dependent on the amount of food given. You can estimate for max of hour and a half for recoveries."
   },
   {
     "title": "upLIFT",
@@ -1192,6 +1232,14 @@
     "description": "Get creative with two wearable canvases! Stop by to design your own tote bag and hat using fabric markers, patches, paint, and more. Whether you go bold, minimal, or completely unique, you\u2019ll leave with custom pieces that show off your style. All materials provided! \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Tuesday, April 21 \n 7pm-9pm, must be checked in by 8:30pm to participate \n Student Recreation Center Lounge"
   },
   {
+    "title": "Greek Week Can Building",
+    "date": "2026-04-21T23:00:00+00:00",
+    "organization": "Greek Council",
+    "location": "Student Center Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/12433909",
+    "description": "The Greek Community will work with their Greek Week teams to build statues/structures with cans, that will be judged and ranked 1st-6th place. The cans will then be donated to the Red Hawk Pantry."
+  },
+  {
     "title": "Testimony night ",
     "date": "2026-04-21T23:00:00+00:00",
     "organization": "I lift Jesus",
@@ -1238,6 +1286,14 @@
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12389324",
     "description": "This is your  front door event \u2014if this is mid, your pipeline dies. This needs to feel like opportunity, not just information. \n This meeting introduces what your organization stands for, what it offers, and why joining actually  means something . It\u2019s about showing structure, purpose, and brotherhood\u2014not just talking about it. \n Attendees will: \n \n Learn the  history, mission, and impact \n Understand  what makes your chapter different \n Get a chance to ask questions and connect directly"
+  },
+  {
+    "title": "Celebrate National Library Week: National Library Workers Day",
+    "date": "2026-04-21T13:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Bloomfield Campus Library",
+    "link": "https://montclair.campuslabs.com/engage/event/12433896",
+    "description": "Bloomfield College Library will be celebrating National Library Week, April 20-25, 2026.  Find Your Library Joy  participating in a variety of activities over the course of the week: read a banned book, do some relaxing coloring, solve a puzzle, draw a picture or write a poem about your library joy, make a bookmark or your own zine, and more! \n All attendees will have an opportunity to enter our raffle to win a prize."
   },
   {
     "title": "Cabaret Tech ",
@@ -1624,6 +1680,14 @@
     "description": "\ud83c\udf89 Event Concept \n Blend the joy of icy treats with a creative craft station. Guests choose their favorite snow cone flavors, then head over to make bracelets inspired by the same vibrant colors. \n \ud83c\udf67 Snow Cone Station \n \n \n Build\u2011your\u2011own snow cones \n \n \n Flavor options like cherry, blue raspberry, mango, cotton candy, and sour apple \n \n \n Optional toppings: gummy bears, sprinkles, sour dust \n \n \n Color\u2011themed cups and straws for extra flair \n \n \n LOCATION: Bloomfield Campus - Franklin Hall - Rooftop (422)"
   },
   {
+    "title": "Tie Dye with Machuga ",
+    "date": "2026-04-22T22:00:00+00:00",
+    "organization": "Machuga Heights",
+    "location": "Outside of Machuga Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/12434398",
+    "description": "Join the Machuga CAs to Tie Dye: \n \n bags \n bucket hats \n headbands \n scrunchies \n \n WHILE SUPPLIES LAST"
+  },
+  {
     "title": "Hawk Crossings Closing Building Meeting",
     "date": "2026-04-22T23:00:00+00:00",
     "organization": "Hawk Crossings",
@@ -1726,6 +1790,14 @@
     "location": "Russ Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12307222",
     "description": "Join us for Study Hall + Crafts, a productive yet relaxing event where you can get work done and take creative breaks with fun crafts! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Celebrate National Library Week: National Outreach Day",
+    "date": "2026-04-22T12:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Bloomfield Campus Library",
+    "link": "https://montclair.campuslabs.com/engage/event/12433904",
+    "description": "Bloomfield College Library will be celebrating National Library Week, April 20-25, 2026.  Find Your Library Joy  participating in a variety of activities over the course of the week: read a banned book, do some relaxing coloring, solve a puzzle, draw a picture or write a poem about your library joy, make a bookmark or your own zine, and more! \n All attendees will have an opportunity to enter our raffle to win a prize."
   },
   {
     "title": "The Secret of the Forgiveness of Sins",
@@ -2056,12 +2128,28 @@
     "description": "Welcome Again! Come and join us to delve deeper into understanding our concert playlist. What do the songs mean, and what do they mean to you? How cna you relate to the songs?"
   },
   {
+    "title": "Celebrate National Library Week: Take Action for Libraries Day",
+    "date": "2026-04-23T13:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Bloomfield Campus Library",
+    "link": "https://montclair.campuslabs.com/engage/event/12433912",
+    "description": "Bloomfield College Library will be celebrating National Library Week, April 20-25, 2026.  Find Your Library Joy  participating in a variety of activities over the course of the week: read a banned book, do some relaxing coloring, solve a puzzle, draw a picture or write a poem about your library joy,  make a bookmark or your own zine , and more! \n All attendees will have an opportunity to enter our raffle to win a prize. \n Children are welcome to participate!"
+  },
+  {
     "title": "R.A.C.E",
     "date": "2026-04-23T23:00:00+00:00",
     "organization": "Mu Sigma Upsilon Sorority, Incorporated",
     "location": "Student Center 250AB - Ballrooms A and B",
     "link": "https://montclair.campuslabs.com/engage/event/12293499",
     "description": "Join us for a vibrant cultural celebration that brings people together to honor and appreciate the richness of cultures from around the world. This event is designed to create a welcoming space where traditions, stories, music, food, and art are shared and celebrated. Through meaningful interactions and engaging experiences, we aim to promote understanding, respect, and unity across diverse backgrounds. Whether you come to learn, connect, or simply enjoy the atmosphere, this gathering is a celebration of cultural identity and the beauty of our shared humanity."
+  },
+  {
+    "title": "Conectando Ra\u00edces Mexicanas: A Networking Event",
+    "date": "2026-04-23T23:30:00+00:00",
+    "organization": "Mexican-American Student Association",
+    "location": "Waichungo Family Courtyard",
+    "link": "https://montclair.campuslabs.com/engage/event/12434587",
+    "description": "Join MASA for our first Alumni and Networking event. Come here from former MASA Executive Board members and professionals and learn form their experiences in their fields. Gain insight, hear from their stories, and meet new people to expand your network!"
   },
   {
     "title": "DIY Keychains",
@@ -2190,6 +2278,14 @@
     "location": "Drop-In Center",
     "link": "https://montclair.campuslabs.com/engage/event/12022292",
     "description": "Dive into creativity! Make a splash with an ocean DIY craft filled with colorful sea creatures, waves, and underwater fun.\u00a0 \n \n \n Take-and-Make craft kits are available for pick up at the Drop-In Center during business hours starting Wednesday, April 15th, 2026. While supplies last! FREE for students with a valid Montclair or Bloomfield campus ID. Each\u00a0 craft kit comes with everything you need including acrylic paint, 2 brushes, and one ceramic sea creature. Craft kits may vary from image shown!"
+  },
+  {
+    "title": "Celebrate National Library Week",
+    "date": "2026-04-24T13:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Bloomfield Campus Library",
+    "link": "https://montclair.campuslabs.com/engage/event/12433919",
+    "description": "Bloomfield College Library will be celebrating National Library Week, April 20-25, 2026.  Find Your Library Joy  participating in a variety of activities over the course of the week: read a banned book, do some relaxing coloring, solve a puzzle, draw a picture or write a poem about your library joy, make a bookmark or your own zine, and more! \n All attendees will have an opportunity to enter our raffle to win a prize."
   },
   {
     "title": "Group X - BJJ",
@@ -2374,6 +2470,14 @@
     "location": "Montclair campus, Student Center, Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12262637",
     "description": "Stop by to meet Pebbles, Montclair\u2019s favorite pupscot! Snap a photo, grab a hug and enjoy a tail-wagging moment with this campus favorite. It\u2019s the perfect feel-good stop during Family Weekend for smiles, memories and a little extra Red Hawk spirit. \ud83d\udc3e"
+  },
+  {
+    "title": "Celebrate National Library Week",
+    "date": "2026-04-25T16:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Bloomfield Campus Library",
+    "link": "https://montclair.campuslabs.com/engage/event/12433923",
+    "description": "Bloomfield College Library will be celebrating National Library Week, April 20-25, 2026.  Find Your Library Joy  participating in a variety of activities over the course of the week: read a banned book, do some relaxing coloring, solve a puzzle, draw a picture or write a poem about your library joy, make a bookmark or your own zine, and more! \n All attendees will have an opportunity to enter our raffle to win a prize. \n All are welcome!"
   },
   {
     "title": "Inside Student Government Conference",
@@ -3142,6 +3246,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11921703",
     "description": "Learn more about pre-completion and post-completion Optional Practical Training (OPT) for F-1 students. Any student planning to apply for OPT is REQUIRED to attend a workshop before they can apply. This workshop is for CURRENT students ONLY - any other attendees will be removed."
+  },
+  {
+    "title": "Express Yourself! A Day of Creativity, Community and Discovery",
+    "date": "2026-05-09T13:00:00+00:00",
+    "organization": "College of Humanities and Social Sciences (CHSS)",
+    "location": "Locations Across Campus",
+    "link": "https://montclair.campuslabs.com/engage/event/12434336",
+    "description": "Step into a world of creativity, movement and shared ideas at Express Yourself!, a vibrant day of arts, culture and creative exploration taking place on Saturday, May 9, in partnership with the Montclair Literary Festival. Open to students, faculty and the wider community, this celebration invites everyone to explore creative expression in many forms. \n Join us for hands-on workshops and interactive experiences on  Saturday, May 9, 2026 . All events are open to all and free, but registration is required. Sign up for a single workshop or all six! \n Register to Attend \n Acting Out: Improv Group Style 9 -10:15 a.m., Life Hall room 1200 Crowd Source Acting is about using improvisation to act in the moment. Participants will be guided in an improvisational game that allows them to experience dropping into a roll and having the inspiration of those around them to achieve a common goal. That goal could be silly, serious, or absurd. Join us for a round or two of a game called Family Portraits, guided by Theatre department practitioners. \n A Moving Experience For All 10:30-11:45 a.m., Life Hall 1210 This session will be a dance class for beginners, emphasizing freedom of movement and some basic dance moves. \n Got Art? Take This Workshop 12:00-1:15 p.m., Calcia Hall 245 Participants will explore a visual arts technique such as collage, clay sculpting, or mixed media and create a unique work. Guided by an artist educator, attendees will learn simple methods and experiment with materials during the session. \n Snap Snap: Taking Just the Right Picture 1:30-2:45 p.m., Feliciano School of Business Lawn This digital photography workshop will start with a presentation on the powerful choices available for capturing and documenting the world with your camera. Each participant will be given directions for taking a photograph from a specific location on campus. Jenelle Covino, Adjunct Professor of Art and Design, will guide participants to utilize basic photo retouching principles to bring each digital photograph to life. You can bring your digital camera or use your cell phone to photograph for this workshop. This workshop is suitable for all ages and all experience levels of photography. \n Drumming Up a Crowd, the West African Way 3:00-4:15 p.m.; Feliciano School of Business Lawn The Montclair State University West African Drumming and Dance Ensemble will perform and engage everyone to participate in traditional West African recreational music. We play a strong weave of polyrhythms on traditional drums, bells and rattles, and those in attendance will drum with us, sing with us in call and response in a West African language, and dance traditional movements with us, directed by calls from the lead drum. \n Let\u2019s Get Physical: Writing Poetry about Memory and the Body 4:30-5:45 p.m. Feliciano School of Business Room 140 In this generative poetry workshop, we will begin by bringing our memories to life on the page. We will then expand to writing about embodied experiences. Participants will leave this workshop having written two new poems and having received feedback on one of the poems. They will also leave with a few additional tools in their writers\u2019 toolbox."
   },
   {
     "title": "FAFSA Completion Support Pop-Up Event",
