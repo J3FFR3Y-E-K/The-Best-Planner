@@ -1,21 +1,5 @@
 [
   {
-    "title": "Into the Woods ",
-    "date": "2026-04-18T15:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12031433",
-    "description": "Players invites you to our 2026 Musical production,  Into the Woods . All ticket purchases are directed through Eventbrite. \n Fri, Apr 17 @7pm \n Sat, Apr 18 @2pm & 7pm \n Sun, Apr 19 @2pm"
-  },
-  {
-    "title": "Montclair Masters: Super Smash Bros Ultimate Tournament",
-    "date": "2026-04-18T17:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "University Hall 1010",
-    "link": "https://montclair.campuslabs.com/engage/event/12387863",
-    "description": "How do I Sign-up? \n \n 5 dollars entry for MSU Students \n \n When and Where? \n \n University Hall 1010 \n April 18th, 1pm-10pm"
-  },
-  {
     "title": "The Art of Etiquette & Elegance",
     "date": "2026-04-19T15:45:00+00:00",
     "organization": "Alpha Kappa Alpha Sorority, Inc. ",
@@ -336,20 +320,20 @@
     "description": "Join us for an evening of strategy, skill, and friendly competition! Whether you\u2019re a seasoned player or just learning the game, all are welcome. Come at your convenience! We\u2019ll have time for casual matches, analysis, and discussion of tactics and openings.\u00a0 \n Boards and pieces will be provided;  just bring your enthusiasm for the game!"
   },
   {
-    "title": "Marine Bio Trivia, Final Meeting!",
-    "date": "2026-04-20T18:00:00+00:00",
-    "organization": "Montclair Marine Biology Organization ",
-    "location": "University Hall 2013 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12420993",
-    "description": "Come win prizes at our last meeting of the semester!"
-  },
-  {
     "title": "Slumber Party Pride Day",
     "date": "2026-04-20T18:00:00+00:00",
     "organization": "Montclair Unraveled",
     "location": "University Hall 2011 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12427923",
     "description": "Everyone come wear your favorite pjs and make cozy necessities!"
+  },
+  {
+    "title": "Marine Bio Trivia, Final Meeting!",
+    "date": "2026-04-20T18:00:00+00:00",
+    "organization": "Montclair Marine Biology Organization ",
+    "location": "University Hall 2013 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12420993",
+    "description": "Come win prizes at our last meeting of the semester!"
   },
   {
     "title": "Dominican Student Organization GBM",
