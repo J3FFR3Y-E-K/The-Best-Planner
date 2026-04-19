@@ -1,13 +1,5 @@
 [
   {
-    "title": "Built Different Brunch I",
-    "date": "2026-04-19T15:15:00+00:00",
-    "organization": "The Women Of Color Alliance ",
-    "location": "Student Center Underground - The Underground",
-    "link": "https://montclair.campuslabs.com/engage/event/12416618",
-    "description": "Join the Women of Color Alliance for an inspiring Women\u2019s Panel & Brunch celebrating resilience, leadership, and sisterhood. \n This powerful experience will feature a dynamic panel of successful Black women who are leaders and change-makers in their fields. Through honest conversation and shared wisdom, our panelists will discuss navigating success and thriving with purpose."
-  },
-  {
     "title": "BFA Illustration Thesis Exhibition",
     "date": "2026-04-19T14:00:00+00:00",
     "organization": "Art and Design",
@@ -312,20 +304,20 @@
     "description": "Join us for an evening of strategy, skill, and friendly competition! Whether you\u2019re a seasoned player or just learning the game, all are welcome. Come at your convenience! We\u2019ll have time for casual matches, analysis, and discussion of tactics and openings.\u00a0 \n Boards and pieces will be provided;  just bring your enthusiasm for the game!"
   },
   {
-    "title": "Slumber Party Pride Day",
-    "date": "2026-04-20T18:00:00+00:00",
-    "organization": "Montclair Unraveled",
-    "location": "University Hall 2011 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12427923",
-    "description": "Everyone come wear your favorite pjs and make cozy necessities!"
-  },
-  {
     "title": "Marine Bio Trivia, Final Meeting!",
     "date": "2026-04-20T18:00:00+00:00",
     "organization": "Montclair Marine Biology Organization ",
     "location": "University Hall 2013 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12420993",
     "description": "Come win prizes at our last meeting of the semester!"
+  },
+  {
+    "title": "Slumber Party Pride Day",
+    "date": "2026-04-20T18:00:00+00:00",
+    "organization": "Montclair Unraveled",
+    "location": "University Hall 2011 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12427923",
+    "description": "Everyone come wear your favorite pjs and make cozy necessities!"
   },
   {
     "title": "Dominican Student Organization GBM",
@@ -438,6 +430,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12335136",
     "description": "Join the CAs for the Hawk Crossings Closing Building Meeting! \n During these meetings, the CAs will provide information about the guidelines and expectations with moving out, living on campus, and information to Hawk Crossings specifically. You only need to attend one meeting as the information will be the same at every meeting. Attendance will be taken. \n During these meetings, residents will have the chance to ask questions! \n This event is for Residents of Hawk Crossings. \n Join via Zoom: \n https://montclair.zoom.us/j/98678488329?pwd=znkw4Ow9XjZicEYbV7beP4UJIasTPq.1 Password: m2u46x"
+  },
+  {
+    "title": "CALI SCHOOL OF MUSIC | Flute Night",
+    "date": "2026-04-20T23:00:00+00:00",
+    "organization": "The College of the Arts",
+    "location": "Room 201",
+    "link": "https://montclair.campuslabs.com/engage/event/12436705",
+    "description": "The flute studio will present an evening of student performances, guided by faculty member  Tanya Witek."
   },
   {
     "title": "Journaling Night",
