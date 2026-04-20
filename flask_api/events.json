@@ -1,21 +1,5 @@
 [
   {
-    "title": "Group X - HIIT",
-    "date": "2026-04-20T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12130103",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays, 01/20 - 04/24 \n 9am - 9:45am \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Alexa V"
-  },
-  {
-    "title": " Group X - Pilates",
-    "date": "2026-04-20T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12130300",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays, 01/20 - 04/24 \n 10am - 10:45am \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Maddie"
-  },
-  {
     "title": "Mindfulness Meditation ",
     "date": "2026-04-20T16:00:00+00:00",
     "organization": "Office of Health Promotion",
@@ -72,14 +56,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
   },
   {
-    "title": "Safe Space Training",
-    "date": "2026-04-20T16:00:00+00:00",
-    "organization": "Advocacy and Outreach",
-    "location": "Dickson Hall 178 (Cohen Lounge)",
-    "link": "https://montclair.campuslabs.com/engage/event/11332856",
-    "description": "Our Safe Space Training is an intensive, interactive training that provides attendees with information and tools to combat homophobia, biphobia, transphobia, cissexism and heterosexism, on campus and beyond. Through interactive activities and discussion, participants will personally reflect on their own experiences to enhance their personal and professional development, provide further education, and finally, identify ways to create change on campus and beyond. \n All sessions are three hours and are first-come, first-served. Pre-registration is required. Registrants are expected to attend the full session. Only individuals who have fully completed the Safe Space Program and have agreed to the expectations of its membership are able to display the sticker/button of our program. Refreshments are not provided; however, you are more than welcome to bring your lunch, coffee, snacks, etc."
-  },
-  {
     "title": "French Conversation Hour With Assane K! Every Monday",
     "date": "2026-04-20T18:00:00+00:00",
     "organization": "College of Humanities and Social Sciences (CHSS)",
@@ -102,6 +78,14 @@
     "location": "Student Center Quad Information Table 1 - Information Table 1",
     "link": "https://montclair.campuslabs.com/engage/event/12293573",
     "description": "Swing by the Student Center Quad, and pie one of our DJs!\u00a0 \n \u00a0 \n $5 per pie, and every donation enters you into a raffle for some super fun prizes!! \n \u00a0 \n All proceeds go towards supporting student voices!"
+  },
+  {
+    "title": "Safe Space Training",
+    "date": "2026-04-20T16:00:00+00:00",
+    "organization": "Advocacy and Outreach",
+    "location": "Dickson Hall 178 (Cohen Lounge)",
+    "link": "https://montclair.campuslabs.com/engage/event/11332856",
+    "description": "Our Safe Space Training is an intensive, interactive training that provides attendees with information and tools to combat homophobia, biphobia, transphobia, cissexism and heterosexism, on campus and beyond. Through interactive activities and discussion, participants will personally reflect on their own experiences to enhance their personal and professional development, provide further education, and finally, identify ways to create change on campus and beyond. \n All sessions are three hours and are first-come, first-served. Pre-registration is required. Registrants are expected to attend the full session. Only individuals who have fully completed the Safe Space Program and have agreed to the expectations of its membership are able to display the sticker/button of our program. Refreshments are not provided; however, you are more than welcome to bring your lunch, coffee, snacks, etc."
   },
   {
     "title": "Cru Bible Study! ",
@@ -160,20 +144,20 @@
     "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, faculty, and Alumni at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Wednesdays: 5-7pm \n Saturdays: 11-1pm"
   },
   {
-    "title": "PlayCraft",
-    "date": "2026-04-20T18:00:00+00:00",
-    "organization": "Japan Club",
-    "location": "University Hall 2040 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12389702",
-    "description": "Curious about Japanese crafts? Join the Japan Club where you can make your own Japanese crafts, such as a hanko seal, origami, kendama and much more! Need a little more? We'll have Japanese video-games being hosted by M.U.G"
-  },
-  {
     "title": "Poppy Pots for Palestine",
     "date": "2026-04-20T18:00:00+00:00",
     "organization": "Students for Justice in Palestine",
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12389652",
     "description": "Join the SJP for a relaxing afternoon of painting poppy pots, a perfect pair for spring weather! Learn about the connection between poppy flowers and Palestine and paint your own pot filled with poppy seeds. Materials come at a first come first serve basis, so make sure to RSVP. Light refreshments will be provided!"
+  },
+  {
+    "title": "PlayCraft",
+    "date": "2026-04-20T18:00:00+00:00",
+    "organization": "Japan Club",
+    "location": "University Hall 2040 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12389702",
+    "description": "Curious about Japanese crafts? Join the Japan Club where you can make your own Japanese crafts, such as a hanko seal, origami, kendama and much more! Need a little more? We'll have Japanese video-games being hosted by M.U.G"
   },
   {
     "title": "MSU Republicans General Meeting",
@@ -214,14 +198,6 @@
     "location": "University Hall 1C01 - Lobby Table",
     "link": "https://montclair.campuslabs.com/engage/event/12389699",
     "description": "NAACP Finance Committee Bake Sale \ud83c\udf6a \n Come out and support the NAACP Finance Committee at our  Bake Sale Fundraiser ! We\u2019re raising funds to attend  Nationals this summer , where we\u2019ll represent our chapter, grow as leaders, and bring back valuable experiences to our campus community. \n Stop by, grab some delicious homemade treats, and support a great cause. Every purchase helps us get one step closer to Nationals! \n Your support means everything\u2014see you there!"
-  },
-  {
-    "title": "PRSO GBM",
-    "date": "2026-04-20T18:00:00+00:00",
-    "organization": "Puerto Rican Student Organization",
-    "location": "University Hall 2002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12392419",
-    "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization! \n For information about the weekly GBM theme/topic, please check out our instagram: @montclair_prso"
   },
   {
     "title": "Chess Club SB Meeting!",
@@ -398,14 +374,6 @@
     "location": "Leshowitz Recital Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12354218",
     "description": "Red Hawk Big Band and Jazz Combo Fest Night 1 \n Please join us to witness the Red Hawk Big Band, directed by  Bill Moring plus our amazing swingin' combos! Featuring songs and arrangements from the tradition of jazz to modern compositions. \n --------------- \n Jazz Combo Fest Night 1 with Red Hawk Big Band Monday, April 20, 2026 at 8PM Leshowitz Recital Hall \n Jazz Combo Fest Night 2\u00a0 Tuesday, April 21, 2026 at 8PM Leshowitz Recital Hall \n Jazz Vocal Night Wednesday, April 22, 2026 at 8PM Leshowitz Recital Hall \n Jazz Combo Fest Night 3\u00a0 Thursday, April 23, 2026 at 8PM Room 201"
-  },
-  {
-    "title": "Choir Practice",
-    "date": "2026-04-21T00:00:00+00:00",
-    "organization": "Voices of Unity",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12133699",
-    "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
   },
   {
     "title": "World Cultures Night!",
@@ -1019,9 +987,9 @@
     "title": "CSAM Science Teaching Program - Program Meeting",
     "date": "2026-04-22T18:00:00+00:00",
     "organization": "College of Science and Mathematics (CSAM)",
-    "location": "SCHM 327",
+    "location": "SCHM 329 (CSAM Innovation and Design Lab)",
     "link": "https://montclair.campuslabs.com/engage/event/11712550",
-    "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
+    "description": "Join us at this FINAL meeting of the academic year, where we will discuss teaching around a special EARTH DAY activity. Participants will create and decorate their own potted plant - the seeds you plant will make the world a greener place! \n The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
     "title": "Girl Talk: Let\u2019s Be Real About Dating, Consent & Red Flags",
@@ -1317,7 +1285,7 @@
     "organization": "Bloomfield Swing Phi Swing Social Fellowship, Inc.",
     "location": "Bloomfield - Franklin Hall 322 - 3rd Floor Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12139475",
-    "description": "Black Girl Recess is a welcoming and affirming space designed to encourage rest, reflection, and connection for women on campus. While the event centers the experiences of Black women,  any young woman on campus who feels this space would be meaningful to her is encouraged to attend . \n This event provides an opportunity for participants to step away from daily responsibilities and engage in open conversation around self-care, balance, and personal well-being. Attendees will reflect on the many roles they navigate in their academic and personal lives and explore healthy ways to manage stress, prioritize themselves, and support one another. \n \u00a0 \n The event will include interactive stations, open conversation, and opportunities for reflection in a relaxed and affirming environment. Black Girl Recess promotes self-care, balance, and empowerment while fostering meaningful connection and support among participants."
+    "description": ""
   },
   {
     "title": "The Gather ",
@@ -1470,6 +1438,14 @@
     "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12388579",
     "description": "Welcome Again!!! Come and join us to watch Prince of Egypt and chill with some snacks and drinks!"
+  },
+  {
+    "title": "Find the Sources You Need",
+    "date": "2026-04-23T14:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12437197",
+    "description": "Learn where and how to find books, articles, and more! We\u2019ll break down the differences between primary and secondary sources; when to use books vs. newspapers vs. scholarly journals vs. the internet; and share search strategies so you are locating sources smarter (not harder). Perfect if you\u2019re new to college-level research or just want to sharpen your skills before your next assignment. \n Register Here: \u00a0https://montclair.libcal.com/event/16755924"
   },
   {
     "title": "Group X - Cycling",
@@ -2128,6 +2104,14 @@
     "description": "Tickets & Parking Info \n School Spirit Survey"
   },
   {
+    "title": "Alumni Cars on the Quad - Family Weekend",
+    "date": "2026-04-25T16:00:00+00:00",
+    "organization": "Montclair State Car Club",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12437647",
+    "description": "3 of our Alumni car club members will be showcasing their cars on the Student Center Quad"
+  },
+  {
     "title": "Family Weekend: Street Fair",
     "date": "2026-04-25T17:00:00+00:00",
     "organization": "Parent & Family Programs ",
@@ -2318,6 +2302,14 @@
     "location": "Student Center Quad123 - All Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12391322",
     "description": "Get ready for the ultimate Caribbean Carnival on campus! Join the Caribbean Student Organization for a vibrant celebration of music, dance, and culture. Enjoy high-energy soca, reggae, and dancehall beats while tasting delicious Caribbean foods like jerk chicken and empanadas. Experience colorful costumes, lively performances, and fun activities that bring the spirit of the islands to campus. Grab your friends, immerse yourself in the culture, and don\u2019t miss this unforgettable celebration of Caribbean heritage and community!"
+  },
+  {
+    "title": "Montclair State Car Club Semester Finale Car Show",
+    "date": "2026-04-26T21:00:00+00:00",
+    "organization": "Montclair State Car Club",
+    "location": "Lot 62",
+    "link": "https://montclair.campuslabs.com/engage/event/12437649",
+    "description": "In Collaboration with the Seton Hall Car Club (AcceleraSHUn), the Montclair State Car Club presents our Semester Finale Car Show! Tickets will be for sale via Eventbrite. All details will be announced on our Instagram page @montclairstate_carclub"
   },
   {
     "title": "Weekly Chapter Meeting",
@@ -2918,14 +2910,6 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/11921688",
     "description": "Learn more about Curricular Practical Training (CPT) for F-1 students. Any student planning to apply for CPT is REQUIRED to attend a workshop before they can apply. This workshop is for CURRENT students ONLY - any other attendees will be removed."
-  },
-  {
-    "title": "CSAM Science Teaching Program - Program Meeting",
-    "date": "2026-05-06T18:00:00+00:00",
-    "organization": "College of Science and Mathematics (CSAM)",
-    "location": "SCHM 327",
-    "link": "https://montclair.campuslabs.com/engage/event/11712551",
-    "description": "The  CSAM Science Teaching Program \u00a0holds\u00a0 biweekly meetings  that are open, welcoming, and inclusive! Any student curious about science teaching is invited to join us. Each meeting highlights a theme related to science education, from classroom strategies to career pathways, and offers students opportunities to connect with mentors, explore internships, and gain real-world experience working with teachers and children. Students are encouraged to  bring a guest  who may also be interested in exploring science teaching. \n These gatherings help us build a strong  community of support , where students encourage one another, share experiences, and access valuable opportunities such as  scholarships, paid internships, and mentoring  from advanced peers and in-service science teachers. Whether you are just beginning to explore the idea of teaching or already on the path toward certification, these meetings are a place to grow, learn, and belong."
   },
   {
     "title": "OPT Workshop - International Students (F-1 Visa Holders) Only",
