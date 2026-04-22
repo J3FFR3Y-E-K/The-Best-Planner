@@ -1,21 +1,5 @@
 [
   {
-    "title": "Group X - HIIT",
-    "date": "2026-04-22T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12066418",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 9am - 9:45am \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Alexa V"
-  },
-  {
-    "title": "Group X - Pilates",
-    "date": "2026-04-22T15:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Multipurpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12066642",
-    "description": "A mind-body conditioning technique that focuses on trunk stability and coordinated breathing through a series of exercises.\u00a0 Pilates develops a longer, leaner, stronger, and more graceful body by improving muscular symmetry, alignment, posture, core strength, and flexibility. All levels are welcome. \n \n \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Wednesday, Jan 20 - April 24 \n 11am - 11:45 a.m. \n Student Recreation Center - Multipurpose Room 1 \n \n \n \n \n \n Instructor - Ashley"
-  },
-  {
     "title": "Group X - Yoga",
     "date": "2026-04-22T16:00:00+00:00",
     "organization": "Campus Recreation",
@@ -24,20 +8,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n \n \n \n \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 12pm - 12:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Alexa G"
   },
   {
-    "title": "Chi Alpha Tabling",
-    "date": "2026-04-22T15:00:00+00:00",
-    "organization": "Chi Alpha Campus Ministries",
-    "location": "Student Center 2C01 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12266524",
-    "description": "Just a space to chit-chat and get to know us as we spread the love of God!"
-  },
-  {
     "title": "Prestigious Scholarships Info Session",
     "date": "2026-04-22T17:00:00+00:00",
     "organization": "Prestigious Scholarships ",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12234710",
     "description": "Are you a junior or senior interested in graduate school, research, public service, or international experiences? The Prestigious Scholarships Program is here to support you!\u00a0 A prestigious scholarship provides you with the opportunity to develop your skills and reach your goals through engagement with people and places around the world. Montclair\u2019s Prestigious Scholarships Program helps all students and alumni learn of and apply for nationally and internationally competitive and prestigious awards. These awards fund a wide range of opportunities, as well as independent research projects, and many are connected to undergraduate and graduate degree programs or internships around the globe."
+  },
+  {
+    "title": "Chi Alpha Tabling",
+    "date": "2026-04-22T15:00:00+00:00",
+    "organization": "Chi Alpha Campus Ministries",
+    "location": "Student Center 2C01 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12266524",
+    "description": "Just a space to chit-chat and get to know us as we spread the love of God!"
   },
   {
     "title": "The Man Cave: Real Talk for Men",
@@ -110,14 +94,6 @@
     "location": "Franklin Street Residence Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12435876",
     "description": "This is a judgment-free group & space for all female and female identifying students to engage in honest conversations about dating, relationships, and everything that comes with them. We\u2019ll talk about how to recognize red flags, understand consent in real-life situations, and build confidence in setting boundaries. Whether you\u2019ve had great experiences, messy ones, or you\u2019re just figuring things out, this group is about keeping it real, supporting each other, and learning how to navigate relationships in a way that feels safe and empowering. All are welcome!"
-  },
-  {
-    "title": "HOSA General Body Meeting",
-    "date": "2026-04-22T18:00:00+00:00",
-    "organization": "Health Occupations Students of America - Future Health Professionals ",
-    "location": "University Hall 2009 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12171209",
-    "description": "HOSA GBM!"
   },
   {
     "title": "Caribbean Students' Organization: General body Meetings ",
@@ -280,14 +256,6 @@
     "description": "F inals season calls for a little extra care. Stop by to grab a Reset & Refresh Spa Kit filled with self-care items to help you relax and recharge. Grab yours\u00a0 and finish the semester feeling refreshed and ready to end strong! While supplies last."
   },
   {
-    "title": "Fashion Gives Forward ",
-    "date": "2026-04-22T16:00:00+00:00",
-    "organization": "Montclair Ad Club ",
-    "location": "Student Center Quad Information Table 1 - Information Table 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12408980",
-    "description": "Fashion Gives Forward is a partnership between Montclair Ad Club and Thrift-a-Lot. The event is built around the question: how can brands and consumers participate in sustainability in 2026? Thrift-a-Lot is a community-focused flea market built on the entrepreneurial spirit. It\u2019s a place for students, vendors, small business owners, and sustainability heroes to buy, sell, create, and connect. This Earth Day, we are bringing circular fashion to Montclair. Vendors will be selling second-hand clothes, handmade accessories, plants, and more!"
-  },
-  {
     "title": "All Pockets Full Pop Up Shop",
     "date": "2026-04-22T16:30:00+00:00",
     "organization": "All Pockets Full",
@@ -318,6 +286,14 @@
     "location": "Freeman/Russ QUAD - Freeman/Russ Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12417205",
     "description": "To celebrate our 59th Anniversary, join WMSC for another year of \"WMSC Ball Games\" where we will be playing sports all around campus! \n \u00a0 \n Stop by for some Kickball on the Freeman Quad and face off against your fellow WMSC Members (Must come wearing comfortable clothes and a friendly attitude)"
+  },
+  {
+    "title": "Fashion Gives Forward ",
+    "date": "2026-04-22T16:00:00+00:00",
+    "organization": "Montclair Ad Club ",
+    "location": "Student Center Quad Information Table 1 - Information Table 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12408980",
+    "description": "Fashion Gives Forward is a partnership between Montclair Ad Club and Thrift-a-Lot. The event is built around the question: how can brands and consumers participate in sustainability in 2026? Thrift-a-Lot is a community-focused flea market built on the entrepreneurial spirit. It\u2019s a place for students, vendors, small business owners, and sustainability heroes to buy, sell, create, and connect. This Earth Day, we are bringing circular fashion to Montclair. Vendors will be selling second-hand clothes, handmade accessories, plants, and more!"
   },
   {
     "title": "Fashion Gives Forward ",
@@ -1262,6 +1238,14 @@
     "location": "Alexander Kasser Theater",
     "link": "https://montclair.campuslabs.com/engage/event/12376211",
     "description": "University Wind Symphony Concert Dr. Thomas McCauley,\u00a0 director The university Wind Symphony's\u00a0program \"Reminiscences\" will feature the music of  Jennifer Jolley, Erika Svanoe, David Maslanka, James Barnes, William Bolcom,  and a premiere by composer  Joseph Turrin.\u00a0 \n Tickets:\u00a0 https://www.tix.com/ticket-sales/Kasser/1631/event/1433901 \n Free for Montclair Students with ID at Box Office."
+  },
+  {
+    "title": "MASA Que Mas Aplauda",
+    "date": "2026-04-24T22:15:00+00:00",
+    "organization": "Mexican-American Student Association",
+    "location": "Alumni Green",
+    "link": "https://montclair.campuslabs.com/engage/event/12443106",
+    "description": "Join MASA for our biggest event of the year! Get ready for an unforgettable night filled with high-energy music, nonstop dancing, and delicious food. You won\u2019t want to miss it!\u00a0 \n This year we are celebrating five years as a Student Organization on Campus, celebrate and join us in commemorating five years."
   },
   {
     "title": "Closing Building Meeting",
