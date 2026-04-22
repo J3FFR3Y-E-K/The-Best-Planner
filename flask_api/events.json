@@ -64,14 +64,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday, 01/20 - 04/24 \n 2pm - 2:45pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Brian"
   },
   {
-    "title": "Day at the Capitol",
-    "date": "2026-04-22T12:00:00+00:00",
-    "organization": "Government Relations and Community Affairs ",
-    "location": "Statehouse",
-    "link": "https://montclair.campuslabs.com/engage/event/12371075",
-    "description": "Take your voice beyond campus! \n Join us for\u00a0a Day in the Capitol , a chance to sit in on state committee hearings, hear real testimony, and see the democratic process in action. You\u2019ll tour the NJ State Capitol, connect with legislators, and advocate for your community. The best part? It\u2019s all FREE (transportation + lunch included)! \n Network with like-minded professionals, engage in politics, and develop a new perspective on the legislative process. \n Don\u2019t just learn about change\u2026 be part of it. \n \ud83d\udccd Transportation will be provided from the Red Hawk Deck on College Ave, Montclair, NJ, 07043 and from Bloomfield Campus"
-  },
-  {
     "title": "Campus Recreation Chalk-Up",
     "date": "2026-04-22T17:00:00+00:00",
     "organization": "Campus Recreation",
@@ -150,6 +142,14 @@
     "location": "Dickson Hall, Room 177",
     "link": "https://montclair.campuslabs.com/engage/event/12442809",
     "description": "Looking for a rewarding summer job? Join\u00a0 Horizon Camps \u00a0to learn about exciting opportunities for summer employment and leadership roles at one of the region\u2019s most engaging youth camp organizations. \n Whether you\u2019re interested in\u00a0 education, recreation, or youth development , this session will give you an inside look at what it\u2019s like to work with Horizon Camps\u2014and how these experiences can help build your skills and r\u00e9sum\u00e9. \n What to Expect: \n \n Learn about available\u00a0 camp roles \u00a0and\u00a0 leadership opportunities \n Hear about\u00a0 paid training \u00a0and the\u00a0 hiring process \n Connect directly with Horizon Camps staff and ask your questions \n \n \ud83d\udcc5\u00a0 Wednesday, April 22, 2026 \ud83d\udd51\u00a0 2:00 \u2013 3:30 PM \ud83d\udccd\u00a0 Dickson Hall, Room 177 \n Don\u2019t miss your chance to secure a meaningful and fun summer experience! \n Register via\u00a0 Handshake here !!"
+  },
+  {
+    "title": "Day at the Capitol",
+    "date": "2026-04-22T12:00:00+00:00",
+    "organization": "Government Relations and Community Affairs ",
+    "location": "Statehouse",
+    "link": "https://montclair.campuslabs.com/engage/event/12371075",
+    "description": "Take your voice beyond campus! \n Join us for\u00a0a Day in the Capitol , a chance to sit in on state committee hearings, hear real testimony, and see the democratic process in action. You\u2019ll tour the NJ State Capitol, connect with legislators, and advocate for your community. The best part? It\u2019s all FREE (transportation + lunch included)! \n Network with like-minded professionals, engage in politics, and develop a new perspective on the legislative process. \n Don\u2019t just learn about change\u2026 be part of it. \n \ud83d\udccd Transportation will be provided from the Red Hawk Deck on College Ave, Montclair, NJ, 07043 and from Bloomfield Campus"
   },
   {
     "title": "UAASO General Body Meeting (GBM)",
@@ -512,14 +512,6 @@
     "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
   },
   {
-    "title": "Celebrate National Library Week: National Outreach Day",
-    "date": "2026-04-22T12:00:00+00:00",
-    "organization": "Sprague Library",
-    "location": "Bloomfield Campus Library",
-    "link": "https://montclair.campuslabs.com/engage/event/12433904",
-    "description": "Bloomfield College Library will be celebrating National Library Week, April 20-25, 2026.  Find Your Library Joy  participating in a variety of activities over the course of the week: read a banned book, do some relaxing coloring, solve a puzzle, draw a picture or write a poem about your library joy, make a bookmark or your own zine, and more! \n All attendees will have an opportunity to enter our raffle to win a prize."
-  },
-  {
     "title": "The Secret of the Forgiveness of Sins",
     "date": "2026-04-22T23:30:00+00:00",
     "organization": "The Good Samaritan Club",
@@ -582,6 +574,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12096803",
     "description": "Slime & De-Stress with RA Racquel Join RA Racquel for a hands-on, stress-busting activity! Come make your own slime while taking a break from the hustle and bustle of campus life. It\u2019s a fun, creative way to relax, get messy, and leave your worries behind. All materials provided\u2014just bring your creativity! \n \u00a0 \n Location:225 Liberty Lounge"
+  },
+  {
+    "title": "Celebrate National Library Week: National Outreach Day",
+    "date": "2026-04-22T12:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Bloomfield Campus Library",
+    "link": "https://montclair.campuslabs.com/engage/event/12433904",
+    "description": "Bloomfield College Library will be celebrating National Library Week, April 20-25, 2026.  Find Your Library Joy  participating in a variety of activities over the course of the week: read a banned book, do some relaxing coloring, solve a puzzle, draw a picture or write a poem about your library joy, make a bookmark or your own zine, and more! \n All attendees will have an opportunity to enter our raffle to win a prize."
   },
   {
     "title": "Study Hall + Crafts ",
