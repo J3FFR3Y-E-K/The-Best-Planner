@@ -1,21 +1,5 @@
 [
   {
-    "title": "Find the Sources You Need",
-    "date": "2026-04-23T14:00:00+00:00",
-    "organization": "Sprague Library",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12437197",
-    "description": "Learn where and how to find books, articles, and more! We\u2019ll break down the differences between primary and secondary sources; when to use books vs. newspapers vs. scholarly journals vs. the internet; and share search strategies so you are locating sources smarter (not harder). Perfect if you\u2019re new to college-level research or just want to sharpen your skills before your next assignment. \n Register Here: \u00a0https://montclair.libcal.com/event/16755924"
-  },
-  {
-    "title": "Group X - Cycling",
-    "date": "2026-04-23T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 2",
-    "link": "https://montclair.campuslabs.com/engage/event/12079203",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 10pm - 10:45am \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
-  },
-  {
     "title": "Group X - Pilates",
     "date": "2026-04-23T16:00:00+00:00",
     "organization": "Campus Recreation",
@@ -136,20 +120,20 @@
     "description": "Hang out and have casual conversations with other students while enjoying refreshments! Join us on Thursdays from 3:15-4:15pm.\u00a0 \n What are Fireside Chats: \n \n A space for students to meet, connect, and have a casual conversation about a given topic, or anything else that feels comfortable for everyone else. It can be about the school climate, student life in general, or your favorite show. All students are welcome!"
   },
   {
-    "title": "Family Weekend Check In",
-    "date": "2026-04-23T16:00:00+00:00",
-    "organization": "Parent & Family Programs ",
-    "location": "Montclair campus, Student Center, Quad",
-    "link": "https://montclair.campuslabs.com/engage/event/12262513",
-    "description": "Kick off Family Weekend by stopping at Check-In! Pick up your meal vouchers, Family Weekend swag and important event information to help you make the most of your time on campus. Our team will be there to welcome you, answer questions and ensure you\u2019re ready for a full weekend of connection, celebration and Red Hawk pride."
-  },
-  {
     "title": "Group X - Kickboxing",
     "date": "2026-04-23T19:45:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12079824",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday, 01/20 - 04/24 \n 3:45pm - 4:30pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Josie"
+  },
+  {
+    "title": "Family Weekend Check In",
+    "date": "2026-04-23T16:00:00+00:00",
+    "organization": "Parent & Family Programs ",
+    "location": "Montclair campus, Student Center, Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12262513",
+    "description": "Kick off Family Weekend by stopping at Check-In! Pick up your meal vouchers, Family Weekend swag and important event information to help you make the most of your time on campus. Our team will be there to welcome you, answer questions and ensure you\u2019re ready for a full weekend of connection, celebration and Red Hawk pride."
   },
   {
     "title": "National Association for the Advancement of Colored People Weekly Discussion",
@@ -222,6 +206,14 @@
     "location": "Student Center Quad123 - All Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12146041",
     "description": "Join ALPFA Montclair for our final event of the semester, ALPFA Under the Sun, a relaxed outdoor picnic celebrating the close of the academic year. This gathering is a chance to unwind, reflect on our accomplishments, and enjoy food, music, and community as we look ahead to what\u2019s next."
+  },
+  {
+    "title": "Vision Boards",
+    "date": "2026-04-23T22:00:00+00:00",
+    "organization": "Machuga Heights",
+    "location": "Machuga Heights Multipurpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12445581",
+    "description": "Reflect on this past academic year and create a vision for what's next!"
   },
   {
     "title": "Hawk Crossings Closing Building Meeting",
@@ -408,14 +400,6 @@
     "description": "End Recharge Week with CAPS f& Res Life for a relaxing break with chalking, pizza, and giveaways. Step away from the stress, connect with others, and give yourself the reset you need during finals."
   },
   {
-    "title": "People\u2019s Brunch",
-    "date": "2026-04-24T15:00:00+00:00",
-    "organization": "Panther Progress",
-    "location": "Student Center 250AB - Ballrooms A and B",
-    "link": "https://montclair.campuslabs.com/engage/event/12360211",
-    "description": "The People\u2019s Brunch, modeled after the Black Panther Party\u2019s Free Break program, was created to address food insecurity on campus, while also celebrating cultural foods and creating a community space for students."
-  },
-  {
     "title": "Group X - Zumba",
     "date": "2026-04-24T17:00:00+00:00",
     "organization": "Campus Recreation",
@@ -510,6 +494,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12108088",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 3:30pm- 5:00pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
+  },
+  {
+    "title": "De-Stress with Machuga Hall Council",
+    "date": "2026-04-24T20:00:00+00:00",
+    "organization": "Machuga Heights",
+    "location": "Machuga Heights Multipurpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12445570",
+    "description": "Come join us to relax and unwind during finals season!\u00a0All students welcome! Commuters must sign in at the front desk!"
   },
   {
     "title": "Baseball vs. Ramapo",
@@ -797,7 +789,7 @@
     "organization": "Parent & Family Programs ",
     "location": "Montclair campus, Student Center, Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12262515",
-    "description": "Kick off Family Weekend by stopping at Check-In! Pick up your meal vouchers, Family Weekend swag and important event information to help you make the most of your time on campus. Our team will be there to welcome you, answer questions and ensure you\u2019re ready for a full weekend of connection, celebration and Red Hawk pride."
+    "description": ""
   },
   {
     "title": "Sunset Social - Live Music Sign Up",
@@ -856,20 +848,20 @@
     "description": "Join us for our last event of the semester and celebrate our 2026 SASA family! \n The banquet will be taking place at Jyoti Restaurant in Wayne, NJ from 7pm-11pm.\u00a0 \n Western formal attire encouraged, but feel free to wear what you're comfortable in.\u00a0 \n All Montclair State University and Bloomfield College students welcome!"
   },
   {
-    "title": "Family Weekend ",
-    "date": "2026-04-23T16:00:00+00:00",
-    "organization": "Parent & Family Programs ",
-    "location": "Montclair campus",
-    "link": "https://montclair.campuslabs.com/engage/event/12262473",
-    "description": "Get ready to make memories as a Red Hawk Family! Save the date for Montclair State University\u2019s Family Weekend! \n Join us for a weekend filled with fun, connection and special moments as you experience campus life. Whether it\u2019s your family\u2019s first visit or returning, we can\u2019t wait to welcome everyone! \n View the Full Schedule of Events! \n All Non-Montclair Students must  register  through our family portal, CampusESP.\u00a0 If your family needs assistance logging in,  contact us with any questions ."
-  },
-  {
     "title": "Family Weekend: Grab & Go Closing Breakfast",
     "date": "2026-04-26T14:00:00+00:00",
     "organization": "Parent & Family Programs ",
     "location": "Montclair campus, Student Center, Ballrooms B&C",
     "link": "https://montclair.campuslabs.com/engage/event/12262684",
     "description": "Before heading home, stop by for a light breakfast featuring pastries, coffee, tea and more. Swing through, grab a bite and wrap up Family Weekend with one last moment together on campus."
+  },
+  {
+    "title": "Family Weekend ",
+    "date": "2026-04-23T16:00:00+00:00",
+    "organization": "Parent & Family Programs ",
+    "location": "Montclair campus",
+    "link": "https://montclair.campuslabs.com/engage/event/12262473",
+    "description": "Get ready to make memories as a Red Hawk Family! Save the date for Montclair State University\u2019s Family Weekend! \n Join us for a weekend filled with fun, connection and special moments as you experience campus life. Whether it\u2019s your family\u2019s first visit or returning, we can\u2019t wait to welcome everyone! \n View the Full Schedule of Events! \n All Non-Montclair Students must  register  through our family portal, CampusESP.\u00a0 If your family needs assistance logging in,  contact us with any questions ."
   },
   {
     "title": "BA Visual Arts Thesis Exhibition",
@@ -1437,7 +1429,7 @@
     "organization": "Office of Health Promotion",
     "location": "Drop-In Center ",
     "link": "https://montclair.campuslabs.com/engage/event/12074663",
-    "description": "Hang out and have casual conversations with other students while enjoying refreshments! Join us on Thursdays from 3:15-4:15pm.\u00a0 \n What are Fireside Chats: \n \n A space for students to meet, connect, and have a casual conversation about a given topic, or anything else that feels comfortable for everyone else. It can be about the school climate, student life in general, or your favorite show. All students are welcome!"
+    "description": ""
   },
   {
     "title": "Campus Earth Month",
