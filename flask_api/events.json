@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2026-04-24T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12108451",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Friday, 01/20 - 04/24 \n 10:00am - 10:45am \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Group X - Pilates",
     "date": "2026-04-24T15:15:00+00:00",
     "organization": "Campus Recreation",
@@ -104,20 +96,20 @@
     "description": "Dive into creativity! Make a splash with an ocean DIY craft filled with colorful sea creatures, waves, and underwater fun.\u00a0 \n \n \n Take-and-Make craft kits are available for pick up at the Drop-In Center during business hours starting Wednesday, April 15th, 2026. While supplies last! FREE for students with a valid Montclair or Bloomfield campus ID. Each\u00a0 craft kit comes with everything you need including acrylic paint, 2 brushes, and one ceramic sea creature. Craft kits may vary from image shown!"
   },
   {
-    "title": "Celebrate National Library Week",
-    "date": "2026-04-24T13:00:00+00:00",
-    "organization": "Sprague Library",
-    "location": "Bloomfield Campus Library",
-    "link": "https://montclair.campuslabs.com/engage/event/12433919",
-    "description": "Bloomfield College Library will be celebrating National Library Week, April 20-25, 2026.  Find Your Library Joy  participating in a variety of activities over the course of the week: read a banned book, do some relaxing coloring, solve a puzzle, draw a picture or write a poem about your library joy, make a bookmark or your own zine, and more! \n All attendees will have an opportunity to enter our raffle to win a prize."
-  },
-  {
     "title": "Group X - BJJ",
     "date": "2026-04-24T19:30:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12108088",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, 01/20 - 04/24 \n 3:30pm- 5:00pm \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
+  },
+  {
+    "title": "Celebrate National Library Week",
+    "date": "2026-04-24T13:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Bloomfield Campus Library",
+    "link": "https://montclair.campuslabs.com/engage/event/12433919",
+    "description": "Bloomfield College Library will be celebrating National Library Week, April 20-25, 2026.  Find Your Library Joy  participating in a variety of activities over the course of the week: read a banned book, do some relaxing coloring, solve a puzzle, draw a picture or write a poem about your library joy, make a bookmark or your own zine, and more! \n All attendees will have an opportunity to enter our raffle to win a prize."
   },
   {
     "title": "Softball vs. TCNJ (DH)",
@@ -142,14 +134,6 @@
     "location": "Yogi Berra Stadium",
     "link": "https://montclair.campuslabs.com/engage/event/12324896",
     "description": "In celebration of Family Weekend, we will have a t-shirt toss during the game! \n Tickets & Parking Info \n School Spirit Survey"
-  },
-  {
-    "title": "BA Visual Arts Thesis Exhibition",
-    "date": "2026-04-24T15:00:00+00:00",
-    "organization": "Art and Design",
-    "location": "Finley Gallery, Finley Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12433033",
-    "description": "Celebrate the end of the semester with this brilliant showcase from our rising Visual Arts graduates! This exhibition marks the culmination of their degree, launching their creative journeys. Each student presents a cohesive body of artwork in the Finley Galleries, our final exhibition of the Spring 2026 semester. \n Made to be Seen  features an impressive range of interdisciplinary approaches: mixed-media sculpture, large-scale painting, hand-sewn textiles, ceramics, video projection, photography, and installations. Over 30 Visual Arts graduates invite you to explore their creative research and current perspectives, on view through these vibrant capstone projects!\u00a0\u00a0 \n \u00a0 \n Exhibiting Artists: Section 1: Veronica Avignone, Christian Campoverde, Mae Elkovich, Lisette Flor, Emily Garces, Aj Malabunga, Jenna Mcdonough, Melanie Medina, Angeline Ortiz, Tasir Plant \n Section 2: Mari Ahmed, Chez Amos, Kaila Craig, Amanda Lerner, Jeremiah Molin, Kevin Pena, Rose Perez Cruz, Emmanuella Ponzio, Daniel Portillo, Liliana Salce, Giacomo Valerin, Beyza Yildiz \n Section 3: Duy-Minh Do, Catalina Ferraro, Keaoh Gonzalez, Alexa Grasso, Katelin Guaman, Paulina Guerra, Keita Mcfarlane, Teiona Mcnair, Luz Plata, Diana Valdes, Lloyd Zheng \n \u00a0 \n Made to be Seen BA Visual Arts Thesis Exhibition Finley Gallery, Finley Hall Exhibition dates: April 23-29, 2026 Closing Reception: Wednesday April 29, 6-8pm"
   },
   {
     "title": "BBQAASO",
@@ -182,6 +166,14 @@
     "location": "Machuga Heights",
     "link": "https://montclair.campuslabs.com/engage/event/12323239",
     "description": "Need a place to relax and study? Then stop by Machuga Heights on April 24th at 6:00 pm. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "BA Visual Arts Thesis Exhibition",
+    "date": "2026-04-24T15:00:00+00:00",
+    "organization": "Art and Design",
+    "location": "Finley Gallery, Finley Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12433033",
+    "description": "Celebrate the end of the semester with this brilliant showcase from our rising Visual Arts graduates! This exhibition marks the culmination of their degree, launching their creative journeys. Each student presents a cohesive body of artwork in the Finley Galleries, our final exhibition of the Spring 2026 semester. \n Made to be Seen  features an impressive range of interdisciplinary approaches: mixed-media sculpture, large-scale painting, hand-sewn textiles, ceramics, video projection, photography, and installations. Over 30 Visual Arts graduates invite you to explore their creative research and current perspectives, on view through these vibrant capstone projects!\u00a0\u00a0 \n \u00a0 \n Exhibiting Artists: Section 1: Veronica Avignone, Christian Campoverde, Mae Elkovich, Lisette Flor, Emily Garces, Aj Malabunga, Jenna Mcdonough, Melanie Medina, Angeline Ortiz, Tasir Plant \n Section 2: Mari Ahmed, Chez Amos, Kaila Craig, Amanda Lerner, Jeremiah Molin, Kevin Pena, Rose Perez Cruz, Emmanuella Ponzio, Daniel Portillo, Liliana Salce, Giacomo Valerin, Beyza Yildiz \n Section 3: Duy-Minh Do, Catalina Ferraro, Keaoh Gonzalez, Alexa Grasso, Katelin Guaman, Paulina Guerra, Keita Mcfarlane, Teiona Mcnair, Luz Plata, Diana Valdes, Lloyd Zheng \n \u00a0 \n Made to be Seen BA Visual Arts Thesis Exhibition Finley Gallery, Finley Hall Exhibition dates: April 23-29, 2026 Closing Reception: Wednesday April 29, 6-8pm"
   },
   {
     "title": "Family Weekend Check In",
@@ -888,6 +880,14 @@
     "description": "A weekly event where you get a chance to try different things. From DJing, to D.I.Y. projects and BINGO with a twist. This is a day you don't want to miss, 1st person to come gets a prize every time."
   },
   {
+    "title": "Sidewalk Chalk",
+    "date": "2026-04-28T18:00:00+00:00",
+    "organization": "Machuga Heights",
+    "location": "Outside of Machuga Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/12447546",
+    "description": "Come unwind with finals as we create a beautiful world of color outside of Machuga Heights! Plenty of chalk will be available to make as mny masterpieces as you'd like!"
+  },
+  {
     "title": "BA Visual Arts Thesis Exhibition",
     "date": "2026-04-28T15:00:00+00:00",
     "organization": "Art and Design",
@@ -989,14 +989,6 @@
     "organization": "Red Hawk Pantry",
     "location": "Blanton Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12286165",
-    "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Wednesdays: 5-7pm \n Saturdays: 11-1pm"
-  },
-  {
-    "title": "Red Hawk Pantry ",
-    "date": "2026-04-29T21:00:00+00:00",
-    "organization": "Red Hawk Pantry",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12286166",
     "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Wednesdays: 5-7pm \n Saturdays: 11-1pm"
   },
   {
@@ -1192,12 +1184,68 @@
     "description": "This meeting is exclusively for National Leadership Conference (NLC) qualifiers. Students with club membership CANNOT shadow this meeting."
   },
   {
+    "title": "Red Hawk Pantry",
+    "date": "2026-05-20T16:00:00+00:00",
+    "organization": "Red Hawk Pantry",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12447981",
+    "description": "1) Please have your Event Pass, Student ID, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost.  Stay updated by following us on Instagram:  @montclair_redhawkpantry \n \ud83c\udf3b Summer 2026 Hours \n \n Wednesdays: 12-2pm \n \n If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu"
+  },
+  {
+    "title": "Red Hawk Pantry",
+    "date": "2026-05-27T16:00:00+00:00",
+    "organization": "Red Hawk Pantry",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12447982",
+    "description": "1) Please have your Event Pass, Student ID, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost.  Stay updated by following us on Instagram:  @montclair_redhawkpantry \n \ud83c\udf3b Summer 2026 Hours \n \n Wednesdays: 12-2pm \n \n If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu"
+  },
+  {
+    "title": "Red Hawk Pantry",
+    "date": "2026-06-03T16:00:00+00:00",
+    "organization": "Red Hawk Pantry",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12447983",
+    "description": "1) Please have your Event Pass, Student ID, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost.  Stay updated by following us on Instagram:  @montclair_redhawkpantry \n \ud83c\udf3b Summer 2026 Hours \n \n Wednesdays: 12-2pm \n \n If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu"
+  },
+  {
+    "title": "Red Hawk Pantry",
+    "date": "2026-06-10T16:00:00+00:00",
+    "organization": "Red Hawk Pantry",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12447984",
+    "description": "1) Please have your Event Pass, Student ID, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost.  Stay updated by following us on Instagram:  @montclair_redhawkpantry \n \ud83c\udf3b Summer 2026 Hours \n \n Wednesdays: 12-2pm \n \n If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu"
+  },
+  {
     "title": "Safe Space Training",
     "date": "2026-06-16T17:00:00+00:00",
     "organization": "Advocacy and Outreach",
     "location": "Cole Hall 141",
     "link": "https://montclair.campuslabs.com/engage/event/11332857",
     "description": "Our Safe Space Training is an intensive, interactive training that provides attendees with information and tools to combat homophobia, biphobia, transphobia, cissexism and heterosexism, on campus and beyond. Through interactive activities and discussion, participants will personally reflect on their own experiences to enhance their personal and professional development, provide further education, and finally, identify ways to create change on campus and beyond. \n All sessions are three hours and are first-come, first-served. Pre-registration is required. Registrants are expected to attend the full session. Only individuals who have fully completed the Safe Space Program and have agreed to the expectations of its membership are able to display the sticker/button of our program. Refreshments are not provided; however, you are more than welcome to bring your lunch, coffee, snacks, etc."
+  },
+  {
+    "title": "Red Hawk Pantry",
+    "date": "2026-06-17T16:00:00+00:00",
+    "organization": "Red Hawk Pantry",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12447985",
+    "description": "1) Please have your Event Pass, Student ID, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost.  Stay updated by following us on Instagram:  @montclair_redhawkpantry \n \ud83c\udf3b Summer 2026 Hours \n \n Wednesdays: 12-2pm \n \n If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu"
+  },
+  {
+    "title": "Red Hawk Pantry",
+    "date": "2026-06-24T16:00:00+00:00",
+    "organization": "Red Hawk Pantry",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12447986",
+    "description": "1) Please have your Event Pass, Student ID, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost.  Stay updated by following us on Instagram:  @montclair_redhawkpantry \n \ud83c\udf3b Summer 2026 Hours \n \n Wednesdays: 12-2pm \n \n If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu"
+  },
+  {
+    "title": "Red Hawk Pantry",
+    "date": "2026-07-01T16:00:00+00:00",
+    "organization": "Red Hawk Pantry",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12447987",
+    "description": "1) Please have your Event Pass, Student ID, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost.  Stay updated by following us on Instagram:  @montclair_redhawkpantry \n \ud83c\udf3b Summer 2026 Hours \n \n Wednesdays: 12-2pm \n \n If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu"
   },
   {
     "title": "Study Abroad Fair Fall 2026",
