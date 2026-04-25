@@ -1,53 +1,5 @@
 [
   {
-    "title": "Family Weekend: Street Fair",
-    "date": "2026-04-25T17:00:00+00:00",
-    "organization": "Parent & Family Programs ",
-    "location": "Montclair campus, Student Center, Ballrooms",
-    "link": "https://montclair.campuslabs.com/engage/event/12262618",
-    "description": "Celebrate the creativity and energy of Montclair at this lively outdoor street fair featuring our favorite DJ, tabling from a variety of clubs, organizations and departments, student entrepreneurs & more! Experience the talent that makes our campus community shine."
-  },
-  {
-    "title": "Family Weekend: Meet Pebbles the Pupscot",
-    "date": "2026-04-25T17:00:00+00:00",
-    "organization": "Parent & Family Programs ",
-    "location": "Montclair campus, Student Center, Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12262637",
-    "description": "Stop by to meet Pebbles, Montclair\u2019s favorite pupscot! Snap a photo, grab a hug and enjoy a tail-wagging moment with this campus favorite. It\u2019s the perfect feel-good stop during Family Weekend for smiles, memories and a little extra Red Hawk spirit. \ud83d\udc3e"
-  },
-  {
-    "title": "Flag Football vs. Wagner",
-    "date": "2026-04-25T19:00:00+00:00",
-    "organization": "Athletics",
-    "location": "Sprague Field",
-    "link": "https://montclair.campuslabs.com/engage/event/12340550",
-    "description": "Tickets & Parking Info \n School Spirit Survey"
-  },
-  {
-    "title": "Celebrate National Library Week",
-    "date": "2026-04-25T16:00:00+00:00",
-    "organization": "Sprague Library",
-    "location": "Bloomfield Campus Library",
-    "link": "https://montclair.campuslabs.com/engage/event/12433923",
-    "description": "Bloomfield College Library will be celebrating National Library Week, April 20-25, 2026.  Find Your Library Joy  participating in a variety of activities over the course of the week: read a banned book, do some relaxing coloring, solve a puzzle, draw a picture or write a poem about your library joy, make a bookmark or your own zine, and more! \n All attendees will have an opportunity to enter our raffle to win a prize. \n All are welcome!"
-  },
-  {
-    "title": "Inside Student Government Conference",
-    "date": "2026-04-25T17:00:00+00:00",
-    "organization": "Student Government Association, Inc.",
-    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12409678",
-    "description": "We are planning on hosting a Conference for High School Student Councils/ Student Governments"
-  },
-  {
-    "title": "Inside Student Government Conference",
-    "date": "2026-04-25T17:00:00+00:00",
-    "organization": "Student Government Association, Inc.",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12409679",
-    "description": "We are planning on hosting a Conference for High School Student Councils/ Student Governments"
-  },
-  {
     "title": "Family Weekend: 1908 Happy Hour",
     "date": "2026-04-25T20:00:00+00:00",
     "organization": "Parent & Family Programs ",
@@ -96,20 +48,20 @@
     "description": "Get creative with our Paint & Sip event! Paint on mini canvas's after making your own soda mocktails! All are welcome, commuters must be signed in by a resident of Montclair State University."
   },
   {
-    "title": "VOU Concert",
-    "date": "2026-04-25T20:00:00+00:00",
-    "organization": "Voices of Unity",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12293595",
-    "description": "Come join us for our annual Spring concert! We would love to see you all there."
-  },
-  {
     "title": "Concert Gathering",
     "date": "2026-04-26T00:30:00+00:00",
     "organization": "Voices of Unity",
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/12417156",
     "description": "Come join us after our spring concert and enjoy some food."
+  },
+  {
+    "title": "VOU Concert",
+    "date": "2026-04-25T20:00:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12293595",
+    "description": "Come join us for our annual Spring concert! We would love to see you all there."
   },
   {
     "title": "SASA Banquet 2026!",
