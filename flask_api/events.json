@@ -184,20 +184,20 @@
     "description": "All students are welcome, commuters need to be signed in a with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Stress-free Zone @ BCL",
-    "date": "2026-04-27T13:00:00+00:00",
-    "organization": "Sprague Library",
-    "location": "Bloomfield Campus Library",
-    "link": "https://montclair.campuslabs.com/engage/event/12437004",
-    "description": "The week of April 27 - May 1, take a break and visit the Stress-free Zone at the Bloomfield College Library. Enjoy a snack, play with Legos, make a card, work on a puzzle, color, read a recent novel or nonfiction book, play a game, and more!"
-  },
-  {
     "title": "National Gummy Bear Day",
     "date": "2026-04-27T23:00:00+00:00",
     "organization": "Residence Life",
     "location": "Russ Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12323229",
     "description": "On April 27th at 7PM in Russ hall, come enjoy the celebration of national gummy bear day! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Stress-free Zone @ BCL",
+    "date": "2026-04-27T13:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Bloomfield Campus Library",
+    "link": "https://montclair.campuslabs.com/engage/event/12437004",
+    "description": "The week of April 27 - May 1, take a break and visit the Stress-free Zone at the Bloomfield College Library. Enjoy a snack, play with Legos, make a card, work on a puzzle, color, read a recent novel or nonfiction book, play a game, and more!"
   },
   {
     "title": "Greek Showcase (MTG):  Grammy Edition ",
