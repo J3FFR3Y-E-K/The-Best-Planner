@@ -1,45 +1,5 @@
 [
   {
-    "title": "Mindfulness Meditation ",
-    "date": "2026-04-27T16:00:00+00:00",
-    "organization": "Office of Health Promotion",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12021188",
-    "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
-  },
-  {
-    "title": "Miles Without Borders",
-    "date": "2026-04-27T15:00:00+00:00",
-    "organization": "Friends of Doctors Without Borders",
-    "location": "Dioguardi Field",
-    "link": "https://montclair.campuslabs.com/engage/event/12388512",
-    "description": "Miles Without Borders is a high-energy, Olympic-style field day bringing together fun, fitness, and philanthropy! In collaboration with MSU Run for Fun, Friends of Doctors Without Borders (FOMSF) invites students to compete in exciting team-based challenges, races, and mini-games designed for all skill levels. \n This event isn\u2019t just about winning\u2014it\u2019s about making a difference. As part of our initiative, we are hosting a  food drive  to support local communities in need. Participants and attendees are encouraged to bring non-perishable food items to contribute to the cause. \n Come out to run, play, and give back while supporting global medical humanitarian efforts. Whether you're competing or cheering from the sidelines, your participation helps make an impact both locally and worldwide. \n Let\u2019s move with purpose and turn friendly competition into meaningful change!"
-  },
-  {
-    "title": "French Conversation Hour With Assane K! Every Monday",
-    "date": "2026-04-27T18:00:00+00:00",
-    "organization": "College of Humanities and Social Sciences (CHSS)",
-    "location": "Schmitt Hall Lounge 218",
-    "link": "https://montclair.campuslabs.com/engage/event/12329413",
-    "description": "Conversation Avec Assane K! Lundi 2:00PM - 3:00PM Schmitt Lounge, 218 Mondays | Join us for: SNACKS! FREE FRENCH CONVERSATION! BOARD GAMES! All are welcome!"
-  },
-  {
-    "title": "Montclair State Democrats General Body Meeting",
-    "date": "2026-04-27T18:00:00+00:00",
-    "organization": "Montclair State University Democrats",
-    "location": "University Hall 2040 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12392558",
-    "description": "Every Monday at 2:00 PM. Join us for an open, student-led discussion on democracy, civic engagement, and current issues shaping campus. All are welcome!"
-  },
-  {
-    "title": "Study Abroad 101",
-    "date": "2026-04-27T18:00:00+00:00",
-    "organization": "Office of International Academic Initiatives",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12128373",
-    "description": "Join the Office of International Academic Initiatives to learn about the Study Abroad Opportunities that Montclair State University has to offer. Learn about our different programs that are as short as one week up to an academic year as well as scholarship information. Whether you want to stay as close to home as Pennsylvania or travel as far away as South Korea, Montclair State University has programs for you."
-  },
-  {
     "title": "PASO General Board Meeting",
     "date": "2026-04-27T18:15:00+00:00",
     "organization": "Peruvian-American Student Organization",
@@ -56,20 +16,20 @@
     "description": "Come join us for our weekly general body meetings!!"
   },
   {
-    "title": "Red Hawk Pantry ",
-    "date": "2026-04-27T17:30:00+00:00",
-    "organization": "Red Hawk Pantry",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12286164",
-    "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Wednesdays: 5-7pm \n Saturdays: 11-1pm"
-  },
-  {
     "title": "Daughta Speaks GBM",
     "date": "2026-04-27T18:00:00+00:00",
     "organization": "Daughta Speaks",
     "location": "University Hall 2021 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12392568",
     "description": "Join Daughta Speaks, Montclair State\u2019s Premier Black LGBTQ+ Alliance, for our weekly general body meeting! While we are Black centered, you do not need to be a person of color to join.  \n Check out our Instagram daughtaspeaks.msu for this week\u2019s topic!"
+  },
+  {
+    "title": "Red Hawk Pantry ",
+    "date": "2026-04-27T17:30:00+00:00",
+    "organization": "Red Hawk Pantry",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12286164",
+    "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu Stay updated by following us on Instagram: @montclair_redhawkpantry \n \u00a0 \n \ud83c\udf4e Fall 2025 Hours \n \n Mondays: 1:30-3:30pm \n Wednesdays: 5-7pm \n Saturdays: 11-1pm"
   },
   {
     "title": "Graduation Cap Decorating",
@@ -80,12 +40,28 @@
     "description": "\ud83c\udf93\u2728 Calling all Class of 2026 grads! \n Join us for a Graduation Cap Decorating event and make your cap as unique as your journey \ud83d\udcab Whether you\u2019re celebrating being first-gen, your major, or your next chapter, this is your moment to get creative! \n \ud83d\udcc5 Monday, April 27th \n \u23f0 2:00\u20133:30 PM \n \ud83d\udccd Student Center 419 \n Hosted by First-Generation Initiatives & the Office of Student Belonging \u2764\ufe0f"
   },
   {
+    "title": "DSO GBM",
+    "date": "2026-04-27T18:30:00+00:00",
+    "organization": "Dominican Student Organization",
+    "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12409104",
+    "description": "Come join DSO in our weekly GBM! Here we discuss various topics while we share our culture and bond over the culture. We have different topics every week and tackle current news, play games, and educate on the culture! This event is open to all MSU/BLOOMFIELD students!"
+  },
+  {
     "title": "History Club Final General Body Meeting",
     "date": "2026-04-27T18:00:00+00:00",
     "organization": "The Historical Society at Montclair State",
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12409737",
     "description": "Join History Club for our final general body meeting and end-of-year celebration. This event is a chance to wrap up the semester, recognize our work, and spend time together before finals."
+  },
+  {
+    "title": "Polish Club Bake Sale",
+    "date": "2026-04-27T16:00:00+00:00",
+    "organization": "Montclair State Polish Club",
+    "location": "Student Center 2C04 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12417169",
+    "description": "The Polish Club Bake Sale is here! \ud83c\uddf5\ud83c\uddf1\ud83c\udf6a \n Stop by to grab some delicious homemade treats and support our club. All proceeds will help fund future events, cultural programs, and activities for our members. \n Bring a friend, satisfy your sweet tooth, and support the Polish Club! We hope to see you there!"
   },
   {
     "title": "FINAL MEETING : MSU Chess Club General SB Meeting",
@@ -96,20 +72,12 @@
     "description": "Join us for a final spring semester meeting of strategy, skill, and friendly competition! Whether you\u2019re a seasoned player or just learning the game, all are welcome. Come at your convenience! We\u2019ll have time for casual matches, analysis, and discussion of tactics and openings. Come wish your fellow players a great summer and meet your new e-board for the fall semester! \n Boards and pieces will be provided;  just bring your enthusiasm for the game!"
   },
   {
-    "title": "DSO GBM",
-    "date": "2026-04-27T18:30:00+00:00",
-    "organization": "Dominican Student Organization",
-    "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12409104",
-    "description": "Come join DSO in our weekly GBM! Here we discuss various topics while we share our culture and bond over the culture. We have different topics every week and tackle current news, play games, and educate on the culture! This event is open to all MSU/BLOOMFIELD students!"
-  },
-  {
-    "title": "Polish Club Bake Sale",
-    "date": "2026-04-27T16:00:00+00:00",
-    "organization": "Montclair State Polish Club",
-    "location": "Student Center 2C04 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12417169",
-    "description": "The Polish Club Bake Sale is here! \ud83c\uddf5\ud83c\uddf1\ud83c\udf6a \n Stop by to grab some delicious homemade treats and support our club. All proceeds will help fund future events, cultural programs, and activities for our members. \n Bring a friend, satisfy your sweet tooth, and support the Polish Club! We hope to see you there!"
+    "title": "Aurora's Oreo & Rice Krispie Bake Sale! \u2661",
+    "date": "2026-04-27T18:00:00+00:00",
+    "organization": "Korean Dance Cover Group",
+    "location": "University Hall 1C01 - Lobby Table",
+    "link": "https://montclair.campuslabs.com/engage/event/12404212",
+    "description": "Hi loves! For our spring fundraiser, we will be selling Pink Dipped Oreos for $2 & Rice Krispies drizzled with Chocolate & Sprinkles for $3! We hope to see you there!"
   },
   {
     "title": "End of the Semester Party",
@@ -126,14 +94,6 @@
     "location": "Student Center Quad123 - All Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12423779",
     "description": "Pop out to the last hoorahh of the semester! Welcome to our Black Student org fair!"
-  },
-  {
-    "title": "Aurora's Oreo & Rice Krispie Bake Sale! \u2661",
-    "date": "2026-04-27T18:00:00+00:00",
-    "organization": "Korean Dance Cover Group",
-    "location": "University Hall 1C01 - Lobby Table",
-    "link": "https://montclair.campuslabs.com/engage/event/12404212",
-    "description": "Hi loves! For our spring fundraiser, we will be selling Pink Dipped Oreos for $2 & Rice Krispies drizzled with Chocolate & Sprinkles for $3! We hope to see you there!"
   },
   {
     "title": "Montclair Unraveled General Body Meeting!",
@@ -182,14 +142,6 @@
     "location": "Russ Hall KOPS Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12271869",
     "description": "All students are welcome, commuters need to be signed in a with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "National Gummy Bear Day",
-    "date": "2026-04-27T23:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Russ Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12323229",
-    "description": "On April 27th at 7PM in Russ hall, come enjoy the celebration of national gummy bear day! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Stress-free Zone @ BCL",
