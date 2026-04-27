@@ -56,14 +56,6 @@
     "description": "Come join us for our weekly general body meetings!!"
   },
   {
-    "title": "Polish Club Bake Sale",
-    "date": "2026-04-27T16:00:00+00:00",
-    "organization": "Montclair State Polish Club",
-    "location": "Student Center 2C04 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12417169",
-    "description": "The Polish Club Bake Sale is here! \ud83c\uddf5\ud83c\uddf1\ud83c\udf6a \n Stop by to grab some delicious homemade treats and support our club. All proceeds will help fund future events, cultural programs, and activities for our members. \n Bring a friend, satisfy your sweet tooth, and support the Polish Club! We hope to see you there!"
-  },
-  {
     "title": "Red Hawk Pantry ",
     "date": "2026-04-27T17:30:00+00:00",
     "organization": "Red Hawk Pantry",
@@ -78,6 +70,14 @@
     "location": "University Hall 2021 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12392568",
     "description": "Join Daughta Speaks, Montclair State\u2019s Premier Black LGBTQ+ Alliance, for our weekly general body meeting! While we are Black centered, you do not need to be a person of color to join.  \n Check out our Instagram daughtaspeaks.msu for this week\u2019s topic!"
+  },
+  {
+    "title": "Graduation Cap Decorating",
+    "date": "2026-04-27T18:00:00+00:00",
+    "organization": "First Generation Initiatives",
+    "location": "Student Center 419",
+    "link": "https://montclair.campuslabs.com/engage/event/12450231",
+    "description": "\ud83c\udf93\u2728 Calling all Class of 2026 grads! \n Join us for a Graduation Cap Decorating event and make your cap as unique as your journey \ud83d\udcab Whether you\u2019re celebrating being first-gen, your major, or your next chapter, this is your moment to get creative! \n \ud83d\udcc5 Monday, April 27th \n \u23f0 2:00\u20133:30 PM \n \ud83d\udccd Student Center 419 \n Hosted by First-Generation Initiatives & the Office of Student Belonging \u2764\ufe0f"
   },
   {
     "title": "History Club Final General Body Meeting",
@@ -102,6 +102,14 @@
     "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12409104",
     "description": "Come join DSO in our weekly GBM! Here we discuss various topics while we share our culture and bond over the culture. We have different topics every week and tackle current news, play games, and educate on the culture! This event is open to all MSU/BLOOMFIELD students!"
+  },
+  {
+    "title": "Polish Club Bake Sale",
+    "date": "2026-04-27T16:00:00+00:00",
+    "organization": "Montclair State Polish Club",
+    "location": "Student Center 2C04 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12417169",
+    "description": "The Polish Club Bake Sale is here! \ud83c\uddf5\ud83c\uddf1\ud83c\udf6a \n Stop by to grab some delicious homemade treats and support our club. All proceeds will help fund future events, cultural programs, and activities for our members. \n Bring a friend, satisfy your sweet tooth, and support the Polish Club! We hope to see you there!"
   },
   {
     "title": "End of the Semester Party",
@@ -144,14 +152,6 @@
     "description": "Join SJP for Reading Falasteen, a book club for literature on Palestine! Come be a part of thought provoking conversations and insightful discussions reflecting on different aspects of Palestine that you will be reading about. Materials will be provided on a first come first serve basis!"
   },
   {
-    "title": "BA Visual Arts Thesis Exhibition",
-    "date": "2026-04-27T15:00:00+00:00",
-    "organization": "Art and Design",
-    "location": "Finley Gallery, Finley Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12433035",
-    "description": "Celebrate the end of the semester with this brilliant showcase from our rising Visual Arts graduates! This exhibition marks the culmination of their degree, launching their creative journeys. Each student presents a cohesive body of artwork in the Finley Galleries, our final exhibition of the Spring 2026 semester. \n Made to be Seen  features an impressive range of interdisciplinary approaches: mixed-media sculpture, large-scale painting, hand-sewn textiles, ceramics, video projection, photography, and installations. Over 30 Visual Arts graduates invite you to explore their creative research and current perspectives, on view through these vibrant capstone projects!\u00a0\u00a0 \n \u00a0 \n Exhibiting Artists: Section 1: Veronica Avignone, Christian Campoverde, Mae Elkovich, Lisette Flor, Emily Garces, Aj Malabunga, Jenna Mcdonough, Melanie Medina, Angeline Ortiz, Tasir Plant \n Section 2: Mari Ahmed, Chez Amos, Kaila Craig, Amanda Lerner, Jeremiah Molin, Kevin Pena, Rose Perez Cruz, Emmanuella Ponzio, Daniel Portillo, Liliana Salce, Giacomo Valerin, Beyza Yildiz \n Section 3: Duy-Minh Do, Catalina Ferraro, Keaoh Gonzalez, Alexa Grasso, Katelin Guaman, Paulina Guerra, Keita Mcfarlane, Teiona Mcnair, Luz Plata, Diana Valdes, Lloyd Zheng \n \u00a0 \n Made to be Seen BA Visual Arts Thesis Exhibition Finley Gallery, Finley Hall Exhibition dates: April 23-29, 2026 Closing Reception: Wednesday April 29, 6-8pm"
-  },
-  {
     "title": "Move Out Market",
     "date": "2026-04-27T20:30:00+00:00",
     "organization": "Residence Life",
@@ -160,12 +160,12 @@
     "description": "Don't want your fan anymore? Grew out of your old coat? Look no further! Join the Community Programmers in the Blanton Atrium for the 2nd Annual Move Out Market!  Here, you can drop off housing items (like decorations, fans, microwaves, etc.), school items (backpacks, textbooks, supplies), clothing, and non perishable food. Then, you can shop for pre-loved free items you might need for next semester!  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Dynasty Dance Collective Rehearsal",
-    "date": "2026-04-27T22:00:00+00:00",
-    "organization": "Dynasty Dance Collective",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12417187",
-    "description": "DDC Rehearsal"
+    "title": "BA Visual Arts Thesis Exhibition",
+    "date": "2026-04-27T15:00:00+00:00",
+    "organization": "Art and Design",
+    "location": "Finley Gallery, Finley Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12433035",
+    "description": "Celebrate the end of the semester with this brilliant showcase from our rising Visual Arts graduates! This exhibition marks the culmination of their degree, launching their creative journeys. Each student presents a cohesive body of artwork in the Finley Galleries, our final exhibition of the Spring 2026 semester. \n Made to be Seen  features an impressive range of interdisciplinary approaches: mixed-media sculpture, large-scale painting, hand-sewn textiles, ceramics, video projection, photography, and installations. Over 30 Visual Arts graduates invite you to explore their creative research and current perspectives, on view through these vibrant capstone projects!\u00a0\u00a0 \n \u00a0 \n Exhibiting Artists: Section 1: Veronica Avignone, Christian Campoverde, Mae Elkovich, Lisette Flor, Emily Garces, Aj Malabunga, Jenna Mcdonough, Melanie Medina, Angeline Ortiz, Tasir Plant \n Section 2: Mari Ahmed, Chez Amos, Kaila Craig, Amanda Lerner, Jeremiah Molin, Kevin Pena, Rose Perez Cruz, Emmanuella Ponzio, Daniel Portillo, Liliana Salce, Giacomo Valerin, Beyza Yildiz \n Section 3: Duy-Minh Do, Catalina Ferraro, Keaoh Gonzalez, Alexa Grasso, Katelin Guaman, Paulina Guerra, Keita Mcfarlane, Teiona Mcnair, Luz Plata, Diana Valdes, Lloyd Zheng \n \u00a0 \n Made to be Seen BA Visual Arts Thesis Exhibition Finley Gallery, Finley Hall Exhibition dates: April 23-29, 2026 Closing Reception: Wednesday April 29, 6-8pm"
   },
   {
     "title": "Films That Matter to Me: The Matrix with Leslie Wilson ",
