@@ -1,21 +1,5 @@
 [
   {
-    "title": "Fireside Chats",
-    "date": "2026-04-30T19:15:00+00:00",
-    "organization": "Office of Health Promotion",
-    "location": "Drop-In Center ",
-    "link": "https://montclair.campuslabs.com/engage/event/12074663",
-    "description": "Hang out and have casual conversations with other students while enjoying refreshments! Join us on Thursdays from 3:15-4:15pm.\u00a0 \n What are Fireside Chats: \n \n A space for students to meet, connect, and have a casual conversation about a given topic, or anything else that feels comfortable for everyone else. It can be about the school climate, student life in general, or your favorite show. All students are welcome!"
-  },
-  {
-    "title": "Campus Earth Month",
-    "date": "2026-04-01T12:00:00+00:00",
-    "organization": "Office of Sustainability",
-    "location": "Montclair + Bloomfield Campuses",
-    "link": "https://montclair.campuslabs.com/engage/event/12390150",
-    "description": "Participate in Campus Earth Month throughout April by collecting code words and earning entries to win prizes. Each code word you collect or action you complete will earn an entry into the Campus Earth Month Raffle. The more entries you earn, the better your odds. \n Each decision you make has the potential to be good for the planet and people. No one can do it all, but we can all do something. This April, make sure your ledger is balanced so you are always\u2026+1 for the Planet, People, Yourself, & Montclair! \n Your goal is to collect as many code words as you can throughout April. At every in-person Earth Month event, a code word will be available. It will either be displayed at the event or communicated to you during the event verbally. When the event concludes, you can also ask the organizer for the code word. \n Sustainability Student Interns will be out on campus with opportunities to earn additional code words and code words will also be available virtually. \n You are responsible for keeping track of your code words while participating and\u00a0 submitting them all in one email to \u202f sustainability@montclair.edu \u00a0by April, 30 2026. \n Each decision you make has the potential to be good for the planet. No one can do it all, but we can all do something. This April, make sure your ledger is balanced so you are always\u2026+1 for the Planet, People, Yourself, & Montclair! \u2764\ufe0f\ud83c\udf0e\ud83d\ude0a\ud83e\udd85\ud83d\udc3b Full details, including additional Raffle entry options, a complete prize list, & rules are available at: https://www.montclair.edu/sustainability/earth-month/ For a full-list of events visit here: https://www.montclair.edu/sustainability/earth-month-events/"
-  },
-  {
     "title": "NJAC Semifinal Baseball vs. William Paterson",
     "date": "2026-04-30T19:00:00+00:00",
     "organization": "Athletics",
@@ -24,20 +8,20 @@
     "description": "NJAC Tickets \n Parking Info \n School Spirit Survey"
   },
   {
-    "title": "Walk Into Your Finals With Tacos",
-    "date": "2026-04-30T21:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center 11C2A - Lobby Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/11965146",
-    "description": "Fuel up before finals with a tasty boost! Stop by to grab a walking taco\u2014easy to carry, fun to customize, and perfect for powering you through studying. Swing in, snack up, and step into finals week feeling ready to go! \n \u00a0 \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Thursday, April 30 \n 5pm-7pm, must be checked in by 8:30pm to participate \n Student Recreation Center Lounge"
-  },
-  {
     "title": "CALI SCHOOL OF MUSIC | The Soul and Sounds of Gospel Concert",
     "date": "2026-04-30T21:45:00+00:00",
     "organization": "The College of the Arts",
     "location": "Room G55",
     "link": "https://montclair.campuslabs.com/engage/event/12410158",
     "description": "The Soul and Sounds of Gospel:\u00a0 Join us for a night of soulful melodies and joyful noise as we celebrate the uplifting power of gospel music. All are welcome to experience the joy, energy, and sense of community that gospel music brings."
+  },
+  {
+    "title": "Walk Into Your Finals With Tacos",
+    "date": "2026-04-30T21:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center 11C2A - Lobby Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/11965146",
+    "description": "Fuel up before finals with a tasty boost! Stop by to grab a walking taco\u2014easy to carry, fun to customize, and perfect for powering you through studying. Swing in, snack up, and step into finals week feeling ready to go! \n \u00a0 \n How do I sign-up? \n \n No registration required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Thursday, April 30 \n 5pm-7pm, must be checked in by 8:30pm to participate \n Student Recreation Center Lounge"
   },
   {
     "title": "CALI SCHOOL OF MUSIC | Piano Studio Night",
@@ -190,6 +174,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12452340",
     "description": "This workshop is your introduction to all the ways Montclair State University Libraries support your academic success. It covers what resources are available to you (e.g., books, articles, films, databases) and how you can access them, including through interlibrary loan. You'll learn how to navigate the library website, distinguish between popular and scholarly sources, and get help from a librarian when working on a research assignment. \n Register Here:\u00a0 https://montclair.libcal.com/event/16797394"
+  },
+  {
+    "title": "2026 National Leadership Conference (NLC)",
+    "date": "2026-06-05T04:00:00+00:00",
+    "organization": "Future Business Leaders of America",
+    "location": "Westgate Las Vegas",
+    "link": "https://montclair.campuslabs.com/engage/event/12457116",
+    "description": "This event is EXCLUSIVE to National Leadership Conference (NLC) qualifiers. Students with club membership CANNOT attend. Congratulations on qualifying for the NLC! Join us for our first National conference event as students represent Montclair State University on the National stage."
   },
   {
     "title": "Red Hawk Pantry",
