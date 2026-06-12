@@ -421,7 +421,7 @@
     "organization": "Campus Recreation",
     "location": "Rec Center Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12475537",
-    "description": ""
+    "description": "How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Tuesday, July 21st 2026 \n 5:00 pm - 7:00 pm\u00a0 \n Rec Center Lounge"
   },
   {
     "title": "Prestigious Scholarships Info Session",
@@ -885,7 +885,7 @@
     "organization": "Athletics",
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12479436",
-    "description": ""
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "Volleyball vs. Ramapo",
@@ -902,6 +902,30 @@
     "location": "Sprague Field",
     "link": "https://montclair.campuslabs.com/engage/event/12476034",
     "description": "Senior Day! \n Tickets and Parking Info"
+  },
+  {
+    "title": "Women's Basketball vs. Lehman",
+    "date": "2026-11-11T22:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12487561",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Women's Basketball vs. Widener",
+    "date": "2026-11-14T18:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12487562",
+    "description": "Alumni Event! \n Tickets and Parking Info"
+  },
+  {
+    "title": "Women's vs. William Paterson",
+    "date": "2026-12-02T22:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12487563",
+    "description": "Tickets and Parking Info"
   },
   {
     "title": "CSAM Internship (Co-op) Workshop!",
