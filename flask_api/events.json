@@ -1,21 +1,5 @@
 [
   {
-    "title": "Group X - Total Body Strength and Conditioning",
-    "date": "2026-06-17T16:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Multipurpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12476745",
-    "description": "Instructor-led strength and conditioning class designed to hit every major muscle group in just 30 minutes. Using a combination of compound lifts, bodyweight movements, and targeted conditioning work, each session is programmed to build real strength and leave you energized for the rest of the day. Instructors scale every movement so you work at the right intensity for your level. \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Wednesdays , June 1st - June 25th \n 12:00 pm - 12:30 pm \n Student Recreation Center - Multipurpose Room 1 \n \n Instructor: Jeffrey"
-  },
-  {
-    "title": "Group X - Total Body Strength and Conditioning",
-    "date": "2026-06-17T16:45:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Multipurpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12477110",
-    "description": "Instructor-led strength and conditioning class designed to hit every major muscle group in just 30 minutes. Using a combination of compound lifts, bodyweight movements, and targeted conditioning work, each session is programmed to build real strength and leave you energized for the rest of the day. Instructors scale every movement so you work at the right intensity for your level. \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Wednesdays, June 1st - June 25th \n 12:45 pm - 1:15 pm \n Student Recreation Center - Multipurpose Room 1 \n \n Instructor: Jeffrey"
-  },
-  {
     "title": "Red Hawk Pantry",
     "date": "2026-06-17T16:00:00+00:00",
     "organization": "Red Hawk Pantry",
@@ -872,11 +856,27 @@
     "description": "Alumni Event! \n Tickets and Parking Info"
   },
   {
-    "title": "Women's vs. William Paterson",
+    "title": "Women's Basketball vs. William Paterson",
     "date": "2026-12-02T22:30:00+00:00",
     "organization": "Athletics",
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12487563",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Women's Basketball vs. Rutgers - Newark",
+    "date": "2026-12-09T22:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12489381",
+    "description": "Tickets & Parking Info"
+  },
+  {
+    "title": "Women's Basketball vs. SUNY New Paltz",
+    "date": "2026-12-16T22:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12489384",
     "description": "Tickets and Parking Info"
   },
   {
@@ -886,5 +886,221 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12234251",
     "description": "Workshop \n \u00a0 \n \u2728 Need to get into the internship course?\u00a0 \n This self-paced session gives you step-by-step guidance about what you need to know and hwta the requirements are.\u00a0 \n \ud83d\udd27 What You\u2019ll Learn: \n What are the requirements\u00a0 \n What documents you will need \n How to find an internship/job \n Register on Handshake: \n https://montclair.joinhandshake.com/events/1859416/share_preview"
+  },
+  {
+    "title": "Women's Basketball vs. Ramapo",
+    "date": "2027-01-06T22:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12489387",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Women's Basketball vs. Rowan",
+    "date": "2027-01-16T17:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12489389",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Women's Basketball vs. Kean",
+    "date": "2027-01-22T23:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12489393",
+    "description": "SupportHER Game! \n Tickets and Parking Info"
+  },
+  {
+    "title": "Women's Basketball vs. TCNJ",
+    "date": "2027-01-30T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12489398",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Women's Basketball vs. Stockton",
+    "date": "2027-02-06T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12489399",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Women's Basketball vs. Rutgers Camden",
+    "date": "2027-02-17T22:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12489400",
+    "description": "Senior Night!! \n Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. Maritime",
+    "date": "2027-02-23T19:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489403",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. Mount St. Vincent",
+    "date": "2027-03-02T20:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489462",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. Alfred State",
+    "date": "2027-03-05T20:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489471",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. Alfred State",
+    "date": "2027-03-06T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489472",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. Alfred State",
+    "date": "2027-03-07T17:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489475",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. John Jay",
+    "date": "2027-03-16T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489484",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. Wilkes",
+    "date": "2027-03-17T20:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489490",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. RIT",
+    "date": "2027-03-19T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489499",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. RIT",
+    "date": "2027-03-20T17:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489504",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. RIT",
+    "date": "2027-03-21T16:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489508",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. St Joe's LI",
+    "date": "2027-03-24T19:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489514",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. MIT",
+    "date": "2027-03-26T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489520",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. Haverford (DH)",
+    "date": "2027-03-27T16:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489523",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. Centenary",
+    "date": "2027-03-30T19:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489526",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. SUNY New Paltz",
+    "date": "2027-04-08T19:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489527",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. Rutgers Newark (DH)",
+    "date": "2027-04-10T15:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489531",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. Ramapo",
+    "date": "2027-04-15T19:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489532",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. Camden (DH)",
+    "date": "2027-04-17T15:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489533",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. Kean",
+    "date": "2027-04-23T19:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489534",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. Stockton (DH)",
+    "date": "2027-04-24T15:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489535",
+    "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Baseball vs. WPU",
+    "date": "2027-04-30T19:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Yogi Berra Stadium",
+    "link": "https://montclair.campuslabs.com/engage/event/12489536",
+    "description": "Tickets and Parking Info"
   }
 ]
