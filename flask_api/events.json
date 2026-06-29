@@ -389,7 +389,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center",
     "link": "https://montclair.campuslabs.com/engage/event/12494997",
-    "description": "Come check out our July events at the Student Recreation Center.\u00a0 Open to  EVERYONE  with a valid Montclair State ID. \n LIST OF EVENTS: \n July Fitness Classes: \n \n Yoga \n \n Mondays, 5-7pm:\u00a0  Open Volleyball \n \n June 29 \n July 6 \n July 13 \n July 20 \n July 27 \n \n \u00a0 \n Tuesdays, 5-7pm:\u00a0  Rec Nights \u00a0 \n \n Design Your Own Coaster: June 30 \n Birdhouse Making Arts And Crafts: July 7 \n Design A Cup, Keep A Cup: July 14 \n DIY Slime Night: July 21 \n Design A Picture Frame: July 28 \n \n Wednesdays, 6 PM - 6:45 PM:\u00a0  Group X - Yoga \n \n July 1 \n July 8 \n July 15 \n July 22 \n July 29"
+    "description": "Come check out our July events at the Student Recreation Center.\u00a0 Open to  EVERYONE  with a valid Montclair State ID.\u00a0 All programs listed below are free and drop-in with no need to pre-register. \n \u00a0 \n LIST OF EVENTS: \n \u00a0 \n Mondays, 5-7pm:\u00a0  Open Volleyball \n \n June 29 \n July 6 \n July 13 \n July 20 \n July 27 \n \n \u00a0 \n Tuesdays, 5-7pm:\u00a0  Rec Nights \u00a0 \n \n Design Your Own Coaster: June 30 \n Birdhouse Making Arts And Crafts: July 7 \n Design A Cup, Keep A Cup: July 14 \n DIY Slime Night: July 21 \n Design A Picture Frame: July 28 \n \n Wednesdays, 6 PM - 6:45 PM:\u00a0  Group X - Yoga \n \n July 1 \n July 8 \n July 15 \n July 22 \n July 29 \n \n ALL JULY FITNESS CLASSES"
   },
   {
     "title": "Group X - Total Body Strength and Conditioning",
@@ -446,6 +446,38 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12469456",
     "description": "Join our weekly Prestigious Scholarships Info Sessions to learn about nationally competitive scholarships and fellowships that support graduate study, research, internships, public service, and international opportunities. Learn more about awards such as Marshall Rhodes, Truman, and more, while exploring eligibility, application timelines, and program support at  Montclair State University . Open to students from all majors. Sessions are held Wednesdays at 1:00 PM on Zoom. RSVP on Engage to receive the Zoom link. A google calendar invite will be sent once RSVP."
+  },
+  {
+    "title": "Tropical Bash",
+    "date": "2026-08-26T21:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Dioguardi Field",
+    "link": "https://montclair.campuslabs.com/engage/event/12496156",
+    "description": "Get ready to kick off the school year with our annual Tropical Bash! Join us for an unforgettable outdoor event, where the warm vibes of the tropics meet the excitement of a new academic year. This event is the perfect way to reconnect and relax before starting the new semester. You won\u2019t want to miss it! Free smoothies, DJ, 360 photobooth, and more!"
+  },
+  {
+    "title": "Welcome Back Bingo",
+    "date": "2026-08-28T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "The Amphitheater",
+    "link": "https://montclair.campuslabs.com/engage/event/12496195",
+    "description": "Join Campus Activities for Bingo at the Amphitheater. Grab a seat, grab a card, and get ready to shout\u00a0 BINGO! to\u00a0 win a prize basket! There will be over $500 in prizes!!"
+  },
+  {
+    "title": "Late Night Cereal Bar",
+    "date": "2026-08-29T01:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Cafeteria",
+    "link": "https://montclair.campuslabs.com/engage/event/12496213",
+    "description": "Who says cereal is just for breakfast? Join Campus Activities for a\u00a0 Late-Night Cereal Bar \u00a0in the Student Center Cafeteria! Build your dream bowl with a wide variety of cereals, milks, and sweet toppings \u2014 the perfect study break or late-night snack."
+  },
+  {
+    "title": "Deck Out Your Dorm Day",
+    "date": "2026-08-29T17:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12496249",
+    "description": "Ready to make your dorm feel like\u00a0 you ? Come hang out and personalize your space at\u00a0 Deck Out Your Dorm Day ! We\u2019ve got everything you need \u2014 design your own pennant, tie-dye a pillowcase, create custom coasters or picture frames, and make some fun name art for your door."
   },
   {
     "title": "Grubhub Info Tabling",
