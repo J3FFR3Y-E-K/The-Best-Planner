@@ -493,7 +493,7 @@
     "organization": "Athletics",
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12479428",
-    "description": ""
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "Grubhub Info Tabling",
@@ -520,6 +520,22 @@
     "description": "Tickets and Parking Info"
   },
   {
+    "title": "Disney Trivia",
+    "date": "2026-09-04T21:45:00+00:00",
+    "organization": "Campus Activities",
+    "location": "1908 Pub, Student Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12497701",
+    "description": "Think you know Disney? Win fun prizes, test your knowledge, and feel the magic at Disney Trivia in the 1908 Pub in The Student Center!"
+  },
+  {
+    "title": "LaserTag",
+    "date": "2026-09-04T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12497710",
+    "description": "Lights off, game on. Whether you\u2019re dodging, tagging, or just there for the chaos, get ready for a high-energy night! (Rain Location: Student Center Ballrooms)"
+  },
+  {
     "title": "Men's Soccer vs. Brooklyn",
     "date": "2026-09-07T23:00:00+00:00",
     "organization": "Athletics",
@@ -544,6 +560,14 @@
     "description": "Tickets and Parking Info"
   },
   {
+    "title": "Pop Music Trivia",
+    "date": "2026-09-11T21:45:00+00:00",
+    "organization": "Campus Activities",
+    "location": "1908 Pub, Student Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12497718",
+    "description": "Think you know pop music? Win fun prizes, test your knowledge, and sing along at Pop Music Trivia in the 1908 Pub in The Student Center."
+  },
+  {
     "title": "Women's Soccer vs. Manhattanville",
     "date": "2026-09-12T16:00:00+00:00",
     "organization": "Athletics",
@@ -558,6 +582,14 @@
     "location": "Student Center Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/12442818",
     "description": "The Fall Part-time Job Fair offers students the opportunity to meet with both on-campus and off-campus employers interested in hiring various positions. The Fair will be held in the Student Center Ballrooms from 1-3 p.m., on Wednesday, September 16.\u00a0 \n \n More Information : \n \n Bring plenty of copies of your resume \n Students must bring their Montclair State University Student IDs \n Registration is required through\u00a0Handshake \n The location is the Student Center Ballrooms September 16, 2016 1:00 PM - 3:00 PM"
+  },
+  {
+    "title": "DC Trivia ",
+    "date": "2026-09-18T21:45:00+00:00",
+    "organization": "Campus Activities",
+    "location": "1908 Pub, Student Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12497726",
+    "description": "Think you know DC? Win fun prizes, test your knowledge, and prove you're a true superhero fan at DC Trivia in the 1908 Pub in The Student Center."
   },
   {
     "title": "Men's Soccer vs. Centenary",
@@ -584,20 +616,20 @@
     "description": "Tickets and Parking Info"
   },
   {
-    "title": "AEW: MAJOR KICKOFF 2026",
+    "title": "AEW: FIND YOUR CENTER 2026",
     "date": "2026-09-21T17:00:00+00:00",
     "organization": "The Discovery Program",
-    "location": "The Student Center Quad & Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/12486150",
-    "description": "Major Kickoff a high-energy, campus-wide event that transforms a traditional majors fair into an interactive and dynamic experience that sets the tone for major exploration.\u00a0 Major Kickoff  serves as a central hub where exploratory (\"undeclared\") students can dive into the wide array of majors offered at Montclair in a fun and engaging way. Students will engage with peers, faculty, and staff; discover pathways to get involved in various programs; and gain the guidance they need to make confident, informed decisions about their major. With the opportunity to declare a major on the spot,  Major Kickoff \u00a0empowers students to take charge of their academic journey. \n With over 50 departments, programs, clubs, and more on site, you never know what you might discover or who you might meet.\u00a0 Enjoy free food, games, music, and giveaways, win prizes and T-shirts , and maybe even discover your major. \n Major Kickoff is part of Academic Exploration Week, a longstanding immersive experience presented by The Discovery Program. To contact the Discovery Program, email us at  discoveryprogram@montclair.edu , or visit us at  montclair.edu/discovery-program ."
-  },
-  {
-    "title": "AEW: FIND YOUR CENTER 2026",
-    "date": "2026-09-22T17:00:00+00:00",
-    "organization": "The Discovery Program",
-    "location": "Student Center Ballrooms ABC / The Quad",
+    "location": "Student Center Ballroom A / The Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12486204",
     "description": "The Discovery Program is just one of the many different departments on campus committed to your success at Montclair State University. \n Join us and our campus partners for an engaging and centering experience to help you explore all that Montclair has to offer. Use the clues at check-in to help you figure out what each center has to offer you.\u00a0  Come have fun, make connections, enjoy some refreshments and snacks, and learn about the various centers on campus! \n Find Your Center is part of  Academic Exploration Week , a longstanding immersive experience presented by  The Discovery Program . To contact the Discovery Program, email us at  discoveryprogram@montclair.edu , or visit us at\u00a0 montclair.edu/discovery-program ."
+  },
+  {
+    "title": "AEW: MAJOR KICKOFF 2026",
+    "date": "2026-09-22T17:00:00+00:00",
+    "organization": "The Discovery Program",
+    "location": "The Student Center Ballrooms ABC + Patio / The Quad + Flagpoles",
+    "link": "https://montclair.campuslabs.com/engage/event/12486150",
+    "description": "Major Kickoff a high-energy, campus-wide event that transforms a traditional majors fair into an interactive and dynamic experience that sets the tone for major exploration.\u00a0 Major Kickoff  serves as a central hub where exploratory (\"undeclared\") students can dive into the wide array of majors offered at Montclair in a fun and engaging way. Students will engage with peers, faculty, and staff; discover pathways to get involved in various programs; and gain the guidance they need to make confident, informed decisions about their major. With the opportunity to declare a major on the spot,  Major Kickoff \u00a0empowers students to take charge of their academic journey. \n With over 50 departments, programs, clubs, and more on site, you never know what you might discover or who you might meet.\u00a0 Enjoy free food, games, music, and giveaways, win prizes and T-shirts , and maybe even discover your major. \n Major Kickoff is part of Academic Exploration Week, a longstanding immersive experience presented by The Discovery Program. To contact the Discovery Program, email us at  discoveryprogram@montclair.edu , or visit us at  montclair.edu/discovery-program ."
   },
   {
     "title": "Patriotic Lego Trivia (Montclair Campus)",
@@ -608,12 +640,28 @@
     "description": "Think you know your U.S. history, government, and pop culture?\u00a0Put your knowledge to the test in our high-energy game of\u00a0 Patriotic Trivia !\ud83d\udca5 Join us for a fun and fast-paced showdown where teams will compete in classic Jeopardy style, answering trivia questions that celebrate all things America\u2014from the Constitution and civic milestones to iconic moments and figures that shaped our nation.\u00a0 Bring your A-game and your appetite\u2014yes, there\u2019s free food, because life, liberty, and the pursuit of happiness tastes better on a full stomach. \n Open to all students \u2014bring your love for democracy, and maybe even a little friendly competition. Prizes, bragging rights, and patriotic pride are on the line. Let\u2019s see who really knows their stars and stripes!"
   },
   {
+    "title": "AEW: SKILLS IN ACTION 2026",
+    "date": "2026-09-24T16:00:00+00:00",
+    "organization": "The Discovery Program",
+    "location": "Cole Hall 340 (Third Floor)",
+    "link": "https://montclair.campuslabs.com/engage/event/12497626",
+    "description": "Wondering how your strengths can shape your future? This interactive workshop will help you discover and build on the skills that matter most to\u00a0 you .  In this session, you\u2019ll: \n Identify your skills and strengths through self-assessment. \n Determine how those skills connect to possible majors and career paths. \n Create an action plan to grow your skills using the Discovery Program's AI-powered\u00a0 Major Mentor . Additionally,\u00a0Major Mentor\u00a0will help you map majors that align with your strengths and provide  real next steps . \n Skills in Action: Mapping Your Strengths to Majors  is part of\u00a0 Academic Exploration Week , a longstanding immersive experience presented by\u00a0 The Discovery Program . To contact the Discovery Program, email us at\u00a0 discoveryprogram@montclair.edu , or visit us at\u00a0 montclair.edu/discovery-program ."
+  },
+  {
     "title": "AEW: MAJOR MYSTERY 2026",
     "date": "2026-09-25T16:00:00+00:00",
     "organization": "The Discovery Program",
     "location": "Student Center Underground (Rm 160)",
     "link": "https://montclair.campuslabs.com/engage/event/12492628",
     "description": "Major Mystery : Can You Crack the Case? Strange clues\u2026 puzzling paths\u2026 and majors shrouded in mystery. Gather your team, study the evidence, and connect the right majors to the right careers before time runs out! Solve career \u201ccases\u201d by piecing together path cards filled with cryptic clues. The more connections you crack, the more points you earn. Will your group uncover the truth\u2026 or will the mystery remain unsolved? \n Major Mystery is part of\u00a0 Academic Exploration Week , a longstanding immersive experience presented by\u00a0 The Discovery Program . To contact the Discovery Program, email us at\u00a0 discoveryprogram@montclair.edu , or visit us at\u00a0 montclair.edu/discovery-program ."
+  },
+  {
+    "title": "The Simpsons Trivia",
+    "date": "2026-09-25T21:45:00+00:00",
+    "organization": "Campus Activities",
+    "location": "1908 Pub, Student Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12497732",
+    "description": "Think you know The Simpsons? Win fun prizes, test your knowledge, and celebrate Springfield at The Simpsons Trivia in the 1908 Pub in The Student Center."
   },
   {
     "title": "Volleyball vs. Nazareth/Misericordia (Tri-Match)",
@@ -664,6 +712,14 @@
     "description": "Tickets & Parking Info"
   },
   {
+    "title": "Video Game Trivia",
+    "date": "2026-10-02T21:45:00+00:00",
+    "organization": "Campus Activities",
+    "location": "1908 Pub, Student Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12497733",
+    "description": "Think you know video games? Win fun prizes, test your knowledge, and level up at Video Game Trivia in the 1908 Pub in The Student Center."
+  },
+  {
     "title": "Women's Soccer vs. Rutgers Newark",
     "date": "2026-10-03T17:00:00+00:00",
     "organization": "Athletics",
@@ -694,6 +750,14 @@
     "location": "Soccer Park",
     "link": "https://montclair.campuslabs.com/engage/event/12476140",
     "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Broadway Trivia",
+    "date": "2026-10-09T21:45:00+00:00",
+    "organization": "Campus Activities",
+    "location": "1908 Pub, Student Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12497734",
+    "description": "Think you know Broadway? Win fun prizes, test your knowledge, and take center stage at Broadway Trivia in the 1908 Pub in The Student Center."
   },
   {
     "title": "Volleyball vs. Brandeis",
@@ -792,6 +856,14 @@
     "description": "Tickets and Parking Info"
   },
   {
+    "title": "Horror Movie Trivia",
+    "date": "2026-10-30T21:45:00+00:00",
+    "organization": "Campus Activities",
+    "location": "1908 Pub, Student Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12497735",
+    "description": "Think you know horror movies? Win fun prizes, test your knowledge, and face the fright at Horror Movie Trivia in the 1908 Pub in The Student Center."
+  },
+  {
     "title": "Volleyball vs. USMMA",
     "date": "2026-10-30T23:00:00+00:00",
     "organization": "Athletics",
@@ -806,6 +878,14 @@
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12479437",
     "description": "Tickets & Parking Info"
+  },
+  {
+    "title": "Pop Culture Trivia",
+    "date": "2026-11-06T22:45:00+00:00",
+    "organization": "Campus Activities",
+    "location": "1908 Pub, Student Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12497736",
+    "description": "Think you know pop culture? Win fun prizes, test your knowledge, and stay on trend at Pop Culture Trivia in the 1908 Pub in The Student Center."
   },
   {
     "title": "Football vs. Castleton",
@@ -827,9 +907,17 @@
     "title": "Design Your Day: Discover Your Direction",
     "date": "2026-11-12T17:00:00+00:00",
     "organization": "The Discovery Program",
-    "location": "University Hall 1070",
+    "location": "Cole Hall 340 (Third Floor)",
     "link": "https://montclair.campuslabs.com/engage/event/12494814",
     "description": "Not sure what to major in or where you're headed after college? Let\u2019s change that\u2014starting with the kind of\u00a0 day \u00a0you want to have. In this hands-on, creative workshop, you\u2019ll: \n 1) Visualize your ideal workday\u2014where you are, who you\u2019re with, and what you\u2019re doing. \n 2) Identify your key work-life preferences, like flexibility, collaboration, or creativity. \n 3) Explore majors and careers that align with your vision through DP\u2019s AI-powered  Major Mentor , a tool that matches your preferences to Montclair majors and career paths. \n This workshop is\u00a0presented by\u00a0 The Discovery Program . To contact the Discovery Program, email us at\u00a0 discoveryprogram@montclair.edu , or visit us at\u00a0 montclair.edu/discovery-program ."
+  },
+  {
+    "title": "Reality TV Trivia",
+    "date": "2026-11-13T22:45:00+00:00",
+    "organization": "Campus Activities",
+    "location": "1908 Pub, Student Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12497737",
+    "description": "Think you know Reality TV? Win fun prizes, test your knowledge, and bring the drama to Reality TV Trivia in the 1908 Pub in The Student Center."
   },
   {
     "title": "Women's Basketball vs. Widener",
@@ -840,12 +928,36 @@
     "description": "Alumni Event! \n Tickets and Parking Info"
   },
   {
+    "title": "Major & Career Exploration Talks: What We Wish We Knew Before Declaring!",
+    "date": "2026-11-16T18:00:00+00:00",
+    "organization": "The Discovery Program",
+    "location": "Student Center Underground (Rm 160)",
+    "link": "https://montclair.campuslabs.com/engage/event/12497728",
+    "description": "Not sure what major to choose or where your career path is headed? You\u2019re not alone! Join us for  Major & Career Exploration Talks: What We Wish We Knew Before Declaring! , a dynamic panel event where upperclassmen students share their real, unfiltered experiences about choosing their majors and navigating their career journeys. Hear firsthand what they wish they knew before declaring, the challenges they faced, and how they found their passions. Whether you're feeling undecided, overwhelmed, or just curious about different paths, this event will give you insights, inspiration, and practical advice to help you make informed decisions. Don\u2019t miss this opportunity to gain valuable perspectives and take the next step in your academic and career journey! * Food and refreshments will be served! \n This workshop is\u00a0presented by\u00a0 The Discovery Program . To contact the Discovery Program, email us at\u00a0 discoveryprogram@montclair.edu , or visit us at\u00a0 montclair.edu/discovery-program ."
+  },
+  {
+    "title": "Harry Potter Trivia",
+    "date": "2026-11-20T22:45:00+00:00",
+    "organization": "Campus Activities",
+    "location": "1908 Pub, Student Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12497738",
+    "description": "Think you know Harry Potter? Win fun prizes, test your knowledge, and show your Hogwarts pride at Harry Potter Trivia in the 1908 Pub in The Student Center."
+  },
+  {
     "title": "Women's Basketball vs. William Paterson",
     "date": "2026-12-02T22:30:00+00:00",
     "organization": "Athletics",
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12487563",
     "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Marvel Trivia",
+    "date": "2026-12-04T22:45:00+00:00",
+    "organization": "Campus Activities",
+    "location": "1908 Pub, Student Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12497739",
+    "description": "Think you know Marvel? Win fun prizes, test your knowledge, and assemble for Marvel Trivia in the 1908 Pub in The Student Center."
   },
   {
     "title": "Women's Basketball vs. Rutgers - Newark",
@@ -885,7 +997,7 @@
     "organization": "Athletics",
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12489389",
-    "description": ""
+    "description": "Tickets and Parking Info"
   },
   {
     "title": "Women's Basketball vs. Kean",
