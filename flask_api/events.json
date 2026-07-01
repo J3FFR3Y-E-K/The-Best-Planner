@@ -245,7 +245,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Multipurpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12479041",
-    "description": ""
+    "description": "Instructor-led strength and conditioning class designed to hit every major muscle group in just 30 minutes. Using a combination of compound lifts, bodyweight movements, and targeted conditioning work, each session is programmed to build real strength and leave you energized for the rest of the day. Instructors scale every movement so you work at the right intensity for your level. \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Tuesdays , July 6 - July 30 \n 12:45 pm - 1:15 pm \n Student Recreation Center - Multipurpose Room 1 \n \n Instructor: Jeffrey"
   },
   {
     "title": "DIY Slime Night",
@@ -269,7 +269,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Multipurpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12479090",
-    "description": ""
+    "description": "Yoga is a practice for the mind, body, and spirit. In this class, participants will move through a variety of seated and standing poses, connecting with their breath and engaging in strengthening, flexibility, and mindfulness\u2013with options for all levels of experience. \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Wednesdays, July 6 - July 30 \n 6:00pm - 6:45pm \n Student Recreation Center - Multipurpose Room 1 \n \n Instructor: Kendall"
   },
   {
     "title": "Group X - Total Body Strength and Conditioning",
@@ -285,7 +285,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Multipurpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12479056",
-    "description": ""
+    "description": "Instructor-led strength and conditioning class designed to hit every major muscle group in just 30 minutes. Using a combination of compound lifts, bodyweight movements, and targeted conditioning work, each session is programmed to build real strength and leave you energized for the rest of the day. Instructors scale every movement so you work at the right intensity for your level. \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Thursdays , July 6 - July 30 \n 12:45 pm - 1:15 pm \n Student Recreation Center - Multipurpose Room 1 \n \n Instructor: Alexander"
   },
   {
     "title": "Whitewater Rafting Trip",
@@ -536,6 +536,14 @@
     "description": "Lights off, game on. Whether you\u2019re dodging, tagging, or just there for the chaos, get ready for a high-energy night! (Rain Location: Student Center Ballrooms)"
   },
   {
+    "title": "Book Swap & Book Charm Making",
+    "date": "2026-09-06T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12498870",
+    "description": "Join Campus Activities for Craft Night! Make a new book charm, decorate your journal, or swap books with someone to start your own book club!"
+  },
+  {
     "title": "Men's Soccer vs. Brooklyn",
     "date": "2026-09-07T23:00:00+00:00",
     "organization": "Athletics",
@@ -560,6 +568,14 @@
     "description": "Tickets and Parking Info"
   },
   {
+    "title": "Vision Boards & Board Games",
+    "date": "2026-09-10T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12498871",
+    "description": "See the future and play some games! Come manifest a good semester and kick back with some board games. Bring your friends and creativity!"
+  },
+  {
     "title": "Pop Music Trivia",
     "date": "2026-09-11T21:45:00+00:00",
     "organization": "Campus Activities",
@@ -574,6 +590,14 @@
     "location": "Soccer Park",
     "link": "https://montclair.campuslabs.com/engage/event/12476157",
     "description": "Charity Game! \n Tickets and Parking Info"
+  },
+  {
+    "title": "Picture Frame Decorating",
+    "date": "2026-09-12T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/12498872",
+    "description": "Join Campus Activities for Craft Night! Design and decorate your own picture frame to showcase your favorite memories."
   },
   {
     "title": "Back to School Bingo in the Pool",
@@ -592,6 +616,14 @@
     "description": "The Fall Part-time Job Fair offers students the opportunity to meet with both on-campus and off-campus employers interested in hiring various positions. The Fair will be held in the Student Center Ballrooms from 1-3 p.m., on Wednesday, September 16.\u00a0 \n \n More Information : \n \n Bring plenty of copies of your resume \n Students must bring their Montclair State University Student IDs \n Registration is required through\u00a0Handshake \n The location is the Student Center Ballrooms September 16, 2016 1:00 PM - 3:00 PM"
   },
   {
+    "title": "Flower Pot Decorating & Flower Making",
+    "date": "2026-09-17T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12498873",
+    "description": "Join Campus Activities for Craft Night! Paint a flower pot, create colorful flowers, and bring home a handmade masterpiece"
+  },
+  {
     "title": "DC Trivia ",
     "date": "2026-09-18T21:45:00+00:00",
     "organization": "Campus Activities",
@@ -608,12 +640,28 @@
     "description": "Tickets and Parking Info"
   },
   {
+    "title": "Kayaking on the Delaware River",
+    "date": "2026-09-19T13:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Meet at Student Recreation Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12498895",
+    "description": "Enjoy a relaxing day paddling down the Delaware River and learn some basic kayaking skills. Leaving from Montclair State University, NJ, this full-day trip will provide you with a chance to enjoy the warm, clear waters of the longest undammed river east of the Mississippi. We provide the boats, life jackets and paddles, but be prepared to get wet. \n \u00a0 How do I Sign-up? \n \n Register online through Fusion, in the Student Rec Center main office, or over the phone (973-655-3340). \n Cost for Students $10;  $20  Faculty/Staff \n \n Where and When? \n \n September 19th, 2026 \n 9:00 am \u2013 6:00 pm\u00a0\u00a0\u00a0 \n Begins at Student Recreation Center \n \n What to bring:  Water, lunch, bathing suit, towel, sunblock and a change of clothes. \n \u00a0 \n Potential Hazards:  under/above water obstructions, rapidly moving water, poisonous plants/allergies, insect bites, unpredictable weather changes, sunburn/heat exhaustion, dehydration"
+  },
+  {
     "title": "Volleyball vs. Whittier/Franklin & Marshall (Tri-Match)",
     "date": "2026-09-19T16:00:00+00:00",
     "organization": "Athletics",
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12479429",
     "description": "Tickets & Parking Info"
+  },
+  {
+    "title": "Friendship Bracelet Making ",
+    "date": "2026-09-19T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12498874",
+    "description": "Join Campus Activities for Craft Night! Create colorful friendship bracelets to wear, share, and celebrate your favorite people."
   },
   {
     "title": "Men's Soccer vs. Western Connecticut",
@@ -654,6 +702,14 @@
     "location": "Cole Hall 340 (Third Floor)",
     "link": "https://montclair.campuslabs.com/engage/event/12497626",
     "description": "Wondering how your strengths can shape your future? This interactive workshop will help you discover and build on the skills that matter most to\u00a0 you .  In this session, you\u2019ll: \n Identify your skills and strengths through self-assessment. \n Determine how those skills connect to possible majors and career paths. \n Create an action plan to grow your skills using the Discovery Program's AI-powered\u00a0 Major Mentor . Additionally,\u00a0Major Mentor\u00a0will help you map majors that align with your strengths and provide  real next steps . \n Skills in Action: Mapping Your Strengths to Majors  is part of\u00a0 Academic Exploration Week , a longstanding immersive experience presented by\u00a0 The Discovery Program . To contact the Discovery Program, email us at\u00a0 discoveryprogram@montclair.edu , or visit us at\u00a0 montclair.edu/discovery-program ."
+  },
+  {
+    "title": "Tote Bag Decorating ",
+    "date": "2026-09-24T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12498875",
+    "description": "Join Campus Activities for Craft Night! Design your own tote bag with fun colors, patterns, and creative flair."
   },
   {
     "title": "AEW: MAJOR MYSTERY 2026",
@@ -720,6 +776,14 @@
     "description": "Tickets & Parking Info"
   },
   {
+    "title": "Pennant Making",
+    "date": "2026-10-01T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center, Room 417",
+    "link": "https://montclair.campuslabs.com/engage/event/12498876",
+    "description": "Join Campus Activities for Craft Night! Personalize a pennant to show off your style, interests, or school spirit."
+  },
+  {
     "title": "Video Game Trivia",
     "date": "2026-10-02T21:45:00+00:00",
     "organization": "Campus Activities",
@@ -758,6 +822,14 @@
     "location": "Soccer Park",
     "link": "https://montclair.campuslabs.com/engage/event/12476140",
     "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Halloween Craft Night",
+    "date": "2026-10-08T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12498877",
+    "description": "Join Campus Activities for Craft Night! Get spooky with festive Halloween crafts perfect for decorating your space."
   },
   {
     "title": "Broadway Trivia",
@@ -872,6 +944,14 @@
     "description": "Tickets and Parking Info"
   },
   {
+    "title": "Halloween Craft Night",
+    "date": "2026-10-29T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12498878",
+    "description": "Join Campus Activities for Craft Night! Get spooky with festive Halloween crafts perfect for decorating your space."
+  },
+  {
     "title": "Horror Movie Trivia",
     "date": "2026-10-30T21:45:00+00:00",
     "organization": "Campus Activities",
@@ -894,6 +974,14 @@
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12479437",
     "description": "Tickets & Parking Info"
+  },
+  {
+    "title": "Fall Ceramic Decorating",
+    "date": "2026-11-06T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12498879",
+    "description": "Join Campus Activities for Craft Night! Paint a fall-themed ceramic piece and bring home a cozy seasonal decoration."
   },
   {
     "title": "Pop Culture Trivia",
@@ -928,6 +1016,14 @@
     "description": "Not sure what to major in or where you're headed after college? Let\u2019s change that\u2014starting with the kind of\u00a0 day \u00a0you want to have. In this hands-on, creative workshop, you\u2019ll: \n 1) Visualize your ideal workday\u2014where you are, who you\u2019re with, and what you\u2019re doing. \n 2) Identify your key work-life preferences, like flexibility, collaboration, or creativity. \n 3) Explore majors and careers that align with your vision through DP\u2019s AI-powered  Major Mentor , a tool that matches your preferences to Montclair majors and career paths. \n This workshop is\u00a0presented by\u00a0 The Discovery Program . To contact the Discovery Program, email us at\u00a0 discoveryprogram@montclair.edu , or visit us at\u00a0 montclair.edu/discovery-program ."
   },
   {
+    "title": "Wooden Sign Decorating",
+    "date": "2026-11-13T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12498880",
+    "description": "Join Campus Activities for Craft Night! Customize a wooden sign with your favorite design, quote, or seasonal theme."
+  },
+  {
     "title": "Reality TV Trivia",
     "date": "2026-11-13T22:45:00+00:00",
     "organization": "Campus Activities",
@@ -952,6 +1048,14 @@
     "description": "Not sure what major to choose or where your career path is headed? You\u2019re not alone! Join us for  Major & Career Exploration Talks: What We Wish We Knew Before Declaring! , a dynamic panel event where upperclassmen students share their real, unfiltered experiences about choosing their majors and navigating their career journeys. Hear firsthand what they wish they knew before declaring, the challenges they faced, and how they found their passions. Whether you're feeling undecided, overwhelmed, or just curious about different paths, this event will give you insights, inspiration, and practical advice to help you make informed decisions. Don\u2019t miss this opportunity to gain valuable perspectives and take the next step in your academic and career journey! * Food and refreshments will be served! \n This workshop is\u00a0presented by\u00a0 The Discovery Program . To contact the Discovery Program, email us at\u00a0 discoveryprogram@montclair.edu , or visit us at\u00a0 montclair.edu/discovery-program ."
   },
   {
+    "title": "Ceramic Pumpkin Painting",
+    "date": "2026-11-20T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12498881",
+    "description": "Join Campus Activities for Craft Night! Paint your own ceramic pumpkin and create a festive fall keepsake."
+  },
+  {
     "title": "Harry Potter Trivia",
     "date": "2026-11-20T22:45:00+00:00",
     "organization": "Campus Activities",
@@ -960,12 +1064,36 @@
     "description": "Think you know Harry Potter? Win fun prizes, test your knowledge, and show your Hogwarts pride at Harry Potter Trivia in the 1908 Pub in The Student Center."
   },
   {
+    "title": "Turtle Back Zoo",
+    "date": "2026-11-21T15:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Meet at Student Recreation Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12498900",
+    "description": "Join your friends for a day at the Zoo! See animals from all over the world as you enjoy lunch at your choice of cafes around the park. Bring cash for lunch, a water bottle to stay hydrated, and comfortable walking shoes. \n \u00a0 \n How do I sign-up? \n \n Register online through Fusion, in the Student Recreation Center's main office, or over the phone (973-655-3340) . \n Cost for Students\u00a0 $20 \n \n \u00a0 \n Where and when? \n \n November 21 2026\u00a0 \n 10am-4pm \n Begins at Student Recreation Center \n \n \u00a0 \n What to bring:  Water, lunch, long pants, sneakers, and sunscreen.   Participants MUST wear sneakers in order to go on the zipline and obstacle course. \n \u00a0 \n Note:  Tree Top Adventures restricts obstacle course and zipline participants to a strict weight limit of 250 lbs. Students may opt to participate in only the Zoo portion of the trip should they like. \n \u00a0 \n Potential Hazards:  Unpredictable weather changes, sunburn/heat exhaustion, dehydration, allergic reactions/poisonous plants, insect bites and injury by running, including sprains, lacerations, abrasions and fractures."
+  },
+  {
+    "title": "Snow Globe Making",
+    "date": "2026-11-22T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12498882",
+    "description": "Join Campus Activities for Craft Night! Create your own festive snow globe and bring home a magical winter keepsake."
+  },
+  {
     "title": "Women's Basketball vs. William Paterson",
     "date": "2026-12-02T22:30:00+00:00",
     "organization": "Athletics",
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12487563",
     "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Gingerbread House Making",
+    "date": "2026-12-04T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12498883",
+    "description": "Join Campus Activities for Craft Night! Build and decorate a delicious gingerbread house just in time for the holidays."
   },
   {
     "title": "Marvel Trivia",
