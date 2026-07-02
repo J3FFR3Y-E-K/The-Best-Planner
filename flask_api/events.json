@@ -560,6 +560,14 @@
     "description": "Think you know pop music? Win fun prizes, test your knowledge, and sing along at Pop Music Trivia in the 1908 Pub in The Student Center."
   },
   {
+    "title": "Karaoke Night",
+    "date": "2026-09-11T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/12499474",
+    "description": "Love to sing? Grab the mic, perform your favorite songs, cheer on your friends, and enjoy a fun-filled Karaoke Night"
+  },
+  {
     "title": "Women's Soccer vs. Manhattanville",
     "date": "2026-09-12T16:00:00+00:00",
     "organization": "Athletics",
@@ -704,6 +712,14 @@
     "description": "Think you know The Simpsons? Win fun prizes, test your knowledge, and celebrate Springfield at The Simpsons Trivia in the 1908 Pub in The Student Center."
   },
   {
+    "title": "Open Mic Night ",
+    "date": "2026-09-25T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12499475",
+    "description": "Whether you\u2019ve got a hidden talent or just want a fun night out, Open Mic Night is the place to be. Music, poetry, comedy, and good vibes all around\u2014come perform, cheer on your friends, or just hang out and enjoy the energy. \ud83c\udfa4"
+  },
+  {
     "title": "Volleyball vs. Nazareth/Misericordia (Tri-Match)",
     "date": "2026-09-26T14:00:00+00:00",
     "organization": "Athletics",
@@ -718,6 +734,14 @@
     "location": "Soccer Park",
     "link": "https://montclair.campuslabs.com/engage/event/12476136",
     "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Cupcake Decorating",
+    "date": "2026-09-26T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12499490",
+    "description": "Join us for a sweet and creative break at our Cupcake Decorating event! We\u2019ll have a variety of cupcakes, frostings, and toppings for you to mix, match, and design your perfect treat. Whether you're going for cute, colorful, or completely over-the-top, it's all up to you!"
   },
   {
     "title": "Women's Soccer vs. Berry",
@@ -976,6 +1000,14 @@
     "description": "Senior Day! \n Tickets and Parking Info"
   },
   {
+    "title": "Plush & Pudding",
+    "date": "2026-11-08T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12499493",
+    "description": "Stuff a plush and free pudding? Say less. Make your own plush and enjoy a stress-free night with dessert and good company."
+  },
+  {
     "title": "Women's Basketball vs. Lehman",
     "date": "2026-11-11T22:30:00+00:00",
     "organization": "Athletics",
@@ -1008,6 +1040,14 @@
     "description": "Think you know Reality TV? Win fun prizes, test your knowledge, and bring the drama to Reality TV Trivia in the 1908 Pub in The Student Center."
   },
   {
+    "title": "Stuff & Screen: Friday the 13th",
+    "date": "2026-11-14T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "University Hall, Room 1010",
+    "link": "https://montclair.campuslabs.com/engage/event/12499494",
+    "description": "Take a break and join us for a spooky evening of creativity and scares. First, you'll get to stuff and customize your own horror-themed plush\u2014materials provided. Afterward, stick around for a screening of Friday the 13th and enjoy a night of classic horror with friends."
+  },
+  {
     "title": "Women's Basketball vs. Widener",
     "date": "2026-11-14T18:00:00+00:00",
     "organization": "Athletics",
@@ -1038,6 +1078,14 @@
     "location": "1908 Pub, Student Center",
     "link": "https://montclair.campuslabs.com/engage/event/12497738",
     "description": "Think you know Harry Potter? Win fun prizes, test your knowledge, and show your Hogwarts pride at Harry Potter Trivia in the 1908 Pub in The Student Center."
+  },
+  {
+    "title": "Open Mic Night ",
+    "date": "2026-11-21T00:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Room 160, The Underground",
+    "link": "https://montclair.campuslabs.com/engage/event/12499476",
+    "description": "Whether you\u2019ve got a hidden talent or just want a fun night out, Open Mic Night is the place to be. Music, poetry, comedy, and good vibes all around\u2014come perform, cheer on your friends, or just hang out and enjoy the energy. \ud83c\udfa4"
   },
   {
     "title": "Turtle Back Zoo",
