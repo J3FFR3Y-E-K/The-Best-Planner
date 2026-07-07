@@ -1,14 +1,6 @@
 [
   {
     "title": "Group X - Total Body Strength and Conditioning",
-    "date": "2026-07-07T16:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Multipurpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12478833",
-    "description": "Instructor-led strength and conditioning class designed to hit every major muscle group in just 30 minutes. Using a combination of compound lifts, bodyweight movements, and targeted conditioning work, each session is programmed to build real strength and leave you energized for the rest of the day. Instructors scale every movement so you work at the right intensity for your level. \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Tuesdays , July 6 - July 30 \n 12:00 pm - 12:30 pm \n Student Recreation Center - Multipurpose Room 1 \n \n Instructor: Jeffrey"
-  },
-  {
-    "title": "Group X - Total Body Strength and Conditioning",
     "date": "2026-07-07T16:45:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Multipurpose Room 1",
@@ -616,6 +608,14 @@
     "description": "Tickets and Parking Info"
   },
   {
+    "title": "S.T.A.R.T: Beat the Clock: Time Hacks for Busy Students",
+    "date": "2026-09-09T14:00:00+00:00",
+    "organization": "Disability Resource Center",
+    "location": "Cole 141",
+    "link": "https://montclair.campuslabs.com/engage/event/12502392",
+    "description": "Feeling overwhelmed by everything on your plate? Join workshop to learn smart, practical time management strategies designed for busy college students. You'll discover how to fight distractions and make the most of your time. Attend and receive a raffle ticket for a chance to win a prize!"
+  },
+  {
     "title": "Study Abroad Fair Fall 2026",
     "date": "2026-09-09T17:30:00+00:00",
     "organization": "Office of International Academic Initiatives",
@@ -670,6 +670,14 @@
     "location": "Student Center Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/12498872",
     "description": "Join Campus Activities for Craft Night! Design and decorate your own picture frame to showcase your favorite memories."
+  },
+  {
+    "title": "S.T.A.R.T: Calendar Magic: Making Time Work for You",
+    "date": "2026-09-14T15:00:00+00:00",
+    "organization": "Disability Resource Center",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12502441",
+    "description": "Ready to take control of your schedule instead of letting it control you? In this workshop, you\u2019ll learn how to use a calendar to plan, prioritize, and stay on top of your responsibilities.\u00a0Attend and receive a raffle ticket for a chance to win a prize!"
   },
   {
     "title": "Back to School Bingo in the Pool",
@@ -776,6 +784,14 @@
     "description": "Calling all Red Hawks! \n Join Advocacy & Outreach on Wednesday, September 23, 2026 from 2-4:00 PM in our office suite (Student Center Suite 113) for our annual Open House! \n Bring your friends and learn all about our community-based programs, our 2 resource centers, what we offer via workshops, training, discussion groups, events, and soooo much more! \n You'll be able to meet the professional, graduate, and student staff of A&O, have fun by participating in arts activities, photobooths, socialize with new folk, eat free food, and win prizes! \n You heard right ... we have games, free food, AND prizes! You do not want to miss this!"
   },
   {
+    "title": "S.T.A.R.T: Campus Essentials: Unlocking the Help Around You",
+    "date": "2026-09-23T19:00:00+00:00",
+    "organization": "Disability Resource Center",
+    "location": "Cole Hall 213",
+    "link": "https://montclair.campuslabs.com/engage/event/12502449",
+    "description": "You don\u2019t have to do college alone! This workshop will introduce you to key campus resources that can support your academic success, personal well-being, and everything in between. Learn who to turn to, what services are available, and how to make the most of the help that\u2019s already around you. We\u2019ll also play some fun, interactive games to help you remember what\u2019s what! Attend and receive a raffle ticket for a chance to win a prize!"
+  },
+  {
     "title": "AEW: SKILLS IN ACTION 2026",
     "date": "2026-09-24T16:00:00+00:00",
     "organization": "The Discovery Program",
@@ -864,6 +880,14 @@
     "description": "Tickets and Parking Info"
   },
   {
+    "title": "S.T.A.R.T: Utilizing Accommodations: Successfully Navigating the Transition to College",
+    "date": "2026-10-01T14:00:00+00:00",
+    "organization": "Disability Resource Center",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12502466",
+    "description": "Come learn about the Disability Resource Center's (DRC) services in this fun interactive event. We will review how to register with us and use accommodations!"
+  },
+  {
     "title": "Pride and Progress: Celebrating LGBTQ+ and Disability Journeys",
     "date": "2026-10-01T16:00:00+00:00",
     "organization": "Advocacy and Outreach",
@@ -910,6 +934,14 @@
     "location": "Sprague Field",
     "link": "https://montclair.campuslabs.com/engage/event/12476005",
     "description": "Homecoming! \n TIckets and Parking Info"
+  },
+  {
+    "title": "S.T.A.R.T: Talk the Talk: Navigating Faculty Conversations",
+    "date": "2026-10-05T19:00:00+00:00",
+    "organization": "Disability Resource Center",
+    "location": "Cole Hall 213",
+    "link": "https://montclair.campuslabs.com/engage/event/12502509",
+    "description": "Not sure what to say in that email to your professor? Nervous about asking for help? This workshop will teach you how to communicate confidently and effectively with faculty. We\u2019ll cover how to ask questions, advocate for yourself, and build positive relationships with your instructors. Plus, we\u2019ll play games to practice real-life scenarios in a fun, low-pressure way!\u00a0Attend and receive a raffle ticket for a chance to win a prize!"
   },
   {
     "title": "Fall 2026 Career And Internship Fair",
@@ -1469,7 +1501,7 @@
     "organization": "Athletics",
     "location": "Yogi Berra Stadium",
     "link": "https://montclair.campuslabs.com/engage/event/12489527",
-    "description": ""
+    "description": "Tickets and Parking Info"
   },
   {
     "title": "Baseball vs. Rutgers Newark (DH)",
@@ -1501,7 +1533,7 @@
     "organization": "Athletics",
     "location": "Yogi Berra Stadium",
     "link": "https://montclair.campuslabs.com/engage/event/12489534",
-    "description": ""
+    "description": "Tickets and Parking Info"
   },
   {
     "title": "Baseball vs. Stockton (DH)",
