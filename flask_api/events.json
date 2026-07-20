@@ -1,21 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2026-07-20T16:15:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Multipurpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12478696",
-    "description": "Yoga is a practice for the mind, body, and spirit. In this class, participants will move through a variety of seated and standing poses, connecting with their breath and engaging in strengthening, flexibility, and mindfulness\u2013with options for all levels of experience. \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Mondays, July 6 - July 30 \n 12:15 - 1:00pm \n Student Recreation Center - Multipurpose Room 1 \n \n Instructor: Annabelle"
-  },
-  {
-    "title": "Group X - Yoga",
-    "date": "2026-07-20T17:15:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Multipurpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12478783",
-    "description": "Yoga is a practice for the mind, body, and spirit. In this class, participants will move through a variety of seated and standing poses, connecting with their breath and engaging in strengthening, flexibility, and mindfulness\u2013with options for all levels of experience. \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Mondays, July 6 - July 30 \n 1:15pm - 2:00pm \n Student Recreation Center - Multipurpose Room 1 \n \n Instructor: Annabelle"
-  },
-  {
     "title": "Round Valley Reservoir Stand Up Paddle Boarding",
     "date": "2026-07-20T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -30,6 +14,14 @@
     "location": "Student Recreation Center - Gymnasium",
     "link": "https://montclair.campuslabs.com/engage/event/12494885",
     "description": "As part of the Summer Bridge Program, Intramural Sports is excited to offer Open Play Volleyball This program provides prospective college students with an opportunity to stay active, build connections with their peers, and experience campus recreation in a fun and welcoming environment. Open Play Volleyball will be held every Monday from 5:00 PM to 7:00 PM. All skill levels are welcome, and participants can join in for casual games and friendly competition.\u00a0 \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a Valid Montclair State ID \n \n Where and When? \n \n Monday, July 20 \n 5 - 7 p.m. \n Student Recreation Center - Gym"
+  },
+  {
+    "title": "Color Me Calm",
+    "date": "2026-07-21T00:00:00+00:00",
+    "organization": "The Village",
+    "location": "Alice Paul First Floor Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12516642",
+    "description": "Feeling overwhelmed or simply need a moment to recharge? Join  Color Me Calm , a relaxing and creative wellness program that combines coloring, mindfulness, and simple stress-reduction techniques to help you unwind and improve your emotional well-being. \n What to Expect \n \n \ud83c\udfa8 Guided coloring activities \n \ud83c\udf3f Mindfulness and breathing exercises \n \ud83d\udc9b Positive affirmations and self-care strategies \n \ud83e\udd1d A welcoming, supportive environment \n \ud83d\ude0a An opportunity to relax, connect, and recharge \n \n No artistic experience is needed\u2014just come as you are! \n Perfect for:  Adults seeking a fun, creative way to reduce"
   },
   {
     "title": "Group X - Total Body Strength and Conditioning",
@@ -611,7 +603,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-09-14T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513507",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -619,7 +611,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-09-14T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513613",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -643,7 +635,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-09-15T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513614",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -651,7 +643,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-09-15T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513508",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -675,7 +667,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-09-16T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513615",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -683,7 +675,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-09-16T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513509",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -691,7 +683,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-09-17T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513616",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -699,7 +691,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-09-17T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513510",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -771,7 +763,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-09-21T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513511",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -779,7 +771,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-09-21T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513617",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -811,7 +803,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-09-22T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513512",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -819,7 +811,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-09-22T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513618",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -843,7 +835,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-09-23T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513513",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -851,7 +843,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-09-23T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513619",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -867,7 +859,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-09-24T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513620",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -875,7 +867,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-09-24T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513514",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -963,7 +955,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-09-28T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513515",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -971,7 +963,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-09-28T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513621",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -987,7 +979,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-09-29T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513516",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -995,7 +987,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-09-29T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513622",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1003,7 +995,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-09-30T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513517",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1011,7 +1003,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-09-30T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513623",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1043,7 +1035,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-01T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513624",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1051,7 +1043,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-01T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513518",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1107,7 +1099,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-05T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513519",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1115,7 +1107,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-05T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513625",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1123,7 +1115,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-06T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513520",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1131,7 +1123,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-06T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513626",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1147,7 +1139,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-07T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513627",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1155,7 +1147,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-07T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513521",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1171,7 +1163,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-08T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513628",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1179,7 +1171,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-08T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513522",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1235,7 +1227,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-12T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513629",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1243,7 +1235,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-12T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513523",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1267,7 +1259,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-13T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513524",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1275,7 +1267,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-13T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513630",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1299,7 +1291,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-14T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513537",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1307,7 +1299,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-14T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513638",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1315,7 +1307,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-15T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513639",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1323,7 +1315,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-15T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513538",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1355,7 +1347,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-19T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513539",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1363,7 +1355,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-19T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513640",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1371,7 +1363,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-20T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513641",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1379,7 +1371,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-20T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513540",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1387,7 +1379,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-21T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513642",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1395,7 +1387,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-21T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513541",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1411,7 +1403,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-22T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513643",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1419,7 +1411,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-22T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513542",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1443,7 +1435,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-26T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513644",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1451,7 +1443,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-26T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513543",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1459,7 +1451,7 @@
     "title": "Dive-in Halloween Movie",
     "date": "2026-10-26T23:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513463",
     "description": "Come to the Student Recreation Center for a fun Dive-in movie with popcorn and snacks! Whether you wanna stay dry and watch from the pool deck or float around on a raft, we encourage you to join us for a spooky fun time! This event is\u00a0 free\u00a0 for all students. \n Where and when? \n \n October 26th, 2026 \n 7-9pm"
   },
@@ -1475,7 +1467,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-27T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513645",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1483,7 +1475,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-27T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513544",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1507,7 +1499,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-28T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513646",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1515,7 +1507,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-28T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513545",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1531,7 +1523,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-29T20:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513647",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1539,7 +1531,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-10-29T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513546",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1571,7 +1563,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-11-02T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513648",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1579,7 +1571,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-11-02T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513547",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1587,7 +1579,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-11-03T22:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513649",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1595,7 +1587,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-11-03T22:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513548",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1611,7 +1603,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-11-04T22:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513650",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1619,7 +1611,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-11-04T22:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513549",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1627,7 +1619,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-11-05T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513651",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1635,7 +1627,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-11-05T22:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513550",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1683,7 +1675,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-11-09T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513551",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1691,7 +1683,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-11-09T21:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513652",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1699,7 +1691,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-11-10T22:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513552",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
@@ -1707,7 +1699,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-11-10T22:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513653",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1715,7 +1707,7 @@
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-11-11T22:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513654",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
@@ -1723,7 +1715,7 @@
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-11-11T22:00:00+00:00",
     "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Pool",
+    "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513553",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
