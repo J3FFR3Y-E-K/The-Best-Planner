@@ -1,21 +1,5 @@
 [
   {
-    "title": "Group X - Yoga",
-    "date": "2026-07-22T22:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center - Multipurpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12479090",
-    "description": "Yoga is a practice for the mind, body, and spirit. In this class, participants will move through a variety of seated and standing poses, connecting with their breath and engaging in strengthening, flexibility, and mindfulness\u2013with options for all levels of experience. \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Wednesdays, July 6 - July 30 \n 6:00pm - 6:45pm \n Student Recreation Center - Multipurpose Room 1 \n \n Instructor: Kendall"
-  },
-  {
-    "title": "Karaoke Night",
-    "date": "2026-07-22T22:00:00+00:00",
-    "organization": "The Village",
-    "location": "Alice Paul First Floor Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12521448",
-    "description": "\ud83c\udfa4 Karaoke Night \ud83c\udfb6 \n Grab the mic and sing your favorite songs! \n Join us for a fun-filled evening of music, laughter, and unforgettable performances. Whether you're a seasoned singer or just singing for fun, everyone is welcome!"
-  },
-  {
     "title": "Group X - Total Body Strength and Conditioning",
     "date": "2026-07-23T16:00:00+00:00",
     "organization": "Campus Recreation",
@@ -112,6 +96,14 @@
     "description": "1) Please have your Event Pass, Student ID, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring  your own shopping bag ! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, alumni, staff, and faculty at no cost.  Stay updated by following us on Instagram:  @montclair_redhawkpantry \n \ud83c\udf3b Summer 2026 Hours \n \n Wednesdays: 12-2pm \n \n If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu"
   },
   {
+    "title": "PBI-C CHAMPIONS Time to Think: College Tour",
+    "date": "2026-07-29T14:00:00+00:00",
+    "organization": "Bloomfield PBI-C CHAMPIONS Program",
+    "location": "Talbot Hall Student Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12521579",
+    "description": "This event will be welcoming aspiring students to the Bloomfield Campus for a guided tour experience. This will expose them to college life and will inspire them to pursue higher education. This event will support things like student retention, student interest and engagement, and an introduction to Bloomfield College, and what the CHAMPIONS Program is and why we're here. Alongside the tour of Bloomfield College, food and beverages will be provided as well."
+  },
+  {
     "title": "Prestigious Scholarships Info Session",
     "date": "2026-07-29T17:00:00+00:00",
     "organization": "Prestigious Scholarships ",
@@ -166,6 +158,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12511631",
     "description": "Kick off the semester with an evening of creativity, community, and fun! Join Residence Life to design your own custom tote bag and create personalized bag charms that showcase your unique style. Whether you're an experienced crafter or just looking to try something new, this hands-on workshop is a great opportunity to relax, meet fellow students, and make something you'll actually use. Enjoy free food, raffle prizes, and leave with a one-of-a-kind creation to take home. \n Date:  Sunday, August 30, 2026 Time:  7:00 PM Location:  Franklin Hall \u2013 Fourth Floor Lounge (Room 422)"
+  },
+  {
+    "title": "PBI-C CHAMPIONS Time to Think: College Tour",
+    "date": "2026-08-01T14:00:00+00:00",
+    "organization": "Bloomfield PBI-C CHAMPIONS Program",
+    "location": "Talbot Hall Student Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12521580",
+    "description": "This event will be welcoming aspiring students to the Bloomfield Campus for a guided tour experience. This will expose them to college life and will inspire them to pursue higher education. This event will support things like student retention, student interest and engagement, and an introduction to Bloomfield College, and what the CHAMPIONS Program is and why we're here. Alongside the tour of Bloomfield College, food and beverages will be provided as well."
   },
   {
     "title": "Going Global: A Free Two-Part Workshop Series",
@@ -789,7 +789,7 @@
     "organization": "Office of International Academic Initiatives",
     "location": "Student Center Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/12388181",
-    "description": ""
+    "description": "Ready to take your education global? Join us at the Study Abroad Fair and explore a world of opportunities waiting just beyond your campus. Discover programs around the world, meet representatives from our partners and providers, and hear firsthand stories from students who\u2019ve already taken the leap. \n Whether you're dreaming of practicing your language skills, expanding your horizons in a new corner of the globe, or even seeing a different part of the United States, this is your chance to find the perfect fit. Learn about scholarships, internships, and how to make your journey abroad both affordable and unforgettable. \n \ud83d\udcc5 Date: Wednesday, September 9, 2026 \ud83d\udccd Location: Student Center Ballrooms \u23f0 Time: 1:30-3:30pm"
   },
   {
     "title": "Men's Soccer vs. Hunter",
