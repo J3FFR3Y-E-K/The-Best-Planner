@@ -1,13 +1,5 @@
 [
   {
-    "title": "Going Global: A Free Two-Part Workshop Series",
-    "date": "2026-08-04T16:00:00+00:00",
-    "organization": "Feliciano Center for Entrepreneurship and Innovation",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12500880",
-    "description": "Ready to take your business beyond U.S. borders? Join us for a FREE two-part workshop series designed to transform your growth from local to worldwide. On  August 4 , we'll explore whether exporting is the right move for your business, assess your readiness, and identify which of your products or services have international demand. By  August 18 , you'll be ready for part two, where we'll dive into the real logistics\u2014finding international buyers, navigating permits and paperwork, and mapping out your clear path forward. Expert facilitator Reina Valenzuela will guide you through the opportunities, close your knowledge gaps, and leave you with a concrete action plan. Whether you're curious about global expansion or ready to take the leap, this free series gives you the framework and clarity to do it right."
-  },
-  {
     "title": "Red Hawk Pantry",
     "date": "2026-08-05T16:00:00+00:00",
     "organization": "Red Hawk Pantry",
@@ -360,20 +352,20 @@
     "description": "Join us for a peaceful hike to the mountaintop where we\u2019ll unwind with a relaxing yoga session surrounded by beautiful views and fresh air. After the hike back down, end the night by the fire with s\u2019mores, bingo, and great company. It\u2019s the perfect mix of adventure, relaxation, and fun! \n \u00a0 \n How do I Sign-up? \n \n Please register in the Student Recreation Center main office or over the phone (973-655-3340). \n \n Where and When? \n \n Friday the 28th, 2026 \n 6:30pm-8:30pm \n Start Place is Panzer \n \n \u00a0 \n Potential Hazards: Unpredictable weather changes, sunburn/heat exhaustion, limited vision, dehydration, allergic reactions/poisonous plants, insect bites and injury by running, including sprains, lacerations, abrasions and fractures."
   },
   {
-    "title": "Welcome Back Bingo",
-    "date": "2026-08-28T23:00:00+00:00",
-    "organization": "Campus Activities",
-    "location": "The Amphitheater",
-    "link": "https://montclair.campuslabs.com/engage/event/12496195",
-    "description": "Join Campus Activities for Bingo at the Amphitheater. Grab a seat, grab a card, and get ready to shout\u00a0 BINGO! to\u00a0 win a prize basket! There will be over $500 in prizes!!"
-  },
-  {
     "title": "Friday Night Fire Pits",
     "date": "2026-08-28T23:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Center Patio",
     "link": "https://montclair.campuslabs.com/engage/event/12517472",
     "description": "Hang out with your friends on Friday night around the fire pit! Free snacks, such as s'mores and iced tea, will be provided. Lawn games, hammocks, and other items will also be available FREE via Equipment Checkout.\u00a0\u00a0 \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Every Friday from August 28 to November 13,\u00a0 except on October 2 and October 23. \n 7:00 pm - 9:00 pm\u00a0 \n Rec Center Patio"
+  },
+  {
+    "title": "Welcome Back Bingo",
+    "date": "2026-08-28T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "The Amphitheater",
+    "link": "https://montclair.campuslabs.com/engage/event/12496195",
+    "description": "Join Campus Activities for Bingo at the Amphitheater. Grab a seat, grab a card, and get ready to shout\u00a0 BINGO! to\u00a0 win a prize basket! There will be over $500 in prizes!!"
   },
   {
     "title": "Grab and Go Self Care",
@@ -470,6 +462,22 @@
     "location": "STCT Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12484463",
     "description": "Stop by our table in the Student Center Lobby for Grubhub information, assistance, and answers to any questions you may have!"
+  },
+  {
+    "title": "Kick Off College with Self-Care- Free Spa Kits ",
+    "date": "2026-08-31T16:00:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12544843",
+    "description": "Curious about what the cottage home is on campus? Come and check us out and find out what the Office of Health Promotion is all about! We have various resources available for you such as condoms, stress balls, sleep masks, and more! We will also be giving out free spa kits until supplies last!"
+  },
+  {
+    "title": "Kick Off College with Self-Care- Free Spa Kits ",
+    "date": "2026-08-31T16:00:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12544844",
+    "description": "Curious about what the cottage home is on campus? Come and check us out and find out what the Office of Health Promotion is all about! We have various resources available for you such as condoms, stress balls, sleep masks, and more! We will also be giving out free spa kits until supplies last!"
   },
   {
     "title": "Meet the Greeks",
@@ -654,6 +662,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12534045",
     "description": "Learn more about Curricular Practical Training (CPT) for F-1 students. Any student planning to apply for CPT is REQUIRED to attend a workshop before they can apply. This workshop is for CURRENT students ONLY - any other attendees will be removed."
+  },
+  {
+    "title": "Kick Off College with Self-Care- Free Spa Kits",
+    "date": "2026-09-03T17:00:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12544863",
+    "description": "Curious about what the cottage home is on campus? Come and check us out and find out what the Office of Health Promotion is all about! We have various resources available for you such as condoms, stress balls, sleep masks, and more! We will also be giving out free spa kits until supplies last!"
   },
   {
     "title": "Queer Trivia Night",
