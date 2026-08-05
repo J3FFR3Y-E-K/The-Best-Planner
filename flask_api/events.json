@@ -360,20 +360,20 @@
     "description": "Join us for a peaceful hike to the mountaintop where we\u2019ll unwind with a relaxing yoga session surrounded by beautiful views and fresh air. After the hike back down, end the night by the fire with s\u2019mores, bingo, and great company. It\u2019s the perfect mix of adventure, relaxation, and fun! \n \u00a0 \n How do I Sign-up? \n \n Please register in the Student Recreation Center main office or over the phone (973-655-3340). \n \n Where and When? \n \n Friday the 28th, 2026 \n 6:30pm-8:30pm \n Start Place is Panzer \n \n \u00a0 \n Potential Hazards: Unpredictable weather changes, sunburn/heat exhaustion, limited vision, dehydration, allergic reactions/poisonous plants, insect bites and injury by running, including sprains, lacerations, abrasions and fractures."
   },
   {
-    "title": "Friday Night Fire Pits",
-    "date": "2026-08-28T23:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center Patio",
-    "link": "https://montclair.campuslabs.com/engage/event/12517472",
-    "description": "Hang out with your friends on Friday night around the fire pit! Free snacks, such as s'mores and iced tea, will be provided. Lawn games, hammocks, and other items will also be available FREE via Equipment Checkout.\u00a0\u00a0 \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Every Friday from August 28 to November 13,\u00a0 except on October 2 and October 23. \n 7:00 pm - 9:00 pm\u00a0 \n Rec Center Patio"
-  },
-  {
     "title": "Welcome Back Bingo",
     "date": "2026-08-28T23:00:00+00:00",
     "organization": "Campus Activities",
     "location": "The Amphitheater",
     "link": "https://montclair.campuslabs.com/engage/event/12496195",
     "description": "Join Campus Activities for Bingo at the Amphitheater. Grab a seat, grab a card, and get ready to shout\u00a0 BINGO! to\u00a0 win a prize basket! There will be over $500 in prizes!!"
+  },
+  {
+    "title": "Friday Night Fire Pits",
+    "date": "2026-08-28T23:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center Patio",
+    "link": "https://montclair.campuslabs.com/engage/event/12517472",
+    "description": "Hang out with your friends on Friday night around the fire pit! Free snacks, such as s'mores and iced tea, will be provided. Lawn games, hammocks, and other items will also be available FREE via Equipment Checkout.\u00a0\u00a0 \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Every Friday from August 28 to November 13,\u00a0 except on October 2 and October 23. \n 7:00 pm - 9:00 pm\u00a0 \n Rec Center Patio"
   },
   {
     "title": "Grab and Go Self Care",
@@ -806,6 +806,14 @@
     "location": "Soccer Park",
     "link": "https://montclair.campuslabs.com/engage/event/12476123",
     "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Commuter Brunch",
+    "date": "2026-09-08T15:00:00+00:00",
+    "organization": "Campus Activities at Bloomfield",
+    "location": "Bloomfield - Talbott Hall T001 - Commuter Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12545907",
+    "description": "Start your morning with a delicious brunch made just for our commuter students! Take a break between classes, enjoy free food, and connect with fellow commuters in a relaxed and welcoming atmosphere. Whether you're looking to meet new people, catch up with friends, or simply enjoy a great meal before class, Commuter Brunch is the perfect way to start your day. \n This event is exclusively for currently registered Bloomfield commuter students. \n Check in upon arrival to enjoy your brunch and earn a punch toward your  Commuter VIP Pass ."
   },
   {
     "title": "S.T.A.R.T: Beat the Clock: Time Hacks for Busy Students",
