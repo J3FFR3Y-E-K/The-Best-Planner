@@ -1,13 +1,5 @@
 [
   {
-    "title": "End of Duration of Status (D/S) Q&A Session",
-    "date": "2026-08-06T19:00:00+00:00",
-    "organization": "Office of Global Engagement",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12543041",
-    "description": "Ask OGE staff any questions that you have about the forthcoming duration of status rule change. This session is for F-1 and J-1 visa holders."
-  },
-  {
     "title": "Free Summer Membership for Faculty/Staff",
     "date": "2026-05-07T04:00:00+00:00",
     "organization": "Campus Recreation",
@@ -88,6 +80,14 @@
     "description": "Join our weekly Prestigious Scholarships Info Sessions to learn about nationally competitive scholarships and fellowships that support graduate study, research, internships, public service, and international opportunities. Learn more about awards such as Marshall Rhodes, Truman, and more, while exploring eligibility, application timelines, and program support at  Montclair State University . Open to students from all majors. Sessions are held Wednesdays at 1:00 PM on Zoom. RSVP on Engage to receive the Zoom link. A google calendar invite will be sent once RSVP."
   },
   {
+    "title": "Commuter Games & Meet Up",
+    "date": "2026-08-19T19:00:00+00:00",
+    "organization": "Office of Commuter Life",
+    "location": "TBD",
+    "link": "https://montclair.campuslabs.com/engage/event/12552581",
+    "description": "Join us to meet and chat with other commuter students!"
+  },
+  {
     "title": "DIY Fidget and Charm Keychains",
     "date": "2026-08-20T18:00:00+00:00",
     "organization": "Advocacy and Outreach",
@@ -104,12 +104,28 @@
     "description": "Ask OGE staff any questions that you have about the forthcoming duration of status rule change. This session is for F-1 and J-1 visa holders."
   },
   {
+    "title": "Commuter Games & Meet Up",
+    "date": "2026-08-20T19:00:00+00:00",
+    "organization": "Office of Commuter Life",
+    "location": "TBD",
+    "link": "https://montclair.campuslabs.com/engage/event/12552586",
+    "description": "Join us to meet and chat with other commuter students!"
+  },
+  {
     "title": "DIY Fidget and Charm Keychains",
     "date": "2026-08-21T18:00:00+00:00",
     "organization": "Advocacy and Outreach",
     "location": "STCT 160 (THE UNDERGROUND)",
     "link": "https://montclair.campuslabs.com/engage/event/12502293",
     "description": "Build Your Own Self-Care Kit with Advocacy & Outreach \n \u00a0 \n Take a moment to invest in your well-being! Join Advocacy & Outreach while you build your kit, meet our team, learn about the resources and support available through Advocacy & Outreach, and discover ways to stay connected on campus. Stop by, get creative, and leave with tools to help you thrive all year long!"
+  },
+  {
+    "title": "Commuter Games & Meet Up",
+    "date": "2026-08-21T19:00:00+00:00",
+    "organization": "Office of Commuter Life",
+    "location": "TBD",
+    "link": "https://montclair.campuslabs.com/engage/event/12552591",
+    "description": "Join us to meet and chat with other commuter students!"
   },
   {
     "title": "Ice Cream Social ",
@@ -142,14 +158,6 @@
     "location": "Freeman Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12519900",
     "description": "On August 23rd from 8PM-10PM, come to Freeman Hall for Temporary Tattoos. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "DIY Tote Bags",
-    "date": "2026-08-24T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Russ Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12519901",
-    "description": "On August 23rd from 8PM-10PM, come to Russ Hall to make your own reusable tote bag. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Mocktail Mixer",
@@ -320,6 +328,14 @@
     "description": "Join our weekly Prestigious Scholarships Info Sessions to learn about nationally competitive scholarships and fellowships that support graduate study, research, internships, public service, and international opportunities. Learn more about awards such as Marshall Rhodes, Truman, and more, while exploring eligibility, application timelines, and program support at  Montclair State University . Open to students from all majors. Sessions are held Wednesdays at 1:00 PM on Zoom. RSVP on Engage to receive the Zoom link. A google calendar invite will be sent once RSVP."
   },
   {
+    "title": "Community Garden Mixer!",
+    "date": "2026-08-26T17:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Community Garden, Student Center ",
+    "link": "https://montclair.campuslabs.com/engage/event/12550224",
+    "description": "Join us for a Garden Mixer and Volunteer Day! Spend time getting to know each other while giving back through hands-on work in the garden. Volunteers may help pull weeds, harvest tomatoes and other vegetables, and even plant seedlings that are ready for a new home. \n Whether you're an experienced gardener or trying it for the first time, this is a great opportunity to connect with others, enjoy the outdoors, and get your hands dirty. Come prepared to learn something new, have fun, and help our garden continue to grow!"
+  },
+  {
     "title": "Color Your Calm",
     "date": "2026-08-26T18:00:00+00:00",
     "organization": "CAPS (Counseling and Psychological Services)",
@@ -342,6 +358,14 @@
     "location": "Meet at Student Recreation Center",
     "link": "https://montclair.campuslabs.com/engage/event/12520044",
     "description": "Play hard, and win big! Join us at the Recreation Center Lounge for \u201cMinute to Win It\u201d games - a high-energy event where every second counts. Each challenge you play earns you a chance to spin our big wheel, winning a piece of our Rec Center merch. After each game, players will receive raffle entries for the GRAND PRIZE, which is a brand-new iPad! The grand prize winner will be announced during Rec Fest on 9/3. Come for a chance to win big! \n How do I Sign-up? \n \n Free with valid Montclair State ID \n \n Where and When? \n \n Monday and Wednesday, August 24th and 26th, 2026 \n 2:30pm - 4:30pm \n Student Recreation Center Lobby/Lounge"
+  },
+  {
+    "title": "Commuter Meet Up",
+    "date": "2026-08-26T20:00:00+00:00",
+    "organization": "Office of Commuter Life",
+    "location": "TBD",
+    "link": "https://montclair.campuslabs.com/engage/event/12552563",
+    "description": "Join us to meet and chat with other commuter students. At the end of the event, we will walk over to Tropical Bash!"
   },
   {
     "title": "Fall Back Into Fitness",
@@ -584,20 +608,20 @@
     "description": "Tickets and Parking Info"
   },
   {
-    "title": "Beyond the Vision Board",
-    "date": "2026-09-01T23:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12504128",
-    "description": "Manifest your semester at DIY Vision Board Night. Step into a space filled with magazines, markers, good vibes, and endless possibilities as you design a board that reflects your goals, dreams, and everything you\u2019re ready to claim. Whether you\u2019re mapping out academic wins, personal growth, or just manifesting more joy, this is your moment to create a vision that inspires you every day. \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Tuesday, September 1st 2026 \n 7:00 pm - 9:00 pm (must be checked in by 8:30 pm to participate)\u00a0 \n Rec Center Lounge"
-  },
-  {
     "title": "Academic & Social Organization Fair",
     "date": "2026-09-01T23:00:00+00:00",
     "organization": "Campus Activities",
     "location": "Student Center Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/12513102",
     "description": "Discover all that campus life has to offer at the Organization Fair! Meet student organizations, clubs, and campus departments, explore opportunities to get involved, and find your community. Whether you\u2019re looking to join a club, take on a leadership role, or just learn more about campus resources, this is the perfect place to start.\u00a0 We have over 40 organizations registered! \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n Where and when? \n \n 7 pm - 9 pm \n Student Center Ballrooms"
+  },
+  {
+    "title": "Beyond the Vision Board",
+    "date": "2026-09-01T23:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12504128",
+    "description": "Manifest your semester at DIY Vision Board Night. Step into a space filled with magazines, markers, good vibes, and endless possibilities as you design a board that reflects your goals, dreams, and everything you\u2019re ready to claim. Whether you\u2019re mapping out academic wins, personal growth, or just manifesting more joy, this is your moment to create a vision that inspires you every day. \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Tuesday, September 1st 2026 \n 7:00 pm - 9:00 pm (must be checked in by 8:30 pm to participate)\u00a0 \n Rec Center Lounge"
   },
   {
     "title": "Volleyball vs. Manhattanville",
@@ -888,6 +912,14 @@
     "description": "Get creative and paint your own mini ceramic pumpkin bowl! Whether you use it to hold candy, keys, jewelry, or simply show off your fall vibes, you'll leave with a one-of-a-kind piece that's perfect for adding a little fall coziness to your room.\u00a0 Take-and-Make craft kits are available for pick up at the Drop-In Center during business hours starting  September 2nd 2026 . While supplies last! FREE for students with a valid Montclair or Bloomfield campus ID. Each craft kit includes acrylic paint, a regular paint brush, and thin paint brush."
   },
   {
+    "title": "Saddle Up with NPHC",
+    "date": "2026-09-11T21:00:00+00:00",
+    "organization": "National Pan Hellenic Council",
+    "location": "STCT Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12550690",
+    "description": "NPHC event."
+  },
+  {
     "title": "Pop Music Trivia",
     "date": "2026-09-11T21:45:00+00:00",
     "organization": "Campus Activities",
@@ -910,6 +942,14 @@
     "location": "Student Center Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/12499474",
     "description": "Love to sing? Grab the mic, perform your favorite songs, cheer on your friends, and enjoy a fun-filled Karaoke Night"
+  },
+  {
+    "title": "9/11 National Day of Service and Remembrance 2026 - SIGN UP USING LINK BELOW",
+    "date": "2026-09-12T12:00:00+00:00",
+    "organization": "Office of Community Engagement and Partnerships",
+    "location": "Student Center Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/12552608",
+    "description": "The\u00a09/11 National Day of Service and Remembrance\u00a0is long standing tradition at Montclair State University that honors the lives lost and heroic acts of September 11, 2001. Our volunteers commemorate the day through meaningful service projects that foster unity, civic responsibility, leadership, and often inspire long-term community engagement. \n Come join us for a day of giving back! \n Volunteers will have the opportunity to choose from 20+ service sites, both on and off campus, and engage in community service projects such as: \n \n \ud83c\udf4e Meal distribution and food pantry support \n \ud83c\udf33 Park and neighborhood cleanups \n \ud83c\udfa8 Community revitalization \n \u2728 Activities for youth, seniors, and adults with disabilities \n \ud83e\uddfc Assembling hygiene and snack kits \n \u00a0And much more! \n \n Here\u2019s what you can expect: \n \n \u23f0 Registration\u00a0 at 8:00 - 8:30 AM. Event starts at\u00a0 8:30 AM \n \ud83d\ude8c\u00a0 Transportation provided \u00a0to and from off-campus sites \n \ud83e\udd6f\u00a0 Free breakfast and lunch \u00a0to fuel your day \n \u23f3\u00a0 Service hours \u00a0validation (for students/groups that need it) \n \ud83d\udc55 Exclusive 9/11 Day of Service T-Shirt \n \ud83e\uddd1\u200d\ud83c\udf93 Bloomfield College\u00a0 students will have a shuttle service provided \n \ud83c\udf8a Icebreaker activities and giveaways! \n \n \u00a0 \n IMPORTANT NOTE:\u00a0 You can only sign up for\u00a0 one \u00a0service site due to each project running simultaneously. We will email you after registration if other information is needed for your site. \n Sign up link:\u00a0https://www.eventzilla.net/e/911-national-day-of-service-and-remembrance-2026-2138674558"
   },
   {
     "title": "Women's Soccer vs. Manhattanville",
@@ -1074,7 +1114,7 @@
   {
     "title": "Journey of a Doctoral Candidate",
     "date": "2026-09-16T21:00:00+00:00",
-    "organization": "The Graduate School",
+    "organization": "The Graduate Center",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12518064",
     "description": "This session provides an overview of the doctoral timeline at Montclair State University, from coursework and examinations to proposal development, dissertation research, and graduation. Students will learn about key milestones, required forms, and academic expectations at each stage, as well as how The Graduate School supports doctoral progress throughout the program. Who should attend: \u00a0New and early-stage doctoral students. Please RSVP using this link. Want to see what else is coming up this semester?\u00a0 Explore all events for graduate students."
@@ -1098,7 +1138,7 @@
   {
     "title": "Formatting Your Thesis",
     "date": "2026-09-17T16:00:00+00:00",
-    "organization": "The Graduate School",
+    "organization": "The Graduate Center",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12518168",
     "description": "This session focuses on Graduate School formatting standards, required elements, and common issues that can delay approval. Students will learn how to properly structure and format their thesis in preparation for submission. Who should attend: \u00a0Master\u2019s students who have begun writing their thesis or are preparing a draft for review. Please RSVP using this link. Want to see what else is coming up this semester?\u00a0 Explore all events for graduate students."
@@ -1490,7 +1530,7 @@
   {
     "title": "Formatting Your Thesis",
     "date": "2026-09-30T21:00:00+00:00",
-    "organization": "The Graduate School",
+    "organization": "The Graduate Center",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12518190",
     "description": "This session focuses on Graduate School formatting standards, required elements, and common issues that can delay approval. Students will learn how to properly structure and format their thesis in preparation for submission. Who should attend: \u00a0Master\u2019s students who have begun writing their thesis or are preparing a draft for review. Please RSVP using this link. Want to see what else is coming up this semester?\u00a0 Explore all events for graduate students."
@@ -1530,7 +1570,7 @@
   {
     "title": "Journey of a Doctoral Candidate",
     "date": "2026-10-01T16:00:00+00:00",
-    "organization": "The Graduate School",
+    "organization": "The Graduate Center",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12518301",
     "description": "This session provides an overview of the doctoral timeline at Montclair State University, from coursework and examinations to proposal development, dissertation research, and graduation. Students will learn about key milestones, required forms, and academic expectations at each stage, as well as how The Graduate School supports doctoral progress throughout the program. Who should attend: \u00a0New and early-stage doctoral students. Please RSVP using this link. Want to see what else is coming up this semester?  Explore all events for graduate students."
@@ -1702,6 +1742,14 @@
     "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513627",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
+  },
+  {
+    "title": "Broadway Trip: The Lost Boys",
+    "date": "2026-10-07T21:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Red Hawk Deck/ Palace Theater",
+    "link": "https://montclair.campuslabs.com/engage/event/12550498",
+    "description": "The show is at 7 pm on October 7th, and is about 2 hours and 30 minutes long with one 15-minute intermission. \u00a0Transportation will be provided and the bus will pick up from the Red Hawk Deck at 5 pm. Attendees are encouraged to arrive at the Red Hawk Deck at 4:45 pm. The bus will leave promptly at the conclusion of the show and aims to be back to campus by 10:15 pm depending on traffic. Please direct all questions to activities@montclair.edu \n \u00a0 \n When Michael moves to California with his younger brother Sam and their mother Lucy, he\u2019s desperate to leave his old life behind and start fresh. A wild night out on the boardwalk finds him in the shadows of Santa Carla and brings him face-to-face with David, the magnetic leader of a local rock band. David and his bandmates offer Michael freedom, adventure, and the connection he\u2019s been longing to find. But when the band\u2019s dark secret finally comes out, Michael must decide how far he\u2019s willing to go to belong. \n \u00a0 \n Tickets will be available for purchase\u00a0starting on TBD."
   },
   {
     "title": "Free Swim Lessons *Beginner*",
@@ -1922,7 +1970,7 @@
   {
     "title": "Completing a Master's Thesis",
     "date": "2026-10-14T21:00:00+00:00",
-    "organization": "The Graduate School",
+    "organization": "The Graduate Center",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12518332",
     "description": "This session provides an overview of the master\u2019s thesis process, including research expectations, timelines, and working effectively with your advisor. Students will gain a clear understanding of what is required from proposal through completion. Who should attend: \u00a0Master\u2019s students planning to complete a thesis or in the early stages of thesis development. Please RSVP using this link. Want to see what else is coming up this semester?  Explore all events for graduate students."
@@ -2202,7 +2250,7 @@
   {
     "title": "Journey of a Doctoral Candidate",
     "date": "2026-10-28T21:00:00+00:00",
-    "organization": "The Graduate School",
+    "organization": "The Graduate Center",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12518367",
     "description": "This session provides an overview of the doctoral timeline at Montclair State University, from coursework and examinations to proposal development, dissertation research, and graduation. Students will learn about key milestones, required forms, and academic expectations at each stage, as well as how The Graduate School supports doctoral progress throughout the program. Who should attend: \u00a0New and early-stage doctoral students. Please RSVP using this link. Want to see what else is coming up this semester?  Explore all events for graduate students."
@@ -2234,7 +2282,7 @@
   {
     "title": "Completing a Master's Thesis",
     "date": "2026-10-29T16:00:00+00:00",
-    "organization": "The Graduate School",
+    "organization": "The Graduate Center",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12518524",
     "description": "This session provides an overview of the master\u2019s thesis process, including research expectations, timelines, and working effectively with your advisor. Students will gain a clear understanding of what is required from proposal through completion. Who should attend: \u00a0Master\u2019s students planning to complete a thesis or in the early stages of thesis development. Please RSVP using this link. Want to see what else is coming up this semester?  Explore all events for graduate students."
@@ -2458,7 +2506,7 @@
   {
     "title": "Preparing to Defend Your Dissertation",
     "date": "2026-11-11T22:00:00+00:00",
-    "organization": "The Graduate School",
+    "organization": "The Graduate Center",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12518529",
     "description": "Designed for doctoral candidates approaching the final stages of their program, this session outlines the dissertation defense process from start to finish. Topics include defense eligibility, required approvals and forms, formatting and submission requirements, and final Graduate School deadlines. Students will also learn what to expect before, during, and after the defense. Who should attend: \u00a0Doctoral candidates preparing for their dissertation defense or final submission requirements. Please RSVP using this link. Want to see what else is coming up this semester?\u00a0 Explore all events for graduate students."
@@ -2602,7 +2650,7 @@
   {
     "title": "Submitting a Master's Thesis",
     "date": "2026-11-18T22:00:00+00:00",
-    "organization": "The Graduate School",
+    "organization": "The Graduate Center",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12518550",
     "description": "This session outlines the final steps in the thesis submission process, including required forms, deadlines, and electronic submission procedures. Students will learn what to expect during final review and how to avoid common submission issues. Who should attend: \u00a0Master\u2019s students nearing thesis completion or planning to graduate in an upcoming term. Please RSVP using this link. Want to see what else is coming up this semester?\u00a0 Explore all events for graduate students."
@@ -2626,7 +2674,7 @@
   {
     "title": "Preparing to Defend Your Dissertation",
     "date": "2026-11-19T17:00:00+00:00",
-    "organization": "The Graduate School",
+    "organization": "The Graduate Center",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12518839",
     "description": "Designed for doctoral candidates approaching the final stages of their program, this session outlines the dissertation defense process from start to finish. Topics include defense eligibility, required approvals and forms, formatting and submission requirements, and final Graduate School deadlines. Students will also learn what to expect before, during, and after the defense. Who should attend: \u00a0Doctoral candidates preparing for their dissertation defense or final submission requirements. Please RSVP using this link. Want to see what else is coming up this semester?\u00a0 Explore all events for graduate students."
@@ -2706,7 +2754,7 @@
   {
     "title": "Submitting a Master's Thesis",
     "date": "2026-12-03T17:00:00+00:00",
-    "organization": "The Graduate School",
+    "organization": "The Graduate Center",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12518871",
     "description": "This session outlines the final steps in the thesis submission process, including required forms, deadlines, and electronic submission procedures. Students will learn what to expect during final review and how to avoid common submission issues. Who should attend: \u00a0Master\u2019s students nearing thesis completion or planning to graduate in an upcoming term. Please RSVP using this link. Want to see what else is coming up this semester?\u00a0 Explore all events for graduate students."
