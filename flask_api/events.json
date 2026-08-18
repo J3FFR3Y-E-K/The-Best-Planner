@@ -1,13 +1,5 @@
 [
   {
-    "title": "End of Duration of Status (D/S) and Program Extensions, Transfers, and Change of Education Level",
-    "date": "2026-08-18T18:30:00+00:00",
-    "organization": "Office of Global Engagement",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12543219",
-    "description": "Program Extensions, Transfers, and Change of Education Level Under the new rules, applying to extend your program, transfer to a new school, or start a new program of study at Montclair will involve an additional step. In this session, the OGE staff will explain what you need to know about these processes."
-  },
-  {
     "title": "Red Hawk Pantry",
     "date": "2026-08-19T16:00:00+00:00",
     "organization": "Red Hawk Pantry",
@@ -432,20 +424,20 @@
     "description": "Mystery and Mind games allows students to work through cases, investigations, and puzzles. In the effort to unlock clues students will work together unscrambling anagrams, completing word search puzzles, logic puzzles, and more !"
   },
   {
-    "title": "Make a Friendship Bracelet with DIY Dreamers arts and crafts club",
-    "date": "2026-08-25T19:00:00+00:00",
-    "organization": "MSU DIY Dreamers",
-    "location": "UNIV 2032",
-    "link": "https://montclair.campuslabs.com/engage/event/12559150",
-    "description": "Ready to get crafty, Dreamers? \ud83c\udfa8\ud83e\uddf5 Come hang out with  MSU DIY Dreamers  and make your very own bracelets! \ud83c\udf08\ud83d\udcab \n \ud83c\udf80 Pick your colors \u2728 Add your favorite charms \ud83d\udc96 Make it totally YOU \ud83d\udc6f\u200d\u2640\ufe0f Meet new friends & make memories \n Whether you\u2019re making one for yourself, your bestie, or someone special, come create something you\u2019ll love! \ud83e\udef6\u2728"
-  },
-  {
     "title": "Arabic Calligraphy Bookmark Making",
     "date": "2026-08-25T19:00:00+00:00",
     "organization": "Muslim Student Association",
     "location": "University Hall room 2031",
     "link": "https://montclair.campuslabs.com/engage/event/12575413",
     "description": "This program will offer a welcoming, creative space where students can relax, meet others, and participate on a hands on activity. Participants will be able to use simple craft materials to design and decorate bookmarks."
+  },
+  {
+    "title": "Make a Friendship Bracelet with DIY Dreamers arts and crafts club",
+    "date": "2026-08-25T19:00:00+00:00",
+    "organization": "MSU DIY Dreamers",
+    "location": "UNIV 2032",
+    "link": "https://montclair.campuslabs.com/engage/event/12559150",
+    "description": "Ready to get crafty, Dreamers? \ud83c\udfa8\ud83e\uddf5 Come hang out with  MSU DIY Dreamers  and make your very own bracelets! \ud83c\udf08\ud83d\udcab \n \ud83c\udf80 Pick your colors \u2728 Add your favorite charms \ud83d\udc96 Make it totally YOU \ud83d\udc6f\u200d\u2640\ufe0f Meet new friends & make memories \n Whether you\u2019re making one for yourself, your bestie, or someone special, come create something you\u2019ll love! \ud83e\udef6\u2728"
   },
   {
     "title": "Montclair Mixtape: Build-a-Zine with WMSC",
@@ -464,20 +456,20 @@
     "description": "Students are welcome to try out Red Hawk Reality's amazing challenges, make new friends, and win a variety of prizes! Challenges include a selection of puzzles in the style of the hit Reality TV Show, Survivor, and original challenges created for Red Hawk Reality.\u00a0 \n See if you have what it takes to become the next winner of Montclair State University's Red Hawk Reality!"
   },
   {
-    "title": "Cookie Decorating!",
-    "date": "2026-08-25T19:00:00+00:00",
-    "organization": "Baking Club",
-    "location": "University Hall 2040",
-    "link": "https://montclair.campuslabs.com/engage/event/12580752",
-    "description": "Hello! Join us at University Hall 2040 for cookie decorating! We will have cookies and decorating supplies for you to use, so all you will need to bring is yourself. We will be introducing information about our club as well as making new friends. The cookie is yours to take after the event! We hope to see you and your awesome cookie decorating skills!"
-  },
-  {
     "title": "Kazoo Jam Session",
     "date": "2026-08-25T19:00:00+00:00",
     "organization": "Montclair State Kazoo Club",
     "location": "University Hall, Room 2026",
     "link": "https://montclair.campuslabs.com/engage/event/12559202",
     "description": "Join us for a Kazoo Jam Session! Choose a song together, learn a few simple kazoo techniques, and then get into making music with the whole group. Free kazoos will be provided, and no musical experience is needed!!"
+  },
+  {
+    "title": "Cookie Decorating!",
+    "date": "2026-08-25T19:00:00+00:00",
+    "organization": "Baking Club",
+    "location": "University Hall 2040",
+    "link": "https://montclair.campuslabs.com/engage/event/12580752",
+    "description": "Hello! Join us at University Hall 2040 for cookie decorating! We will have cookies and decorating supplies for you to use, so all you will need to bring is yourself. We will be introducing information about our club as well as making new friends. The cookie is yours to take after the event! We hope to see you and your awesome cookie decorating skills!"
   },
   {
     "title": "Commuter Games & Meet Up",
@@ -693,7 +685,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center Patio",
     "link": "https://montclair.campuslabs.com/engage/event/12517472",
-    "description": "Hang out with your friends on Friday night around the fire pit! Free snacks, such as s'mores and iced tea, will be provided. Lawn games, hammocks, and other items will also be available FREE via Equipment Checkout.\u00a0\u00a0 \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Every Friday from August 28 to November 13,\u00a0 except on October 2 and October 23. \n 7:00 pm - 9:00 pm\u00a0 \n Rec Center Patio"
+    "description": ""
   },
   {
     "title": "Welcome Back Bingo",
@@ -1304,6 +1296,14 @@
     "description": "Join us for a silent disco with loud energy and some good music!"
   },
   {
+    "title": "The Rocky Horror Picture Show Auditions ",
+    "date": "2026-09-08T21:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590720",
+    "description": "Players: The Rocky Horror Picture Show Auditions"
+  },
+  {
     "title": "Group X - Vinyasa Flow Yoga",
     "date": "2026-09-09T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1336,12 +1336,28 @@
     "description": "Ready to take your education global? Join us at the Study Abroad Fair and explore a world of opportunities waiting just beyond your campus. Discover programs around the world, meet representatives from our partners and providers, and hear firsthand stories from students who\u2019ve already taken the leap. \n Whether you're dreaming of practicing your language skills, expanding your horizons in a new corner of the globe, or even seeing a different part of the United States, this is your chance to find the perfect fit. Learn about scholarships, internships, and how to make your journey abroad both affordable and unforgettable. \n \ud83d\udcc5 Date: Wednesday, September 9, 2026 \n \ud83d\udccd Location: Student Center Quad \u00a0 \u00a0 Rain Location: Student Center Ballrooms \u23f0 Time: 1:30-4:00pm"
   },
   {
+    "title": "General Body Meeting",
+    "date": "2026-09-09T20:30:00+00:00",
+    "organization": "LadiesFIRST",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590726",
+    "description": "Join us for weekly discussions, icebreakers, games, networking opportunities, and more! All students are welcome!"
+  },
+  {
     "title": "Men's Soccer vs. Hunter",
     "date": "2026-09-09T21:00:00+00:00",
     "organization": "Athletics",
     "location": "Soccer Park",
     "link": "https://montclair.campuslabs.com/engage/event/12476132",
     "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Welcome Back! VOU Get Together!",
+    "date": "2026-09-09T23:00:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590738",
+    "description": "WELCOME BACK!!! Super excited to see what this semester has in store for us. Come Join us as we kick-start this new school year."
   },
   {
     "title": "NFL Kickoff",
@@ -1382,6 +1398,14 @@
     "location": "University Hall 1C01 - Grand Concourse",
     "link": "https://montclair.campuslabs.com/engage/event/12561711",
     "description": "Come buy a sweet treat from Montclair State Dance Company!!"
+  },
+  {
+    "title": "General Board Meeting",
+    "date": "2026-09-10T21:30:00+00:00",
+    "organization": "New Generation Of Visionary Artists",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590745",
+    "description": "A General Body Meeting (GBM) is where Nova members come together to connect, discuss upcoming events, share creative ideas, and engage in activities that strengthen our artistic community."
   },
   {
     "title": "Vision Boards & Board Games",
@@ -1456,6 +1480,14 @@
     "description": "The\u00a09/11 National Day of Service and Remembrance\u00a0is long standing tradition at Montclair State University that honors the lives lost and heroic acts of September 11, 2001. Our volunteers commemorate the day through meaningful service projects that foster unity, civic responsibility, leadership, and often inspire long-term community engagement. \n Come join us for a day of giving back! \n Volunteers will have the opportunity to choose from 20+ service sites, both on and off campus, and engage in community service projects such as: \n \n \ud83c\udf4e Meal distribution and food pantry support \n \ud83c\udf33 Park and neighborhood cleanups \n \ud83c\udfa8 Community revitalization \n \u2728 Activities for youth, seniors, and adults with disabilities \n \ud83e\uddfc Assembling hygiene and snack kits \n \u00a0And much more! \n \n Here\u2019s what you can expect: \n \n \u23f0 Registration\u00a0 at 8:00 - 8:30 AM. Event starts at\u00a0 8:30 AM \n \ud83d\ude8c\u00a0 Transportation provided \u00a0to and from off-campus sites \n \ud83e\udd6f\u00a0 Free breakfast and lunch \u00a0to fuel your day \n \u23f3\u00a0 Service hours \u00a0validation (for students/groups that need it) \n \ud83d\udc55 Exclusive 9/11 Day of Service T-Shirt \n \ud83e\uddd1\u200d\ud83c\udf93 Bloomfield College\u00a0 students will have a shuttle service provided \n \ud83c\udf8a Icebreaker activities and giveaways! \n \n \u00a0 \n IMPORTANT NOTE:\u00a0 You can only sign up for\u00a0 one \u00a0service site due to each project running simultaneously. We will email you after registration if other information is needed for your site. \n Sign up link:\u00a0https://www.eventzilla.net/e/911-national-day-of-service-and-remembrance-2026-2138674558"
   },
   {
+    "title": "The Rocky Horror Picture Show Rehearsal ",
+    "date": "2026-09-12T14:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590750",
+    "description": "Players: The Rocky Horror Picture Show Rehearsal"
+  },
+  {
     "title": "Women's Soccer vs. Manhattanville",
     "date": "2026-09-12T16:00:00+00:00",
     "organization": "Athletics",
@@ -1486,6 +1518,14 @@
     "location": "Meet at the Student Recreation Center",
     "link": "https://montclair.campuslabs.com/engage/event/12506168",
     "description": "Join us for an unforgettable adventure to the Pennsylvania Renaissance Faire, beginning with an overnight camping experience under the stars. Wake up refreshed and ready to journey into a vibrant village filled with knights, jesters, artisans, live performances, unique shops, and delicious food. Explore the Faire\u2019s extravagant interpretation of the Renaissance era while enjoying exciting entertainment and memorable experiences with fellow adventurers. Space is limited, so be sure to reserve your spot early. \n \u00a0 \n How do I Sign-up? \n \n Register  here  or in the Student Recreation Center main office or over the phone (973-655-3340). \n Cost for Students: $30 | Faculty/Staff/Guest: $75 \n \n Where and When? \n \n September 12th-13th, 2026 \n 9am on the 12th and 3pm on the 13th\u00a0 \n Departs from Student Recreation Center \n \n \u00a0 \n What to Bring:  Overnight tooth brush, pajamas, clothes, sunscreen, money for personal expenses. \n \u00a0 \n Potential Hazards:  Unpredictable weather changes, sunburn/heat exhaustion, limited vision, dehydration, allergic reactions/poisonous plants, insect bites and injury by running, including sprains, lacerations, abrasions and fractures."
+  },
+  {
+    "title": "Players Variety Show Rehearsal ",
+    "date": "2026-09-13T16:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590793",
+    "description": "Players Homecoming Variety Show Rehearsal"
   },
   {
     "title": "Tea Break",
@@ -1616,12 +1656,28 @@
     "description": "PENSA MSU is excited to welcome you to our first General Body Meeting of the semester\u2014a warm space to worship, connect, and grow together in Christ. As we begin, we stand on Matthew 18:20:  \u201cFor where two or three gather in my name, there am I with them.\u201d  Come ready for fellowship, and don\u2019t come alone\u2014invite a friend who needs community this semester."
   },
   {
+    "title": "M.I.L.F. Round One Workshop ",
+    "date": "2026-09-14T21:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590801",
+    "description": "M.I.L.F. Round One Workshop Players"
+  },
+  {
     "title": "Group X - Yin Goodnight Yoga",
     "date": "2026-09-14T23:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12587820",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday (8/31 through 12/6) \n 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Tyrah"
+  },
+  {
+    "title": "Homecoming Cabaret Auditions",
+    "date": "2026-09-15T00:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590817",
+    "description": "Players is holding Cabaret auditions, rehearsal, tech, and show!"
   },
   {
     "title": "Group X - Vinyasa Sunrise Yoga",
@@ -1704,6 +1760,14 @@
     "description": "Cuddle your way into the semester with Stuff & Stitch. Pick your plush, bring it to life, and give it a personality all its own. Whether you need a new study buddy, a dorm d\u00e9cor icon, or just a little comfort creature to get you through the fall, this is your chance to craft something soft, squishy, and totally you. \n \u00a0 \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Tuesday, September 15th 2026 \n 5:00 pm - 7:00 pm\u00a0 \n Rec Center Lounge"
   },
   {
+    "title": "Homecoming Cabaret Auditions",
+    "date": "2026-09-16T00:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590818",
+    "description": "Players is holding Cabaret auditions, rehearsal, tech, and show!"
+  },
+  {
     "title": "Intramural Sports Registration Deadline - (September 16th) ",
     "date": "2026-09-16T04:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1726,6 +1790,14 @@
     "location": "University Hall 1C01 - Grand Concourse",
     "link": "https://montclair.campuslabs.com/engage/event/12561721",
     "description": "Empanada Fundraiser Sale! \ud83c\udf1f Support a great cause and enjoy delicious, homemade empanadas! \n The Hermanos Of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc., are hosting a special empanada and agua fresca sale to raise funds for our Spring 2027 scholarship and The Florence Immigrant & Refugee Rights Project. Every bite helps make a difference! \n \ud83e\udd5f What\u2019s on the menu? \n \n \n Beef Empanadas \n \n \n Chicken Empanadas \n \n \n Cheese Empanadas \n \n \n \u00a0 \n \ud83d\udcb5 Price: $3 each or $5 for 2 \n Come hungry, bring your friends, and help us reach our fundraising goal\u2014one empanada at a time! \n The Hermanos Of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc."
+  },
+  {
+    "title": "Furry Friends ",
+    "date": "2026-09-16T14:30:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Student Recreation Center Gym ",
+    "link": "https://montclair.campuslabs.com/engage/event/12591035",
+    "description": "In celebration of CLAW Week, the Office of Health Promotion and Commuter Life invites you to Furry Friends! \n \n 10:30 a.m. - 12:00 p.m. \n Student Recreation Center (Gym)\u00a0 \n Do not fur-get to stop by Furry Friends September 16th From 10:30 am -10:30 pm in the Student Recreation Center Gym, you can hang out with some adorable animals and de-stress! \n Sponsored by the Office of Health Promotion & Commuter Life \n \n Tips \n Arrive early \n After checking in, you may need to wait for your turn. You will have an opportunity to meet, pet, and take pictures with the dogs (each session is approximately 6-10 minutes depending on line).\u00a0 \n An RSVP on Engage does not guarantee your spot."
   },
   {
     "title": "(Bloomfield Campus) National Voter Registration Day: Race to the Ballot",
@@ -1776,6 +1848,14 @@
     "description": "Check out the student organizations Montclair has to offer! \n \u00a0 \n When: Wednesday, September 16th Time: 1:30 Pm - 3:30 PM Where: Student Center Quad"
   },
   {
+    "title": "General Body Meeting",
+    "date": "2026-09-16T20:30:00+00:00",
+    "organization": "LadiesFIRST",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590727",
+    "description": "Join us for weekly discussions, icebreakers, games, networking opportunities, and more! All students are welcome!"
+  },
+  {
     "title": "Journey of a Doctoral Candidate",
     "date": "2026-09-16T21:00:00+00:00",
     "organization": "The Graduate Center",
@@ -1798,6 +1878,14 @@
     "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513509",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
+  },
+  {
+    "title": "The Importance of Being Earnest Callbacks",
+    "date": "2026-09-16T21:30:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590827",
+    "description": "Players:\u00a0The Importance of Being Earnest Callbacks"
   },
   {
     "title": "CLAW: Drive In Movie - TBD",
@@ -1872,6 +1960,14 @@
     "description": "Join Campus Activities for Craft Night! Paint a flower pot, create colorful flowers, and bring home a handmade masterpiece"
   },
   {
+    "title": "Social event ",
+    "date": "2026-09-17T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590837",
+    "description": "Players Social Event"
+  },
+  {
     "title": "Group X - Vinyasa Good Morning Yoga",
     "date": "2026-09-18T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1904,6 +2000,14 @@
     "description": "Hang out with your friends on Friday night around the fire pit! Free snacks, such as s'mores and iced tea, will be provided. Lawn games, hammocks, and other items will also be available FREE via Equipment Checkout.\u00a0\u00a0 \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Every Friday from August 28 to November 13,  except on October 2 and October 23. \n 7:00 pm - 9:00 pm\u00a0 \n Student Center Quad"
   },
   {
+    "title": "The Importance of Being Earnest Rehearsal ",
+    "date": "2026-09-19T14:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590844",
+    "description": "Players:\u00a0The Importance of Being Earnest Rehearsal"
+  },
+  {
     "title": "Men's Soccer vs. Centenary",
     "date": "2026-09-19T19:00:00+00:00",
     "organization": "Athletics",
@@ -1934,6 +2038,14 @@
     "location": "Student Center Room 160, The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/12498874",
     "description": "Join Campus Activities for Craft Night! Create colorful friendship bracelets to wear, share, and celebrate your favorite people."
+  },
+  {
+    "title": "The Importance of Being Earnest Rehearsal ",
+    "date": "2026-09-20T14:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590850",
+    "description": "Players:\u00a0The Importance of Being Earnest Rehearsal"
   },
   {
     "title": "FIRST HOME GAME!!! (MSU Vs. FU)",
@@ -1982,6 +2094,14 @@
     "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513617",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
+  },
+  {
+    "title": "Players General Body Meetings",
+    "date": "2026-09-21T21:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590857",
+    "description": "Players is holding their GBMs."
   },
   {
     "title": "Group X - Zumba",
@@ -2120,6 +2240,14 @@
     "description": "You don\u2019t have to do college alone! This workshop will introduce you to key campus resources that can support your academic success, personal well-being, and everything in between. Learn who to turn to, what services are available, and how to make the most of the help that\u2019s already around you. We\u2019ll also play some fun, interactive games to help you remember what\u2019s what! Attend and receive a raffle ticket for a chance to win a prize! \n Image Description: Five college students working together with laptops and books."
   },
   {
+    "title": "General Body Meeting",
+    "date": "2026-09-23T20:30:00+00:00",
+    "organization": "LadiesFIRST",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590728",
+    "description": "Join us for weekly discussions, icebreakers, games, networking opportunities, and more! All students are welcome!"
+  },
+  {
     "title": "Free Swim Lessons *Beginner*",
     "date": "2026-09-23T21:00:00+00:00",
     "organization": "Campus Recreation",
@@ -2198,6 +2326,14 @@
     "location": "Student Center Room 160, The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/12498875",
     "description": "Join Campus Activities for Craft Night! Design your own tote bag with fun colors, patterns, and creative flair."
+  },
+  {
+    "title": "Homecoming Cabaret Auditions",
+    "date": "2026-09-24T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590820",
+    "description": "Players is holding Cabaret auditions, rehearsal, tech, and show!"
   },
   {
     "title": "Group X - Vinyasa Good Morning Yoga",
@@ -2352,6 +2488,14 @@
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
   {
+    "title": "Players General Body Meetings",
+    "date": "2026-09-28T21:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590858",
+    "description": "Players is holding their GBMs."
+  },
+  {
     "title": "Group X - Zumba",
     "date": "2026-09-28T22:00:00+00:00",
     "organization": "Campus Recreation",
@@ -2454,6 +2598,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12534100",
     "description": "Learn more about pre-completion and post-completion Optional Practical Training (OPT) for F-1 students. Any student planning to apply for OPT is REQUIRED to attend a workshop before they can apply. This workshop is for CURRENT students ONLY - any other attendees will be removed."
+  },
+  {
+    "title": "General Body Meeting",
+    "date": "2026-09-30T20:30:00+00:00",
+    "organization": "LadiesFIRST",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590729",
+    "description": "Join us for weekly discussions, icebreakers, games, networking opportunities, and more! All students are welcome!"
   },
   {
     "title": "Formatting Your Thesis",
@@ -2576,6 +2728,14 @@
     "description": "Join Campus Activities for Craft Night! Personalize a pennant to show off your style, interests, or school spirit."
   },
   {
+    "title": "Homecoming Cabaret Auditions",
+    "date": "2026-10-01T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590821",
+    "description": "Players is holding Cabaret auditions, rehearsal, tech, and show!"
+  },
+  {
     "title": "Group X - Vinyasa Good Morning Yoga",
     "date": "2026-10-02T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -2590,6 +2750,14 @@
     "location": "1908 Pub, Student Center",
     "link": "https://montclair.campuslabs.com/engage/event/12497733",
     "description": "Think you know video games? Win fun prizes, test your knowledge, and level up at Video Game Trivia in the 1908 Pub in The Student Center."
+  },
+  {
+    "title": "Homecoming Cabaret Auditions",
+    "date": "2026-10-02T23:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590819",
+    "description": "Players is holding Cabaret auditions, rehearsal, tech, and show!"
   },
   {
     "title": "Women's Soccer vs. Rutgers Newark",
@@ -2654,6 +2822,14 @@
     "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513625",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
+  },
+  {
+    "title": "Players General Body Meetings",
+    "date": "2026-10-05T21:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590859",
+    "description": "Players is holding their GBMs."
   },
   {
     "title": "Group X - Zumba",
@@ -2974,6 +3150,14 @@
     "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513523",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
+  },
+  {
+    "title": "Players General Body Meetings",
+    "date": "2026-10-12T21:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590860",
+    "description": "Players is holding their GBMs."
   },
   {
     "title": "Group X - Zumba",
@@ -3496,12 +3680,20 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
+    "title": "Players General Body Meetings",
+    "date": "2026-10-26T21:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590861",
+    "description": "Players is holding their GBMs."
+  },
+  {
     "title": "Group X - Zumba",
     "date": "2026-10-26T22:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12587330",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays and Tuesdays (8/31 through 12/6) \n Monday: 6 PM - 6:45 PM, Tuesday: 3:30 PM - 4:15 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Pamela"
+    "description": ""
   },
   {
     "title": "PENSA General Body Meeting ",
@@ -3784,6 +3976,14 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
+    "title": "Players General Body Meetings",
+    "date": "2026-11-02T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590862",
+    "description": "Players is holding their GBMs."
+  },
+  {
     "title": "Group X - Zumba",
     "date": "2026-11-02T23:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4006,6 +4206,14 @@
     "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513652",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
+  },
+  {
+    "title": "Players General Body Meetings",
+    "date": "2026-11-09T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590863",
+    "description": "Players is holding their GBMs."
   },
   {
     "title": "Group X - Zumba",
@@ -4248,6 +4456,14 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
+    "title": "Players General Body Meetings",
+    "date": "2026-11-16T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590864",
+    "description": "Players is holding their GBMs."
+  },
+  {
     "title": "Group X - Zumba",
     "date": "2026-11-16T23:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4488,6 +4704,14 @@
     "description": "Stop by and support the Amici Club and purchase a delicious slice of homemade tiramisu! You can even pre-order by emailing us at\u00a0msuitaliaclub@gmail.com"
   },
   {
+    "title": "Players General Body Meetings",
+    "date": "2026-11-23T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590865",
+    "description": "Players is holding their GBMs."
+  },
+  {
     "title": "Group X - Zumba",
     "date": "2026-11-23T23:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4574,6 +4798,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12588862",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, and Thursday (8/31 through 12/6) \n Monday and Wednesday: 9 AM - 9:45 AM, Thursday: 11 AM - 11:45 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Abigail (Monday/Wednesday) and Kendall (Thursday)"
+  },
+  {
+    "title": "Players General Body Meetings",
+    "date": "2026-11-30T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590866",
+    "description": "Players is holding their GBMs."
   },
   {
     "title": "Group X - Zumba",
@@ -4694,6 +4926,14 @@
     "location": "Dickson Hall 1C07 - Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12548891",
     "description": "Stop by and purchase a delicious homemade cookie and support the Amici Club!"
+  },
+  {
+    "title": "Players General Body Meetings",
+    "date": "2026-12-07T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12590856",
+    "description": "Players is holding their GBMs."
   },
   {
     "title": "OPT Workshop - International Students (F-1 Visa Holders) Only",
