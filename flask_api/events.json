@@ -456,20 +456,20 @@
     "description": "Students are welcome to try out Red Hawk Reality's amazing challenges, make new friends, and win a variety of prizes! Challenges include a selection of puzzles in the style of the hit Reality TV Show, Survivor, and original challenges created for Red Hawk Reality.\u00a0 \n See if you have what it takes to become the next winner of Montclair State University's Red Hawk Reality!"
   },
   {
-    "title": "Kazoo Jam Session",
-    "date": "2026-08-25T19:00:00+00:00",
-    "organization": "Montclair State Kazoo Club",
-    "location": "University Hall, Room 2026",
-    "link": "https://montclair.campuslabs.com/engage/event/12559202",
-    "description": "Join us for a Kazoo Jam Session! Choose a song together, learn a few simple kazoo techniques, and then get into making music with the whole group. Free kazoos will be provided, and no musical experience is needed!!"
-  },
-  {
     "title": "Cookie Decorating!",
     "date": "2026-08-25T19:00:00+00:00",
     "organization": "Baking Club",
     "location": "University Hall 2040",
     "link": "https://montclair.campuslabs.com/engage/event/12580752",
     "description": "Hello! Join us at University Hall 2040 for cookie decorating! We will have cookies and decorating supplies for you to use, so all you will need to bring is yourself. We will be introducing information about our club as well as making new friends. The cookie is yours to take after the event! We hope to see you and your awesome cookie decorating skills!"
+  },
+  {
+    "title": "Kazoo Jam Session",
+    "date": "2026-08-25T19:00:00+00:00",
+    "organization": "Montclair State Kazoo Club",
+    "location": "University Hall, Room 2026",
+    "link": "https://montclair.campuslabs.com/engage/event/12559202",
+    "description": "Join us for a Kazoo Jam Session! Choose a song together, learn a few simple kazoo techniques, and then get into making music with the whole group. Free kazoos will be provided, and no musical experience is needed!!"
   },
   {
     "title": "Commuter Games & Meet Up",
@@ -685,7 +685,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center Patio",
     "link": "https://montclair.campuslabs.com/engage/event/12517472",
-    "description": ""
+    "description": "Hang out with your friends on Friday night around the fire pit! Free snacks, such as s'mores and iced tea, will be provided. Lawn games, hammocks, and other items will also be available FREE via Equipment Checkout.\u00a0\u00a0 \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Every Friday from August 28 to November 13,\u00a0 except on October 2 and October 23. \n 7:00 pm - 9:00 pm\u00a0 \n Rec Center Patio"
   },
   {
     "title": "Welcome Back Bingo",
@@ -1629,7 +1629,7 @@
     "organization": "African American & African Studies Program",
     "location": "Student Center Room 419",
     "link": "https://montclair.campuslabs.com/engage/event/12510496",
-    "description": "2026 Dr. Irvin D. Reid\u00a0African American Studies Scholarship Awards."
+    "description": "2026 Dr. Irvin D. Reid\u00a0African American Studies Scholarship Awards: \n Please join us as we celebrate African American Studies Day and the achievements of our scholars in the African American & African Studies Program, who will be honored with academic scholarships in recognition of their dedication and excellence. \n We are also proud to present the Black Woman Scholar-Warrior Award to: \n Dr. Renee E. Baskerville Mayor of Montclair, New Jersey"
   },
   {
     "title": "Group X - Zumba",
@@ -3693,7 +3693,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12587330",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays and Tuesdays (8/31 through 12/6) \n Monday: 6 PM - 6:45 PM, Tuesday: 3:30 PM - 4:15 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Pamela"
   },
   {
     "title": "PENSA General Body Meeting ",
