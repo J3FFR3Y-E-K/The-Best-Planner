@@ -24,20 +24,20 @@
     "description": "This program will offer a welcoming, creative space where students can relax, meet others, and participate on a hands on activity. Participants will be able to use simple craft materials to design and decorate bookmarks."
   },
   {
-    "title": "Murder Myster",
-    "date": "2026-08-20T19:00:00+00:00",
-    "organization": "Complexions",
-    "location": "UNIV 2042",
-    "link": "https://montclair.campuslabs.com/engage/event/12585309",
-    "description": "Mystery and Mind games allows students to work through cases, investigations, and puzzles. In the effort to unlock clues students will work together unscrambling anagrams, completing word search puzzles, logic puzzles, and more !"
-  },
-  {
     "title": "Kazoo Jam Session",
     "date": "2026-08-20T19:00:00+00:00",
     "organization": "Montclair State Kazoo Club",
     "location": "University Hall, Room 2026",
     "link": "https://montclair.campuslabs.com/engage/event/12559199",
     "description": "Join us for a Kazoo Jam Session! Choose a song together, learn a few simple kazoo techniques, and then get into making music with the whole group. Free kazoos will be provided, and no musical experience is needed!!"
+  },
+  {
+    "title": "Murder Myster",
+    "date": "2026-08-20T19:00:00+00:00",
+    "organization": "Complexions",
+    "location": "UNIV 2042",
+    "link": "https://montclair.campuslabs.com/engage/event/12585309",
+    "description": "Mystery and Mind games allows students to work through cases, investigations, and puzzles. In the effort to unlock clues students will work together unscrambling anagrams, completing word search puzzles, logic puzzles, and more !"
   },
   {
     "title": "Montclair Mixtape: Build-a-Zine with WMSC",
@@ -128,14 +128,6 @@
     "description": "What if you could bottle up the very beginning of your Montclair story? \n Montclair Mixtape  is a collaborative Welcome Week zine where every student gets to create a page that captures  who they are right now \u2014their favorite songs, big goals, random interests, and everything they hope to experience during their first year at Montclair. \n Then, make it yours! Decorate your page with  stickers, doodles, magazine cutouts, colors, lyrics, photos, or anything else that feels like you.  While creating, students can chat, swap recommendations, discover shared interests, and get to know the people around them. \n Throughout Welcome Week, pages will be collected and brought together into one giant collaborative  \u201cMontclair Mixtape\u201d zine \u2014a snapshot of the students, dreams, personalities, and playlists that make up YOUR first week on campus. \n With student permission, the finished zine can be shared digitally through  Canva , creating a time capsule students can revisit long after Welcome Week is over. \n Because your first week isn't just the beginning of college\u2014 it's the first page of your Montclair story.  \ud83c\udfa7\ud83d\udcd6"
   },
   {
-    "title": "Cookie Decorating!",
-    "date": "2026-08-21T19:00:00+00:00",
-    "organization": "Baking Club",
-    "location": "University Hall 2040",
-    "link": "https://montclair.campuslabs.com/engage/event/12580750",
-    "description": "Hello! Join us at University Hall 2040 for cookie decorating! We will have cookies and decorating supplies for you to use, so all you will need to bring is yourself. We will be introducing information about our club as well as making new friends. The cookie is yours to take after the event! We hope to see you and your awesome cookie decorating skills!"
-  },
-  {
     "title": "Kazoo Jam Session",
     "date": "2026-08-21T19:00:00+00:00",
     "organization": "Montclair State Kazoo Club",
@@ -150,6 +142,14 @@
     "location": "University Hall Room 2025",
     "link": "https://montclair.campuslabs.com/engage/event/12561863",
     "description": "Students are welcome to try out Red Hawk Reality's amazing challenges, make new friends, and win a variety of prizes! Challenges include a selection of puzzles in the style of the hit Reality TV Show, Survivor, and original challenges created for Red Hawk Reality.\u00a0 \n See if you have what it takes to become the next winner of Montclair State University's Red Hawk Reality!"
+  },
+  {
+    "title": "Cookie Decorating!",
+    "date": "2026-08-21T19:00:00+00:00",
+    "organization": "Baking Club",
+    "location": "University Hall 2040",
+    "link": "https://montclair.campuslabs.com/engage/event/12580750",
+    "description": "Hello! Join us at University Hall 2040 for cookie decorating! We will have cookies and decorating supplies for you to use, so all you will need to bring is yourself. We will be introducing information about our club as well as making new friends. The cookie is yours to take after the event! We hope to see you and your awesome cookie decorating skills!"
   },
   {
     "title": "Ice Cream Social ",
@@ -264,20 +264,20 @@
     "description": "This program will offer a welcoming, creative space where students can relax, meet others, and participate on a hands on activity. Participants will be able to use simple craft materials to design and decorate bookmarks."
   },
   {
-    "title": "Make a Friendship Bracelet with DIY Dreamers arts and crafts club",
-    "date": "2026-08-24T19:00:00+00:00",
-    "organization": "MSU DIY Dreamers",
-    "location": "UNIV 2032",
-    "link": "https://montclair.campuslabs.com/engage/event/12559149",
-    "description": "Ready to get crafty, Dreamers? \ud83c\udfa8\ud83e\uddf5 Come hang out with  MSU DIY Dreamers  and make your very own bracelets! \ud83c\udf08\ud83d\udcab \n \ud83c\udf80 Pick your colors \u2728 Add your favorite charms \ud83d\udc96 Make it totally YOU \ud83d\udc6f\u200d\u2640\ufe0f Meet new friends & make memories \n Whether you\u2019re making one for yourself, your bestie, or someone special, come create something you\u2019ll love! \ud83e\udef6\u2728"
-  },
-  {
     "title": "Montclair Mixtape: Build-a-Zine with WMSC",
     "date": "2026-08-24T19:00:00+00:00",
     "organization": "WMSC 90.3 FM",
     "location": "University Hall Room 2044",
     "link": "https://montclair.campuslabs.com/engage/event/12559163",
     "description": "What if you could bottle up the very beginning of your Montclair story? \n Montclair Mixtape  is a collaborative Welcome Week zine where every student gets to create a page that captures  who they are right now \u2014their favorite songs, big goals, random interests, and everything they hope to experience during their first year at Montclair. \n Then, make it yours! Decorate your page with  stickers, doodles, magazine cutouts, colors, lyrics, photos, or anything else that feels like you.  While creating, students can chat, swap recommendations, discover shared interests, and get to know the people around them. \n Throughout Welcome Week, pages will be collected and brought together into one giant collaborative  \u201cMontclair Mixtape\u201d zine \u2014a snapshot of the students, dreams, personalities, and playlists that make up YOUR first week on campus. \n With student permission, the finished zine can be shared digitally through  Canva , creating a time capsule students can revisit long after Welcome Week is over. \n Because your first week isn't just the beginning of college\u2014 it's the first page of your Montclair story.  \ud83c\udfa7\ud83d\udcd6"
+  },
+  {
+    "title": "Make a Friendship Bracelet with DIY Dreamers arts and crafts club",
+    "date": "2026-08-24T19:00:00+00:00",
+    "organization": "MSU DIY Dreamers",
+    "location": "UNIV 2032",
+    "link": "https://montclair.campuslabs.com/engage/event/12559149",
+    "description": "Ready to get crafty, Dreamers? \ud83c\udfa8\ud83e\uddf5 Come hang out with  MSU DIY Dreamers  and make your very own bracelets! \ud83c\udf08\ud83d\udcab \n \ud83c\udf80 Pick your colors \u2728 Add your favorite charms \ud83d\udc96 Make it totally YOU \ud83d\udc6f\u200d\u2640\ufe0f Meet new friends & make memories \n Whether you\u2019re making one for yourself, your bestie, or someone special, come create something you\u2019ll love! \ud83e\udef6\u2728"
   },
   {
     "title": "Red Hawk Reality - Challenge Demos",
@@ -384,20 +384,20 @@
     "description": "Mystery and Mind games allows students to work through cases, investigations, and puzzles. In the effort to unlock clues students will work together unscrambling anagrams, completing word search puzzles, logic puzzles, and more !"
   },
   {
-    "title": "Arabic Calligraphy Bookmark Making",
-    "date": "2026-08-25T19:00:00+00:00",
-    "organization": "Muslim Student Association",
-    "location": "University Hall room 2031",
-    "link": "https://montclair.campuslabs.com/engage/event/12575413",
-    "description": "This program will offer a welcoming, creative space where students can relax, meet others, and participate on a hands on activity. Participants will be able to use simple craft materials to design and decorate bookmarks."
-  },
-  {
     "title": "Make a Friendship Bracelet with DIY Dreamers arts and crafts club",
     "date": "2026-08-25T19:00:00+00:00",
     "organization": "MSU DIY Dreamers",
     "location": "UNIV 2032",
     "link": "https://montclair.campuslabs.com/engage/event/12559150",
     "description": "Ready to get crafty, Dreamers? \ud83c\udfa8\ud83e\uddf5 Come hang out with  MSU DIY Dreamers  and make your very own bracelets! \ud83c\udf08\ud83d\udcab \n \ud83c\udf80 Pick your colors \u2728 Add your favorite charms \ud83d\udc96 Make it totally YOU \ud83d\udc6f\u200d\u2640\ufe0f Meet new friends & make memories \n Whether you\u2019re making one for yourself, your bestie, or someone special, come create something you\u2019ll love! \ud83e\udef6\u2728"
+  },
+  {
+    "title": "Arabic Calligraphy Bookmark Making",
+    "date": "2026-08-25T19:00:00+00:00",
+    "organization": "Muslim Student Association",
+    "location": "University Hall room 2031",
+    "link": "https://montclair.campuslabs.com/engage/event/12575413",
+    "description": "This program will offer a welcoming, creative space where students can relax, meet others, and participate on a hands on activity. Participants will be able to use simple craft materials to design and decorate bookmarks."
   },
   {
     "title": "Montclair Mixtape: Build-a-Zine with WMSC",
@@ -1933,7 +1933,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center Gymnasium",
     "link": "https://montclair.campuslabs.com/engage/event/12513821",
-    "description": "Get ready for a night of games, laughs, and good vibes! Join us for Game Night, packed with classic tabletop games and family reunion favorites. We\u2019ll have Giant Connect Four, Giant Uno, Giant Jenga, Giant Cup Pong, Giant Checkers, and Cornhole for everyone to enjoy. Bring your competitive side, your friends, and your game face. Winners will receive raffle tickets to enter raffles for prizes throughout the night, and one grand prize winner will receive a brand new GoPro! See you there! \n How do I sign-up? \n \n Registration is not required \n FREE for students with a valid Montclair State ID \n \n Where and when? \n \n Thursday, September 17, 2026 \n 6:00 PM - 8:00 PM, must be checked in by 7:30 PM to participate \n Student Recreation Center Gymnasium"
+    "description": ""
   },
   {
     "title": "Flower Pot Decorating & Flower Making",
