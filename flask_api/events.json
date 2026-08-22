@@ -256,20 +256,20 @@
     "description": "Mystery and Mind games allows students to work through cases, investigations, and puzzles. In the effort to unlock clues students will work together unscrambling anagrams, completing word search puzzles, logic puzzles, and more !"
   },
   {
-    "title": "Make a Friendship Bracelet with DIY Dreamers arts and crafts club",
-    "date": "2026-08-25T19:00:00+00:00",
-    "organization": "MSU DIY Dreamers",
-    "location": "UNIV 2032",
-    "link": "https://montclair.campuslabs.com/engage/event/12559150",
-    "description": "Ready to get crafty, Dreamers? \ud83c\udfa8\ud83e\uddf5 Come hang out with  MSU DIY Dreamers  and make your very own bracelets! \ud83c\udf08\ud83d\udcab \n \ud83c\udf80 Pick your colors \u2728 Add your favorite charms \ud83d\udc96 Make it totally YOU \ud83d\udc6f\u200d\u2640\ufe0f Meet new friends & make memories \n Whether you\u2019re making one for yourself, your bestie, or someone special, come create something you\u2019ll love! \ud83e\udef6\u2728"
-  },
-  {
     "title": "Arabic Calligraphy Bookmark Making",
     "date": "2026-08-25T19:00:00+00:00",
     "organization": "Muslim Student Association",
     "location": "University Hall room 2031",
     "link": "https://montclair.campuslabs.com/engage/event/12575413",
     "description": "This program will offer a welcoming, creative space where students can relax, meet others, and participate on a hands on activity. Participants will be able to use simple craft materials to design and decorate bookmarks."
+  },
+  {
+    "title": "Make a Friendship Bracelet with DIY Dreamers arts and crafts club",
+    "date": "2026-08-25T19:00:00+00:00",
+    "organization": "MSU DIY Dreamers",
+    "location": "UNIV 2032",
+    "link": "https://montclair.campuslabs.com/engage/event/12559150",
+    "description": "Ready to get crafty, Dreamers? \ud83c\udfa8\ud83e\uddf5 Come hang out with  MSU DIY Dreamers  and make your very own bracelets! \ud83c\udf08\ud83d\udcab \n \ud83c\udf80 Pick your colors \u2728 Add your favorite charms \ud83d\udc96 Make it totally YOU \ud83d\udc6f\u200d\u2640\ufe0f Meet new friends & make memories \n Whether you\u2019re making one for yourself, your bestie, or someone special, come create something you\u2019ll love! \ud83e\udef6\u2728"
   },
   {
     "title": "Montclair Mixtape: Build-a-Zine with WMSC",
@@ -285,7 +285,7 @@
     "organization": "Red Hawk Reality",
     "location": "University Hall Room 2025",
     "link": "https://montclair.campuslabs.com/engage/event/12561865",
-    "description": "Students are welcome to try out Red Hawk Reality's amazing challenges, make new friends, and win a variety of prizes! Challenges include a selection of puzzles in the style of the hit Reality TV Show, Survivor, and original challenges created for Red Hawk Reality.\u00a0 \n See if you have what it takes to become the next winner of Montclair State University's Red Hawk Reality!"
+    "description": ""
   },
   {
     "title": "Kazoo Jam Session",
@@ -309,7 +309,7 @@
     "organization": "Office of Commuter Life",
     "location": "Student Center 1908",
     "link": "https://montclair.campuslabs.com/engage/event/12552586",
-    "description": "Join us to meet and chat with other commuter students!"
+    "description": ""
   },
   {
     "title": "Fall Back Into Fitness",
@@ -1037,7 +1037,7 @@
     "organization": "EATS by Gourmet Dining",
     "location": "Sam's Place",
     "link": "https://montclair.campuslabs.com/engage/event/12548733",
-    "description": "Stop by Sam's Place for a great meal, good music, and fun activities!"
+    "description": ""
   },
   {
     "title": "Group X - Vinyasa Good Morning Yoga",
@@ -1085,7 +1085,7 @@
     "organization": "Campus Activities",
     "location": "Student Center Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12497710",
-    "description": ""
+    "description": "Lights off, game on. Whether you\u2019re dodging, tagging, or just there for the chaos, get ready for a high-energy night! (Rain Location: Student Center Ballrooms)"
   },
   {
     "title": "DIY Sugar Scrub",
