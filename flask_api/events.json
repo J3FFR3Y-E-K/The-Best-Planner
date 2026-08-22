@@ -13,7 +13,7 @@
     "organization": "Residence Life",
     "location": "Bohn Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12519897",
-    "description": "On August 23rd from 8PM-10PM, please join the Community Programmers for an Ice Cream Social in the Bohn Hall Lounge.\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+    "description": ""
   },
   {
     "title": "Ice Cream Floats",
@@ -45,7 +45,7 @@
     "organization": "Residence Life",
     "location": "Machuga Heights",
     "link": "https://montclair.campuslabs.com/engage/event/12519902",
-    "description": ""
+    "description": "On August 23rd from 8PM-10PM, come to Machuga Heights MPR to enjoy mocktails. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Fairy Garden Jars",
@@ -53,7 +53,7 @@
     "organization": "Residence Life",
     "location": "Dinallo Heights",
     "link": "https://montclair.campuslabs.com/engage/event/12519903",
-    "description": "On August 23rd from 8PM-10PM, come to Dinallo Heights MPR for Fairy Garden Jar making. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+    "description": ""
   },
   {
     "title": "Library Orientation",
@@ -288,20 +288,20 @@
     "description": "Students are welcome to try out Red Hawk Reality's amazing challenges, make new friends, and win a variety of prizes! Challenges include a selection of puzzles in the style of the hit Reality TV Show, Survivor, and original challenges created for Red Hawk Reality.\u00a0 \n See if you have what it takes to become the next winner of Montclair State University's Red Hawk Reality!"
   },
   {
-    "title": "Kazoo Jam Session",
-    "date": "2026-08-25T19:00:00+00:00",
-    "organization": "Montclair State Kazoo Club",
-    "location": "University Hall, Room 2026",
-    "link": "https://montclair.campuslabs.com/engage/event/12559202",
-    "description": "Join us for a Kazoo Jam Session! Choose a song together, learn a few simple kazoo techniques, and then get into making music with the whole group. Free kazoos will be provided, and no musical experience is needed!!"
-  },
-  {
     "title": "Cookie Decorating!",
     "date": "2026-08-25T19:00:00+00:00",
     "organization": "Baking Club",
     "location": "University Hall 2040",
     "link": "https://montclair.campuslabs.com/engage/event/12580752",
     "description": "Hello! Join us at University Hall 2040 for cookie decorating! We will have cookies and decorating supplies for you to use, so all you will need to bring is yourself. We will be introducing information about our club as well as making new friends. The cookie is yours to take after the event! We hope to see you and your awesome cookie decorating skills!"
+  },
+  {
+    "title": "Kazoo Jam Session",
+    "date": "2026-08-25T19:00:00+00:00",
+    "organization": "Montclair State Kazoo Club",
+    "location": "University Hall, Room 2026",
+    "link": "https://montclair.campuslabs.com/engage/event/12559202",
+    "description": "Join us for a Kazoo Jam Session! Choose a song together, learn a few simple kazoo techniques, and then get into making music with the whole group. Free kazoos will be provided, and no musical experience is needed!!"
   },
   {
     "title": "Commuter Games & Meet Up",
@@ -342,6 +342,14 @@
     "location": "Bohn Hall Main Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12600213",
     "description": "Join us for the Bohn Hall Community Meeting! This is your opportunity to connect with your Professional Staff, student staff, and fellow residents as we kick off the semester together. At this meeting, we\u2019ll cover important information about living in Bohn Hall, including community expectations, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n Resources and support available to you \n Opportunities to connect with staff and peers \n A chance to ask questions and share your voice \n \n We look forward to seeing you there! \n This event is for Bohn Hall Residents"
+  },
+  {
+    "title": "Sinatra Hall Community Meeting!",
+    "date": "2026-08-25T23:00:00+00:00",
+    "organization": "Sinatra Hall",
+    "location": "Francis A. Sinatra Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12611494",
+    "description": "Come meet your CAs & grab a slice of pizza with a chance of winning some prizes!"
   },
   {
     "title": "Canvas Kickback",
@@ -448,14 +456,6 @@
     "description": "What if you could bottle up the very beginning of your Montclair story? \n Montclair Mixtape  is a collaborative Welcome Week zine where every student gets to create a page that captures  who they are right now \u2014their favorite songs, big goals, random interests, and everything they hope to experience during their first year at Montclair. \n Then, make it yours! Decorate your page with  stickers, doodles, magazine cutouts, colors, lyrics, photos, or anything else that feels like you.  While creating, students can chat, swap recommendations, discover shared interests, and get to know the people around them. \n Throughout Welcome Week, pages will be collected and brought together into one giant collaborative  \u201cMontclair Mixtape\u201d zine \u2014a snapshot of the students, dreams, personalities, and playlists that make up YOUR first week on campus. \n With student permission, the finished zine can be shared digitally through  Canva , creating a time capsule students can revisit long after Welcome Week is over. \n Because your first week isn't just the beginning of college\u2014 it's the first page of your Montclair story.  \ud83c\udfa7\ud83d\udcd6"
   },
   {
-    "title": "Kazoo Jam Session",
-    "date": "2026-08-26T19:00:00+00:00",
-    "organization": "Montclair State Kazoo Club",
-    "location": "University Hall, Room 2026",
-    "link": "https://montclair.campuslabs.com/engage/event/12559203",
-    "description": "Join us for a Kazoo Jam Session! Choose a song together, learn a few simple kazoo techniques, and then get into making music with the whole group. Free kazoos will be provided, and no musical experience is needed!!"
-  },
-  {
     "title": "Red Hawk Reality - Challenge Demos",
     "date": "2026-08-26T19:00:00+00:00",
     "organization": "Red Hawk Reality",
@@ -470,6 +470,14 @@
     "location": "University Hall 2040",
     "link": "https://montclair.campuslabs.com/engage/event/12580753",
     "description": "Hello! Join us at University Hall 2040 for cookie decorating! We will have cookies and decorating supplies for you to use, so all you will need to bring is yourself. We will be introducing information about our club as well as making new friends. The cookie is yours to take after the event! We hope to see you and your awesome cookie decorating skills!"
+  },
+  {
+    "title": "Kazoo Jam Session",
+    "date": "2026-08-26T19:00:00+00:00",
+    "organization": "Montclair State Kazoo Club",
+    "location": "University Hall, Room 2026",
+    "link": "https://montclair.campuslabs.com/engage/event/12559203",
+    "description": "Join us for a Kazoo Jam Session! Choose a song together, learn a few simple kazoo techniques, and then get into making music with the whole group. Free kazoos will be provided, and no musical experience is needed!!"
   },
   {
     "title": "Finding your Center Workshop ",
@@ -526,6 +534,14 @@
     "location": "In person in front of the Hawk Crossings 200 building (in the event of rain it will move to Zoom)",
     "link": "https://montclair.campuslabs.com/engage/event/12603091",
     "description": "In person in front of the Hawk Crossings 200 building (in the event of rain it will move to Zoom) \n \u00a0 \n \n Join the CAs for the Hawk Crossings Community Meeting! This is your opportunity to connect with your fellow residents as well as learning the important information about living on campus, including the Hawk Crossings community expectations, upcoming events, resources, and ways to get involved. \n Residents will have the chance to ask questions, share feedback, and meet others in the building. Attendance is highly encouraged! \n This event is for Residents of Hawk Crossings.\u00a0 \n \u00a0 \n Locations: \n In person in front of the Hawk Crossings 200 building (in the event of rain it will move to Zoom) \n Rain location via Zoom ( https://montclair.zoom.us/j/92963584083?pwd=5gjQazvgUpRh1hnL7fET2zHa46Dwyd.1 )"
+  },
+  {
+    "title": "Sinatra Hall Community Meeting!",
+    "date": "2026-08-26T23:00:00+00:00",
+    "organization": "Sinatra Hall",
+    "location": "Francis A. Sinatra Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12611495",
+    "description": "Come meet your CAs & grab a slice of pizza with a chance of winning some prizes!"
   },
   {
     "title": "Tropical Bash",
@@ -749,7 +765,7 @@
     "organization": "Residence Life",
     "location": "Freeman Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12519927",
-    "description": ""
+    "description": "Come to Freeman Hall on August 31st from 8PM-10PM for Grab and Go Self Care. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Group X - Vinyasa Sunrise Yoga",
@@ -5213,7 +5229,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513577",
-    "description": ""
+    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
@@ -5229,7 +5245,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12587985",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday and Friday (8/31 through 12/6) \n 9:00 AM - 9:45 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Tyrah (Thursday) and Amisha (Friday)"
   },
   {
     "title": "Group X - Vinyasa Flow Yoga",
@@ -5245,7 +5261,7 @@
     "organization": "The Graduate Center",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12518839",
-    "description": ""
+    "description": "Designed for doctoral candidates approaching the final stages of their program, this session outlines the dissertation defense process from start to finish. Topics include defense eligibility, required approvals and forms, formatting and submission requirements, and final Graduate School deadlines. Students will also learn what to expect before, during, and after the defense. Who should attend: \u00a0Doctoral candidates preparing for their dissertation defense or final submission requirements. Please RSVP using this link. Want to see what else is coming up this semester?\u00a0 Explore all events for graduate students."
   },
   {
     "title": "Advanced Google Scholar",
