@@ -104,20 +104,20 @@
     "description": "Check out all of what Montclair has to offer! Meet departments, get information, take photos, dance, and free ice cream!"
   },
   {
-    "title": "Commuter Games & Meet Up",
-    "date": "2026-08-24T19:00:00+00:00",
-    "organization": "Office of Commuter Life",
-    "location": "Student Center 1908",
-    "link": "https://montclair.campuslabs.com/engage/event/12552591",
-    "description": "Join us to meet and chat with other commuter students!"
-  },
-  {
     "title": "Murder Myster",
     "date": "2026-08-24T19:00:00+00:00",
     "organization": "Complexions",
     "location": "UNIV 2042",
     "link": "https://montclair.campuslabs.com/engage/event/12585311",
     "description": "Mystery and Mind games allows students to work through cases, investigations, and puzzles. In the effort to unlock clues students will work together unscrambling anagrams, completing word search puzzles, logic puzzles, and more !"
+  },
+  {
+    "title": "Commuter Games & Meet Up",
+    "date": "2026-08-24T19:00:00+00:00",
+    "organization": "Office of Commuter Life",
+    "location": "Student Center 1908",
+    "link": "https://montclair.campuslabs.com/engage/event/12552591",
+    "description": "Join us to meet and chat with other commuter students!"
   },
   {
     "title": "Arabic Calligraphy Bookmark Making",
@@ -144,14 +144,6 @@
     "description": "What if you could bottle up the very beginning of your Montclair story? \n Montclair Mixtape  is a collaborative Welcome Week zine where every student gets to create a page that captures  who they are right now \u2014their favorite songs, big goals, random interests, and everything they hope to experience during their first year at Montclair. \n Then, make it yours! Decorate your page with  stickers, doodles, magazine cutouts, colors, lyrics, photos, or anything else that feels like you.  While creating, students can chat, swap recommendations, discover shared interests, and get to know the people around them. \n Throughout Welcome Week, pages will be collected and brought together into one giant collaborative  \u201cMontclair Mixtape\u201d zine \u2014a snapshot of the students, dreams, personalities, and playlists that make up YOUR first week on campus. \n With student permission, the finished zine can be shared digitally through  Canva , creating a time capsule students can revisit long after Welcome Week is over. \n Because your first week isn't just the beginning of college\u2014 it's the first page of your Montclair story.  \ud83c\udfa7\ud83d\udcd6"
   },
   {
-    "title": "Red Hawk Reality - Challenge Demos",
-    "date": "2026-08-24T19:00:00+00:00",
-    "organization": "Red Hawk Reality",
-    "location": "University Hall Room 2025",
-    "link": "https://montclair.campuslabs.com/engage/event/12561864",
-    "description": "Students are welcome to try out Red Hawk Reality's amazing challenges, make new friends, and win a variety of prizes! Challenges include a selection of puzzles in the style of the hit Reality TV Show, Survivor, and original challenges created for Red Hawk Reality.\u00a0 \n See if you have what it takes to become the next winner of Montclair State University's Red Hawk Reality!"
-  },
-  {
     "title": "Cookie Decorating!",
     "date": "2026-08-24T19:00:00+00:00",
     "organization": "Baking Club",
@@ -166,6 +158,14 @@
     "location": "University Hall, Room 2026",
     "link": "https://montclair.campuslabs.com/engage/event/12559201",
     "description": "Join us for a Kazoo Jam Session! Choose a song together, learn a few simple kazoo techniques, and then get into making music with the whole group. Free kazoos will be provided, and no musical experience is needed!!"
+  },
+  {
+    "title": "Red Hawk Reality - Challenge Demos",
+    "date": "2026-08-24T19:00:00+00:00",
+    "organization": "Red Hawk Reality",
+    "location": "University Hall Room 2025",
+    "link": "https://montclair.campuslabs.com/engage/event/12561864",
+    "description": "Students are welcome to try out Red Hawk Reality's amazing challenges, make new friends, and win a variety of prizes! Challenges include a selection of puzzles in the style of the hit Reality TV Show, Survivor, and original challenges created for Red Hawk Reality.\u00a0 \n See if you have what it takes to become the next winner of Montclair State University's Red Hawk Reality!"
   },
   {
     "title": "Minute to Win It",
@@ -608,6 +608,14 @@
     "description": "In person in front of the Hawk Crossings 200 building (in the event of rain it will move to Zoom) \n \u00a0 \n \n Join the CAs for the Hawk Crossings Community Meeting! This is your opportunity to connect with your fellow residents as well as learning the important information about living on campus, including the Hawk Crossings community expectations, upcoming events, resources, and ways to get involved. \n Residents will have the chance to ask questions, share feedback, and meet others in the building. Attendance is highly encouraged! \n This event is for Residents of Hawk Crossings.\u00a0 \n \u00a0 \n Locations: \n In person in front of the Hawk Crossings 200 building (in the event of rain it will move to Zoom) \n Rain location via Zoom ( https://montclair.zoom.us/j/92963584083?pwd=5gjQazvgUpRh1hnL7fET2zHa46Dwyd.1 )"
   },
   {
+    "title": "Red Hawk Reality | Big Brother 1000th Episode Watch Party",
+    "date": "2026-08-28T00:00:00+00:00",
+    "organization": "Machuga Heights",
+    "location": "Machuga Heights Multipurpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12614532",
+    "description": "Join members of Red Hawk Reality as we gather to watch an iconic episode of Big Brother! Meet new friends, grab some free prizes, and enjoy watching this incredible show!"
+  },
+  {
     "title": "Sunset Mountain Top Yoga",
     "date": "2026-08-28T22:30:00+00:00",
     "organization": "Campus Recreation",
@@ -920,20 +928,20 @@
     "description": "Tickets and Parking Info"
   },
   {
-    "title": "Academic & Social Organization Fair",
-    "date": "2026-09-01T23:00:00+00:00",
-    "organization": "Campus Activities",
-    "location": "Student Center Ballrooms",
-    "link": "https://montclair.campuslabs.com/engage/event/12513102",
-    "description": "Discover all that campus life has to offer at the Organization Fair! Meet student organizations, clubs, and campus departments, explore opportunities to get involved, and find your community. Whether you\u2019re looking to join a club, take on a leadership role, or just learn more about campus resources, this is the perfect place to start.\u00a0 We have over 40 organizations registered! \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n Where and when? \n \n 7 pm - 9 pm \n Student Center Ballrooms \n \n Below is a list of registered organizations \n \u00a0 \n \n \n \n \n \n Academic & Social Organization Fair \n \n \n \n \n A.LIFE \n \n \n \n \n Alpha Iota Chi Local Sorority Inc. \n \n \n \n \n \n \n Alpha Kappa Alpha Sorority, Inc. \n \n \n \n \n Amici Club \n \n \n Brasil Club \n \n \n \n \n Chi Alpha Campus Ministries \n \n \n \n \n Club Dance \n \n \n Club ESports \n \n \n \n \n Club Men's Basketball \n \n \n \n \n \n \n Club Men's Rugby \n \n \n \n \n Club Pickleball \n \n \n Club Softball \n \n \n \n \n Club Women's Basketball \n \n \n \n \n \n \n Club Women's Rugby \n \n \n \n \n \n \n Coalition for Collective Liberation \n \n \n \n \n Complexions \n \n \n Daughta Speaks \n \n \n DECA \n \n \n Delta Xi Delta \n \n \n \n \n Dominican Student Organization \n \n \n \n \n \n \n FAN: Future Alumni Network \n \n \n \n \n First Love \n \n \n \n \n Food Science Association \n \n \n \n \n \n \n Future Business Leaders of America \n \n \n \n \n \n \n Health Occupations Students of America - Future Health Professionals \n \n \n \n \n Hillel \n \n \n LadiesFIRST \n \n \n \n \n Latin American Student Organization \n \n \n \n \n \n \n Mexican-American Student Association \n \n \n \n \n \n \n Montclair A Cappella \n \n \n \n \n \n \n Montclair Ad Club \n \n \n \n \n \n \n Montclair Marine Biology Organization \n \n \n \n \n \n \n Montclair Progressive \n \n \n \n \n \n \n Montclair State Biology Club \n \n \n \n \n \n \n Montclair State Marketing Club \n \n \n \n \n \n \n Montclair State University Chess Club \n \n \n \n \n \n \n Montclair State University Players \n \n \n \n \n \n \n Montclair State University Skate Club \n \n \n \n \n \n \n MSU's Photography Club \n \n \n \n \n \n \n Muslim Student Association \n \n \n \n \n \n \n Neuroscience Club \n \n \n \n \n \n \n Panther Progress \n \n \n \n \n \n \n Peruvian-American Student Organization \n \n \n \n \n Phi Sigma Sigma \n \n \n \n \n Pre-Vet/Animal Science Club \n \n \n \n \n Psychology Club \n \n \n \n \n Red Hawk Catholic \n \n \n \n \n \n \n Red Hawk Reality \n \n \n \n \n \n \n Red Hawk Studio \n \n \n \n \n Sigma Delta Phi \n \n \n \n \n Sigma Gamma Rho Sorority, Inc. \n \n \n \n \n \n \n Student Government Association, Inc. \n \n \n \n \n \n \n Student Life At Montclair (SLAM) \n \n \n \n \n \n \n The Apple Core Community \n \n \n \n \n \n \n The Historical Society at Montclair State \n \n \n \n \n \n \n The Montclair English Club \n \n \n \n \n \n \n The Public Health Association at Montclair State University \n \n \n \n \n Theta Kappa Chi \n \n \n Theta Phi Alpha \n \n \n \n \n Turning Point USA \n \n \n \n \n WMSC 90.3 FM"
-  },
-  {
     "title": "Beyond the Vision Board",
     "date": "2026-09-01T23:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Center Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12504128",
     "description": "Manifest your semester at DIY Vision Board Night. Step into a space filled with magazines, markers, good vibes, and endless possibilities as you design a board that reflects your goals, dreams, and everything you\u2019re ready to claim. Whether you\u2019re mapping out academic wins, personal growth, or just manifesting more joy, this is your moment to create a vision that inspires you every day. \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Tuesday, September 1st 2026 \n 7:00 pm - 9:00 pm (must be checked in by 8:30 pm to participate)\u00a0 \n Rec Center Lounge"
+  },
+  {
+    "title": "Academic & Social Organization Fair",
+    "date": "2026-09-01T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/12513102",
+    "description": "Discover all that campus life has to offer at the Organization Fair! Meet student organizations, clubs, and campus departments, explore opportunities to get involved, and find your community. Whether you\u2019re looking to join a club, take on a leadership role, or just learn more about campus resources, this is the perfect place to start.\u00a0 We have over 40 organizations registered! \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n Where and when? \n \n 7 pm - 9 pm \n Student Center Ballrooms \n \n Below is a list of registered organizations \n \u00a0 \n \n \n \n \n \n Academic & Social Organization Fair \n \n \n \n \n A.LIFE \n \n \n \n \n Alpha Iota Chi Local Sorority Inc. \n \n \n \n \n \n \n Alpha Kappa Alpha Sorority, Inc. \n \n \n \n \n Amici Club \n \n \n Brasil Club \n \n \n \n \n Chi Alpha Campus Ministries \n \n \n \n \n Club Dance \n \n \n Club ESports \n \n \n \n \n Club Men's Basketball \n \n \n \n \n \n \n Club Men's Rugby \n \n \n \n \n Club Pickleball \n \n \n Club Softball \n \n \n \n \n Club Women's Basketball \n \n \n \n \n \n \n Club Women's Rugby \n \n \n \n \n \n \n Coalition for Collective Liberation \n \n \n \n \n Complexions \n \n \n Daughta Speaks \n \n \n DECA \n \n \n Delta Xi Delta \n \n \n \n \n Dominican Student Organization \n \n \n \n \n \n \n FAN: Future Alumni Network \n \n \n \n \n First Love \n \n \n \n \n Food Science Association \n \n \n \n \n \n \n Future Business Leaders of America \n \n \n \n \n \n \n Health Occupations Students of America - Future Health Professionals \n \n \n \n \n Hillel \n \n \n LadiesFIRST \n \n \n \n \n Latin American Student Organization \n \n \n \n \n \n \n Mexican-American Student Association \n \n \n \n \n \n \n Montclair A Cappella \n \n \n \n \n \n \n Montclair Ad Club \n \n \n \n \n \n \n Montclair Marine Biology Organization \n \n \n \n \n \n \n Montclair Progressive \n \n \n \n \n \n \n Montclair State Biology Club \n \n \n \n \n \n \n Montclair State Marketing Club \n \n \n \n \n \n \n Montclair State University Chess Club \n \n \n \n \n \n \n Montclair State University Players \n \n \n \n \n \n \n Montclair State University Skate Club \n \n \n \n \n \n \n MSU's Photography Club \n \n \n \n \n \n \n Muslim Student Association \n \n \n \n \n \n \n Neuroscience Club \n \n \n \n \n \n \n Panther Progress \n \n \n \n \n \n \n Peruvian-American Student Organization \n \n \n \n \n Phi Sigma Sigma \n \n \n \n \n Pre-Vet/Animal Science Club \n \n \n \n \n Psychology Club \n \n \n \n \n Red Hawk Catholic \n \n \n \n \n \n \n Red Hawk Reality \n \n \n \n \n \n \n Red Hawk Studio \n \n \n \n \n Sigma Delta Phi \n \n \n \n \n Sigma Gamma Rho Sorority, Inc. \n \n \n \n \n \n \n Student Government Association, Inc. \n \n \n \n \n \n \n Student Life At Montclair (SLAM) \n \n \n \n \n \n \n The Apple Core Community \n \n \n \n \n \n \n The Historical Society at Montclair State \n \n \n \n \n \n \n The Montclair English Club \n \n \n \n \n \n \n The Public Health Association at Montclair State University \n \n \n \n \n Theta Kappa Chi \n \n \n Theta Phi Alpha \n \n \n \n \n Turning Point USA \n \n \n \n \n WMSC 90.3 FM"
   },
   {
     "title": "Volleyball vs. Manhattanville",
@@ -1373,7 +1381,7 @@
     "organization": "Montclair State University Players",
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12607135",
-    "description": ""
+    "description": "Players: The Rocky Horror Picture Show Auditions Day Two"
   },
   {
     "title": "NFL Kickoff",
@@ -1381,7 +1389,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12536832",
-    "description": ""
+    "description": "Get your football gear ready and join us for an NFL showdown as the Seattle Seahawks face off against the New England Patriots on Wednesday, September 9 at 8:30 pm. Come watch all the action here at the Student Rec Center and enjoy FREE tailgating-style food, games, and great company while cheering on your team! \n \u00a0 \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with Valid Montclair State ID \n \n Where and When? \n \n Wednesday, September 9 \n 8:30 p.m - 10 p.m \n Student Recreation Center - Lounge"
   },
   {
     "title": "Group X - Vinyasa Good Morning Yoga",
@@ -1830,6 +1838,14 @@
     "location": "Rec Center Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12506005",
     "description": "Cuddle your way into the semester with Stuff & Stitch. Pick your plush, bring it to life, and give it a personality all its own. Whether you need a new study buddy, a dorm d\u00e9cor icon, or just a little comfort creature to get you through the fall, this is your chance to craft something soft, squishy, and totally you. \n \u00a0 \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Tuesday, September 15th 2026 \n 5:00 pm - 7:00 pm\u00a0 \n Rec Center Lounge"
+  },
+  {
+    "title": "Build Your Own Album: Y2K Edition",
+    "date": "2026-09-15T23:30:00+00:00",
+    "organization": "Bloomfield's Office of Residence Life",
+    "location": "Franklin Hall \u2013 Multi-Purpose Room (Room 314)",
+    "link": "https://montclair.campuslabs.com/engage/event/12614533",
+    "description": "Throw it back to the 2000s! \ud83d\udcbf\ud83d\udc96 Join RA Ayneara for  Build Your Own Album: Y2K Edition , where residents can get creative and design their own personalized album using photos, stickers, and Y2K-inspired decorations.\u00a0 \n \ud83d\udccd  Franklin Hall \u2013 MPR 314 \ud83d\udcc5  September 15  | \u23f0  7:30\u20139:30 PM"
   },
   {
     "title": "The Rocky Horror Picture Show Rehearsal ",
@@ -2470,6 +2486,14 @@
     "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513619",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
+  },
+  {
+    "title": "Welcome Back Cookie Bash",
+    "date": "2026-09-23T23:00:00+00:00",
+    "organization": "Bloomfield's Office of Residence Life",
+    "location": "Franklin Hall \u2013 4th Floor Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12614411",
+    "description": "Come satisfy your sweet tooth! \ud83c\udf6a\u2728 Join  RA Connie  for a fun  Cookie Decorating Party  where residents can get creative with frosting, sprinkles, and other sweet toppings while connecting with their neighbors. Refreshments will be provided! \n \ud83d\udccd  Franklin Hall 4th floor lounge\u00a0 \ud83d\udcc5  September 23 \u00a0| \u23f0  7:00\u20139:00 PM"
   },
   {
     "title": "The Rocky Horror Picture Show Rehearsal",
@@ -3936,6 +3960,14 @@
     "description": "Players Comedy Rehearsal"
   },
   {
+    "title": "Marvel Tokon Tournament ",
+    "date": "2026-10-15T00:00:00+00:00",
+    "organization": "Bloomfield's Office of Residence Life",
+    "location": "Franklin Hall \u2013 Game Room (2nd Floor)",
+    "link": "https://montclair.campuslabs.com/engage/event/12614372",
+    "description": "Game on! \ud83c\udfae Join RA Hafiz for the  Marvel Tokon Tournament.\u00a0 All skill levels are welcome come play, connect, and see who takes the win! \n \ud83d\udccd  Franklin Hall Game Room \ud83d\udcc5  October 14  | \u23f0  8:00\u201310:00 PM"
+  },
+  {
     "title": "Group X - Vinyasa Good Morning Yoga",
     "date": "2026-10-15T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4566,6 +4598,14 @@
     "location": "Soccer Park",
     "link": "https://montclair.campuslabs.com/engage/event/12476201",
     "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Spooky Halloween Bingo",
+    "date": "2026-10-28T23:30:00+00:00",
+    "organization": "Bloomfield's Office of Residence Life",
+    "location": "Franklin Hall \u2013 Multi-Purpose Room (Room 314)",
+    "link": "https://montclair.campuslabs.com/engage/event/12614519",
+    "description": "Get ready for a spooky night of fun! \ud83c\udf83\ud83d\udc7b Join RA Connie for  Halloween Bingo , enjoy classic bingo with a Halloween twist, compete for the win. \n \ud83d\udccd  Franklin Hall 4th Floor Lounge\u00a0 \ud83d\udcc5  October 28  | \u23f0  7:30\u20139:30 PM"
   },
   {
     "title": "Miscellaneous Show Rehearsals",
@@ -5542,6 +5582,14 @@
     "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513659",
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
+  },
+  {
+    "title": "Cozy Winter Crafts: Leaf Lanterns & Gratitude Cards",
+    "date": "2026-11-19T00:30:00+00:00",
+    "organization": "Bloomfield's Office of Residence Life",
+    "location": "Franklin Hall \u2013 Multi-Purpose Room (Room 314)",
+    "link": "https://montclair.campuslabs.com/engage/event/12614362",
+    "description": "Get cozy and get creative! \u2744\ufe0f\u2615 Join RA Auco for  Cozy Winter Craft Night , Come make something special and spend a cozy evening with your Franklin Hall community! \n \ud83d\udccd  Franklin Hall MPR \u2013 3rd Floor \ud83d\udcc5  November 18 \u00a0| \u23f0  7:30 PM"
   },
   {
     "title": "Group X - Vinyasa Good Morning Yoga",
