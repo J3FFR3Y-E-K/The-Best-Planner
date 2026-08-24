@@ -1,53 +1,5 @@
 [
   {
-    "title": "Ice Cream Social ",
-    "date": "2026-08-24T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Bohn Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12519897",
-    "description": "On August 23rd from 8PM-10PM, please join the Community Programmers for an Ice Cream Social in the Bohn Hall Lounge.\u00a0 \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Ice Cream Floats",
-    "date": "2026-08-24T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12519898",
-    "description": "On August 23rd from 8PM-10PM, please join the community programmers in making Ice Cream Floats in Blanton Hall! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Karaoke and Pizza",
-    "date": "2026-08-24T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Stone Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12519899",
-    "description": "On August 23rd from 8PM-10PM, come to Stone Hall for Karaoke and Pizza. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Temporary Tattoos",
-    "date": "2026-08-24T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Freeman Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12519900",
-    "description": "On August 23rd from 8PM-10PM, come to Freeman Hall for Temporary Tattoos. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Mocktail Mixer",
-    "date": "2026-08-24T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Machuga Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/12519902",
-    "description": "On August 23rd from 8PM-10PM, come to Machuga Heights MPR to enjoy mocktails. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Fairy Garden Jars",
-    "date": "2026-08-24T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Dinallo Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/12519903",
-    "description": "On August 23rd from 8PM-10PM, come to Dinallo Heights MPR for Fairy Garden Jar making. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Library Orientation",
     "date": "2026-08-24T13:00:00+00:00",
     "organization": "Sprague Library",
@@ -88,20 +40,20 @@
     "description": "Check out all of what Montclair has to offer! Meet departments, get information, take photos, dance, and free ice cream!"
   },
   {
-    "title": "Commuter Games & Meet Up",
-    "date": "2026-08-24T19:00:00+00:00",
-    "organization": "Office of Commuter Life",
-    "location": "Student Center 1908",
-    "link": "https://montclair.campuslabs.com/engage/event/12552591",
-    "description": "Join us to meet and chat with other commuter students!"
-  },
-  {
     "title": "Murder Myster",
     "date": "2026-08-24T19:00:00+00:00",
     "organization": "Complexions",
     "location": "UNIV 2042",
     "link": "https://montclair.campuslabs.com/engage/event/12585311",
     "description": "Mystery and Mind games allows students to work through cases, investigations, and puzzles. In the effort to unlock clues students will work together unscrambling anagrams, completing word search puzzles, logic puzzles, and more !"
+  },
+  {
+    "title": "Commuter Games & Meet Up",
+    "date": "2026-08-24T19:00:00+00:00",
+    "organization": "Office of Commuter Life",
+    "location": "Student Center 1908",
+    "link": "https://montclair.campuslabs.com/engage/event/12552591",
+    "description": "Join us to meet and chat with other commuter students!"
   },
   {
     "title": "Arabic Calligraphy Bookmark Making",
@@ -128,20 +80,20 @@
     "description": "What if you could bottle up the very beginning of your Montclair story? \n Montclair Mixtape  is a collaborative Welcome Week zine where every student gets to create a page that captures  who they are right now \u2014their favorite songs, big goals, random interests, and everything they hope to experience during their first year at Montclair. \n Then, make it yours! Decorate your page with  stickers, doodles, magazine cutouts, colors, lyrics, photos, or anything else that feels like you.  While creating, students can chat, swap recommendations, discover shared interests, and get to know the people around them. \n Throughout Welcome Week, pages will be collected and brought together into one giant collaborative  \u201cMontclair Mixtape\u201d zine \u2014a snapshot of the students, dreams, personalities, and playlists that make up YOUR first week on campus. \n With student permission, the finished zine can be shared digitally through  Canva , creating a time capsule students can revisit long after Welcome Week is over. \n Because your first week isn't just the beginning of college\u2014 it's the first page of your Montclair story.  \ud83c\udfa7\ud83d\udcd6"
   },
   {
-    "title": "Kazoo Jam Session",
-    "date": "2026-08-24T19:00:00+00:00",
-    "organization": "Montclair State Kazoo Club",
-    "location": "University Hall, Room 2026",
-    "link": "https://montclair.campuslabs.com/engage/event/12559201",
-    "description": "Join us for a Kazoo Jam Session! Choose a song together, learn a few simple kazoo techniques, and then get into making music with the whole group. Free kazoos will be provided, and no musical experience is needed!!"
-  },
-  {
     "title": "Cookie Decorating!",
     "date": "2026-08-24T19:00:00+00:00",
     "organization": "Baking Club",
     "location": "University Hall 2040",
     "link": "https://montclair.campuslabs.com/engage/event/12580751",
     "description": "Hello! Join us at University Hall 2040 for cookie decorating! We will have cookies and decorating supplies for you to use, so all you will need to bring is yourself. We will be introducing information about our club as well as making new friends. The cookie is yours to take after the event! We hope to see you and your awesome cookie decorating skills!"
+  },
+  {
+    "title": "Kazoo Jam Session",
+    "date": "2026-08-24T19:00:00+00:00",
+    "organization": "Montclair State Kazoo Club",
+    "location": "University Hall, Room 2026",
+    "link": "https://montclair.campuslabs.com/engage/event/12559201",
+    "description": "Join us for a Kazoo Jam Session! Choose a song together, learn a few simple kazoo techniques, and then get into making music with the whole group. Free kazoos will be provided, and no musical experience is needed!!"
   },
   {
     "title": "Red Hawk Reality - Challenge Demos",
@@ -472,12 +424,12 @@
     "description": "What if you could bottle up the very beginning of your Montclair story? \n Montclair Mixtape  is a collaborative Welcome Week zine where every student gets to create a page that captures  who they are right now \u2014their favorite songs, big goals, random interests, and everything they hope to experience during their first year at Montclair. \n Then, make it yours! Decorate your page with  stickers, doodles, magazine cutouts, colors, lyrics, photos, or anything else that feels like you.  While creating, students can chat, swap recommendations, discover shared interests, and get to know the people around them. \n Throughout Welcome Week, pages will be collected and brought together into one giant collaborative  \u201cMontclair Mixtape\u201d zine \u2014a snapshot of the students, dreams, personalities, and playlists that make up YOUR first week on campus. \n With student permission, the finished zine can be shared digitally through  Canva , creating a time capsule students can revisit long after Welcome Week is over. \n Because your first week isn't just the beginning of college\u2014 it's the first page of your Montclair story.  \ud83c\udfa7\ud83d\udcd6"
   },
   {
-    "title": "Kazoo Jam Session",
+    "title": "Red Hawk Reality - Challenge Demos",
     "date": "2026-08-26T19:00:00+00:00",
-    "organization": "Montclair State Kazoo Club",
-    "location": "University Hall, Room 2026",
-    "link": "https://montclair.campuslabs.com/engage/event/12559203",
-    "description": "Join us for a Kazoo Jam Session! Choose a song together, learn a few simple kazoo techniques, and then get into making music with the whole group. Free kazoos will be provided, and no musical experience is needed!!"
+    "organization": "Red Hawk Reality",
+    "location": "University Hall Room 2025",
+    "link": "https://montclair.campuslabs.com/engage/event/12561866",
+    "description": "Students are welcome to try out Red Hawk Reality's amazing challenges, make new friends, and win a variety of prizes! Challenges include a selection of puzzles in the style of the hit Reality TV Show, Survivor, and original challenges created for Red Hawk Reality.\u00a0 \n See if you have what it takes to become the next winner of Montclair State University's Red Hawk Reality!"
   },
   {
     "title": "Cookie Decorating!",
@@ -486,6 +438,14 @@
     "location": "University Hall 2040",
     "link": "https://montclair.campuslabs.com/engage/event/12580753",
     "description": "Hello! Join us at University Hall 2040 for cookie decorating! We will have cookies and decorating supplies for you to use, so all you will need to bring is yourself. We will be introducing information about our club as well as making new friends. The cookie is yours to take after the event! We hope to see you and your awesome cookie decorating skills!"
+  },
+  {
+    "title": "Kazoo Jam Session",
+    "date": "2026-08-26T19:00:00+00:00",
+    "organization": "Montclair State Kazoo Club",
+    "location": "University Hall, Room 2026",
+    "link": "https://montclair.campuslabs.com/engage/event/12559203",
+    "description": "Join us for a Kazoo Jam Session! Choose a song together, learn a few simple kazoo techniques, and then get into making music with the whole group. Free kazoos will be provided, and no musical experience is needed!!"
   },
   {
     "title": "Finding your Center Workshop ",
@@ -5965,7 +5925,7 @@
     "organization": "Bloomfield's Office of Residence Life",
     "location": "Franklin Hall \u2013 Multi-Purpose Room (Room 314)",
     "link": "https://montclair.campuslabs.com/engage/event/12614688",
-    "description": ""
+    "description": "Slip into your comfiest moo moo and join RA Ayneara for a relaxing night of  mocktails, self-care activities, and good vibes ! Take some time to unwind, recharge, and connect with your Franklin Hall community. \n \ud83d\udccd  Franklin Hall \u2013 MPR 314 \ud83d\udcc5  December 1  | \u23f0  7:30\u20139:30 PM"
   },
   {
     "title": "Group X - Vinyasa Flow Yoga",
@@ -5973,7 +5933,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12588863",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, and Thursday (8/31 through 12/6) \n Monday and Wednesday: 9 AM - 9:45 AM, Thursday: 11 AM - 11:45 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Abigail (Monday/Wednesday) and Kendall (Thursday)"
   },
   {
     "title": "Build Your Own Hot Chocolate Mix",
