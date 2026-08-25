@@ -1,29 +1,5 @@
 [
   {
-    "title": "Snow Cones",
-    "date": "2026-08-25T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Bohn Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12519905",
-    "description": "On August 24th from 8PM-10PM, come to Bohn Hall for snow cones. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "DIY Compact Mirror Making",
-    "date": "2026-08-25T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Dinallo Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/12519907",
-    "description": "On August 24th from 8PM-10PM, come to Dinallo Heights to decorate a compact mirror! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Altoid TIn Making",
-    "date": "2026-08-25T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Freeman Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12519909",
-    "description": "On August 24th from 8PM-10PM, come to Freeman Hall to make Altoid Tin wallets. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Grubhub Info Tabling",
     "date": "2026-08-25T15:00:00+00:00",
     "organization": "EATS by Gourmet Dining",
@@ -88,20 +64,20 @@
     "description": "What if you could bottle up the very beginning of your Montclair story? \n Montclair Mixtape  is a collaborative Welcome Week zine where every student gets to create a page that captures  who they are right now \u2014their favorite songs, big goals, random interests, and everything they hope to experience during their first year at Montclair. \n Then, make it yours! Decorate your page with  stickers, doodles, magazine cutouts, colors, lyrics, photos, or anything else that feels like you.  While creating, students can chat, swap recommendations, discover shared interests, and get to know the people around them. \n Throughout Welcome Week, pages will be collected and brought together into one giant collaborative  \u201cMontclair Mixtape\u201d zine \u2014a snapshot of the students, dreams, personalities, and playlists that make up YOUR first week on campus. \n With student permission, the finished zine can be shared digitally through  Canva , creating a time capsule students can revisit long after Welcome Week is over. \n Because your first week isn't just the beginning of college\u2014 it's the first page of your Montclair story.  \ud83c\udfa7\ud83d\udcd6"
   },
   {
-    "title": "Red Hawk Reality - Challenge Demos",
-    "date": "2026-08-25T19:00:00+00:00",
-    "organization": "Red Hawk Reality",
-    "location": "University Hall Room 2025",
-    "link": "https://montclair.campuslabs.com/engage/event/12561865",
-    "description": "Students are welcome to try out Red Hawk Reality's amazing challenges, make new friends, and win a variety of prizes! Challenges include a selection of puzzles in the style of the hit Reality TV Show, Survivor, and original challenges created for Red Hawk Reality.\u00a0 \n See if you have what it takes to become the next winner of Montclair State University's Red Hawk Reality!"
-  },
-  {
     "title": "Cookie Decorating!",
     "date": "2026-08-25T19:00:00+00:00",
     "organization": "Baking Club",
     "location": "University Hall 2040",
     "link": "https://montclair.campuslabs.com/engage/event/12580752",
     "description": "Hello! Join us at University Hall 2040 for cookie decorating! We will have cookies and decorating supplies for you to use, so all you will need to bring is yourself. We will be introducing information about our club as well as making new friends. The cookie is yours to take after the event! We hope to see you and your awesome cookie decorating skills!"
+  },
+  {
+    "title": "Red Hawk Reality - Challenge Demos",
+    "date": "2026-08-25T19:00:00+00:00",
+    "organization": "Red Hawk Reality",
+    "location": "University Hall Room 2025",
+    "link": "https://montclair.campuslabs.com/engage/event/12561865",
+    "description": "Students are welcome to try out Red Hawk Reality's amazing challenges, make new friends, and win a variety of prizes! Challenges include a selection of puzzles in the style of the hit Reality TV Show, Survivor, and original challenges created for Red Hawk Reality.\u00a0 \n See if you have what it takes to become the next winner of Montclair State University's Red Hawk Reality!"
   },
   {
     "title": "Kazoo Jam Session",
