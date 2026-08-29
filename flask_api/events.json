@@ -1144,20 +1144,20 @@
     "description": "Players: The Rocky Horror Picture Show Auditions Day Two"
   },
   {
-    "title": "Snacks Abroad ",
-    "date": "2026-09-10T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Freeman Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12654359",
-    "description": "Stop by and try a variety of popular snacks from different countries and cultures on September 9th from 8-10PM in Freeman Hall. Sample something new, compare your favorites, and enjoy a selection of sweet and savory treats from around the world!\u00a0 All students are welcome. Commuters must be signed in with a resident following residence life guest registration procedures."
-  },
-  {
     "title": "Friendship Bracelets",
     "date": "2026-09-10T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Count Basie at The Village Apartments",
     "link": "https://montclair.campuslabs.com/engage/event/12654360",
     "description": "On September 9th from 8PM-10PM, come to Count Basies lounge for a fun and creative social event where students can make personalized friendship bracelets while meeting new people and spending time with friends. Students can choose from colorful beads, charms, and string to create unique bracelets while socializing, being creative, and building connections within the campus community.\u00a0 All students are welcome commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Snacks Abroad ",
+    "date": "2026-09-10T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Freeman Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12654359",
+    "description": "Stop by and try a variety of popular snacks from different countries and cultures on September 9th from 8-10PM in Freeman Hall. Sample something new, compare your favorites, and enjoy a selection of sweet and savory treats from around the world!\u00a0 All students are welcome. Commuters must be signed in with a resident following residence life guest registration procedures."
   },
   {
     "title": "NFL Kickoff",
