@@ -1,69 +1,5 @@
 [
   {
-    "title": "Group X - Vinyasa Flow Yoga",
-    "date": "2026-08-31T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12588802",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, and Thursday (8/31 through 12/6) \n Monday and Wednesday: 9 AM - 9:45 AM, Thursday: 11 AM - 11:45 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Abigail (Monday/Wednesday) and Kendall (Thursday)"
-  },
-  {
-    "title": "Group X - Pilates",
-    "date": "2026-08-31T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12635632",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday:  10 AM - 10:45 AM  &  3:30 PM - 4:15 PM,  Wednesday:  11 AM - 11:45 AM  &  2 PM - 2:45 PM,  Thursday:  10 AM - 10:45 AM,  Friday:  4 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
-  },
-  {
-    "title": "Grab and Go Breakfast",
-    "date": "2026-08-31T14:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Abbott and Costello ",
-    "link": "https://montclair.campuslabs.com/engage/event/12519929",
-    "description": "Come to Abbott and Costello (the Village Office) on August 31st at 10AM for grab and go breakfast. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Grubhub Info Tabling",
-    "date": "2026-08-31T14:30:00+00:00",
-    "organization": "EATS by Gourmet Dining",
-    "location": "STCT Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12484463",
-    "description": "Stop by our table in the Student Center Lobby for Grubhub information, assistance, and answers to any questions you may have!"
-  },
-  {
-    "title": "Group X - Core & Restore",
-    "date": "2026-08-31T16:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12636709",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday (8/31 through 12/6) \n 12 PM - 12:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Alexa"
-  },
-  {
-    "title": "Kick Off College with Self-Care- Free Spa Kits ",
-    "date": "2026-08-31T16:00:00+00:00",
-    "organization": "Office of Health Promotion",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12544843",
-    "description": "Curious about what the cottage home is on campus? Come and check us out and find out what the Office of Health Promotion is all about! We have various resources available for you such as condoms, stress balls, sleep masks, and more! We will also be giving out free spa kits until supplies last!"
-  },
-  {
-    "title": "Kick Off College with Self-Care- Free Spa Kits ",
-    "date": "2026-08-31T16:00:00+00:00",
-    "organization": "Office of Health Promotion",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12544844",
-    "description": "Curious about what the cottage home is on campus? Come and check us out and find out what the Office of Health Promotion is all about! We have various resources available for you such as condoms, stress balls, sleep masks, and more! We will also be giving out free spa kits until supplies last!"
-  },
-  {
-    "title": "Franklin Health Services Tabling: CAPS",
-    "date": "2026-08-31T17:00:00+00:00",
-    "organization": "Bloomfield's Office of Residence Life",
-    "location": "Franklin Hall Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12648849",
-    "description": "CAPS (Counseling and Psychological Services) is coming to Franklin Hall! Stop by the lobby to meet the CAPS team, learn about available mental health and wellness resources, and find out how to access support throughout the semester. Whether you have questions or simply want to learn more about the services available to you, be sure to stop by! \n Monday, August 31 | 1:30 PM\u20133:00 PM Franklin Hall Lobby"
-  },
-  {
     "title": "Group X - Kickboxing",
     "date": "2026-08-31T18:00:00+00:00",
     "organization": "Campus Recreation",
@@ -78,6 +14,14 @@
     "location": "Bloomfield Campus Library",
     "link": "https://montclair.campuslabs.com/engage/event/12558303",
     "description": "Hang out with the Library team at our Weeks of Welcome event! \n It\u2019s a great chance to relax, have some fun, and connect. You can\u00a0play a game\u00a0with our friendly neighborhood Librarians\u2014and enjoy some free, \u00a0 tasty snacks. \n Feel free to kick back with friends, play a board game, or\u00a0create your own personal button. \n Hope to see you there!"
+  },
+  {
+    "title": "Franklin Health Services Tabling: CAPS",
+    "date": "2026-08-31T17:00:00+00:00",
+    "organization": "Bloomfield's Office of Residence Life",
+    "location": "Franklin Hall Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12648849",
+    "description": "CAPS (Counseling and Psychological Services) is coming to Franklin Hall! Stop by the lobby to meet the CAPS team, learn about available mental health and wellness resources, and find out how to access support throughout the semester. Whether you have questions or simply want to learn more about the services available to you, be sure to stop by! \n Monday, August 31 | 1:00 PM\u20133:00 PM Franklin Hall Lobby"
   },
   {
     "title": "Meet the Greeks",
@@ -203,7 +147,7 @@
     "title": "UG Cert in Spanish for the Profession Pop Up Info session & Coffee",
     "date": "2026-09-01T16:00:00+00:00",
     "organization": "Center for Latino Heritage & Spanish Language Excellence",
-    "location": "CLaSE Office",
+    "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12539782",
     "description": "Interested in adding a valuable credential to your degree? Stop by our  Undergraduate Certificate in Spanish for the Professions Pop-Up Info Session & Coffee  to learn how the certificate can enhance your communication skills and career opportunities. \n Open to undergraduate students, especially those majoring in  Justice Studies, Business, Accounting, and Health-related fields . Enjoy a cup of coffee, ask questions, and learn how the program can fit into your academic plan. \n ----- \n 08/24 11am-1pm | Schmitt Hall 138 \n 08/25 10am-12pm | Zoom \n 09/01 at 12-2pm | Schmitt Hall 138 \n ----- \n \u00bfTe interesa agregar una credencial valiosa a tu carrera? Visita nuestra  Sesi\u00f3n Informativa Pop-Up y Caf\u00e9 sobre el Certificado de Pregrado en Espa\u00f1ol para las Profesiones  para conocer c\u00f3mo este certificado puede fortalecer tus habilidades de comunicaci\u00f3n y ampliar tus oportunidades profesionales. \n Abierto a estudiantes de pregrado, especialmente de  Justicia, Negocios, Contabilidad y \u00e1reas de la Salud . Disfruta de un caf\u00e9, haz tus preguntas y descubre c\u00f3mo este programa puede complementar tu plan de estudios. ----"
   },
@@ -296,14 +240,6 @@
     "description": "Manifest your semester at DIY Vision Board Night. Step into a space filled with magazines, markers, good vibes, and endless possibilities as you design a board that reflects your goals, dreams, and everything you\u2019re ready to claim. Whether you\u2019re mapping out academic wins, personal growth, or just manifesting more joy, this is your moment to create a vision that inspires you every day. \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Tuesday, September 1st 2026 \n 7:00 pm - 9:00 pm (must be checked in by 8:30 pm to participate)\u00a0 \n Rec Center Lounge"
   },
   {
-    "title": "Academic & Social Organization Fair",
-    "date": "2026-09-01T23:00:00+00:00",
-    "organization": "Campus Activities",
-    "location": "Student Center Ballrooms",
-    "link": "https://montclair.campuslabs.com/engage/event/12513102",
-    "description": "Discover all that campus life has to offer at the Organization Fair! Meet student organizations, clubs, and campus departments, explore opportunities to get involved, and find your community. Whether you\u2019re looking to join a club, take on a leadership role, or just learn more about campus resources, this is the perfect place to start.\u00a0 We have over 40 organizations registered! \n How do I sign up? \n \n Early registration is not required \n FREE for students with a valid Montclair State ID \n All students are welcome! \n \n Where and when? \n \n 7 pm - 9 pm \n Student Center Ballrooms \n \n Below is a list of registered organizations \n \u00a0 \n \n \n \n \n \n Academic & Social Organization Fair \n \n \n \n \n A.LIFE \n \n \n \n \n Alpha Iota Chi Local Sorority Inc. \n \n \n \n \n \n \n Alpha Kappa Alpha Sorority, Inc. \n \n \n \n \n Amici Club \n \n \n Brasil Club \n \n \n \n \n Chi Alpha Campus Ministries \n \n \n \n \n Club Dance \n \n \n Club ESports \n \n \n \n \n Club Men's Basketball \n \n \n \n \n \n \n Club Men's Rugby \n \n \n \n \n Club Pickleball \n \n \n Club Softball \n \n \n \n \n Club Women's Basketball \n \n \n \n \n \n \n Club Women's Rugby \n \n \n \n \n \n \n Coalition for Collective Liberation \n \n \n \n \n Complexions \n \n \n Daughta Speaks \n \n \n DECA \n \n \n Delta Xi Delta \n \n \n \n \n Dominican Student Organization \n \n \n \n \n \n \n FAN: Future Alumni Network \n \n \n \n \n First Love \n \n \n \n \n Food Science Association \n \n \n \n \n \n \n Future Business Leaders of America \n \n \n \n \n \n \n Health Occupations Students of America - Future Health Professionals \n \n \n \n \n Hillel \n \n \n LadiesFIRST \n \n \n \n \n Latin American Student Organization \n \n \n \n \n \n \n Mexican-American Student Association \n \n \n \n \n \n \n Montclair A Cappella \n \n \n \n \n \n \n Montclair Ad Club \n \n \n \n \n \n \n Montclair Marine Biology Organization \n \n \n \n \n \n \n Montclair Progressive \n \n \n \n \n \n \n Montclair State Biology Club \n \n \n \n \n \n \n Montclair State Marketing Club \n \n \n \n \n \n \n Montclair State University Chess Club \n \n \n \n \n \n \n Montclair State University Players \n \n \n \n \n \n \n Montclair State University Skate Club \n \n \n \n \n \n \n MSU's Photography Club \n \n \n \n \n \n \n Muslim Student Association \n \n \n \n \n \n \n Neuroscience Club \n \n \n \n \n \n \n Panther Progress \n \n \n \n \n \n \n Peruvian-American Student Organization \n \n \n \n \n Phi Sigma Sigma \n \n \n \n \n Pre-Vet/Animal Science Club \n \n \n \n \n Psychology Club \n \n \n \n \n Red Hawk Catholic \n \n \n \n \n \n \n Red Hawk Reality \n \n \n \n \n \n \n Red Hawk Studio \n \n \n \n \n Sigma Delta Phi \n \n \n \n \n Sigma Gamma Rho Sorority, Inc. \n \n \n \n \n \n \n Student Government Association, Inc. \n \n \n \n \n \n \n Student Life At Montclair (SLAM) \n \n \n \n \n \n \n The Apple Core Community \n \n \n \n \n \n \n The Historical Society at Montclair State \n \n \n \n \n \n \n The Montclair English Club \n \n \n \n \n \n \n The Public Health Association at Montclair State University \n \n \n \n \n Theta Kappa Chi \n \n \n Theta Phi Alpha \n \n \n \n \n Turning Point USA \n \n \n \n \n WMSC 90.3 FM"
-  },
-  {
     "title": "Karaoke Night",
     "date": "2026-09-01T23:00:00+00:00",
     "organization": "Bloomfield's Office of Residence Life",
@@ -390,6 +326,14 @@
     "location": "Student Center Ballrooms ABC & Patio",
     "link": "https://montclair.campuslabs.com/engage/event/12572243",
     "description": "Join us for the First-Gen Block Party during Welcome Week, a special celebration welcoming our newest first-generation students to campus. \n Come connect with fellow Red Hawks, meet members of the Montclair community, and learn about the resources, support, and opportunities available to help you thrive throughout your college journey. Whether you\u2019re looking to make new friends, get involved, or simply celebrate this exciting new chapter, there\u2019s a place for you here! \n \ud83d\udcc5  Wednesday, September 2 \u23f0  1:30 PM\u20133:30 PM \ud83d\udccd  Student Center Ballrooms"
+  },
+  {
+    "title": " Franklin Health Services Tabling: Advocacy and Outreach",
+    "date": "2026-09-02T18:30:00+00:00",
+    "organization": "Bloomfield's Office of Residence Life",
+    "location": "Franklin Hall Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12665213",
+    "description": "Advocacy & Outreach is coming to Franklin Hall! Stop by the lobby to meet the team, learn about available support services and resources, and discover ways to promote a safe, healthy, and supportive campus community. Whether you have questions, want to learn more, or simply want to connect, be sure to stop by! \n Wednesday, September 2 | 2:30 PM\u20134:30 PM Franklin Hall Lobby"
   },
   {
     "title": "Group X - Total Body Strength and Conditioning",
@@ -1400,20 +1344,20 @@
     "description": "Join Campus Activities for Craft Night! Design and decorate your own picture frame to showcase your favorite memories."
   },
   {
-    "title": "Mocktail Mixer",
-    "date": "2026-09-13T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12654333",
-    "description": "Join us in Blanton for our Mocktail Mixer on September 12th from 8-10pm. Come and make new friends and have great convos! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Tee Time",
     "date": "2026-09-13T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Bohn Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12654320",
     "description": "Join us for Tee Time on September 12th from 8\u201310 PM in the Bohn Hall Lounge! Get creative and design your very own graphic tee with fun designs, colors, and personal touches. Whether you\u2019re creating something bold, funny, or totally your style, come hang out, get crafty, and leave with a one-of-a-kind shirt made by you! All students are welcome! Commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Mocktail Mixer",
+    "date": "2026-09-13T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12654333",
+    "description": "Join us in Blanton for our Mocktail Mixer on September 12th from 8-10pm. Come and make new friends and have great convos! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Pennsylvania Renaissance Faire and Camping Trip",
@@ -1502,6 +1446,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12502441",
     "description": "Ready to take control of your schedule instead of letting it control you? In this workshop, you\u2019ll learn how to use a calendar to plan, prioritize, and stay on top of your responsibilities.\u00a0Attend and receive a raffle ticket for a chance to win a prize! \n Image Description: Two hands writing on a paper calendar."
+  },
+  {
+    "title": "Mindfulness Meditation ",
+    "date": "2026-09-14T16:00:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12665071",
+    "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
   },
   {
     "title": "Group X - Core & Restore",
@@ -1664,6 +1616,14 @@
     "description": "PENSA MSU is excited to welcome you to our first General Body Meeting of the semester\u2014a warm space to worship, connect, and grow together in Christ. As we begin, we stand on Matthew 18:20:  \u201cFor where two or three gather in my name, there am I with them.\u201d  Come ready for fellowship, and don\u2019t come alone\u2014invite a friend who needs community this semester."
   },
   {
+    "title": "Kichwa Language Workshop Series",
+    "date": "2026-09-14T21:30:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Cole Hall # 141",
+    "link": "https://montclair.campuslabs.com/engage/event/12663581",
+    "description": "LAIC (LATIN AMERICAN INDIGENOUS COLLABORATIVE) at CLaSE invites the Montclair State University community and the broader public to participate in our  Kichwa Language & Culture Workshop Series , beginning  Monday, September 14 . \n This  10-week workshop series  offers participants the opportunity to learn Kichwa while exploring the language, culture, and traditions of Kichwa-speaking communities. Workshops are conducted in  Spanish and Kichwa by our amazing and well known Kichwa community leaders - Atik Paguay and Fabian Muenala \u00a0and are open to  students, faculty, staff, families, and community members from outside the University . No previous knowledge of Kichwa is required. \n Mondays, beginning September 14 5:30\u20137:30 p.m. Cole Hall, Room 141 10-week series \n We invite everyone interested in Indigenous languages and cultures to join us.  Registration is required by contacting Dr. Calarota-Ninman at\u00a0 calarotaa@montclair.edu"
+  },
+  {
     "title": "M.I.L.F. Round One Workshop ",
     "date": "2026-09-14T21:30:00+00:00",
     "organization": "Montclair State University Players",
@@ -1686,6 +1646,14 @@
     "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12616097",
     "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
+  },
+  {
+    "title": "The Importance of Being Earnest Audition Day 1",
+    "date": "2026-09-14T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250A - Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/12663976",
+    "description": "Players:\u00a0The Importance of Being Earnest Audition Day 1"
   },
   {
     "title": "The Rocky Horror Picture Show Tech Rehearsal ",
@@ -1888,6 +1856,14 @@
     "description": "Players: The Rocky Horror Picture Show Rehearsal"
   },
   {
+    "title": "The Importance of Being Earnest Audition Day 2",
+    "date": "2026-09-15T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/12663986",
+    "description": "Players:\u00a0The Importance of Being Earnest Audition Day 2"
+  },
+  {
     "title": "Cleaning Supply Grab & Go",
     "date": "2026-09-16T00:00:00+00:00",
     "organization": "Residence Life",
@@ -2006,6 +1982,14 @@
     "location": "Student Center Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/12442818",
     "description": "The Fall Part-time Job Fair offers students the opportunity to meet with both on-campus and off-campus employers interested in hiring various positions. The Fair will be held in the Student Center Ballrooms from 1-3 p.m., on Wednesday, September 16.\u00a0 \n \n More Information : \n \n Bring plenty of copies of your resume \n Students must bring their Montclair State University Student IDs \n Registration is required through\u00a0Handshake \n The location is the Student Center Ballrooms September 16, 2016 1:00 PM - 3:00 PM"
+  },
+  {
+    "title": "Accounting Society - Al-Nesha Jones, CPA, MBA",
+    "date": "2026-09-16T18:00:00+00:00",
+    "organization": "Accounting Society",
+    "location": "SBUS 255 Feliciano School of Business",
+    "link": "https://montclair.campuslabs.com/engage/event/12664643",
+    "description": "Our Story - ASE Group \n \n \n Our founder, Al-Nesha Jones, CPA, MBA, MOM, started ASE Group as the solution she needed to create freedom and flexibility as a working mom. With over a decade of experience in corporate America, she understood the importance of streamlining systems, financial reporting, and analytics, and she knew it could be done without having to sacrifice being present with her family. She was on a personal pursuit for flexibility and financial freedom, and a professional quest to serve her community in an impactful way. \n \n \n \n \n \n \n SBUS 255 (School of Business). We look forward to seeing you on September 16th."
   },
   {
     "title": "CART Academic Notice Advising Group",
@@ -2136,6 +2120,14 @@
     "description": "Join RA Hafiz for  Build A Buddy DIY , a fun and creative night where residents can make their very own buddy to take home. \n \ud83d\udccdFranklin Hall \u2013 Multi-Purpose Room (Room 314) \ud83d\udcc5  September 16  | \u23f0  8:00\u201310:00 PM"
   },
   {
+    "title": "CX Practice ",
+    "date": "2026-09-17T00:00:00+00:00",
+    "organization": "Complexions",
+    "location": "Student Center 250A - Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/12663983",
+    "description": "Complexion will be getting together to earn and create choreography for various events and football games this semester."
+  },
+  {
     "title": "Group X - Vinyasa Good Morning Yoga",
     "date": "2026-09-17T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -2254,6 +2246,14 @@
     "location": "Blanton Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12618426",
     "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu \n Stay updated by following us on Instagram:  @montclair_redhawkpantry \n \ud83c\udf4e  Fall 2026 Hours \n \n Tuesdays: 1:30-3:30pm \n Thursdays: 5-7pm \n Saturdays: 11-1pm"
+  },
+  {
+    "title": "Learning in Circle: English for the Community",
+    "date": "2026-09-17T22:00:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Schmitt Hall 104",
+    "link": "https://montclair.campuslabs.com/engage/event/12663650",
+    "description": "CLaSE invites members of the Montclair State University community and the broader public to participate in  Learning in Circle: English for the Community , beginning  Thursday, September 17 . \n This  10-week workshop series  provides a welcoming and supportive environment for adult learners who want to strengthen their  English conversation and comprehension skills  through practical, interactive activities. Workshops are open to  students, families, and community members from outside the University . \n Thursdays, beginning September 17 6\u20137:30 p.m. Schmitt Hall, Room 104 10-week series \n The workshops are  free and open to the community , but  registration is required by contacting calarotaa@montclair.edu . We invite anyone interested in improving their English skills to join us and learn in community!"
   },
   {
     "title": "Group X - Brazilian Jiu-Jitsu",
@@ -2456,6 +2456,14 @@
     "description": "Join us for Picture This on September 19th from 8\u201310 PM in Stone Lounge! Capture the moment and get creative as you decorate your very own Polaroid photos with fun stickers, colorful designs, and personal touches. Bring your friends, strike a pose, and make memories you can take with you! All students are welcome! Commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "Players Homecoming Variety Show Rehearsal ",
+    "date": "2026-09-20T14:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250A - Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/12663961",
+    "description": "Players Homecoming Variety Show Rehearsal"
+  },
+  {
     "title": "The Importance of Being Earnest Rehearsal ",
     "date": "2026-09-20T14:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -2526,6 +2534,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635694",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
+  },
+  {
+    "title": "Mindfulness Meditation ",
+    "date": "2026-09-21T16:00:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12665072",
+    "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
   },
   {
     "title": "Group X - Core & Restore",
@@ -2614,6 +2630,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12587320",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays and Tuesdays (8/31 through 12/6) \n Monday: 6 PM - 6:45 PM, Tuesday: 3:30 PM - 4:15 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "Kichwa Language Workshop Series",
+    "date": "2026-09-21T21:30:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Cole Hall 141",
+    "link": "https://montclair.campuslabs.com/engage/event/12663582",
+    "description": "LAIC (LATIN AMERICAN INDIGENOUS COLLABORATIVE) at CLaSE invites the Montclair State University community and the broader public to participate in our  Kichwa Language & Culture Workshop Series , beginning  Monday, September 14 . \n This  10-week workshop series  offers participants the opportunity to learn Kichwa while exploring the language, culture, and traditions of Kichwa-speaking communities. Workshops are conducted in  Spanish and Kichwa by our amazing and well known Kichwa community leaders - Atik Paguay and Fabian Muenala \u00a0and are open to  students, faculty, staff, families, and community members from outside the University . No previous knowledge of Kichwa is required. \n Mondays, beginning September 14 5:30\u20137:30 p.m. Cole Hall, Room 141 10-week series \n We invite everyone interested in Indigenous languages and cultures to join us.  Registration is required by contacting Dr. Calarota-Ninman at\u00a0 calarotaa@montclair.edu"
   },
   {
     "title": "Group X - Yin Goodnight Yoga",
@@ -2992,6 +3016,14 @@
     "description": "In Freeman hall on September 23rd from 8PM-10PM, join us for a creative vision board program where students can create a visual representation of their goals, dreams, and aspirations. Students will use pictures, words, and decorations to design a personalized vision board while connecting with other students in a fun and positive environment.\u00a0All students are welcome commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "CX Practice ",
+    "date": "2026-09-24T00:00:00+00:00",
+    "organization": "Complexions",
+    "location": "Student Center 250A - Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/12663955",
+    "description": "Complexions will come together, learn and create choreographer for various events this semester."
+  },
+  {
     "title": "Group X - Vinyasa Good Morning Yoga",
     "date": "2026-09-24T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -3102,6 +3134,14 @@
     "location": "Blanton Hall ",
     "link": "https://montclair.campuslabs.com/engage/event/12618429",
     "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu \n Stay updated by following us on Instagram:  @montclair_redhawkpantry \n \ud83c\udf4e  Fall 2026 Hours \n \n Tuesdays: 1:30-3:30pm \n Thursdays: 5-7pm \n Saturdays: 11-1pm"
+  },
+  {
+    "title": "Learning in Circle: English for the Community",
+    "date": "2026-09-24T22:00:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Schmitt Hall 104",
+    "link": "https://montclair.campuslabs.com/engage/event/12663651",
+    "description": "CLaSE invites members of the Montclair State University community and the broader public to participate in  Learning in Circle: English for the Community , beginning  Thursday, September 17 . \n This  10-week workshop series  provides a welcoming and supportive environment for adult learners who want to strengthen their  English conversation and comprehension skills  through practical, interactive activities. Workshops are open to  students, families, and community members from outside the University . \n Thursdays, beginning September 17 6\u20137:30 p.m. Schmitt Hall, Room 104 10-week series \n The workshops are  free and open to the community , but  registration is required by contacting calarotaa@montclair.edu . We invite anyone interested in improving their English skills to join us and learn in community!"
   },
   {
     "title": "Group X - Brazilian Jiu-Jitsu",
@@ -3288,6 +3328,14 @@
     "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu \n Stay updated by following us on Instagram:  @montclair_redhawkpantry \n \ud83c\udf4e  Fall 2026 Hours \n \n Tuesdays: 1:30-3:30pm \n Thursdays: 5-7pm \n Saturdays: 11-1pm"
   },
   {
+    "title": "The Rocky Horror Picture Show Rehearsal",
+    "date": "2026-09-26T14:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250A - Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/12663957",
+    "description": "Players: The Rocky Horror Picture Show Rehearsal"
+  },
+  {
     "title": "The Importance of Being Earnest Rehearsal ",
     "date": "2026-09-26T14:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -3416,6 +3464,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
+    "title": "Mindfulness Meditation ",
+    "date": "2026-09-28T16:00:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12665073",
+    "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
+  },
+  {
     "title": "Group X - Core & Restore",
     "date": "2026-09-28T16:00:00+00:00",
     "organization": "Campus Recreation",
@@ -3526,6 +3582,14 @@
     "location": "Student Center 415 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12561660",
     "description": "PENSA MSU is excited to welcome you to our General Body Meeting\u2014a warm space to worship, connect, and grow together in Christ. As we gather, we stand on Matthew 18:20: \u201cFor where two or three gather in my name, there am I with them.\u201d Come ready for fellowship, and don\u2019t come alone\u2014invite a friend who needs community and encouragement on campus."
+  },
+  {
+    "title": "Kichwa Language Workshop Series",
+    "date": "2026-09-28T21:30:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Cole Hall 141",
+    "link": "https://montclair.campuslabs.com/engage/event/12663583",
+    "description": "LAIC (LATIN AMERICAN INDIGENOUS COLLABORATIVE) at CLaSE invites the Montclair State University community and the broader public to participate in our  Kichwa Language & Culture Workshop Series , beginning  Monday, September 14 . \n This  10-week workshop series  offers participants the opportunity to learn Kichwa while exploring the language, culture, and traditions of Kichwa-speaking communities. Workshops are conducted in  Spanish and Kichwa by our amazing and well known Kichwa community leaders - Atik Paguay and Fabian Muenala \u00a0and are open to  students, faculty, staff, families, and community members from outside the University . No previous knowledge of Kichwa is required. \n Mondays, beginning September 14 5:30\u20137:30 p.m. Cole Hall, Room 141 10-week series \n We invite everyone interested in Indigenous languages and cultures to join us.  Registration is required by contacting Dr. Calarota-Ninman at\u00a0 calarotaa@montclair.edu"
   },
   {
     "title": "Group X - Yin Goodnight Yoga",
@@ -3968,6 +4032,14 @@
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
   {
+    "title": "Learning in Circle: English for the Community",
+    "date": "2026-10-01T22:00:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Schmitt Hall 104",
+    "link": "https://montclair.campuslabs.com/engage/event/12663652",
+    "description": "CLaSE invites members of the Montclair State University community and the broader public to participate in  Learning in Circle: English for the Community , beginning  Thursday, September 17 . \n This  10-week workshop series  provides a welcoming and supportive environment for adult learners who want to strengthen their  English conversation and comprehension skills  through practical, interactive activities. Workshops are open to  students, families, and community members from outside the University . \n Thursdays, beginning September 17 6\u20137:30 p.m. Schmitt Hall, Room 104 10-week series \n The workshops are  free and open to the community , but  registration is required by contacting calarotaa@montclair.edu . We invite anyone interested in improving their English skills to join us and learn in community!"
+  },
+  {
     "title": "Group X - Brazilian Jiu-Jitsu",
     "date": "2026-10-01T22:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4160,6 +4232,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
+    "title": "Mindfulness Meditation ",
+    "date": "2026-10-05T16:00:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12665074",
+    "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
+  },
+  {
     "title": "Group X - Core & Restore",
     "date": "2026-10-05T16:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4254,6 +4334,14 @@
     "location": "Student Center 415 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12561661",
     "description": "PENSA MSU is excited to welcome you to our General Body Meeting\u2014a warm space to worship, connect, and grow together in Christ. As we gather, we stand on Matthew 18:20: \u201cFor where two or three gather in my name, there am I with them.\u201d Come ready for fellowship, and don\u2019t come alone\u2014invite a friend who needs community and encouragement on campus."
+  },
+  {
+    "title": "Kichwa Language Workshop Series",
+    "date": "2026-10-05T21:30:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Cole Hall 141",
+    "link": "https://montclair.campuslabs.com/engage/event/12663584",
+    "description": "LAIC (LATIN AMERICAN INDIGENOUS COLLABORATIVE) at CLaSE invites the Montclair State University community and the broader public to participate in our  Kichwa Language & Culture Workshop Series , beginning  Monday, September 14 . \n This  10-week workshop series  offers participants the opportunity to learn Kichwa while exploring the language, culture, and traditions of Kichwa-speaking communities. Workshops are conducted in  Spanish and Kichwa by our amazing and well known Kichwa community leaders - Atik Paguay and Fabian Muenala \u00a0and are open to  students, faculty, staff, families, and community members from outside the University . No previous knowledge of Kichwa is required. \n Mondays, beginning September 14 5:30\u20137:30 p.m. Cole Hall, Room 141 10-week series \n We invite everyone interested in Indigenous languages and cultures to join us.  Registration is required by contacting Dr. Calarota-Ninman at\u00a0 calarotaa@montclair.edu"
   },
   {
     "title": "Group X - Yin Goodnight Yoga",
@@ -4640,6 +4728,14 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
+    "title": "Learning in Circle: English for the Community",
+    "date": "2026-10-08T22:00:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Schmitt Hall 104",
+    "link": "https://montclair.campuslabs.com/engage/event/12663653",
+    "description": "CLaSE invites members of the Montclair State University community and the broader public to participate in  Learning in Circle: English for the Community , beginning  Thursday, September 17 . \n This  10-week workshop series  provides a welcoming and supportive environment for adult learners who want to strengthen their  English conversation and comprehension skills  through practical, interactive activities. Workshops are open to  students, families, and community members from outside the University . \n Thursdays, beginning September 17 6\u20137:30 p.m. Schmitt Hall, Room 104 10-week series \n The workshops are  free and open to the community , but  registration is required by contacting calarotaa@montclair.edu . We invite anyone interested in improving their English skills to join us and learn in community!"
+  },
+  {
     "title": "Group X - Brazilian Jiu-Jitsu",
     "date": "2026-10-08T22:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4888,6 +4984,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
+    "title": "Mindfulness Meditation ",
+    "date": "2026-10-12T16:00:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12665075",
+    "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
+  },
+  {
     "title": "Group X - Core & Restore",
     "date": "2026-10-12T16:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4990,6 +5094,14 @@
     "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513478",
     "description": "Come decompress at the Student Recreation Center Pool! Declutter your mind with soothing sounds, guided meditation, manifestation and other activities. Vibe on the paddleboards in the water, or on a yoga mat on deck! Enjoy a free self-care kit from the Office of Health Promotion with relaxing essentials, connect with friends, and take a well-deserved break from your busy schedule. Whether you\u2019re looking to recharge, reflect, or simply unwind, this is your space to relax and leave feeling refreshed. \n How do I Sign-up? \n \n Registration is not required \n FREE with valid Montclair State ID \n \n When and Where? \n \n Student Recreation Center - Pool \n 5pm - 7pm \n Monday, October 12th, 2026"
+  },
+  {
+    "title": "Kichwa Language Workshop Series",
+    "date": "2026-10-12T21:30:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Cole Hall 141",
+    "link": "https://montclair.campuslabs.com/engage/event/12663585",
+    "description": "LAIC (LATIN AMERICAN INDIGENOUS COLLABORATIVE) at CLaSE invites the Montclair State University community and the broader public to participate in our  Kichwa Language & Culture Workshop Series , beginning  Monday, September 14 . \n This  10-week workshop series  offers participants the opportunity to learn Kichwa while exploring the language, culture, and traditions of Kichwa-speaking communities. Workshops are conducted in  Spanish and Kichwa by our amazing and well known Kichwa community leaders - Atik Paguay and Fabian Muenala \u00a0and are open to  students, faculty, staff, families, and community members from outside the University . No previous knowledge of Kichwa is required. \n Mondays, beginning September 14 5:30\u20137:30 p.m. Cole Hall, Room 141 10-week series \n We invite everyone interested in Indigenous languages and cultures to join us.  Registration is required by contacting Dr. Calarota-Ninman at\u00a0 calarotaa@montclair.edu"
   },
   {
     "title": "Group X - Yin Goodnight Yoga",
@@ -5478,6 +5590,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12636828",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday and Thursday (8/31 through 12/6) \n 6 PM - 7:30 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
+  },
+  {
+    "title": "Learning in Circle: English for the Community",
+    "date": "2026-10-15T22:00:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Schmitt Hall 104",
+    "link": "https://montclair.campuslabs.com/engage/event/12663654",
+    "description": "CLaSE invites members of the Montclair State University community and the broader public to participate in  Learning in Circle: English for the Community , beginning  Thursday, September 17 . \n This  10-week workshop series  provides a welcoming and supportive environment for adult learners who want to strengthen their  English conversation and comprehension skills  through practical, interactive activities. Workshops are open to  students, families, and community members from outside the University . \n Thursdays, beginning September 17 6\u20137:30 p.m. Schmitt Hall, Room 104 10-week series \n The workshops are  free and open to the community , but  registration is required by contacting calarotaa@montclair.edu . We invite anyone interested in improving their English skills to join us and learn in community!"
   },
   {
     "title": "Charity Week Banquet",
@@ -6032,6 +6152,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
+    "title": "Mindfulness Meditation ",
+    "date": "2026-10-26T16:00:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12665076",
+    "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
+  },
+  {
     "title": "Group X - Core & Restore",
     "date": "2026-10-26T16:00:00+00:00",
     "organization": "Campus Recreation",
@@ -6118,6 +6246,14 @@
     "location": "Student Center 415 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12561662",
     "description": "PENSA MSU is excited to welcome you to our General Body Meeting\u2014a warm space to worship, connect, and grow together in Christ. As we gather, we stand on Matthew 18:20: \u201cFor where two or three gather in my name, there am I with them.\u201d Come ready for fellowship, and don\u2019t come alone\u2014invite a friend who needs community and encouragement on campus."
+  },
+  {
+    "title": "Kichwa Language Workshop Series",
+    "date": "2026-10-26T21:30:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Cole Hall 141",
+    "link": "https://montclair.campuslabs.com/engage/event/12663586",
+    "description": "LAIC (LATIN AMERICAN INDIGENOUS COLLABORATIVE) at CLaSE invites the Montclair State University community and the broader public to participate in our  Kichwa Language & Culture Workshop Series , beginning  Monday, September 14 . \n This  10-week workshop series  offers participants the opportunity to learn Kichwa while exploring the language, culture, and traditions of Kichwa-speaking communities. Workshops are conducted in  Spanish and Kichwa by our amazing and well known Kichwa community leaders - Atik Paguay and Fabian Muenala \u00a0and are open to  students, faculty, staff, families, and community members from outside the University . No previous knowledge of Kichwa is required. \n Mondays, beginning September 14 5:30\u20137:30 p.m. Cole Hall, Room 141 10-week series \n We invite everyone interested in Indigenous languages and cultures to join us.  Registration is required by contacting Dr. Calarota-Ninman at\u00a0 calarotaa@montclair.edu"
   },
   {
     "title": "Group X - Yin Goodnight Yoga",
@@ -6512,6 +6648,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday and Thursday (8/31 through 12/6) \n 6 PM - 7:30 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
   },
   {
+    "title": "Learning in Circle: English for the Community",
+    "date": "2026-10-29T22:00:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Schmitt Hall 104",
+    "link": "https://montclair.campuslabs.com/engage/event/12663655",
+    "description": "CLaSE invites members of the Montclair State University community and the broader public to participate in  Learning in Circle: English for the Community , beginning  Thursday, September 17 . \n This  10-week workshop series  provides a welcoming and supportive environment for adult learners who want to strengthen their  English conversation and comprehension skills  through practical, interactive activities. Workshops are open to  students, families, and community members from outside the University . \n Thursdays, beginning September 17 6\u20137:30 p.m. Schmitt Hall, Room 104 10-week series \n The workshops are  free and open to the community , but  registration is required by contacting calarotaa@montclair.edu . We invite anyone interested in improving their English skills to join us and learn in community!"
+  },
+  {
     "title": "Lipsync Battle",
     "date": "2026-10-29T22:00:00+00:00",
     "organization": "Montclair Unified Filipino American Student Association",
@@ -6688,6 +6832,14 @@
     "description": "Learn more about Curricular Practical Training (CPT) for F-1 students. Any student planning to apply for CPT is REQUIRED to attend a workshop before they can apply. This workshop is for CURRENT students ONLY - any other attendees will be removed."
   },
   {
+    "title": "Mindfulness Meditation ",
+    "date": "2026-11-02T17:00:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12665077",
+    "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
+  },
+  {
     "title": "Group X - Core & Restore",
     "date": "2026-11-02T17:00:00+00:00",
     "organization": "Campus Recreation",
@@ -6774,6 +6926,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12587332",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays and Tuesdays (8/31 through 12/6) \n Monday: 6 PM - 6:45 PM, Tuesday: 3:30 PM - 4:15 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "Kichwa Language Workshop Series",
+    "date": "2026-11-02T22:30:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Cole Hall 141",
+    "link": "https://montclair.campuslabs.com/engage/event/12663587",
+    "description": "LAIC (LATIN AMERICAN INDIGENOUS COLLABORATIVE) at CLaSE invites the Montclair State University community and the broader public to participate in our  Kichwa Language & Culture Workshop Series , beginning  Monday, September 14 . \n This  10-week workshop series  offers participants the opportunity to learn Kichwa while exploring the language, culture, and traditions of Kichwa-speaking communities. Workshops are conducted in  Spanish and Kichwa by our amazing and well known Kichwa community leaders - Atik Paguay and Fabian Muenala \u00a0and are open to  students, faculty, staff, families, and community members from outside the University . No previous knowledge of Kichwa is required. \n Mondays, beginning September 14 5:30\u20137:30 p.m. Cole Hall, Room 141 10-week series \n We invite everyone interested in Indigenous languages and cultures to join us.  Registration is required by contacting Dr. Calarota-Ninman at\u00a0 calarotaa@montclair.edu"
   },
   {
     "title": "Group X - Yin Goodnight Yoga",
@@ -7080,6 +7240,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday and Thursday (8/31 through 12/6) \n 6 PM - 7:30 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
   },
   {
+    "title": "Learning in Circle: English for the Community",
+    "date": "2026-11-05T23:00:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Schmitt Hall 104",
+    "link": "https://montclair.campuslabs.com/engage/event/12663656",
+    "description": "CLaSE invites members of the Montclair State University community and the broader public to participate in  Learning in Circle: English for the Community , beginning  Thursday, September 17 . \n This  10-week workshop series  provides a welcoming and supportive environment for adult learners who want to strengthen their  English conversation and comprehension skills  through practical, interactive activities. Workshops are open to  students, families, and community members from outside the University . \n Thursdays, beginning September 17 6\u20137:30 p.m. Schmitt Hall, Room 104 10-week series \n The workshops are  free and open to the community , but  registration is required by contacting calarotaa@montclair.edu . We invite anyone interested in improving their English skills to join us and learn in community!"
+  },
+  {
     "title": "Fall Ceramic Decorating",
     "date": "2026-11-06T00:00:00+00:00",
     "organization": "Campus Activities",
@@ -7240,6 +7408,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
+    "title": "Mindfulness Meditation ",
+    "date": "2026-11-09T17:00:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12665078",
+    "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
+  },
+  {
     "title": "Group X - Core & Restore",
     "date": "2026-11-09T17:00:00+00:00",
     "organization": "Campus Recreation",
@@ -7310,6 +7486,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12587377",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays and Tuesdays (8/31 through 12/6) \n Monday: 6 PM - 6:45 PM, Tuesday: 3:30 PM - 4:15 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "Kichwa Language Workshop Series",
+    "date": "2026-11-09T22:30:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Cole Hall 141",
+    "link": "https://montclair.campuslabs.com/engage/event/12663588",
+    "description": "LAIC (LATIN AMERICAN INDIGENOUS COLLABORATIVE) at CLaSE invites the Montclair State University community and the broader public to participate in our  Kichwa Language & Culture Workshop Series , beginning  Monday, September 14 . \n This  10-week workshop series  offers participants the opportunity to learn Kichwa while exploring the language, culture, and traditions of Kichwa-speaking communities. Workshops are conducted in  Spanish and Kichwa by our amazing and well known Kichwa community leaders - Atik Paguay and Fabian Muenala \u00a0and are open to  students, faculty, staff, families, and community members from outside the University . No previous knowledge of Kichwa is required. \n Mondays, beginning September 14 5:30\u20137:30 p.m. Cole Hall, Room 141 10-week series \n We invite everyone interested in Indigenous languages and cultures to join us.  Registration is required by contacting Dr. Calarota-Ninman at\u00a0 calarotaa@montclair.edu"
   },
   {
     "title": "Group X - Yin Goodnight Yoga",
@@ -7600,6 +7784,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday and Thursday (8/31 through 12/6) \n 6 PM - 7:30 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
   },
   {
+    "title": "Learning in Circle: English for the Community",
+    "date": "2026-11-12T23:00:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Schmitt Hall 104",
+    "link": "https://montclair.campuslabs.com/engage/event/12663657",
+    "description": "CLaSE invites members of the Montclair State University community and the broader public to participate in  Learning in Circle: English for the Community , beginning  Thursday, September 17 . \n This  10-week workshop series  provides a welcoming and supportive environment for adult learners who want to strengthen their  English conversation and comprehension skills  through practical, interactive activities. Workshops are open to  students, families, and community members from outside the University . \n Thursdays, beginning September 17 6\u20137:30 p.m. Schmitt Hall, Room 104 10-week series \n The workshops are  free and open to the community , but  registration is required by contacting calarotaa@montclair.edu . We invite anyone interested in improving their English skills to join us and learn in community!"
+  },
+  {
     "title": "Wooden Sign Decorating",
     "date": "2026-11-13T00:00:00+00:00",
     "organization": "Campus Activities",
@@ -7752,6 +7944,14 @@
     "description": "Learn more about pre-completion and post-completion Optional Practical Training (OPT) for F-1 students. Any student planning to apply for OPT is REQUIRED to attend a workshop before they can apply. This workshop is for CURRENT students ONLY - any other attendees will be removed."
   },
   {
+    "title": "Mindfulness Meditation ",
+    "date": "2026-11-16T17:00:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12665079",
+    "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
+  },
+  {
     "title": "Group X - Core & Restore",
     "date": "2026-11-16T17:00:00+00:00",
     "organization": "Campus Recreation",
@@ -7840,12 +8040,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays and Tuesdays (8/31 through 12/6) \n Monday: 6 PM - 6:45 PM, Tuesday: 3:30 PM - 4:15 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Pamela"
   },
   {
+    "title": "Kichwa Language Workshop Series",
+    "date": "2026-11-16T22:30:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Cole Hall 141",
+    "link": "https://montclair.campuslabs.com/engage/event/12663589",
+    "description": "LAIC (LATIN AMERICAN INDIGENOUS COLLABORATIVE) at CLaSE invites the Montclair State University community and the broader public to participate in our  Kichwa Language & Culture Workshop Series , beginning  Monday, September 14 . \n This  10-week workshop series  offers participants the opportunity to learn Kichwa while exploring the language, culture, and traditions of Kichwa-speaking communities. Workshops are conducted in  Spanish and Kichwa by our amazing and well known Kichwa community leaders - Atik Paguay and Fabian Muenala \u00a0and are open to  students, faculty, staff, families, and community members from outside the University . No previous knowledge of Kichwa is required. \n Mondays, beginning September 14 5:30\u20137:30 p.m. Cole Hall, Room 141 10-week series \n We invite everyone interested in Indigenous languages and cultures to join us.  Registration is required by contacting Dr. Calarota-Ninman at\u00a0 calarotaa@montclair.edu"
+  },
+  {
     "title": "Group X - Yin Goodnight Yoga",
     "date": "2026-11-17T00:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12587829",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday (8/31 through 12/6) \n 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Tyrah"
   },
   {
     "title": "Group X - Vinyasa Sunrise Yoga",
@@ -8168,6 +8376,14 @@
     "description": "Nova members come together to connect, discuss upcoming events, share creative ideas, and engage in activities that strengthen our artistic community."
   },
   {
+    "title": "Learning in Circle: English for the Community",
+    "date": "2026-11-19T23:00:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Schmitt Hall 104",
+    "link": "https://montclair.campuslabs.com/engage/event/12663658",
+    "description": "CLaSE invites members of the Montclair State University community and the broader public to participate in  Learning in Circle: English for the Community , beginning  Thursday, September 17 . \n This  10-week workshop series  provides a welcoming and supportive environment for adult learners who want to strengthen their  English conversation and comprehension skills  through practical, interactive activities. Workshops are open to  students, families, and community members from outside the University . \n Thursdays, beginning September 17 6\u20137:30 p.m. Schmitt Hall, Room 104 10-week series \n The workshops are  free and open to the community , but  registration is required by contacting calarotaa@montclair.edu . We invite anyone interested in improving their English skills to join us and learn in community!"
+  },
+  {
     "title": "Kompa Night",
     "date": "2026-11-20T00:00:00+00:00",
     "organization": "Bloomfield's Office of Residence Life",
@@ -8328,6 +8544,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
+    "title": "Mindfulness Meditation ",
+    "date": "2026-11-23T17:00:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12665080",
+    "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
+  },
+  {
     "title": "Group X - Core & Restore",
     "date": "2026-11-23T17:00:00+00:00",
     "organization": "Campus Recreation",
@@ -8390,6 +8614,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12587381",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays and Tuesdays (8/31 through 12/6) \n Monday: 6 PM - 6:45 PM, Tuesday: 3:30 PM - 4:15 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Pamela"
+  },
+  {
+    "title": "Kichwa Language Workshop Series",
+    "date": "2026-11-23T22:30:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Cole Hall 141",
+    "link": "https://montclair.campuslabs.com/engage/event/12663590",
+    "description": "LAIC (LATIN AMERICAN INDIGENOUS COLLABORATIVE) at CLaSE invites the Montclair State University community and the broader public to participate in our  Kichwa Language & Culture Workshop Series , beginning  Monday, September 14 . \n This  10-week workshop series  offers participants the opportunity to learn Kichwa while exploring the language, culture, and traditions of Kichwa-speaking communities. Workshops are conducted in  Spanish and Kichwa by our amazing and well known Kichwa community leaders - Atik Paguay and Fabian Muenala \u00a0and are open to  students, faculty, staff, families, and community members from outside the University . No previous knowledge of Kichwa is required. \n Mondays, beginning September 14 5:30\u20137:30 p.m. Cole Hall, Room 141 10-week series \n We invite everyone interested in Indigenous languages and cultures to join us.  Registration is required by contacting Dr. Calarota-Ninman at\u00a0 calarotaa@montclair.edu"
   },
   {
     "title": "Group X - Yin Goodnight Yoga",
@@ -8654,6 +8886,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635897",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
+  },
+  {
+    "title": "Mindfulness Meditation ",
+    "date": "2026-11-30T17:00:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12665081",
+    "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
   },
   {
     "title": "Group X - Core & Restore",
@@ -8944,6 +9184,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday and Thursday (8/31 through 12/6) \n 6 PM - 7:30 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
   },
   {
+    "title": "Learning in Circle: English for the Community",
+    "date": "2026-12-03T23:00:00+00:00",
+    "organization": "Center for Latino Heritage & Spanish Language Excellence",
+    "location": "Schmitt Hall 104",
+    "link": "https://montclair.campuslabs.com/engage/event/12663659",
+    "description": "CLaSE invites members of the Montclair State University community and the broader public to participate in  Learning in Circle: English for the Community , beginning  Thursday, September 17 . \n This  10-week workshop series  provides a welcoming and supportive environment for adult learners who want to strengthen their  English conversation and comprehension skills  through practical, interactive activities. Workshops are open to  students, families, and community members from outside the University . \n Thursdays, beginning September 17 6\u20137:30 p.m. Schmitt Hall, Room 104 10-week series \n The workshops are  free and open to the community , but  registration is required by contacting calarotaa@montclair.edu . We invite anyone interested in improving their English skills to join us and learn in community!"
+  },
+  {
     "title": "Gingerbread House Making",
     "date": "2026-12-04T00:00:00+00:00",
     "organization": "Campus Activities",
@@ -9070,6 +9318,14 @@
     "location": "Alexander Kasser Theater",
     "link": "https://montclair.campuslabs.com/engage/event/12657860",
     "description": "Maurice Ravel \u2019s \u00a0L\u2019enfant et les sortil\u00e8ges \u00a0is a wildly imaginative fantasy opera where a single child\u2019s tantrum sets an entire enchanted world into motion. In a flash of frustration, the ordinary becomes extraordinary\u2014walls start to whisper, teacups burst into song, animals argue back, and the child\u2019s room transforms into a living, breathing world of magic and mischief. \n As this fantastical realm awakens, the child is swept into a dazzling swirl of musical surprises and unexpected voices, where every object has something to say and nothing is quite as it seems. With Ravel\u2019s shimmering, kaleidoscopic score at its heart, this enchanting opera is a playful journey through wonder, chaos, and the power of imagination to transform everything it touches. \n (Sung in French with English Surtitles~ runtime: approx 1 hour) \n Montclair State University Students\u00a0 FREE\u00a0 with ID at Kasser Box Office"
+  },
+  {
+    "title": "Mindfulness Meditation ",
+    "date": "2026-12-07T17:00:00+00:00",
+    "organization": "Office of Health Promotion",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12665082",
+    "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
   },
   {
     "title": "Cookie Sale",
