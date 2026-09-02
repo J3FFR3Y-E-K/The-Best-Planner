@@ -1,21 +1,5 @@
 [
   {
-    "title": "Boba Tea Night",
-    "date": "2026-09-02T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Bohn Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12519932",
-    "description": "Come to Bohn Hall on September 1st from 8PM-10PM for fresh Boba Tea. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "DIY Trucker Hats",
-    "date": "2026-09-02T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Machuga Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/12519933",
-    "description": "Come to Machuga Heights on September 1st from 8PM-10PM for DIY Trucker hats. \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Group X - Vinyasa Flow Yoga",
     "date": "2026-09-02T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -3637,7 +3621,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513622",
-    "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
+    "description": ""
   },
   {
     "title": "Group X - Restorative Goodnight Yoga",
@@ -3648,20 +3632,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Sunday (8/31 through 12/6) \n Tuesday: 7:30 PM - 8:30 PM, Sunday: 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle (Tuesday) and Hannah (Sunday)"
   },
   {
-    "title": "Chopped: Pizza edition",
-    "date": "2026-09-29T23:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Machuga Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/12654231",
-    "description": "Come grab a slice and chop it up on September 29th in Machuga Heights starting at 7PM! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Slimetastic Night",
     "date": "2026-09-29T23:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Meet at Student Recreation Center Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12521054",
     "description": "Get ready to stretch, squish, and sparkle at Slimetastic Night, the ultimate slime experience. Pick your colors, mix in your favorite textures, and create a slime that\u2019s as bold or as soothing as you want it to be. From fluffy to glittery, you\u2019ll craft a one\u2011of\u2011a\u2011kind creation that\u2019s totally yours.  \n How do I sign-up? \n \n Free with Student ID \n No registration required \n \n Where and when? \n \n Tuesday, September 29th, 2026 \n 7pm-9pm, must be checked in by 8:30 pm to participate \n Meet at Student Recreation Center Lounge"
+  },
+  {
+    "title": "Chopped: Pizza edition",
+    "date": "2026-09-29T23:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Machuga Heights",
+    "link": "https://montclair.campuslabs.com/engage/event/12654231",
+    "description": "Come grab a slice and chop it up on September 29th in Machuga Heights starting at 7PM! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Miscellaneous Show Auditions",
@@ -7157,7 +7141,7 @@
     "organization": "Amici Club",
     "location": "University Hall 1C01 - Grand Concourse",
     "link": "https://montclair.campuslabs.com/engage/event/12565982",
-    "description": ""
+    "description": "Stop by and support the Amici Club and purchase a delicious homemade treat!"
   },
   {
     "title": "Group X - Total Body Strength and Conditioning",
