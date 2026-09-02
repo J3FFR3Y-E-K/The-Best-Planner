@@ -1,37 +1,5 @@
 [
   {
-    "title": "Group X - Vinyasa Flow Yoga",
-    "date": "2026-09-02T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12588803",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, and Thursday (8/31 through 12/6) \n Monday and Wednesday: 9 AM - 9:45 AM, Thursday: 11 AM - 11:45 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Abigail (Monday/Wednesday) and Kendall (Thursday)"
-  },
-  {
-    "title": "Group X - Pilates",
-    "date": "2026-09-02T15:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12635634",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday:  10 AM - 10:45 AM  &  3:30 PM - 4:15 PM,  Wednesday:  11 AM - 11:45 AM  &  2 PM - 2:45 PM,  Thursday:  10 AM - 10:45 AM,  Friday:  4 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
-  },
-  {
-    "title": "Coffee Bar",
-    "date": "2026-09-02T14:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Dinallo Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/12519934",
-    "description": "On September 2nd from 10AM-12PM, come to the Dinallo Heights MPR for a coffee bar! \n All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Grubhub Info Tabling",
-    "date": "2026-09-02T15:30:00+00:00",
-    "organization": "EATS by Gourmet Dining",
-    "location": "STCT Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12484464",
-    "description": "Stop by our table in the Student Center Lobby for Grubhub information, assistance, and answers to any questions you may have!"
-  },
-  {
     "title": "Group X - Pilates",
     "date": "2026-09-02T18:00:00+00:00",
     "organization": "Campus Recreation",
@@ -342,6 +310,14 @@
     "location": "1908 Pub, Student Center",
     "link": "https://montclair.campuslabs.com/engage/event/12497701",
     "description": "Think you know Disney? Win fun prizes, test your knowledge, and feel the magic at Disney Trivia in the 1908 Pub in The Student Center!"
+  },
+  {
+    "title": "Roblox Night",
+    "date": "2026-09-04T22:00:00+00:00",
+    "organization": "Freeman Hall & Russ Hall",
+    "location": "Russ Hall - KOPS Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12688339",
+    "description": "Residents will partake in a ROBLOX night hosted by CA Ricky DeLisi & CA Josie Law. ROBLOX games will include Mafia, Dress To Impress, and Epic Minigames. Residents will join through private server links and QR codes, and can also possibly join through an online Zoom call."
   },
   {
     "title": "Friday Night Fire Pits",
@@ -672,6 +648,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday:  10 AM - 10:45 AM  &  3:30 PM - 4:15 PM,  Wednesday:  11 AM - 11:45 AM  &  2 PM - 2:45 PM,  Thursday:  10 AM - 10:45 AM,  Friday:  4 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
+    "title": "Meet and Greet",
+    "date": "2026-09-09T18:00:00+00:00",
+    "organization": "Bloomfield College Student Government Association (BCSGA)",
+    "location": "Bloomfield - Talbott Hall 107 DEN - Deacon's Den",
+    "link": "https://montclair.campuslabs.com/engage/event/12686974",
+    "description": "Come and meet your Student Government Association. \n You'll be able to learn: \n -Who advocates for you \n -How to start your own club \n -Clubs/Events available \n - Express any concerns that you may have."
+  },
+  {
     "title": "F-1 Student Make Up Orientation Session",
     "date": "2026-09-09T18:00:00+00:00",
     "organization": "Office of Global Engagement",
@@ -680,20 +664,20 @@
     "description": "This make up orientation session is for F-1 status/visa students ONLY.\u00a0 \n During the session, we will cover important information you need to know as an international student, including maintaining your F-1 status, registration requirements, the International Student Portal, immigration check-in, F-1 employment, and other important resources and requirements."
   },
   {
-    "title": "Counseling and Psychological Services (CAPS) Open House",
-    "date": "2026-09-09T18:00:00+00:00",
-    "organization": "CAPS (Counseling and Psychological Services)",
-    "location": "Counseling and Psychological Services (CAPS)",
-    "link": "https://montclair.campuslabs.com/engage/event/12542910",
-    "description": "Celebrate the start of the semester with us! Tour our newly updated space! Meet our staff, learn what services we offer, and explore our Fall Programs. Drop-in anytime between 2-3:30. There will be giveaways! FREE Music provided by Cali School of Music Students!"
-  },
-  {
     "title": "A Festival of Bon-odori Dance and Japanese Street Food",
     "date": "2026-09-09T18:00:00+00:00",
     "organization": "College of Humanities and Social Sciences (CHSS)",
     "location": "The Underground, Student Center room 160\u00a0",
     "link": "https://montclair.campuslabs.com/engage/event/12677256",
     "description": "Free! Dance instruction with music! Good exercise! All are welcome!\u00a0 \u201cA Festival of Bon-odori Dance and Japanese Street Food\u201d\u00a0 Presented by the Japanese Language Circle, Department of World Languages and Cultures, and the Japan Club \u00a0 \n \u00a0 \n Date: Wednesday September 9th, 2026 Time: 2:00-3:30 pm\u00a0 Place: The Underground, Student Center room 160\u00a0 Street Food: Takoyaki, Yakisoba & Onigiri, all homemade \n \n \n \n \n \n \n \n \n \u00a0 \n \n \n \n \n The Japanese Language Circle also known as J-Circle, meets every Wednesday from 1:45 to 3:15 pm in Schmitt Hall room 125. This is a place where you make friends, bring friends, share your interest in Japanese Language and culture, enjoy Japanese cuisine, learn more Japanese. Bring friends!\u00a0 Next J-Circle event: 10/7 JET PROGRAM INFORMATION SESSION, in Schmitt Room 125, by MSU alumni & The JET Program, Consulate General of Japan in New York. Spread the news!"
+  },
+  {
+    "title": "Counseling and Psychological Services (CAPS) Open House",
+    "date": "2026-09-09T18:00:00+00:00",
+    "organization": "CAPS (Counseling and Psychological Services)",
+    "location": "Counseling and Psychological Services (CAPS)",
+    "link": "https://montclair.campuslabs.com/engage/event/12542910",
+    "description": "Celebrate the start of the semester with us! Tour our newly updated space! Meet our staff, learn what services we offer, and explore our Fall Programs. Drop-in anytime between 2-3:30. There will be giveaways! FREE Music provided by Cali School of Music Students!"
   },
   {
     "title": "Campus Activities Tabling",
@@ -784,20 +768,20 @@
     "description": "Players: The Rocky Horror Picture Show Auditions Day Two"
   },
   {
-    "title": "Friendship Bracelets",
-    "date": "2026-09-10T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Count Basie at The Village Apartments",
-    "link": "https://montclair.campuslabs.com/engage/event/12654360",
-    "description": "On September 9th from 8PM-10PM, come to Count Basies lounge for a fun and creative social event where students can make personalized friendship bracelets while meeting new people and spending time with friends. Students can choose from colorful beads, charms, and string to create unique bracelets while socializing, being creative, and building connections within the campus community.\u00a0 All students are welcome commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Snacks Abroad ",
     "date": "2026-09-10T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Freeman Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12654359",
     "description": "Stop by and try a variety of popular snacks from different countries and cultures on September 9th from 8-10PM in Freeman Hall. Sample something new, compare your favorites, and enjoy a selection of sweet and savory treats from around the world!\u00a0 All students are welcome. Commuters must be signed in with a resident following residence life guest registration procedures."
+  },
+  {
+    "title": "Friendship Bracelets",
+    "date": "2026-09-10T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Count Basie at The Village Apartments",
+    "link": "https://montclair.campuslabs.com/engage/event/12654360",
+    "description": "On September 9th from 8PM-10PM, come to Count Basies lounge for a fun and creative social event where students can make personalized friendship bracelets while meeting new people and spending time with friends. Students can choose from colorful beads, charms, and string to create unique bracelets while socializing, being creative, and building connections within the campus community.\u00a0 All students are welcome commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "NFL Kickoff",
@@ -1165,7 +1149,7 @@
     "organization": "College of Humanities and Social Sciences (CHSS)",
     "location": "Memorial Auditorium at Montclair State University",
     "link": "https://montclair.campuslabs.com/engage/event/12679147",
-    "description": "The Chinese Musicians Association of North America presents  The Sound of Harvest , a concert bringing together musicians and instruments from a variety of cultural traditions. The program features Chinese instruments such as the erhu, pipa, guzheng, and ruan, alongside Japanese taiko and shinobue, African percussion, jazz piano, lute, guitar, cello, double bass, voice, and more.\u00a0 \n \u00a0 \n The Montclair performance will take place on  Sunday, September 13, 2026, at 3:00 p.m. in Memorial Auditorium at Montclair State University . The event is co-sponsored by the Department of Global Cultural Studies. \n \u00a0 \n Visit ZEFFY to purchase tickets \n \u00a0 \n View the official flyer for this event here."
+    "description": "The Chinese Musicians Association of North America presents  The Sound of Harvest , a concert bringing together musicians and instruments from a variety of cultural traditions. The program features Chinese instruments such as the erhu, pipa, guzheng, and ruan, alongside Japanese taiko and shinobue, African percussion, jazz piano, lute, guitar, cello, double bass, voice, and more.\u00a0 \n \u00a0 \n The Montclair performance will take place on  Sunday, September 13, 2026, at 3:00 p.m. in Memorial Auditorium at Montclair State University . The event is co-sponsored by the Department of Global Cultural Studies. \n \u00a0 \n Get a glimpse of the concert and featured musical instruments here:  https://www.youtube.com/watch?v=rEIh15TquAY \n \u00a0 \n Visit ZEFFY to purchase tickets Student Promo Code: \u00a0 MSU15\u00a0 ($15 off the general admission price) \n \u00a0 \n View the official flyer for this event here."
   },
   {
     "title": "Group X - Restorative Goodnight Yoga",
@@ -1728,6 +1712,14 @@
     "description": "In celebration of CLAW Week, the Office of Health Promotion and Commuter Life invites you to Furry Friends! \n \n 10:30 a.m. - 12:00 p.m. \n Student Recreation Center (Gym)\u00a0 \n Do not fur-get to stop by Furry Friends September 16th From 10:30 am -10:30 pm in the Student Recreation Center Gym, you can hang out with some adorable animals and de-stress! \n Sponsored by the Office of Health Promotion & Commuter Life \n \n Tips \n Arrive early \n After checking in, you may need to wait for your turn. You will have an opportunity to meet, pet, and take pictures with the dogs (each session is approximately 6-10 minutes depending on line).\u00a0 \n An RSVP on Engage does not guarantee your spot."
   },
   {
+    "title": "Library Orientation",
+    "date": "2026-09-16T16:30:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12685837",
+    "description": "This workshop is your introduction to the many ways University Libraries can support your success at Montclair State and beyond. We will discuss resources available and how to access them. \n Join us online to discover all the University Libraries have to offer! \n Register Here: \u00a0https://montclair.libcal.com/event/17570173"
+  },
+  {
     "title": "\u201cFuel Your Day\u201d Station",
     "date": "2026-09-16T16:00:00+00:00",
     "organization": "Residence Life",
@@ -2048,6 +2040,14 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
+    "title": "Champions X OTWASS Weekly Study Hall Night!",
+    "date": "2026-09-17T21:00:00+00:00",
+    "organization": "Office of Tutoring, Writing, and Academic Support Services",
+    "location": "Bloomfield College Center of Student Success (CSS): Room 005",
+    "link": "https://montclair.campuslabs.com/engage/event/12687009",
+    "description": "Starting September 17th, join the Champions and the OTWASS team for our weekly study hall night hosted in CSS room 005! We'll have an open space for individual work, group work, and even have a tutor available to assist with work on the spot! Every Thursday from 5-7, whether Champions or not, feel free to join us for discussion, connection, studying, and tutoring."
+  },
+  {
     "title": "Red Hawk Pantry ",
     "date": "2026-09-17T21:00:00+00:00",
     "organization": "Red Hawk Pantry",
@@ -2126,6 +2126,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12587955",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday and Friday (8/31 through 12/6) \n 9:00 AM - 9:45 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Tyrah (Thursday) and Amisha (Friday)"
+  },
+  {
+    "title": "Library Orientation",
+    "date": "2026-09-18T14:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12685947",
+    "description": "This workshop is your introduction to the many ways University Libraries can support your success at Montclair State and beyond. We will discuss resources available and how to access them. \n Join us online to discover all the University Libraries have to offer! \n Register Here: \u00a0https://montclair.libcal.com/event/17570222"
   },
   {
     "title": "Free Breakfast & Coffee",
@@ -2392,20 +2400,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
-    "title": "Free Swim Lessons *Beginner*",
-    "date": "2026-09-21T20:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center Pool",
-    "link": "https://montclair.campuslabs.com/engage/event/12513511",
-    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
-  },
-  {
     "title": "Find the Sources You Need",
     "date": "2026-09-21T20:00:00+00:00",
     "organization": "Sprague Library",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12600604",
     "description": "Learn where and how to search for books, articles, and more. We\u2019ll break down the differences between primary and secondary sources. We'll discuss \"credible sources,\" both those from scholarly (peer-reviewed) journals and those from other sources. We'll also discuss, among other things, the differences between our two largest family of databases -- ProQuest and EBSCO. We want you to advance your searching skills so that you learn to have fun searching (a.k.a. researching). A perfect workshop if you\u2019re new to college-level research or you just want to sharpen your skills before your next assignment. \n Register Here:\u00a0 https://montclair.libcal.com/event/17454786"
+  },
+  {
+    "title": "Free Swim Lessons *Beginner*",
+    "date": "2026-09-21T20:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center Pool",
+    "link": "https://montclair.campuslabs.com/engage/event/12513511",
+    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
@@ -2510,14 +2518,6 @@
     "location": "Bohn Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12654290",
     "description": "Come win a cuddly prize with Stuffed Animal Bingo! Held in the Bohn Lounge from 8:00pm-10:00pm on September 21st. All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "MSDC Practice",
-    "date": "2026-09-22T01:00:00+00:00",
-    "organization": "Montclair State Dance Company",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/12677920",
-    "description": "Rehearsal for Montclair State Dance Company"
   },
   {
     "title": "Group X - Vinyasa Sunrise Yoga",
@@ -2968,6 +2968,14 @@
     "description": "Visiting the Pantry: \n 1) Please have your Event Pass, CWID and have a\u00a0 PantrySoft Registration .\u00a0 2) Please bring your own shopping bag and ID card! ***Visitors are allowed to come once/week*** \n Our Mission:\u00a0\u00a0 We aim to address food insecurity across Montclair State University. The Red Hawk Pantry is open to all students, staff, and faculty at no cost. If you are unable to visit during our regular hours, please reach out via email at redhawkpantry@montclair.edu \n Stay updated by following us on Instagram:  @montclair_redhawkpantry \n \ud83c\udf4e  Fall 2026 Hours \n \n Tuesdays: 1:30-3:30pm \n Thursdays: 5-7pm \n Saturdays: 11-1pm"
   },
   {
+    "title": "Champions X OTWASS Weekly Study Hall Night!",
+    "date": "2026-09-24T21:00:00+00:00",
+    "organization": "Office of Tutoring, Writing, and Academic Support Services",
+    "location": "Bloomfield College Center for Student Success (CSS): Room 005",
+    "link": "https://montclair.campuslabs.com/engage/event/12687010",
+    "description": "Starting September 17th, join the Champions and the OTWASS team for our weekly study hall night hosted in CSS room 005! We'll have an open space for individual work, group work, and even have a tutor available to assist with work on the spot! Every Thursday from 5-7, whether Champions or not, feel free to join us for discussion, connection, studying, and tutoring."
+  },
+  {
     "title": "Learning in Circle: English for the Community",
     "date": "2026-09-24T22:00:00+00:00",
     "organization": "Center for Latino Heritage & Spanish Language Excellence",
@@ -3392,20 +3400,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
-    "title": "Free Swim Lessons *Beginner*",
-    "date": "2026-09-28T20:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center Pool",
-    "link": "https://montclair.campuslabs.com/engage/event/12513515",
-    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
-  },
-  {
     "title": "Library Orientation",
     "date": "2026-09-28T20:00:00+00:00",
     "organization": "Sprague Library",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12670892",
     "description": "This workshop is your introduction to all the ways Montclair State University Libraries support your academic success. It covers what resources are available to you (e.g., books, articles, films, databases) and how you can access them, including through interlibrary loan. You'll learn how to navigate the library website, distinguish between popular and scholarly sources, and get help from a librarian when working on a research assignment. \n Register Here: \u00a0https://montclair.libcal.com/event/17554339"
+  },
+  {
+    "title": "Free Swim Lessons *Beginner*",
+    "date": "2026-09-28T20:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center Pool",
+    "link": "https://montclair.campuslabs.com/engage/event/12513515",
+    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
@@ -3984,6 +3992,14 @@
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
   {
+    "title": "Champions X OTWASS Weekly Study Hall Night!",
+    "date": "2026-10-01T21:00:00+00:00",
+    "organization": "Office of Tutoring, Writing, and Academic Support Services",
+    "location": "Bloomfield College Center for Student Success (CSS): Room 005",
+    "link": "https://montclair.campuslabs.com/engage/event/12687011",
+    "description": "Starting September 17th, join the Champions and the OTWASS team for our weekly study hall night hosted in CSS room 005! We'll have an open space for individual work, group work, and even have a tutor available to assist with work on the spot! Every Thursday from 5-7, whether Champions or not, feel free to join us for discussion, connection, studying, and tutoring."
+  },
+  {
     "title": "Learning in Circle: English for the Community",
     "date": "2026-10-01T22:00:00+00:00",
     "organization": "Center for Latino Heritage & Spanish Language Excellence",
@@ -4142,14 +4158,6 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12606409",
     "description": "Players:\u00a0The Importance of Being Earnest Rehearsal"
-  },
-  {
-    "title": "The Rocky Horror Picture Show Rehearsal",
-    "date": "2026-10-04T14:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 417 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12625070",
-    "description": "Players: The Rocky Horror Picture Show Rehearsal"
   },
   {
     "title": "Harvest Festival",
@@ -4744,6 +4752,14 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
+    "title": "Champions X OTWASS Weekly Study Hall Night!",
+    "date": "2026-10-08T21:00:00+00:00",
+    "organization": "Office of Tutoring, Writing, and Academic Support Services",
+    "location": "Bloomfield College Center for Student Success (CSS): Room 005",
+    "link": "https://montclair.campuslabs.com/engage/event/12687012",
+    "description": "Starting September 17th, join the Champions and the OTWASS team for our weekly study hall night hosted in CSS room 005! We'll have an open space for individual work, group work, and even have a tutor available to assist with work on the spot! Every Thursday from 5-7, whether Champions or not, feel free to join us for discussion, connection, studying, and tutoring."
+  },
+  {
     "title": "Learning in Circle: English for the Community",
     "date": "2026-10-08T22:00:00+00:00",
     "organization": "Center for Latino Heritage & Spanish Language Excellence",
@@ -5160,14 +5176,6 @@
     "description": "Players Comedy Rehearsal"
   },
   {
-    "title": "MSDC Practice",
-    "date": "2026-10-13T01:00:00+00:00",
-    "organization": "Montclair State Dance Company",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/12674309",
-    "description": "Rehearsal for Montclair State Dance Company"
-  },
-  {
     "title": "Group X - Vinyasa Sunrise Yoga",
     "date": "2026-10-13T11:30:00+00:00",
     "organization": "Campus Recreation",
@@ -5520,6 +5528,14 @@
     "description": "Players Comedy Rehearsal"
   },
   {
+    "title": "M.I.L.F. Round Two Auditions Day 2 & Callbacks",
+    "date": "2026-10-14T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250C - Ballroom C",
+    "link": "https://montclair.campuslabs.com/engage/event/12686182",
+    "description": "M.I.L.F. Round Two Auditions Day 2 & Callbacks Players"
+  },
+  {
     "title": "Marvel Tokon Tournament ",
     "date": "2026-10-15T00:00:00+00:00",
     "organization": "Bloomfield's Office of Residence Life",
@@ -5630,6 +5646,22 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12606555",
     "description": "A General Body Meeting (GBM) is where Nova members come together to connect, discuss upcoming events, share creative ideas, and engage in activities that strengthen our artistic community."
+  },
+  {
+    "title": "ACC Teach-In: On the Origins of Modern US Foreign Interventionism & Iran",
+    "date": "2026-10-15T20:30:00+00:00",
+    "organization": "The Apple Core Community",
+    "location": "Student Center 250A - Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/12686214",
+    "description": "Drawing inspiration from the mid-1960s anti-war movement, this teach-in will be an action-based educational forum concerning modern US foreign interventionism and its historical convergence with Iran during the Cold War. More specifically, it will focus on the rise of the postwar national security state and its first pivotal and consequential \u201cwin\u201d: the 1953 Iranian coup d'\u00e9tat. It was the first \"successful\" overthrow of a democratically elected foreign leader by the CIA (and definitely not the last). It is a tale that is regularly expunged from conventional American history, yet it is vastly significant to both Iranian US history. This chapter elucidates, in part, why both nations find themselves where they are today. In addition, this teach-in will also highlight the determining role of big business, military keynesianism, and neocolonialism in shaping the confines of postwar U.S. foreign policy. This teach-in will conclude with a discussion on what this all means for the ongoing US-Israeli war against Iran, and what actionable acts can be done to end the conflict."
+  },
+  {
+    "title": "Champions X OTWASS Weekly Study Hall Night!",
+    "date": "2026-10-15T21:00:00+00:00",
+    "organization": "Office of Tutoring, Writing, and Academic Support Services",
+    "location": "Bloomfield College Center for Student Success (CSS): Room 005",
+    "link": "https://montclair.campuslabs.com/engage/event/12687013",
+    "description": "Starting September 17th, join the Champions and the OTWASS team for our weekly study hall night hosted in CSS room 005! We'll have an open space for individual work, group work, and even have a tutor available to assist with work on the spot! Every Thursday from 5-7, whether Champions or not, feel free to join us for discussion, connection, studying, and tutoring."
   },
   {
     "title": "Group X - Brazilian Jiu-Jitsu",
@@ -6086,6 +6118,14 @@
     "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513542",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
+  },
+  {
+    "title": "Champions X OTWASS Weekly Study Hall Night!",
+    "date": "2026-10-22T21:00:00+00:00",
+    "organization": "Office of Tutoring, Writing, and Academic Support Services",
+    "location": "Bloomfield College Center for Student Success (CSS): Room 005",
+    "link": "https://montclair.campuslabs.com/engage/event/12687014",
+    "description": "Starting September 17th, join the Champions and the OTWASS team for our weekly study hall night hosted in CSS room 005! We'll have an open space for individual work, group work, and even have a tutor available to assist with work on the spot! Every Thursday from 5-7, whether Champions or not, feel free to join us for discussion, connection, studying, and tutoring."
   },
   {
     "title": "Group X - Brazilian Jiu-Jitsu",
@@ -6664,6 +6704,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday and Thursday (8/31 through 12/6) \n Monday: 5 PM - 5:45 PM, Thursday: 4 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
   },
   {
+    "title": "Day at the Capitol - Fall 2026 ",
+    "date": "2026-10-29T12:00:00+00:00",
+    "organization": "Government Relations and Community Affairs ",
+    "location": "Statehouse",
+    "link": "https://montclair.campuslabs.com/engage/event/12688182",
+    "description": "Take your voice beyond campus! \n Join us for\u00a0a Day in the Capitol , a chance to sit in on state committee hearings, hear real testimony, and see the democratic process in action. You\u2019ll tour the NJ State Capitol, connect with legislators, and advocate for your community. The best part? It\u2019s all FREE (transportation + lunch included)! \n Network with like-minded professionals, engage in politics, and develop a new perspective on the legislative process. \n Don\u2019t just learn about change\u2026 be part of it. \n \ud83d\udccd Transportation will be provided from the Red Hawk Deck on College Ave, Montclair, NJ, 07043 and from Bloomfield Campus"
+  },
+  {
     "title": "Free Swim Lessons *Intermediate*",
     "date": "2026-10-29T20:00:00+00:00",
     "organization": "Campus Recreation",
@@ -6686,6 +6734,14 @@
     "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513546",
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
+  },
+  {
+    "title": "Champions X OTWASS Weekly Study Hall Night!",
+    "date": "2026-10-29T21:00:00+00:00",
+    "organization": "Office of Tutoring, Writing, and Academic Support Services",
+    "location": "Bloomfield College Center for Student Success (CSS): Room 005",
+    "link": "https://montclair.campuslabs.com/engage/event/12687015",
+    "description": "Starting September 17th, join the Champions and the OTWASS team for our weekly study hall night hosted in CSS room 005! We'll have an open space for individual work, group work, and even have a tutor available to assist with work on the spot! Every Thursday from 5-7, whether Champions or not, feel free to join us for discussion, connection, studying, and tutoring."
   },
   {
     "title": "Group X - Brazilian Jiu-Jitsu",
@@ -7288,6 +7344,14 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
+    "title": "Champions X OTWASS Weekly Study Hall Night!",
+    "date": "2026-11-05T22:00:00+00:00",
+    "organization": "Office of Tutoring, Writing, and Academic Support Services",
+    "location": "Bloomfield College Center for Student Success (CSS): Room 005",
+    "link": "https://montclair.campuslabs.com/engage/event/12687016",
+    "description": "Starting September 17th, join the Champions and the OTWASS team for our weekly study hall night hosted in CSS room 005! We'll have an open space for individual work, group work, and even have a tutor available to assist with work on the spot! Every Thursday from 5-7, whether Champions or not, feel free to join us for discussion, connection, studying, and tutoring."
+  },
+  {
     "title": "Group X - Brazilian Jiu-Jitsu",
     "date": "2026-11-05T23:00:00+00:00",
     "organization": "Campus Recreation",
@@ -7838,6 +7902,14 @@
     "location": "LIFE 1402",
     "link": "https://montclair.campuslabs.com/engage/event/12608367",
     "description": "Nova members come together to connect, discuss upcoming events, share creative ideas, and engage in activities that strengthen our artistic community."
+  },
+  {
+    "title": "Champions X OTWASS Weekly Study Hall Night!",
+    "date": "2026-11-12T22:00:00+00:00",
+    "organization": "Office of Tutoring, Writing, and Academic Support Services",
+    "location": "Bloomfield College Center for Student Success (CSS): Room 005",
+    "link": "https://montclair.campuslabs.com/engage/event/12687017",
+    "description": "Starting September 17th, join the Champions and the OTWASS team for our weekly study hall night hosted in CSS room 005! We'll have an open space for individual work, group work, and even have a tutor available to assist with work on the spot! Every Thursday from 5-7, whether Champions or not, feel free to join us for discussion, connection, studying, and tutoring."
   },
   {
     "title": "Group X - Brazilian Jiu-Jitsu",
@@ -8446,6 +8518,14 @@
     "location": "LIFE 1402",
     "link": "https://montclair.campuslabs.com/engage/event/12608369",
     "description": "Nova members come together to connect, discuss upcoming events, share creative ideas, and engage in activities that strengthen our artistic community."
+  },
+  {
+    "title": "Champions X OTWASS Weekly Study Hall Night!",
+    "date": "2026-11-19T22:00:00+00:00",
+    "organization": "Office of Tutoring, Writing, and Academic Support Services",
+    "location": "Bloomfield College Center for Student Success (CSS): Room 005",
+    "link": "https://montclair.campuslabs.com/engage/event/12687018",
+    "description": "Starting September 17th, join the Champions and the OTWASS team for our weekly study hall night hosted in CSS room 005! We'll have an open space for individual work, group work, and even have a tutor available to assist with work on the spot! Every Thursday from 5-7, whether Champions or not, feel free to join us for discussion, connection, studying, and tutoring."
   },
   {
     "title": "Learning in Circle: English for the Community",
@@ -9454,6 +9534,14 @@
     "location": "LIFE 1402",
     "link": "https://montclair.campuslabs.com/engage/event/12608371",
     "description": "Nova members come together to connect, discuss upcoming events, share creative ideas, and engage in activities that strengthen our artistic community."
+  },
+  {
+    "title": "Champions X OTWASS Weekly Study Hall Night!",
+    "date": "2026-12-10T22:00:00+00:00",
+    "organization": "Office of Tutoring, Writing, and Academic Support Services",
+    "location": "Bloomfield College Center for Student Success (CSS): Room 005",
+    "link": "https://montclair.campuslabs.com/engage/event/12687019",
+    "description": "Starting September 17th, join the Champions and the OTWASS team for our weekly study hall night hosted in CSS room 005! We'll have an open space for individual work, group work, and even have a tutor available to assist with work on the spot! Every Thursday from 5-7, whether Champions or not, feel free to join us for discussion, connection, studying, and tutoring."
   },
   {
     "title": "Kiss Me, Kate",
