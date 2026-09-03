@@ -664,20 +664,20 @@
     "description": "Players: The Rocky Horror Picture Show Auditions Day Two"
   },
   {
-    "title": "Friendship Bracelets",
-    "date": "2026-09-10T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Count Basie at The Village Apartments",
-    "link": "https://montclair.campuslabs.com/engage/event/12654360",
-    "description": "On September 9th from 8PM-10PM, come to Count Basies lounge for a fun and creative social event where students can make personalized friendship bracelets while meeting new people and spending time with friends. Students can choose from colorful beads, charms, and string to create unique bracelets while socializing, being creative, and building connections within the campus community.\u00a0 All students are welcome commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Snacks Abroad ",
     "date": "2026-09-10T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Freeman Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12654359",
     "description": "Stop by and try a variety of popular snacks from different countries and cultures on September 9th from 8-10PM in Freeman Hall. Sample something new, compare your favorites, and enjoy a selection of sweet and savory treats from around the world!\u00a0 All students are welcome. Commuters must be signed in with a resident following residence life guest registration procedures."
+  },
+  {
+    "title": "Friendship Bracelets",
+    "date": "2026-09-10T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Count Basie at The Village Apartments",
+    "link": "https://montclair.campuslabs.com/engage/event/12654360",
+    "description": "On September 9th from 8PM-10PM, come to Count Basies lounge for a fun and creative social event where students can make personalized friendship bracelets while meeting new people and spending time with friends. Students can choose from colorful beads, charms, and string to create unique bracelets while socializing, being creative, and building connections within the campus community.\u00a0 All students are welcome commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "NFL Kickoff",
@@ -822,6 +822,14 @@
     "location": "Bohn Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12654357",
     "description": "Join us on Thursday September 10th in the Bohn Hall 5th floor lounge at 6 pm to create your own Id/Key card holder or bag charm! Whether you need something to keep track of your id/keys, or want to carry them around in style theres something for everyone. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Flames & Facts",
+    "date": "2026-09-10T23:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "Student Center Quad/Student Center Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/12693308",
+    "description": "As part of Campus Fire Safety Awareness Month this September, we are planning a large-scale educational event focused on raising awareness about fire safety within the campus community. The highlight of the event will be a live burn demonstration using the National Fire Sprinkler Association's (NFSA)\u00a0 Side-by-Side Trailer . This will feature two mock dorm rooms\u2014one with a sprinkler system and one without\u2014to showcase the dramatic impact fire safety systems can have during a fire.The goal of the event is to educate students about the importance of working smoke detectors, not blocking or tampering with sprinkler heads, and understanding that while sprinkler systems may cause water damage, they ultimately save lives."
   },
   {
     "title": "Vision Boards & Board Games",
@@ -3312,20 +3320,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
-    "title": "Free Swim Lessons *Beginner*",
-    "date": "2026-09-28T20:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center Pool",
-    "link": "https://montclair.campuslabs.com/engage/event/12513515",
-    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
-  },
-  {
     "title": "Library Orientation",
     "date": "2026-09-28T20:00:00+00:00",
     "organization": "Sprague Library",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12670892",
     "description": "This workshop is your introduction to all the ways Montclair State University Libraries support your academic success. It covers what resources are available to you (e.g., books, articles, films, databases) and how you can access them, including through interlibrary loan. You'll learn how to navigate the library website, distinguish between popular and scholarly sources, and get help from a librarian when working on a research assignment. \n Register Here: \u00a0https://montclair.libcal.com/event/17554339"
+  },
+  {
+    "title": "Free Swim Lessons *Beginner*",
+    "date": "2026-09-28T20:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center Pool",
+    "link": "https://montclair.campuslabs.com/engage/event/12513515",
+    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
@@ -3552,20 +3560,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Sunday (8/31 through 12/6) \n Tuesday: 7:30 PM - 8:30 PM, Sunday: 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle (Tuesday) and Hannah (Sunday)"
   },
   {
-    "title": "Slimetastic Night",
-    "date": "2026-09-29T23:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Meet at Student Recreation Center Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12521054",
-    "description": "Get ready to stretch, squish, and sparkle at Slimetastic Night, the ultimate slime experience. Pick your colors, mix in your favorite textures, and create a slime that\u2019s as bold or as soothing as you want it to be. From fluffy to glittery, you\u2019ll craft a one\u2011of\u2011a\u2011kind creation that\u2019s totally yours.  \n How do I sign-up? \n \n Free with Student ID \n No registration required \n \n Where and when? \n \n Tuesday, September 29th, 2026 \n 7pm-9pm, must be checked in by 8:30 pm to participate \n Meet at Student Recreation Center Lounge"
-  },
-  {
     "title": "Chopped: Pizza edition",
     "date": "2026-09-29T23:00:00+00:00",
     "organization": "Residence Life",
     "location": "Machuga Heights",
     "link": "https://montclair.campuslabs.com/engage/event/12654231",
     "description": "Come grab a slice and chop it up on September 29th in Machuga Heights starting at 7PM! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Slimetastic Night",
+    "date": "2026-09-29T23:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Meet at Student Recreation Center Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12521054",
+    "description": "Get ready to stretch, squish, and sparkle at Slimetastic Night, the ultimate slime experience. Pick your colors, mix in your favorite textures, and create a slime that\u2019s as bold or as soothing as you want it to be. From fluffy to glittery, you\u2019ll craft a one\u2011of\u2011a\u2011kind creation that\u2019s totally yours.  \n How do I sign-up? \n \n Free with Student ID \n No registration required \n \n Where and when? \n \n Tuesday, September 29th, 2026 \n 7pm-9pm, must be checked in by 8:30 pm to participate \n Meet at Student Recreation Center Lounge"
   },
   {
     "title": "Miscellaneous Show Auditions",
