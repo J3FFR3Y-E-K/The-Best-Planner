@@ -1,21 +1,5 @@
 [
   {
-    "title": "Group X - Pilates",
-    "date": "2026-09-04T20:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12635637",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday:  10 AM - 10:45 AM  &  3:30 PM - 4:15 PM,  Wednesday:  11 AM - 11:45 AM  &  2 PM - 2:45 PM,  Thursday:  10 AM - 10:45 AM,  Friday:  4 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
-  },
-  {
-    "title": "Women's Soccer vs. Hartford",
-    "date": "2026-09-04T19:00:00+00:00",
-    "organization": "Athletics",
-    "location": "Soccer Park",
-    "link": "https://montclair.campuslabs.com/engage/event/12476155",
-    "description": "Tickets and Parking Info"
-  },
-  {
     "title": "Disney Trivia",
     "date": "2026-09-04T21:45:00+00:00",
     "organization": "Campus Activities",
@@ -376,6 +360,14 @@
     "description": "Come and meet your Student Government Association. \n You'll be able to learn: \n -Who advocates for you \n -How to start your own club \n -Clubs/Events available \n - Express any concerns that you may have."
   },
   {
+    "title": "Club Meeting",
+    "date": "2026-09-09T18:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707090",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
+  },
+  {
     "title": "F-1 Student Make Up Orientation Session",
     "date": "2026-09-09T18:00:00+00:00",
     "organization": "Office of Global Engagement",
@@ -390,14 +382,6 @@
     "location": "The Underground, Student Center room 160\u00a0",
     "link": "https://montclair.campuslabs.com/engage/event/12677256",
     "description": "Free! Dance instruction with music! Good exercise! All are welcome!\u00a0 \u201cA Festival of Bon-odori Dance and Japanese Street Food\u201d\u00a0 Presented by the Japanese Language Circle, Department of World Languages and Cultures, and the Japan Club \u00a0 \n \u00a0 \n Date: Wednesday September 9th, 2026 Time: 2:00-3:30 pm\u00a0 Place: The Underground, Student Center room 160\u00a0 Street Food: Takoyaki, Yakisoba & Onigiri, all homemade \n \n \n \n \n \n \n \n \n \u00a0 \n \n \n \n \n The Japanese Language Circle also known as J-Circle, meets every Wednesday from 1:45 to 3:15 pm in Schmitt Hall room 125. This is a place where you make friends, bring friends, share your interest in Japanese Language and culture, enjoy Japanese cuisine, learn more Japanese. Bring friends!\u00a0 Next J-Circle event: 10/7 JET PROGRAM INFORMATION SESSION, in Schmitt Room 125, by MSU alumni & The JET Program, Consulate General of Japan in New York. Spread the news!"
-  },
-  {
-    "title": "Counseling and Psychological Services (CAPS) Open House",
-    "date": "2026-09-09T18:00:00+00:00",
-    "organization": "CAPS (Counseling and Psychological Services)",
-    "location": "Counseling and Psychological Services (CAPS)",
-    "link": "https://montclair.campuslabs.com/engage/event/12542910",
-    "description": "Celebrate the start of the semester with us! Tour our newly updated space! Meet our staff, learn what services we offer, and explore our Fall Programs. Drop-in anytime between 2-3:30. There will be giveaways! FREE Music provided by Cali School of Music Students!"
   },
   {
     "title": "Campus Activities Tabling",
@@ -1640,6 +1624,14 @@
     "description": "Our Story - ASE Group \n \n \n Our founder, Al-Nesha Jones, CPA, MBA, MOM, started ASE Group as the solution she needed to create freedom and flexibility as a working mom. With over a decade of experience in corporate America, she understood the importance of streamlining systems, financial reporting, and analytics, and she knew it could be done without having to sacrifice being present with her family. She was on a personal pursuit for flexibility and financial freedom, and a professional quest to serve her community in an impactful way. \n \n \n \n \n \n \n SBUS 255 (School of Business). We look forward to seeing you on September 16th."
   },
   {
+    "title": "Club Meeting",
+    "date": "2026-09-16T18:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707096",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
+  },
+  {
     "title": "CART Academic Notice Advising Group",
     "date": "2026-09-16T18:00:00+00:00",
     "organization": "The College of the Arts",
@@ -1662,6 +1654,14 @@
     "location": "Student Center Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12581260",
     "description": "Check out the student organizations Montclair has to offer! \n \u00a0 \n When: Wednesday, September 16th Time: 1:30 Pm - 3:30 PM Where: Student Center Quad"
+  },
+  {
+    "title": "Counseling and Psychological Services (CAPS) Open House",
+    "date": "2026-09-16T18:00:00+00:00",
+    "organization": "CAPS (Counseling and Psychological Services)",
+    "location": "Counseling and Psychological Services (CAPS)",
+    "link": "https://montclair.campuslabs.com/engage/event/12542910",
+    "description": "Celebrate the start of the semester with us! Tour our newly updated space! Meet our staff, learn what services we offer, and explore our Fall Programs. Drop-in anytime between 2-3:30. There will be giveaways! FREE Music provided by Cali School of Music Students!"
   },
   {
     "title": "\ud83c\udf81 Care Bags & Connections ",
@@ -2686,6 +2686,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635697",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
+  },
+  {
+    "title": "Club Meeting",
+    "date": "2026-09-23T18:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707091",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
     "title": "We\u2019re Not Really Strangers!",
@@ -3784,6 +3792,14 @@
     "description": "Having trouble with APA format? Well, never fear the Writing Center is here! This workshop will go over all the rules of APA style writing and discuss what makes them so different!"
   },
   {
+    "title": "Club Meeting",
+    "date": "2026-09-30T18:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707097",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
+  },
+  {
     "title": "Sketch Comedy Club ",
     "date": "2026-09-30T17:30:00+00:00",
     "organization": "Sketch Comedy Club",
@@ -4630,6 +4646,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12625764",
     "description": "Having trouble with MLA? Well never fear the WC is here! This workshop will help gain a better understanding of MLA style writing and what the difference are between these two formats."
+  },
+  {
+    "title": "Club Meeting",
+    "date": "2026-10-07T18:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707098",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
     "title": "Breast Cancer Awareness Bake Sale",
@@ -5504,6 +5528,14 @@
     "description": "Stop by and enjoy a candy bag! Post us on social media for an extra treat! IG: @montlciar_applecore"
   },
   {
+    "title": "Club Meeting",
+    "date": "2026-10-14T18:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707099",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
+  },
+  {
     "title": "KIPP Scholars College Connection ",
     "date": "2026-10-14T18:00:00+00:00",
     "organization": "Bloomfield Center for Student Success",
@@ -5733,7 +5765,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12636119",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a02 PM - 3 PM,\u00a0 Wednesday: \u00a04:45 PM - 5:45 PM,\u00a0 Thursday: \u00a012 PM - 1 PM\u00a0 &\u00a0 2 PM - 3 PM\u00a0 &\u00a0 4:45 PM - 5:45 PM,\u00a0 Friday: \u00a02 PM - 3 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Isra (Monday), Alessandro (Wednesday), Isra, Brian, and Alessandro/Brian (Thursday), Brian (Friday)"
+    "description": ""
   },
   {
     "title": "Group X - Cycling",
@@ -6648,6 +6680,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
+    "title": "Club Meeting",
+    "date": "2026-10-28T18:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707092",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
+  },
+  {
     "title": "CART Academic Notice Advising Group",
     "date": "2026-10-28T18:00:00+00:00",
     "organization": "The College of the Arts",
@@ -7392,6 +7432,14 @@
     "description": "Stop by and support the Amici Club and purchase a delicious homemade treat!"
   },
   {
+    "title": "Club Meeting",
+    "date": "2026-11-04T19:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707100",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
+  },
+  {
     "title": "Fireside Chats ",
     "date": "2026-11-04T19:30:00+00:00",
     "organization": "Office of Health Promotion",
@@ -7958,6 +8006,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635817",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
+  },
+  {
+    "title": "Club Meeting",
+    "date": "2026-11-11T19:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707093",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
     "title": "Fireside Chats ",
@@ -8558,6 +8614,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635823",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
+  },
+  {
+    "title": "Club Meeting",
+    "date": "2026-11-18T19:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707101",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
     "title": "CART Academic Notice Advising Group",
@@ -9440,6 +9504,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
+    "title": "Club Meeting",
+    "date": "2026-12-02T19:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707094",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
+  },
+  {
     "title": "Fireside Chats ",
     "date": "2026-12-02T19:30:00+00:00",
     "organization": "Office of Health Promotion",
@@ -9758,6 +9830,14 @@
     "location": "Alexander Kasser Theater",
     "link": "https://montclair.campuslabs.com/engage/event/12657883",
     "description": "Join the\u00a0 University Symphonic Band \u00a0and\u00a0 Campus Band\u00a0 as they present an evening of music from a wide array of composers and styles. \n Montclair State University Students\u00a0 FREE\u00a0 with ID at Kasser Box Office \n Learn more about the University Symphonic and Campus Band at Montclair's Cali School of Music"
+  },
+  {
+    "title": "Club Meeting",
+    "date": "2026-12-09T19:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707095",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
     "title": "Fireside Chats ",
