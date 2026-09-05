@@ -1,13 +1,5 @@
 [
   {
-    "title": "Stand Up Paddleboarding",
-    "date": "2026-09-05T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12526032",
-    "description": "Join Campus Recreation for an awesome day of stand up paddleboarding! Test your balancing skills as we head to the Round Valley Reservoir for a relaxing, fun day on the water.\u00a0 \n How do I sign-up? \n \n Register  here\u00a0 or in the Student Rec Center main office, or over the phone (973-655-3340). \n Cost for Students: $10 \n \n Where and when? \n \n Saturday, September 5, 2026 \n 9am - 5pm \n Begins at Student Recreation Center \n \n What to bring:  Water, lunch, bug spray, sunscreen, towel and bathing suit\u00a0 \n Potential Hazards:  Unpredictable weather changes, sunburn/heat exhaustion, dehydration, allergic reactions/poisonous plants, and insect bites."
-  },
-  {
     "title": "Medieval Times Trip",
     "date": "2026-09-05T19:00:00+00:00",
     "organization": "Campus Recreation",
@@ -5973,7 +5965,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635405",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday (8/31 through 12/6) \n 10 AM - 11 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Bridget and Jack"
+    "description": ""
   },
   {
     "title": "Group X - Power Yoga",
@@ -7272,20 +7264,20 @@
     "description": "Players:\u00a0The Importance of Being Earnest Tech Rehearsal"
   },
   {
-    "title": "Players Comedy Rehearsal ",
-    "date": "2026-11-03T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/12702879",
-    "description": "Players Comedy Rehearsal"
-  },
-  {
     "title": "Miscellaneous Show Rehearsals",
     "date": "2026-11-03T23:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12702866",
     "description": "Players: Miscellaneous Show Rehearsals"
+  },
+  {
+    "title": "Players Comedy Rehearsal ",
+    "date": "2026-11-03T23:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/12702879",
+    "description": "Players Comedy Rehearsal"
   },
   {
     "title": "Midterms Election Watch Party, Pizza & Power: Watch Democracy Unfold Live!",
