@@ -1,13 +1,5 @@
 [
   {
-    "title": "Back on Campus Movie",
-    "date": "2026-09-06T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Machuga Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/12654408",
-    "description": "Join us at the Machuga MPR on September 5th from 8PM-10PM to chill and sit back while watch a fun school themed movie! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Greenwood Lake Hike",
     "date": "2026-09-06T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4789,7 +4781,7 @@
     "organization": "Montclair State University Players",
     "location": "Student Center 417 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12625100",
-    "description": "Players Comedy Rehearsal"
+    "description": ""
   },
   {
     "title": "Players Comedy Rehearsal ",
@@ -7240,20 +7232,20 @@
     "description": "Players:\u00a0The Importance of Being Earnest Tech Rehearsal"
   },
   {
-    "title": "Miscellaneous Show Rehearsals",
-    "date": "2026-11-03T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/12702866",
-    "description": "Players: Miscellaneous Show Rehearsals"
-  },
-  {
     "title": "Players Comedy Rehearsal ",
     "date": "2026-11-03T23:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 250B - Ballroom B",
     "link": "https://montclair.campuslabs.com/engage/event/12702879",
     "description": "Players Comedy Rehearsal"
+  },
+  {
+    "title": "Miscellaneous Show Rehearsals",
+    "date": "2026-11-03T23:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250A - Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/12702866",
+    "description": "Players: Miscellaneous Show Rehearsals"
   },
   {
     "title": "Midterms Election Watch Party, Pizza & Power: Watch Democracy Unfold Live!",
@@ -8061,7 +8053,7 @@
     "organization": "Office of Tutoring, Writing, and Academic Support Services",
     "location": "Bloomfield College Center for Student Success (CSS): Room 005",
     "link": "https://montclair.campuslabs.com/engage/event/12687017",
-    "description": "Starting September 17th, join the Champions and the OTWASS team for our weekly study hall night hosted in CSS room 005! We'll have an open space for individual work, group work, and even have a tutor available to assist with work on the spot! Every Thursday from 5-7, whether Champions or not, feel free to join us for discussion, connection, studying, and tutoring."
+    "description": ""
   },
   {
     "title": "Group X - Brazilian Jiu-Jitsu",
