@@ -1,45 +1,5 @@
 [
   {
-    "title": "Group X - Vinyasa Flow Yoga",
-    "date": "2026-09-09T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12588806",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, and Thursday (8/31 through 12/6) \n Monday and Wednesday: 9 AM - 9:45 AM, Thursday: 11 AM - 11:45 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Abigail (Monday/Wednesday) and Kendall (Thursday)"
-  },
-  {
-    "title": "S.T.A.R.T: Beat the Clock: Time Hacks for Busy Students",
-    "date": "2026-09-09T14:00:00+00:00",
-    "organization": "Disability Resource Center",
-    "location": "Cole 141",
-    "link": "https://montclair.campuslabs.com/engage/event/12502392",
-    "description": "Feeling overwhelmed by everything on your plate? Join workshop to learn smart, practical time management strategies designed for busy college students. You'll discover how to fight distractions and make the most of your time. Attend and receive a raffle ticket for a chance to win a prize!\u00a0 \n Image Description: Clock lying on a notebook with two pens and a laptop nearby."
-  },
-  {
-    "title": "Group X - Pilates",
-    "date": "2026-09-09T15:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12635640",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday:  10 AM - 10:45 AM  &  3:30 PM - 4:15 PM,  Wednesday:  11 AM - 11:45 AM  &  2 PM - 2:45 PM,  Thursday:  10 AM - 10:45 AM,  Friday:  4 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
-  },
-  {
-    "title": "Backyard Games with Intramural Sports",
-    "date": "2026-09-09T15:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Dioguardi Field",
-    "link": "https://montclair.campuslabs.com/engage/event/12700283",
-    "description": "Backyard Games is bringing the fun to Dioguardi Field this fall! Join us on September 9th, 16th, and 23rd from 11:00 AM\u2013 1:00 PM for an afternoon of friendly competition, music, and outdoor fun.\u00a0Grab your friends and stop by to play classic backyard favorites like cornhole, KanJam, spikeball, ladder toss, and more. Whether you\u2019re looking to compete, meet new people, or just enjoy the fall weather, Backyard Games is the perfect mid-day break on campus! \n \u00a0 \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Wednesday, September 9th 2026 \n 11:00 am - 1:00 pm\u00a0 \n Dioguardi Field"
-  },
-  {
-    "title": "Are You LinkedIn?: Building Your Digital Brand",
-    "date": "2026-09-09T17:00:00+00:00",
-    "organization": "The ADP Center",
-    "location": "ADP Center Commons",
-    "link": "https://montclair.campuslabs.com/engage/event/12712682",
-    "description": "Learn how to make your LinkedIn profile stand out and showcase your professional story. In this workshop, you\u2019ll explore strategies to build your digital brand, connect with industry professionals, and use LinkedIn to open doors to future opportunities. Perfect for anyone ready to take their online presence to the next level!"
-  },
-  {
     "title": "Group X - Pilates",
     "date": "2026-09-09T18:00:00+00:00",
     "organization": "Campus Recreation",
@@ -120,6 +80,22 @@
     "description": "Come grab a snack and get a friend to learn all about the 26-27 E board team and DIY dreamers. We will tell you all about the fun filled semester we have for you."
   },
   {
+    "title": "Orientation Day - Red Hawk Studio",
+    "date": "2026-09-09T18:15:00+00:00",
+    "organization": "Red Hawk Studio",
+    "location": "Calcia Hall 140 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12655658",
+    "description": "Welcome-All to Fall 2026 Red Hawk Studio's  ORIENTATION .  At this Meeting we will introduce and re-introduce our E-Board and members new and old. We will be going over the upcoming events for this semester as-well as raise awareness to many different aspects of our organization and goals we strive to achieve for the rest of the school year.  Please come if you are interested in starting your journey into the digital media industry and to be able to connect with many different people aspiring to reach there goals.\u00a0 This event also serves to introduce you all to the Production of Red Hawk Studios as how we will go about our goals for the semester."
+  },
+  {
+    "title": "WOCA General Body Meetings",
+    "date": "2026-09-09T18:30:00+00:00",
+    "organization": "The Women Of Color Alliance ",
+    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12711983",
+    "description": "WOCA General Body Meetings are welcoming spaces where women of color come together to connect, share experiences, and build community. Each meeting offers meaningful conversations, engaging activities, and opportunities for personal growth and lasting connections.\u2728"
+  },
+  {
     "title": "Garden Volunteer Day!",
     "date": "2026-09-09T18:00:00+00:00",
     "organization": "Montclair State Campus Community Garden",
@@ -160,20 +136,12 @@
     "description": "Stop by the Campus Activities table to learn more about everything happening on campus!\u00a0 Whether you\u2019re looking for fun events, ways to get involved, or opportunities to meet new people, Campus Activities has something for everyone."
   },
   {
-    "title": "Orientation Day - Red Hawk Studio",
-    "date": "2026-09-09T18:15:00+00:00",
-    "organization": "Red Hawk Studio",
-    "location": "Calcia Hall 140 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12655658",
-    "description": "Welcome-All to Fall 2026 Red Hawk Studio's  ORIENTATION .  At this Meeting we will introduce and re-introduce our E-Board and members new and old. We will be going over the upcoming events for this semester as-well as raise awareness to many different aspects of our organization and goals we strive to achieve for the rest of the school year.  Please come if you are interested in starting your journey into the digital media industry and to be able to connect with many different people aspiring to reach there goals.\u00a0 This event also serves to introduce you all to the Production of Red Hawk Studios as how we will go about our goals for the semester."
-  },
-  {
-    "title": "WOCA General Body Meetings",
-    "date": "2026-09-09T18:30:00+00:00",
-    "organization": "The Women Of Color Alliance ",
-    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12711983",
-    "description": "WOCA General Body Meetings are welcoming spaces where women of color come together to connect, share experiences, and build community. Each meeting offers meaningful conversations, engaging activities, and opportunities for personal growth and lasting connections.\u2728"
+    "title": "Meal Plan Q&A",
+    "date": "2026-09-09T19:00:00+00:00",
+    "organization": "EATS by Gourmet Dining",
+    "location": "The Underground at the Student Center 1st Floor",
+    "link": "https://montclair.campuslabs.com/engage/event/12709155",
+    "description": "Have meal plan questions, need help with Grubhub, or just want to learn more about dining on campus? \n Find our EATS by GDS team at The Underground on the 1st floor of the Student Center for a Q&A! \n Stop by, ask questions, and get the info you need to make the most of dining on campus!"
   },
   {
     "title": "Study Abroad Fair Fall 2026",
@@ -182,14 +150,6 @@
     "location": "Student Center Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12388181",
     "description": "Ready to take your education global? Join us at the Study Abroad Fair and explore a world of opportunities waiting just beyond your campus. Discover programs around the world, meet representatives from our partners and providers, and hear firsthand stories from students who\u2019ve already taken the leap. \n Whether you're dreaming of practicing your language skills, expanding your horizons in a new corner of the globe, or even seeing a different part of the United States, this is your chance to find the perfect fit. Learn about scholarships, internships, and how to make your journey abroad both affordable and unforgettable. \n \ud83d\udcc5 Date: Wednesday, September 9, 2026 \n \ud83d\udccd Location: Student Center Quad \u00a0 \u00a0 Rain Location: Student Center Ballrooms \u23f0 Time: 1:30-4:00pm"
-  },
-  {
-    "title": "Meal Plan Q&A",
-    "date": "2026-09-09T19:00:00+00:00",
-    "organization": "EATS by Gourmet Dining",
-    "location": "The Underground at the Student Center 1st Floor",
-    "link": "https://montclair.campuslabs.com/engage/event/12709155",
-    "description": "Have meal plan questions, need help with Grubhub, or just want to learn more about dining on campus? \n Find our EATS by GDS team at The Underground on the 1st floor of the Student Center for a Q&A! \n Stop by, ask questions, and get the info you need to make the most of dining on campus!"
   },
   {
     "title": "Group X - Total Body Strength and Conditioning",
@@ -254,6 +214,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12636817",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday and Thursday (8/31 through 12/6) \n 6 PM - 7:30 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
+  },
+  {
+    "title": "Our Specialty Dessert",
+    "date": "2026-09-09T22:00:00+00:00",
+    "organization": "Freeman Hall & Russ Hall",
+    "location": "Freeman Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12724488",
+    "description": "Come enjoy strawberry cheesecake with CA Ethan! Get to know other residents in the Freeman and Russ community."
   },
   {
     "title": "PJs & Scoops: Hall Council Ice Cream Social",
@@ -496,6 +464,14 @@
     "description": "Join us on Thursday September 10th in the Bohn Hall 5th floor lounge at 6 pm to create your own Id/Key card holder or bag charm! Whether you need something to keep track of your id/keys, or want to carry them around in style theres something for everyone. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "Cookie Decorating",
+    "date": "2026-09-10T22:00:00+00:00",
+    "organization": "Freeman Hall & Russ Hall",
+    "location": "Russ Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12724689",
+    "description": "Cookie decorating in Russ Lounge!"
+  },
+  {
     "title": "Flames & Facts",
     "date": "2026-09-10T23:00:00+00:00",
     "organization": "Campus Activities",
@@ -614,6 +590,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635643",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday:  10 AM - 10:45 AM  &  3:30 PM - 4:15 PM,  Wednesday:  11 AM - 11:45 AM  &  2 PM - 2:45 PM,  Thursday:  10 AM - 10:45 AM,  Friday:  4 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
+  },
+  {
+    "title": "Ice Cream Social",
+    "date": "2026-09-11T20:00:00+00:00",
+    "organization": "Freeman Hall & Russ Hall",
+    "location": "Freeman Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12724627",
+    "description": "Come connect with other residents and have some sweet treats! Dairy free option available!"
   },
   {
     "title": "Pop Music Trivia",
@@ -736,20 +720,20 @@
     "description": "Join Campus Activities for Craft Night! Design and decorate your own picture frame to showcase your favorite memories."
   },
   {
-    "title": "Mocktail Mixer",
-    "date": "2026-09-13T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12654333",
-    "description": "Join us in Blanton for our Mocktail Mixer on September 12th from 8-10pm. Come and make new friends and have great convos! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Tee Time",
     "date": "2026-09-13T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Bohn Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12654320",
     "description": "Join us for Tee Time on September 12th from 8\u201310 PM in the Bohn Hall Lounge! Get creative and design your very own graphic tee with fun designs, colors, and personal touches. Whether you\u2019re creating something bold, funny, or totally your style, come hang out, get crafty, and leave with a one-of-a-kind shirt made by you! All students are welcome! Commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Mocktail Mixer",
+    "date": "2026-09-13T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12654333",
+    "description": "Join us in Blanton for our Mocktail Mixer on September 12th from 8-10pm. Come and make new friends and have great convos! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Players Homecoming Variety Show Rehearsal ",
@@ -936,14 +920,6 @@
     "description": "Welcome Back! \n Our weekly NAACP discussion space is dedicated to education, empowerment, and collective action. Each Monday from 2:00 PM \u2013 3:15 PM, we gather to engage in meaningful conversations surrounding civil rights, social justice, advocacy, and current events impacting Black communities on campus and beyond. \n Each week brings something new \u2014 current events, culture, advocacy topics, campus concerns, or whatever\u2019s on our minds. Come through, share your voice, and be part of a community that\u2019s always growing and always pushing forward."
   },
   {
-    "title": "PASO General Board Meeting",
-    "date": "2026-09-14T18:15:00+00:00",
-    "organization": "Peruvian-American Student Organization",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12713314",
-    "description": "Join us every week for our PASO General Board Meetings, where culture, community, and leadership come together! These meetings are open to all members and students interested in learning more about Peruvian culture, supporting Latinx representation, and getting involved. \n \n \n All Montclair / Bloomfield Campus Students are Invited to attend!"
-  },
-  {
     "title": "MUFASA MONDAY!",
     "date": "2026-09-14T18:15:00+00:00",
     "organization": "Montclair Unified Filipino American Student Association",
@@ -1022,6 +998,14 @@
     "location": "University Hall 2002 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12713248",
     "description": "First General Body Meeting. Welcome to our event! If you're looking to meet people who are interested in the Puerto Rican culture, this is the place to be! If you're new to campus, come down. This General Body Meeting will have the e-board member introductions and we will share resources about what you can do on campus!"
+  },
+  {
+    "title": "InterVarsity Men's Bible Study ",
+    "date": "2026-09-14T18:30:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "University Hall 2013 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12724237",
+    "description": "An InterVarsity small group that helps men follow Jesus alongside others who want to do the same. We pray for revival together and get to do life together"
   },
   {
     "title": "Rain Date - Meet the Greeks",
@@ -1224,14 +1208,6 @@
     "description": "Come decorate your own mugs in Stone Hall on September 14th at 8 pm. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Group X - Vinyasa Sunrise Yoga",
-    "date": "2026-09-15T11:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12587863",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "CLAW - Iced Coffee Bar",
     "date": "2026-09-15T12:30:00+00:00",
     "organization": "Office of Commuter Life",
@@ -1317,7 +1293,7 @@
     "organization": "Food Recovery Network",
     "location": "Blanton Hall Resident Kitchenette",
     "link": "https://montclair.campuslabs.com/engage/event/12715230",
-    "description": "Food Recovery Network Information\u00a0 \n \u00a0 \n Description:\u00a0Join our weekly Food Recovery events, where dedicated volunteers and members gather to make a difference in our community. Each week, participants help collect perfectly good leftover food from Gourmet Dining and transport it to Blanton. There, the food is repackaged into individual microwavable containers and stocked in the food pantry, providing meals for those in need throughout the week.\u00a0 \n To Participate :\u00a0RSVP to attend the event each week. Meet in Blanton Hall Residence Hall Kitchenette in the Communal Area (Tell them you are working with Food Recovery), Sign in via Event Pass and your set! \n Requirements: \n \n Volunteers must be Food Safe Certified to participate. \n Complete the certification by following the step-by-step instructions provided in this\u00a0 link . \n Once certified, email your certification to\u00a0 foodrecoverynetwork@sgamsu. org \u00a0to confirm your eligibility to participate. \n \n Your involvement helps reduce food waste and insecurity while supporting individuals in our community who are in need. We look forward to your participation! *Please Note: This event end time is dependent on the amount of food given. You can estimate for max of hour and a half for recoveries."
+    "description": "Join our weekly Food Recovery events, where dedicated volunteers and members gather to make a difference in our community. Each week, participants help collect perfectly good leftover food from Gourmet Dining and transport it to Blanton. There, the food is repackaged into individual microwavable containers and stocked in the food pantry, providing meals for those in need throughout the week.\u00a0 \n To Participate :\u00a0RSVP to attend the event each week. Meet in Blanton Hall Residence Hall Kitchenette in the Communal Area (Tell them you are working with Food Recovery), Sign in via Event Pass and your set! \n Requirements: \n \n Volunteers must be Food Safe Certified to participate. \n Complete the certification by following the step-by-step instructions provided in this\u00a0 link . \n Once certified, email your certification to\u00a0 foodrecoverynetwork@sgamsu. org \u00a0to confirm your eligibility to participate. \n \n Your involvement helps reduce food waste and insecurity while supporting individuals in our community who are in need. We look forward to your participation! *Please Note: This event end time is dependent on the amount of food given. You can estimate for max of hour and a half for recoveries."
   },
   {
     "title": "CLAW - Guess the Cars!",
@@ -1640,14 +1616,6 @@
     "description": "Come join the Apple Core Community for our Back to School Sip and Paint! Have free reign of various painting supplies while enjoying Tea and Coffee. Connect with other students and the members of the Apple Core Community."
   },
   {
-    "title": "Brasil Club's First Meeting",
-    "date": "2026-09-16T18:15:00+00:00",
-    "organization": "Brasil Club",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12713460",
-    "description": "Welcome everyone! This is going to be our first meeting, and we're excited to get started. We'll be talking about the upcoming semester and all the plans we have. It's a great chance for us to meet each other. Everyone is welcome, and we're glad you could join us! We\u2019ll also have some Brazilian treats to enjoy together."
-  },
-  {
     "title": "Polish Club General Meeting",
     "date": "2026-09-16T18:15:00+00:00",
     "organization": "Montclair State Polish Club",
@@ -1678,6 +1646,14 @@
     "location": "Counseling and Psychological Services (CAPS)",
     "link": "https://montclair.campuslabs.com/engage/event/12542910",
     "description": "Celebrate the start of the semester with us! Tour our newly updated space! Meet our staff, learn what services we offer, and explore our Fall Programs. Drop-in anytime between 2-3:30. There will be giveaways! FREE Music provided by Cali School of Music Students!"
+  },
+  {
+    "title": "Psychology Club Introduction Meeting",
+    "date": "2026-09-16T18:00:00+00:00",
+    "organization": "Psychology Club",
+    "location": "Dickson Hall 177 - Brantl Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12725119",
+    "description": "Welcome back everyone! The Psychology Club is hosting their first meeting of the school year and we would love to see you there! We will get to know our new members, introduce the interests of the Psychology Club, and talk about exciting events, discussions, and opportunities planned for the semester. We hope to see you there!"
   },
   {
     "title": "WELCOME TO DESH (GBM)",
@@ -1832,6 +1808,14 @@
     "description": "Complexion will be getting together to earn and create choreography for various events and football games this semester."
   },
   {
+    "title": "Group X - Vinyasa Sunrise Yoga",
+    "date": "2026-09-17T11:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12587863",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
+  },
+  {
     "title": "Group X - Vinyasa Good Morning Yoga",
     "date": "2026-09-17T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1918,6 +1902,14 @@
     "location": "ADP Center Commons",
     "link": "https://montclair.campuslabs.com/engage/event/12712845",
     "description": "Ready to share your voice with the world? This workshop covers the essentials of creating, recording, and publishing your own podcast\u2014from planning your content to using tech tools for editing and distribution. Learn how to craft compelling stories and build an audience through the power of sound."
+  },
+  {
+    "title": "Weekly Recovery Initiative",
+    "date": "2026-09-17T18:00:00+00:00",
+    "organization": "Food Recovery Network",
+    "location": "Blanton Hall Resident Kitchenette",
+    "link": "https://montclair.campuslabs.com/engage/event/12723274",
+    "description": "Join our weekly Food Recovery events, where dedicated volunteers and members gather to make a difference in our community. Each week, participants help collect perfectly good leftover food from Gourmet Dining and transport it to Blanton. There, the food is repackaged into individual microwavable containers and stocked in the food pantry, providing meals for those in need throughout the week.\u00a0 \n To Participate :\u00a0RSVP to attend the event each week. Meet in Blanton Hall Residence Hall Kitchenette in the Communal Area (Tell them you are working with Food Recovery), Sign in via Event Pass and your set! \n Requirements: \n \n Volunteers must be Food Safe Certified to participate. \n Complete the certification by following the step-by-step instructions provided in this\u00a0 link . \n Once certified, email your certification to\u00a0 foodrecoverynetwork@sgamsu. org \u00a0to confirm your eligibility to participate. \n \n Your involvement helps reduce food waste and insecurity while supporting individuals in our community who are in need. We look forward to your participation! *Please Note: This event end time is dependent on the amount of food given. You can estimate for max of hour and a half for recoveries."
   },
   {
     "title": "Group X - Cycling",
@@ -2216,6 +2208,14 @@
     "description": "Hang out with your friends on Friday night around the fire pit! Free snacks, such as s'mores and iced tea, will be provided. Lawn games, hammocks, and other items will also be available FREE via Equipment Checkout.\u00a0\u00a0 \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Every Friday from August 28 to November 13,  except on October 2 and October 23. \n 7:00 pm - 9:00 pm\u00a0 \n Student Center Quad"
   },
   {
+    "title": "Red Hawk Night!",
+    "date": "2026-09-19T01:00:00+00:00",
+    "organization": "Campus Activities",
+    "location": "The Student Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12724686",
+    "description": "Red Hawk Night is a can\u2019t-miss campus event!  We're taking over the entire  Student Center  for a night packed with free food, giveaways, entertainment, and nonstop fun.\u00a0Some of the activities include mini golf, arts & crafts, tote bag decorating, karaoke, and make-your-own Rocky Plushie! \n How do I sign up? \n \n Early registration is not required \n Check-in will take place at the front entrance of the Student Center\u00a0 \n FREE for students with a valid Montclair State ID \n All Montclair and Bloomfield students are welcome! \n \n Where and when? \n \n Friday, September 18th \n 9 pm - 12 am \n Student Center"
+  },
+  {
     "title": "Players Homecoming Variety Show Rehearsal ",
     "date": "2026-09-19T14:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -2416,6 +2416,14 @@
     "description": "Join us for our first dabke class of the semester! Light snacks and refreshments will be served."
   },
   {
+    "title": "GBM",
+    "date": "2026-09-21T18:00:00+00:00",
+    "organization": "Child Advocacy and Policy Club",
+    "location": "Dickson Hall 175 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12723975",
+    "description": "General Body Meeting for the Child Advocacy Club"
+  },
+  {
     "title": "Group X - Kickboxing",
     "date": "2026-09-21T18:00:00+00:00",
     "organization": "Campus Recreation",
@@ -2590,14 +2598,6 @@
     "location": "Bohn Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12654290",
     "description": "Come win a cuddly prize with Stuffed Animal Bingo! Held in the Bohn Lounge from 8:00pm-10:00pm on September 21st. All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Group X - Vinyasa Sunrise Yoga",
-    "date": "2026-09-22T11:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12587864",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
   },
   {
     "title": "Group X - Pilates + Cycle",
@@ -2832,6 +2832,14 @@
     "description": "The Volunteer Income Tax Assistance (VITA) program offers complimentary, high-quality tax preparation services to eligible individuals, including students with low-to-moderate incomes. Join the meeting to learn more!\u00a0 \n Accounting Students! Want to earn credit on your internship? Look no further than this meeting!"
   },
   {
+    "title": "Meet & Greet",
+    "date": "2026-09-23T18:00:00+00:00",
+    "organization": "The Montclair English Club",
+    "location": "Dickson Hall 275",
+    "link": "https://montclair.campuslabs.com/engage/event/12727249",
+    "description": "Meet and Greet for new and returning members of the English Club! Meet our E-Board, learn more about our exciting events this semester, enjoy free snacks, and participate in a raffle with prizes!"
+  },
+  {
     "title": "We\u2019re Not Really Strangers!",
     "date": "2026-09-23T18:00:00+00:00",
     "organization": "Psychology Club",
@@ -3022,6 +3030,14 @@
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12663955",
     "description": "Complexions will come together, learn and create choreographer for various events this semester."
+  },
+  {
+    "title": "Group X - Vinyasa Sunrise Yoga",
+    "date": "2026-09-24T11:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12587864",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
   },
   {
     "title": "Group X - Vinyasa Good Morning Yoga",
@@ -3784,14 +3800,6 @@
     "description": "In front of Bohn and Blanton on September 28th starting at 8PM, kick off the fall season with a cozy night around the campfire! Residents can enjoy s\u2019mores, candy, refreshing drinks, and fall-themed goodies while hanging out and connecting with others. All students are welcome!"
   },
   {
-    "title": "Group X - Vinyasa Sunrise Yoga",
-    "date": "2026-09-29T11:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12587865",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Group X - Pilates + Cycle",
     "date": "2026-09-29T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4176,6 +4184,14 @@
     "description": "Complexions will come together, learn and create choreographer for various events this semester."
   },
   {
+    "title": "Group X - Vinyasa Sunrise Yoga",
+    "date": "2026-10-01T11:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12587865",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
+  },
+  {
     "title": "Group X - Vinyasa Good Morning Yoga",
     "date": "2026-10-01T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4552,6 +4568,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a02 PM - 3 PM,\u00a0 Wednesday: \u00a04:45 PM - 5:45 PM,\u00a0 Thursday: \u00a012 PM - 1 PM\u00a0 &\u00a0 2 PM - 3 PM\u00a0 &\u00a0 4:45 PM - 5:45 PM,\u00a0 Friday: \u00a02 PM - 3 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Isra (Monday), Alessandro (Wednesday), Isra, Brian, and Alessandro/Brian (Thursday), Brian (Friday)"
   },
   {
+    "title": "General Body Meeting",
+    "date": "2026-10-05T18:00:00+00:00",
+    "organization": "Child Advocacy and Policy Club",
+    "location": "Dickson Hall 272 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12725176",
+    "description": "Come hang out with the Child Advocacy Club!"
+  },
+  {
     "title": "Hangul Day",
     "date": "2026-10-05T18:00:00+00:00",
     "organization": "Korean Culture & Language Association",
@@ -4704,14 +4728,6 @@
     "description": "Players: The Rocky Horror Picture Show Rehearsal"
   },
   {
-    "title": "Group X - Vinyasa Sunrise Yoga",
-    "date": "2026-10-06T11:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12587866",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Group X - Pilates + Cycle",
     "date": "2026-10-06T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -4832,20 +4848,20 @@
     "description": "Players Comedy Auditions Day 2"
   },
   {
-    "title": "Miscellaneous Show Rehearsals",
-    "date": "2026-10-06T22:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12606451",
-    "description": "Players: Miscellaneous Show Rehearsals"
-  },
-  {
     "title": "The Rocky Horror Picture Show Rehearsal",
     "date": "2026-10-06T22:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 250B - Ballroom B",
     "link": "https://montclair.campuslabs.com/engage/event/12674377",
     "description": "Players: The Rocky Horror Picture Show Rehearsal"
+  },
+  {
+    "title": "Miscellaneous Show Rehearsals",
+    "date": "2026-10-06T22:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12606451",
+    "description": "Players: Miscellaneous Show Rehearsals"
   },
   {
     "title": "Group X - Vinyasa Flow Yoga",
@@ -4965,7 +4981,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12636083",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a02 PM - 3 PM,\u00a0 Wednesday: \u00a04:45 PM - 5:45 PM,\u00a0 Thursday: \u00a012 PM - 1 PM\u00a0 &\u00a0 2 PM - 3 PM\u00a0 &\u00a0 4:45 PM - 5:45 PM,\u00a0 Friday: \u00a02 PM - 3 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Isra (Monday), Alessandro (Wednesday), Isra, Brian, and Alessandro/Brian (Thursday), Brian (Friday)"
+    "description": ""
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
@@ -5005,7 +5021,7 @@
     "organization": "Bloomfield's Office of Residence Life",
     "location": "Franklin Hall \u2013 Multi-Purpose Room (Room 314)",
     "link": "https://montclair.campuslabs.com/engage/event/12613775",
-    "description": "Get into the fall spirit with RA Auco at  Spooky Sweets!  \ud83c\udf83\ud83c\udf6a Residents can decorate festive cookies, show off their creativity, enjoy sweet treats, and connect with their Franklin Hall community for a fun and cozy night! \n \ud83d\udccd  Franklin Hall MPR \u2013 3rd Floor \ud83d\udcc5  October 7 \u00a0| \u23f0  7:30 PM"
+    "description": ""
   },
   {
     "title": "Choir Practice",
@@ -5054,6 +5070,14 @@
     "location": "Student Center 250C - Ballroom C",
     "link": "https://montclair.campuslabs.com/engage/event/12674319",
     "description": "Meet the sisters of Theta Phi Alpha for their fall recruitment!"
+  },
+  {
+    "title": "Group X - Vinyasa Sunrise Yoga",
+    "date": "2026-10-08T11:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12587866",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
   },
   {
     "title": "Group X - Vinyasa Good Morning Yoga",
@@ -5133,7 +5157,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513522",
-    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
+    "description": ""
   },
   {
     "title": "Champions X OTWASS Weekly Study Hall Night!",
@@ -5576,14 +5600,6 @@
     "description": "Players Comedy Rehearsal"
   },
   {
-    "title": "Group X - Vinyasa Sunrise Yoga",
-    "date": "2026-10-13T11:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12587867",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Group X - Pilates + Cycle",
     "date": "2026-10-13T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -6008,6 +6024,14 @@
     "description": "Game on! \ud83c\udfae Join RA Hafiz for the  Marvel Tokon Tournament.\u00a0 All skill levels are welcome come play, connect, and see who takes the win! \n \ud83d\udccd  Franklin Hall Game Room \ud83d\udcc5  October 14  | \u23f0  8:00\u201310:00 PM"
   },
   {
+    "title": "Group X - Vinyasa Sunrise Yoga",
+    "date": "2026-10-15T11:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12587867",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
+  },
+  {
     "title": "Group X - Vinyasa Good Morning Yoga",
     "date": "2026-10-15T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -6384,14 +6408,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday (8/31 through 12/6) \n 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Tyrah"
   },
   {
-    "title": "Group X - Vinyasa Sunrise Yoga",
-    "date": "2026-10-20T11:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12587868",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Group X - Pilates + Cycle",
     "date": "2026-10-20T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -6526,6 +6542,14 @@
     "location": "Soccer Park",
     "link": "https://montclair.campuslabs.com/engage/event/12476162",
     "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Group X - Vinyasa Sunrise Yoga",
+    "date": "2026-10-22T11:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12587868",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
   },
   {
     "title": "Group X - Vinyasa Good Morning Yoga",
@@ -6744,6 +6768,14 @@
     "description": "The Hermanos of the Alpha Kappa Chapter of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc. are dedicating to supporting its students on expressing their beliefs through voting. Swing by the our  Vote with the Lambdas  Table in the student Center to come see us, and for a suprise!"
   },
   {
+    "title": "General Body Meeting",
+    "date": "2026-10-26T18:00:00+00:00",
+    "organization": "Child Advocacy and Policy Club",
+    "location": "Dickson Hall 176 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12725109",
+    "description": "General body meeting for the Child Advocacy Club"
+  },
+  {
     "title": "Group X - Kickboxing",
     "date": "2026-10-26T18:00:00+00:00",
     "organization": "Campus Recreation",
@@ -6854,14 +6886,6 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12606654",
     "description": "Players: The Rocky Horror Picture Show Tech"
-  },
-  {
-    "title": "Group X - Vinyasa Sunrise Yoga",
-    "date": "2026-10-27T11:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12587869",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
   },
   {
     "title": "Group X - Pilates + Cycle",
@@ -7174,6 +7198,14 @@
     "location": "Yogi Berra Stadium",
     "link": "https://montclair.campuslabs.com/engage/event/12715032",
     "description": "Get ready for a fright-filled night! Join us for Field of Screams, a haunted house experience inside Yogi Berra Stadium. Brave the scares or just come to unwind by the fire pits with s\u2019mores, music, and more! Grab your friends and come out for a night of spooky fun you won\u2019t forget. Will you make it out of the Field of Screams? Come and find out! \n \u00a0 \n Entrance line closes promptly at 9:00 p.m. All students MUST be on line\u00a0by 9:00 p.m. to guarantee entrance. \n \u00a0 \n All participants\u00a0 MUST \u00a0 review the rules \u00a0and\u00a0 fill out the waiver \u00a0before entering. Make sure you\u00a0 fill out your waiver today!"
+  },
+  {
+    "title": "Group X - Vinyasa Sunrise Yoga",
+    "date": "2026-10-29T11:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12587869",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
   },
   {
     "title": "Group X - Vinyasa Good Morning Yoga",
@@ -7640,14 +7672,6 @@
     "description": "Rehearsal for Montclair State Dance Company"
   },
   {
-    "title": "Group X - Vinyasa Sunrise Yoga",
-    "date": "2026-11-03T12:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12587870",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Group X - Pilates + Cycle",
     "date": "2026-11-03T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -7752,20 +7776,20 @@
     "description": "Players:\u00a0The Importance of Being Earnest Tech Rehearsal"
   },
   {
-    "title": "Players Comedy Rehearsal ",
-    "date": "2026-11-03T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/12702879",
-    "description": "Players Comedy Rehearsal"
-  },
-  {
     "title": "Miscellaneous Show Rehearsals",
     "date": "2026-11-03T23:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12702866",
     "description": "Players: Miscellaneous Show Rehearsals"
+  },
+  {
+    "title": "Players Comedy Rehearsal ",
+    "date": "2026-11-03T23:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/12702879",
+    "description": "Players Comedy Rehearsal"
   },
   {
     "title": "Midterms Election Watch Party, Pizza & Power: Watch Democracy Unfold Live!",
@@ -7910,6 +7934,14 @@
     "location": "Student Center 250B - Ballroom B",
     "link": "https://montclair.campuslabs.com/engage/event/12702867",
     "description": "Players: Miscellaneous Show Rehearsals"
+  },
+  {
+    "title": "Group X - Vinyasa Sunrise Yoga",
+    "date": "2026-11-05T12:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12587870",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
   },
   {
     "title": "Group X - Vinyasa Good Morning Yoga",
@@ -8320,14 +8352,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday (8/31 through 12/6) \n 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Tyrah"
   },
   {
-    "title": "Group X - Vinyasa Sunrise Yoga",
-    "date": "2026-11-10T12:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12587871",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Group X - Pilates + Cycle",
     "date": "2026-11-10T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -8542,6 +8566,14 @@
     "location": "Alexander Kasser Theatre",
     "link": "https://montclair.campuslabs.com/engage/event/12607853",
     "description": "Directed by Kristen Bell \n Fall Dance \u00a0(dance) showcases Montclair State dance majors in a high-energy program of works by faculty and guest choreographers. Featuring a range of styles, it highlights student talent, versatility, and creative growth through bold, dynamic choreography. \n \n Montclair State University Students\u00a0 FREE\u00a0 with ID at Kasser Box Office"
+  },
+  {
+    "title": "Group X - Vinyasa Sunrise Yoga",
+    "date": "2026-11-12T12:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12587871",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
   },
   {
     "title": "Group X - Vinyasa Good Morning Yoga",
@@ -8968,14 +9000,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday (8/31 through 12/6) \n 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Tyrah"
   },
   {
-    "title": "Group X - Vinyasa Sunrise Yoga",
-    "date": "2026-11-17T12:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12587872",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Group X - Pilates + Cycle",
     "date": "2026-11-17T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -9230,6 +9254,14 @@
     "location": "Chapin Hall, Room G55",
     "link": "https://montclair.campuslabs.com/engage/event/12657799",
     "description": "Experience Cali\u2019s brass students in a vibrant evening of solo and small ensemble performance. \n Contact Brass Coordinator\u00a0 Micah Killion\u00a0 with any questions at\u00a0 killionm@montclair.edu"
+  },
+  {
+    "title": "Group X - Vinyasa Sunrise Yoga",
+    "date": "2026-11-19T12:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12587872",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
   },
   {
     "title": "Group X - Vinyasa Good Morning Yoga",
@@ -9616,14 +9648,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday (8/31 through 12/6) \n 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Tyrah"
   },
   {
-    "title": "Group X - Vinyasa Sunrise Yoga",
-    "date": "2026-11-24T12:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12587873",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Group X - Pilates + Cycle",
     "date": "2026-11-24T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -9758,6 +9782,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12636851",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday and Thursday (8/31 through 12/6) \n 6 PM - 7:30 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
+  },
+  {
+    "title": "Group X - Vinyasa Sunrise Yoga",
+    "date": "2026-11-26T12:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12587873",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
   },
   {
     "title": "Group X - Vinyasa Good Morning Yoga",
@@ -9968,14 +10000,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday (8/31 through 12/6) \n 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Tyrah"
   },
   {
-    "title": "Group X - Vinyasa Sunrise Yoga",
-    "date": "2026-12-01T12:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12587874",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
-  },
-  {
     "title": "Group X - Pilates + Cycle",
     "date": "2026-12-01T15:00:00+00:00",
     "organization": "Campus Recreation",
@@ -10134,6 +10158,14 @@
     "location": "Franklin Hall \u2013 Multi-Purpose Room (Room 314)",
     "link": "https://montclair.campuslabs.com/engage/event/12614657",
     "description": "Get creative and embrace the winter vibes! Join RA Connie for  Snowflake Making , a relaxing night of crafting, connecting with fellow residents, and creating your own unique snowflakes. \n \ud83d\udccd  Franklin Hall \u2013 MPR 314 \ud83d\udcc5  December 2  | \u23f0  7:00\u20139:00 PM"
+  },
+  {
+    "title": "Group X - Vinyasa Sunrise Yoga",
+    "date": "2026-12-03T12:30:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12587874",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
   },
   {
     "title": "Group X - Vinyasa Good Morning Yoga",
