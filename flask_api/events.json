@@ -736,20 +736,20 @@
     "description": "Join Campus Activities for Craft Night! Design and decorate your own picture frame to showcase your favorite memories."
   },
   {
-    "title": "Tee Time",
-    "date": "2026-09-13T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Bohn Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12654320",
-    "description": "Join us for Tee Time on September 12th from 8\u201310 PM in the Bohn Hall Lounge! Get creative and design your very own graphic tee with fun designs, colors, and personal touches. Whether you\u2019re creating something bold, funny, or totally your style, come hang out, get crafty, and leave with a one-of-a-kind shirt made by you! All students are welcome! Commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Mocktail Mixer",
     "date": "2026-09-13T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Blanton Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12654333",
     "description": "Join us in Blanton for our Mocktail Mixer on September 12th from 8-10pm. Come and make new friends and have great convos! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Tee Time",
+    "date": "2026-09-13T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Bohn Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12654320",
+    "description": "Join us for Tee Time on September 12th from 8\u201310 PM in the Bohn Hall Lounge! Get creative and design your very own graphic tee with fun designs, colors, and personal touches. Whether you\u2019re creating something bold, funny, or totally your style, come hang out, get crafty, and leave with a one-of-a-kind shirt made by you! All students are welcome! Commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Players Homecoming Variety Show Rehearsal ",
@@ -7752,20 +7752,20 @@
     "description": "Players:\u00a0The Importance of Being Earnest Tech Rehearsal"
   },
   {
-    "title": "Miscellaneous Show Rehearsals",
-    "date": "2026-11-03T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/12702866",
-    "description": "Players: Miscellaneous Show Rehearsals"
-  },
-  {
     "title": "Players Comedy Rehearsal ",
     "date": "2026-11-03T23:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 250B - Ballroom B",
     "link": "https://montclair.campuslabs.com/engage/event/12702879",
     "description": "Players Comedy Rehearsal"
+  },
+  {
+    "title": "Miscellaneous Show Rehearsals",
+    "date": "2026-11-03T23:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250A - Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/12702866",
+    "description": "Players: Miscellaneous Show Rehearsals"
   },
   {
     "title": "Midterms Election Watch Party, Pizza & Power: Watch Democracy Unfold Live!",
