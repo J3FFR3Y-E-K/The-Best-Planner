@@ -1,13 +1,5 @@
 [
   {
-    "title": "A.LIFE Ministry",
-    "date": "2026-09-11T00:30:00+00:00",
-    "organization": "A.LIFE",
-    "location": "University Hall 1060 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12712023",
-    "description": "To Create an environment where those far and near from God can experience the love of God."
-  },
-  {
     "title": "Group X - Vinyasa Good Morning Yoga",
     "date": "2026-09-11T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -208,20 +200,20 @@
     "description": "Join Campus Activities for Craft Night! Design and decorate your own picture frame to showcase your favorite memories."
   },
   {
-    "title": "Mocktail Mixer",
-    "date": "2026-09-13T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Blanton Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12654333",
-    "description": "Join us in Blanton for our Mocktail Mixer on September 12th from 8-10pm. Come and make new friends and have great convos! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Tee Time",
     "date": "2026-09-13T00:00:00+00:00",
     "organization": "Residence Life",
     "location": "Bohn Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12654320",
     "description": "Join us for Tee Time on September 12th from 8\u201310 PM in the Bohn Hall Lounge! Get creative and design your very own graphic tee with fun designs, colors, and personal touches. Whether you\u2019re creating something bold, funny, or totally your style, come hang out, get crafty, and leave with a one-of-a-kind shirt made by you! All students are welcome! Commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Mocktail Mixer",
+    "date": "2026-09-13T00:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Blanton Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12654333",
+    "description": "Join us in Blanton for our Mocktail Mixer on September 12th from 8-10pm. Come and make new friends and have great convos! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Players Homecoming Variety Show Rehearsal ",
@@ -856,14 +848,6 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
-    "title": "Stuff & Stitch",
-    "date": "2026-09-15T21:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Rec Center Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12506005",
-    "description": "Cuddle your way into the semester with Stuff & Stitch. Pick your plush, bring it to life, and give it a personality all its own. Whether you need a new study buddy, a dorm d\u00e9cor icon, or just a little comfort creature to get you through the fall, this is your chance to craft something soft, squishy, and totally you. \n \u00a0 \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Tuesday, September 15th 2026 \n 5:00 pm - 7:00 pm\u00a0 \n Rec Center Lounge"
-  },
-  {
     "title": "OPENING SEPTEMBER 15: Maria Yolanda Liebana: A Place to Be Held | Montclair State University Galleries",
     "date": "2026-09-15T21:00:00+00:00",
     "organization": "Montclair State University Galleries",
@@ -878,6 +862,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635092",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Sunday (8/31 through 12/6) \n Tuesday: 7:30 PM - 8:30 PM, Sunday: 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle (Tuesday) and Hannah (Sunday)"
+  },
+  {
+    "title": "Stuff & Stitch",
+    "date": "2026-09-15T23:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Rec Center Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12506005",
+    "description": "Cuddle your way into the semester with Stuff & Stitch. Pick your plush, bring it to life, and give it a personality all its own. Whether you need a new study buddy, a dorm d\u00e9cor icon, or just a little comfort creature to get you through the fall, this is your chance to craft something soft, squishy, and totally you. \n \u00a0 \n How do I sign-up? \n \n Registration not required \n Free with Montclair State University ID \n \n Where and when? \n \n Tuesday, September 15th 2026 \n 5:00 pm - 7:00 pm\u00a0 \n Rec Center Lounge"
   },
   {
     "title": "Hot Takes and Snacks",
@@ -7424,20 +7416,20 @@
     "description": "Players:\u00a0The Importance of Being Earnest Tech Rehearsal"
   },
   {
-    "title": "Miscellaneous Show Rehearsals",
-    "date": "2026-11-03T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/12702866",
-    "description": "Players: Miscellaneous Show Rehearsals"
-  },
-  {
     "title": "Players Comedy Rehearsal ",
     "date": "2026-11-03T23:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 250B - Ballroom B",
     "link": "https://montclair.campuslabs.com/engage/event/12702879",
     "description": "Players Comedy Rehearsal"
+  },
+  {
+    "title": "Miscellaneous Show Rehearsals",
+    "date": "2026-11-03T23:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250A - Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/12702866",
+    "description": "Players: Miscellaneous Show Rehearsals"
   },
   {
     "title": "Midterms Election Watch Party, Pizza & Power: Watch Democracy Unfold Live!",
