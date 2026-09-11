@@ -1,21 +1,5 @@
 [
   {
-    "title": "Group X - Pilates",
-    "date": "2026-09-11T20:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12635643",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday:  10 AM - 10:45 AM  &  3:30 PM - 4:15 PM,  Wednesday:  11 AM - 11:45 AM  &  2 PM - 2:45 PM,  Thursday:  10 AM - 10:45 AM,  Friday:  4 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
-  },
-  {
-    "title": "Ice Cream Social",
-    "date": "2026-09-11T20:00:00+00:00",
-    "organization": "Freeman Hall & Russ Hall",
-    "location": "Freeman Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12724627",
-    "description": "Come connect with other residents and have some sweet treats! Dairy free option available!"
-  },
-  {
     "title": "Pop Music Trivia",
     "date": "2026-09-11T21:45:00+00:00",
     "organization": "Campus Activities",
@@ -1392,20 +1376,20 @@
     "description": "Join Omega Phi Chi Multicultural Sorority, Incorporated, for a delicious Empanada Sale! We\u2019ll be serving up a variety of mouthwatering empanadas, made fresh and ready to enjoy. Come grab a tasty snack and help us make a positive impact on campus. We can\u2019t wait to see you there!"
   },
   {
-    "title": "Group X - Kickboxing",
-    "date": "2026-09-17T18:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12636035",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a02 PM - 3 PM,\u00a0 Wednesday: \u00a04:45 PM - 5:45 PM,\u00a0 Thursday: \u00a012 PM - 1 PM  &\u00a0 2 PM - 3 PM\u00a0 &\u00a0 4:45 PM - 5:45 PM,\u00a0 Friday: \u00a02 PM - 3 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Isra (Monday), Alessandro (Wednesday), Isra, Brian, and Alessandro/Brian (Thursday), Brian (Friday)"
-  },
-  {
     "title": "Podcasting 101: Launch Your Voice",
     "date": "2026-09-17T18:00:00+00:00",
     "organization": "The ADP Center",
     "location": "ADP Center Commons",
     "link": "https://montclair.campuslabs.com/engage/event/12712845",
     "description": "Ready to share your voice with the world? This workshop covers the essentials of creating, recording, and publishing your own podcast\u2014from planning your content to using tech tools for editing and distribution. Learn how to craft compelling stories and build an audience through the power of sound."
+  },
+  {
+    "title": "Group X - Kickboxing",
+    "date": "2026-09-17T18:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12636035",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a02 PM - 3 PM,\u00a0 Wednesday: \u00a04:45 PM - 5:45 PM,\u00a0 Thursday: \u00a012 PM - 1 PM  &\u00a0 2 PM - 3 PM\u00a0 &\u00a0 4:45 PM - 5:45 PM,\u00a0 Friday: \u00a02 PM - 3 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Isra (Monday), Alessandro (Wednesday), Isra, Brian, and Alessandro/Brian (Thursday), Brian (Friday)"
   },
   {
     "title": "Weekly Recovery Initiative",
@@ -1805,7 +1789,7 @@
     "organization": "Campus Recreation",
     "location": "Meet at Student Recreation Center",
     "link": "https://montclair.campuslabs.com/engage/event/12498895",
-    "description": ""
+    "description": "Enjoy a relaxing day paddling down the Delaware River and learn some basic kayaking skills. Leaving from Montclair State University, NJ, this full-day trip will provide you with a chance to enjoy the warm, clear waters of the longest undammed river east of the Mississippi. We provide the boats, life jackets and paddles, but be prepared to get wet. \n \u00a0 How do I Sign-up? \n \n Register  here  or in the Student Rec Center main office, or over the phone (973-655-3340). \n Cost for Students $10;  Faculty/Staff $20 \n \n Where and When? \n \n September 19th, 2026 \n 9:00 am \u2013 6:00 pm\u00a0\u00a0\u00a0 \n Begins at Student Recreation Center \n \n What to bring:  Water, lunch, bathing suit, towel, sunblock and a change of clothes. \n \u00a0 \n Potential Hazards:  under/above water obstructions, rapidly moving water, poisonous plants/allergies, insect bites, unpredictable weather changes, sunburn/heat exhaustion, dehydration"
   },
   {
     "title": "Volleyball vs. Whittier/Franklin & Marshall (Tri-Match)",
@@ -1813,7 +1797,7 @@
     "organization": "Athletics",
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12479429",
-    "description": ""
+    "description": "Tickets & Parking Info"
   },
   {
     "title": "Welcome 2 The Block",
@@ -3621,7 +3605,7 @@
     "organization": "Lambda Upsilon Lambda",
     "location": "University Hall 1C01 - Grand Concourse",
     "link": "https://montclair.campuslabs.com/engage/event/12561725",
-    "description": ""
+    "description": "Empanada Fundraiser Sale! \ud83c\udf1f Support a great cause and enjoy delicious, homemade empanadas! \n The Hermanos Of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc., are hosting a special empanada and agua fresca sale to raise funds for our Spring 2027 scholarship and The Florence Immigrant & Refugee Rights Project. Every bite helps make a difference! \n \ud83e\udd5f What\u2019s on the menu? \n \n \n Beef Empanadas \n \n \n Chicken Empanadas \n \n \n Cheese Empanadas \n \n \n \u00a0 \n \ud83d\udcb5 Price: $3 each or $5 for 2 \n Come hungry, bring your friends, and help us reach our fundraising goal\u2014one empanada at a time! \n The Hermanos Of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc."
   },
   {
     "title": "Dining Aux Committee Meeting",
@@ -3680,20 +3664,20 @@
     "description": "Sketch Comedy Club meeting!"
   },
   {
-    "title": "Math Game Night",
-    "date": "2026-09-30T18:00:00+00:00",
-    "organization": "Math Club",
-    "location": "CCIS425A",
-    "link": "https://montclair.campuslabs.com/engage/event/12734713",
-    "description": "MSU Students are welcome to join in on a Math Game Night. Food will be provided!"
-  },
-  {
     "title": "Garden Volunteer Day!",
     "date": "2026-09-30T18:00:00+00:00",
     "organization": "Montclair State Campus Community Garden",
     "location": "Campus Community Garden",
     "link": "https://montclair.campuslabs.com/engage/event/12736579",
     "description": "Join our next\u00a0volunteer day in the community garden on Wednesday, September 30th! \n \u00a0 \n We will be harvesting veggies for the pantry and weeding.\u00a0Come take a break from school or meet new friends! \n \u00a0 \n Location: \u00a0Campus Community Garden behind the student center \n Time: \u00a02- 3:30 pm \n Date:\u00a0 9/30/26 \n \u00a0 \n No experience required. Please wear closed-toe shoes. Glove and tools provided!"
+  },
+  {
+    "title": "Math Game Night",
+    "date": "2026-09-30T18:00:00+00:00",
+    "organization": "Math Club",
+    "location": "CCIS425A",
+    "link": "https://montclair.campuslabs.com/engage/event/12734713",
+    "description": "MSU Students are welcome to join in on a Math Game Night. Food will be provided!"
   },
   {
     "title": "Garba Workshop!",
@@ -5552,20 +5536,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
-    "title": "Club Meeting",
-    "date": "2026-10-14T18:00:00+00:00",
-    "organization": "Brasil Club",
-    "location": "University Hall 2006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12707099",
-    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
-  },
-  {
     "title": " Candy Bag Tabling",
     "date": "2026-10-14T18:00:00+00:00",
     "organization": "The Apple Core Community",
     "location": "Student Center 2C02 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12548870",
     "description": "Stop by and enjoy a candy bag! Post us on social media for an extra treat! IG: @montlciar_applecore"
+  },
+  {
+    "title": "Club Meeting",
+    "date": "2026-10-14T18:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707099",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
     "title": "KIPP Scholars College Connection ",
@@ -7552,20 +7536,20 @@
     "description": "Players:\u00a0The Importance of Being Earnest Tech Rehearsal"
   },
   {
-    "title": "Players Comedy Rehearsal ",
-    "date": "2026-11-03T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/12702879",
-    "description": "Players Comedy Rehearsal"
-  },
-  {
     "title": "Miscellaneous Show Rehearsals",
     "date": "2026-11-03T23:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12702866",
     "description": "Players: Miscellaneous Show Rehearsals"
+  },
+  {
+    "title": "Players Comedy Rehearsal ",
+    "date": "2026-11-03T23:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/12702879",
+    "description": "Players Comedy Rehearsal"
   },
   {
     "title": "Midterms Election Watch Party, Pizza & Power: Watch Democracy Unfold Live!",
