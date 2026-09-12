@@ -1,13 +1,5 @@
 [
   {
-    "title": "Players Variety Show Rehearsal ",
-    "date": "2026-09-12T16:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 417 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12624939",
-    "description": "Players Homecoming Variety Show Rehearsal"
-  },
-  {
     "title": "Picture Frame Decorating",
     "date": "2026-09-12T23:00:00+00:00",
     "organization": "Campus Activities",
@@ -3536,20 +3528,20 @@
     "description": "Sketch Comedy Club meeting!"
   },
   {
-    "title": "Garden Volunteer Day!",
-    "date": "2026-09-30T18:00:00+00:00",
-    "organization": "Montclair State Campus Community Garden",
-    "location": "Campus Community Garden",
-    "link": "https://montclair.campuslabs.com/engage/event/12736579",
-    "description": "Join our next\u00a0volunteer day in the community garden on Wednesday, September 30th! \n \u00a0 \n We will be harvesting veggies for the pantry and weeding.\u00a0Come take a break from school or meet new friends! \n \u00a0 \n Location: \u00a0Campus Community Garden behind the student center \n Time: \u00a02- 3:30 pm \n Date:\u00a0 9/30/26 \n \u00a0 \n No experience required. Please wear closed-toe shoes. Glove and tools provided!"
-  },
-  {
     "title": "Math Game Night",
     "date": "2026-09-30T18:00:00+00:00",
     "organization": "Math Club",
     "location": "CCIS425A",
     "link": "https://montclair.campuslabs.com/engage/event/12734713",
     "description": "MSU Students are welcome to join in on a Math Game Night. Food will be provided!"
+  },
+  {
+    "title": "Garden Volunteer Day!",
+    "date": "2026-09-30T18:00:00+00:00",
+    "organization": "Montclair State Campus Community Garden",
+    "location": "Campus Community Garden",
+    "link": "https://montclair.campuslabs.com/engage/event/12736579",
+    "description": "Join our next\u00a0volunteer day in the community garden on Wednesday, September 30th! \n \u00a0 \n We will be harvesting veggies for the pantry and weeding.\u00a0Come take a break from school or meet new friends! \n \u00a0 \n Location: \u00a0Campus Community Garden behind the student center \n Time: \u00a02- 3:30 pm \n Date:\u00a0 9/30/26 \n \u00a0 \n No experience required. Please wear closed-toe shoes. Glove and tools provided!"
   },
   {
     "title": "Garba Workshop!",
@@ -7408,20 +7400,20 @@
     "description": "Players:\u00a0The Importance of Being Earnest Tech Rehearsal"
   },
   {
-    "title": "Players Comedy Rehearsal ",
-    "date": "2026-11-03T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/12702879",
-    "description": "Players Comedy Rehearsal"
-  },
-  {
     "title": "Miscellaneous Show Rehearsals",
     "date": "2026-11-03T23:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12702866",
     "description": "Players: Miscellaneous Show Rehearsals"
+  },
+  {
+    "title": "Players Comedy Rehearsal ",
+    "date": "2026-11-03T23:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/12702879",
+    "description": "Players Comedy Rehearsal"
   },
   {
     "title": "Midterms Election Watch Party, Pizza & Power: Watch Democracy Unfold Live!",
