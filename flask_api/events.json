@@ -1,21 +1,5 @@
 [
   {
-    "title": "Sigma Delta Phi Recruitment Event",
-    "date": "2026-09-16T01:00:00+00:00",
-    "organization": "Sigma Delta Phi",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12713333",
-    "description": "A fun social event with crafts and activities designed to help everyone get to know one another!"
-  },
-  {
-    "title": "Intramural Sports Registration Deadline - (September 16th) ",
-    "date": "2026-09-16T04:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12528721",
-    "description": "Registration: Via Fusion Play! Team creation deadline is September 16th. \n - Apple App Store:\u00a0 https://apps.apple.com/us/app/fusion-play/id1590163866 - Play Store:\u00a0 https://play.google.com/store/apps/details?id=com.innosoftfusion.play&hl=en_US&pli=1 \n Sports: 7v7 Flag Football, Outdoor Soccer, and Pickleball\u00a0 \n Teams can add players to their roster up until the final game of the regular season."
-  },
-  {
     "title": "Group X - Vinyasa Flow Yoga",
     "date": "2026-09-16T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -2293,7 +2277,7 @@
     "organization": "Center for Latino Heritage & Spanish Language Excellence",
     "location": "Schmitt Hall 104",
     "link": "https://montclair.campuslabs.com/engage/event/12663651",
-    "description": ""
+    "description": "CLaSE invites members of the Montclair State University community and the broader public to participate in  Learning in Circle: English for the Community , beginning  Thursday, September 17 . \n This  10-week workshop series  provides a welcoming and supportive environment for adult learners who want to strengthen their  English conversation and comprehension skills  through practical, interactive activities. Workshops are open to  students, families, and community members from outside the University . \n Thursdays, beginning September 17 6\u20137:30 p.m. Schmitt Hall, Room 104 10-week series \n The workshops are  free and open to the community , but  registration is required by contacting calarotaa@montclair.edu . We invite anyone interested in improving their English skills to join us and learn in community!"
   },
   {
     "title": "Group X - Brazilian Jiu-Jitsu",
@@ -3320,20 +3304,20 @@
     "description": "Sketch Comedy Club meeting!"
   },
   {
-    "title": "Garden Volunteer Day!",
-    "date": "2026-09-30T18:00:00+00:00",
-    "organization": "Montclair State Campus Community Garden",
-    "location": "Campus Community Garden",
-    "link": "https://montclair.campuslabs.com/engage/event/12736579",
-    "description": "Join our next\u00a0volunteer day in the community garden on Wednesday, September 30th! \n \u00a0 \n We will be harvesting veggies for the pantry and weeding.\u00a0Come take a break from school or meet new friends! \n \u00a0 \n Location: \u00a0Campus Community Garden behind the student center \n Time: \u00a02- 3:30 pm \n Date:\u00a0 9/30/26 \n \u00a0 \n No experience required. Please wear closed-toe shoes. Glove and tools provided!"
-  },
-  {
     "title": "Math Game Night",
     "date": "2026-09-30T18:00:00+00:00",
     "organization": "Math Club",
     "location": "CCIS425A",
     "link": "https://montclair.campuslabs.com/engage/event/12734713",
     "description": "MSU Students are welcome to join in on a Math Game Night. Food will be provided!"
+  },
+  {
+    "title": "Garden Volunteer Day!",
+    "date": "2026-09-30T18:00:00+00:00",
+    "organization": "Montclair State Campus Community Garden",
+    "location": "Campus Community Garden",
+    "link": "https://montclair.campuslabs.com/engage/event/12736579",
+    "description": "Join our next\u00a0volunteer day in the community garden on Wednesday, September 30th! \n \u00a0 \n We will be harvesting veggies for the pantry and weeding.\u00a0Come take a break from school or meet new friends! \n \u00a0 \n Location: \u00a0Campus Community Garden behind the student center \n Time: \u00a02- 3:30 pm \n Date:\u00a0 9/30/26 \n \u00a0 \n No experience required. Please wear closed-toe shoes. Glove and tools provided!"
   },
   {
     "title": "Garba Workshop!",
@@ -5389,7 +5373,7 @@
     "organization": "Brasil Club",
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12707099",
-    "description": ""
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
     "title": " Candy Bag Tabling",
@@ -5445,7 +5429,7 @@
     "organization": "The Women Of Color Alliance ",
     "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12711988",
-    "description": "WOCA General Body Meetings are welcoming spaces where women of color come together to connect, share experiences, and build community. Each meeting offers meaningful conversations, engaging activities, and opportunities for personal growth and lasting connections.\u2728"
+    "description": ""
   },
   {
     "title": "Anti-Hazing Education & Prevention Workshop",
@@ -7568,20 +7552,20 @@
     "description": "Players:\u00a0The Importance of Being Earnest Tech Rehearsal"
   },
   {
-    "title": "Players Comedy Rehearsal ",
-    "date": "2026-11-03T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/12702879",
-    "description": "Players Comedy Rehearsal"
-  },
-  {
     "title": "Miscellaneous Show Rehearsals",
     "date": "2026-11-03T23:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12702866",
     "description": "Players: Miscellaneous Show Rehearsals"
+  },
+  {
+    "title": "Players Comedy Rehearsal ",
+    "date": "2026-11-03T23:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/12702879",
+    "description": "Players Comedy Rehearsal"
   },
   {
     "title": "Midterms Election Watch Party, Pizza & Power: Watch Democracy Unfold Live!",
@@ -10453,7 +10437,7 @@
     "organization": "National Association for the Advancement of Colored People",
     "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12713137",
-    "description": "Welcome Back! \n Our weekly NAACP discussion space is dedicated to education, empowerment, and collective action. Each Monday from 2:00 PM \u2013 3:15 PM, we gather to engage in meaningful conversations surrounding civil rights, social justice, advocacy, and current events impacting Black communities on campus and beyond. \n Each week brings something new \u2014 current events, culture, advocacy topics, campus concerns, or whatever\u2019s on our minds. Come through, share your voice, and be part of a community that\u2019s always growing and always pushing forward."
+    "description": ""
   },
   {
     "title": "PASO General Board Meeting",
