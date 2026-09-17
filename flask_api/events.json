@@ -1,109 +1,5 @@
 [
   {
-    "title": "Faculty Gaming Workshop",
-    "date": "2026-09-16T22:00:00+00:00",
-    "organization": "The ADP Center",
-    "location": "ADP Center, UNIV 1142",
-    "link": "https://montclair.campuslabs.com/engage/event/12760049",
-    "description": "Our Gaming Hub workshops are a chance for faculty to spend time with experienced game designers and pick up practical ideas for bringing participation, play, and immersion into their teaching. Each session is hands\u2011on, low\u2011key, and focused on simple techniques you can adapt to your own courses. If you\u2019re curious about how game design can spark new forms of engagement in the classroom, these workshops are an easy way to explore and experiment."
-  },
-  {
-    "title": "Group X - Brazilian Jiu-Jitsu",
-    "date": "2026-09-16T22:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12636819",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Wednesday and Thursday (8/31 through 12/6) \n 6 PM - 7:30 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Quentin"
-  },
-  {
-    "title": "Memory Box DIY Event",
-    "date": "2026-09-16T22:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Stone Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12654303",
-    "description": "Fill your year with memories! Bring a friend along and join us Wednesday on September 16th in Stone Hall First floor lounge at 6PM to customize a memory box! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "MSDC Slime Night",
-    "date": "2026-09-16T23:30:00+00:00",
-    "organization": "Montclair State Dance Company",
-    "location": "Student Center 417 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12624982",
-    "description": "Join the Montclair State Dance Company for slime night!"
-  },
-  {
-    "title": "The Gather ",
-    "date": "2026-09-16T23:00:00+00:00",
-    "organization": "InterVarsity Christian Fellowship",
-    "location": "Student Center Underground - The Underground",
-    "link": "https://montclair.campuslabs.com/engage/event/12702905",
-    "description": "Our goal is to deepen our love and knowledge of Jesus and his word, and learn what it means to have a relationship with him. We encourage and strengthen one another as we go, and in doing so we deepen our fellowship as brothers and sister in Christ."
-  },
-  {
-    "title": "Choir Practice",
-    "date": "2026-09-17T00:00:00+00:00",
-    "organization": "Voices of Unity",
-    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12749663",
-    "description": "Come join our choir practice to sing and grow in fellowship. We'd love to see you there!"
-  },
-  {
-    "title": "CLAW: Drive In Movie - Michael (2026)",
-    "date": "2026-09-17T00:00:00+00:00",
-    "organization": "Office of Commuter Life",
-    "location": "Lot 60",
-    "link": "https://montclair.campuslabs.com/engage/event/12575714",
-    "description": "Join the Office of Commuter Life during Commuter Life Appreciation Week afor a Drive-In Movie at Lot 60! Enjoy a movie from the comfort of your car solo, or with friends!\u00a0 Make sure to bring your own snacks! We will have FREE snack packs too!\u00a0 \n Don't have a car? No problem.\u00a0 There will be a small section for lawn chairs.\u00a0\u00a0 If you are using a car, you MUST RSVP here on Engage!\u00a0 \n Bring Your Own Snacks! We will also have FREE snack packs! \n When and Where? \n Date: Wednesday, September 16th Arrival Time: Lot opens at 7:15 PM Movie Start Time: 8:00"
-  },
-  {
-    "title": "Game Night at Russ Lounge",
-    "date": "2026-09-17T00:00:00+00:00",
-    "organization": "Freeman Hall & Russ Hall",
-    "location": "Russ Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12762195",
-    "description": "Pizza, Arcade Games + Board Games & Friendly Competition"
-  },
-  {
-    "title": "Build A Buddy DIY ",
-    "date": "2026-09-17T00:00:00+00:00",
-    "organization": "Bloomfield's Office of Residence Life",
-    "location": "Franklin Hall \u2013 Multi-Purpose Room (Room 314)",
-    "link": "https://montclair.campuslabs.com/engage/event/12614556",
-    "description": "Join RA Hafiz for  Build A Buddy DIY , a fun and creative night where residents can make their very own buddy to take home. \n \ud83d\udccdFranklin Hall \u2013 Multi-Purpose Room (Room 314) \ud83d\udcc5  September 16  | \u23f0  8:00\u201310:00 PM"
-  },
-  {
-    "title": "Hispanic Heritage Month: Empanada Giveaway! ",
-    "date": "2026-09-17T00:00:00+00:00",
-    "organization": "Sinatra Hall",
-    "location": "Francis A. Sinatra Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12756810",
-    "description": "Join the Sinatra CAs while supplies last to celebrate Hispanic Heritage Month: Empanada Giveaway!"
-  },
-  {
-    "title": "The Importance of Being Earnest Callbacks",
-    "date": "2026-09-16T21:30:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12590827",
-    "description": "Players:\u00a0The Importance of Being Earnest Callbacks"
-  },
-  {
-    "title": "M.I.L.F. Round One Auditions Day Two  & Callbacks ",
-    "date": "2026-09-16T22:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12745838",
-    "description": "M.I.L.F. Round One Auditions Day Two"
-  },
-  {
-    "title": "The Rocky Horror Picture Show Rehearsal ",
-    "date": "2026-09-16T22:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/12608449",
-    "description": "Players: The Rocky Horror Picture Show Rehearsal"
-  },
-  {
     "title": "CX Practice ",
     "date": "2026-09-17T00:00:00+00:00",
     "organization": "Complexions",
@@ -157,7 +53,7 @@
     "organization": "EATS by Gourmet Dining",
     "location": "Freeman Dining Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12690625",
-    "description": "Blend your own smoothie with our smoothie bike and taste the fruits of your labor! \n Commuters, come check out this Commuter Life Appreciation Week event and get a stamp on your C.L.A.W. passport for a chance to win prizes, including a free meal plan! Also, enjoy $3 off the lunch and dinner door rate at Freeman Dining Hall when you pay with Flex Bonus Dollars."
+    "description": ""
   },
   {
     "title": "Philosophy for Lunch: Private Property",
@@ -1053,7 +949,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12587821",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday (8/31 through 12/6) \n 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Tyrah"
+    "description": ""
   },
   {
     "title": "Informational Meeting",
@@ -3240,14 +3136,6 @@
     "description": "Come to this table to learn and understand the religion of Islam."
   },
   {
-    "title": "Garden Volunteer Day!",
-    "date": "2026-09-30T18:00:00+00:00",
-    "organization": "Montclair State Campus Community Garden",
-    "location": "Campus Community Garden",
-    "link": "https://montclair.campuslabs.com/engage/event/12736579",
-    "description": "Join our next\u00a0volunteer day in the community garden on Wednesday, September 30th! \n \u00a0 \n We will be harvesting veggies for the pantry and weeding.\u00a0Come take a break from school or meet new friends! \n \u00a0 \n Location: \u00a0Campus Community Garden behind the student center \n Time: \u00a02- 3:30 pm \n Date:\u00a0 9/30/26 \n \u00a0 \n No experience required. Please wear closed-toe shoes. Glove and tools provided!"
-  },
-  {
     "title": "Math Game Night",
     "date": "2026-09-30T18:00:00+00:00",
     "organization": "Math Club",
@@ -3256,12 +3144,12 @@
     "description": "MSU Students are welcome to join in on a Math Game Night. Food will be provided!"
   },
   {
-    "title": "Bake Sale",
+    "title": "Garden Volunteer Day!",
     "date": "2026-09-30T18:00:00+00:00",
-    "organization": "Muslim Student Association",
-    "location": "Student Center Quad Information Table 2 - Information Table 2",
-    "link": "https://montclair.campuslabs.com/engage/event/12772481",
-    "description": "Stop by this table to purchase and enjoy a treat."
+    "organization": "Montclair State Campus Community Garden",
+    "location": "Campus Community Garden",
+    "link": "https://montclair.campuslabs.com/engage/event/12736579",
+    "description": "Join our next\u00a0volunteer day in the community garden on Wednesday, September 30th! \n \u00a0 \n We will be harvesting veggies for the pantry and weeding.\u00a0Come take a break from school or meet new friends! \n \u00a0 \n Location: \u00a0Campus Community Garden behind the student center \n Time: \u00a02- 3:30 pm \n Date:\u00a0 9/30/26 \n \u00a0 \n No experience required. Please wear closed-toe shoes. Glove and tools provided!"
   },
   {
     "title": "AURORA's Bake Sale! \u2661",
@@ -3270,6 +3158,14 @@
     "location": "Student Center 2C01 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12770371",
     "description": "Satisfy your sweet tooth while supporting AURORA! Stop by for fudgy brownies, chocolate chip cookies, and adorable pink-frosted cupcakes in vanilla or chocolate! Every purchase helps support our club! \n Prices: \n Cookies - $2 \n Brownies & Cupcakes - $3 \n Bundles - 2 for $5 or 3 for $7 \n Everyone is welcome! \n \u2661"
+  },
+  {
+    "title": "Bake Sale",
+    "date": "2026-09-30T18:00:00+00:00",
+    "organization": "Muslim Student Association",
+    "location": "Student Center Quad Information Table 2 - Information Table 2",
+    "link": "https://montclair.campuslabs.com/engage/event/12772481",
+    "description": "Stop by this table to purchase and enjoy a treat."
   },
   {
     "title": "Garba Workshop!",
@@ -3694,6 +3590,14 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12590821",
     "description": "Players is holding Cabaret auditions, rehearsal, tech, and show!"
+  },
+  {
+    "title": "Red Hawk Reality - Big Brother 28 Finale Watch Party",
+    "date": "2026-10-01T23:00:00+00:00",
+    "organization": "Machuga Heights",
+    "location": "Machuga Heights Multipurpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12775826",
+    "description": "Join members of Red Hawk Reality as we gather to watch the final episode \u00a0of Big Brother Season 28! Meet new friends, grab some free prizes, and enjoy watching this incredible show! Who do you think will take home the $750K?"
   },
   {
     "title": "Hygiene For Hummanity",
@@ -4141,7 +4045,7 @@
     "organization": "Bloomfield's Office of Residence Life",
     "location": "Franklin Hall 4th floor lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12613739",
-    "description": "Get ready to call the flags at  Book Them!  \u26bd\ud83d\udea9 Join RA JD for a fun, soccer-inspired icebreaker where residents will decide what\u2019s a red flag, yellow flag, or green flag while getting to know their neighbors. Come ready to laugh, share your takes, and make new connections! \n \ud83d\udccd  Franklin Hall \u2013 4th Floor Lounge"
+    "description": ""
   },
   {
     "title": "Blankets For Change ",
@@ -7712,20 +7616,20 @@
     "description": "Players:\u00a0The Importance of Being Earnest Tech Rehearsal"
   },
   {
-    "title": "Players Comedy Rehearsal ",
-    "date": "2026-11-03T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/12702879",
-    "description": "Players Comedy Rehearsal"
-  },
-  {
     "title": "Miscellaneous Show Rehearsals",
     "date": "2026-11-03T23:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12702866",
     "description": "Players: Miscellaneous Show Rehearsals"
+  },
+  {
+    "title": "Players Comedy Rehearsal ",
+    "date": "2026-11-03T23:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/12702879",
+    "description": "Players Comedy Rehearsal"
   },
   {
     "title": "Midterms Election Watch Party, Pizza & Power: Watch Democracy Unfold Live!",
