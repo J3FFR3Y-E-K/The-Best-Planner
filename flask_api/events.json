@@ -1,29 +1,5 @@
 [
   {
-    "title": "Group X - Pilates",
-    "date": "2026-09-18T20:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12635649",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday:  10 AM - 10:45 AM  &  3:30 PM - 4:15 PM,  Wednesday:  11 AM - 11:45 AM  &  2 PM - 2:45 PM,  Thursday:  10 AM - 10:45 AM,  Friday:  4 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
-  },
-  {
-    "title": "Montclair State University Campus History Tour",
-    "date": "2026-09-18T20:00:00+00:00",
-    "organization": "Sprague Library",
-    "location": "Montclair State University, Kasser Theater",
-    "link": "https://montclair.campuslabs.com/engage/event/12706559",
-    "description": "Learn about the early history of Montclair State University on a 45-minute walking tour of the south end of campus. The tour will include historic photographs of the oldest campus buildings and examples of memorabilia. We will discuss student life and interactions with the surrounding Montclair community. Archivist, Paul Martinez, will lead the tour. We will meet in front of the Kasser Theater at 4 pm. Weather permitting \u2013 the tour will be rescheduled in the event of rain. The tour is approximately half a mile long. Most of the route is accessible. There is an approximately 260-foot section which is partially-accessible due to a steep grade.' \n Register Here: \u00a0https://montclair.libcal.com/event/17593469"
-  },
-  {
-    "title": "Mixolydian General Body Meeting",
-    "date": "2026-09-18T21:00:00+00:00",
-    "organization": "Montclair A Cappella",
-    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12754862",
-    "description": "Join Montclair Mixolydian at our very first general body meeting! We will have a meeting once a month (Except this month, we will have 2!), where we will go over ideas, events, etc. All students are welcome to be involved in making arrangements, choreography, and audio/video production. Montclair A Cappella strives to be a community of music-loving individuals with a drive for professionalism and performance etiquette that stretches beyond the stage lights."
-  },
-  {
     "title": "DC Trivia ",
     "date": "2026-09-18T21:45:00+00:00",
     "organization": "Campus Activities",
@@ -40,14 +16,6 @@
     "description": "Join us for our first ever General Body Meeting!"
   },
   {
-    "title": "Vision Board Making ",
-    "date": "2026-09-18T22:00:00+00:00",
-    "organization": "Alpha Kappa Alpha Sorority, Inc. ",
-    "location": "University Hall 2008 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12713900",
-    "description": "Join us in making a semester vision boards"
-  },
-  {
     "title": "CX Practice ",
     "date": "2026-09-18T22:30:00+00:00",
     "organization": "Complexions",
@@ -62,6 +30,14 @@
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12713897",
     "description": "Complexion's will come together, learn and create choreography for various of events during the semester."
+  },
+  {
+    "title": "Vision Board Making ",
+    "date": "2026-09-18T22:00:00+00:00",
+    "organization": "Alpha Kappa Alpha Sorority, Inc. ",
+    "location": "University Hall 2008 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12713900",
+    "description": "Join us in making a semester vision boards"
   },
   {
     "title": "Polish Bingo Night ",
@@ -349,7 +325,7 @@
     "organization": "National Association for the Advancement of Colored People",
     "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12713129",
-    "description": ""
+    "description": "Welcome Back! \n Our weekly NAACP discussion space is dedicated to education, empowerment, and collective action. Each Monday from 2:00 PM \u2013 3:15 PM, we gather to engage in meaningful conversations surrounding civil rights, social justice, advocacy, and current events impacting Black communities on campus and beyond. \n Each week brings something new \u2014 current events, culture, advocacy topics, campus concerns, or whatever\u2019s on our minds. Come through, share your voice, and be part of a community that\u2019s always growing and always pushing forward."
   },
   {
     "title": "PASO General Board Meeting",
@@ -1037,7 +1013,7 @@
     "organization": "The Women Of Color Alliance ",
     "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12711985",
-    "description": ""
+    "description": "WOCA General Body Meetings are welcoming spaces where women of color come together to connect, share experiences, and build community. Each meeting offers meaningful conversations, engaging activities, and opportunities for personal growth and lasting connections.\u2728"
   },
   {
     "title": "Build a Trail Mix Cup",
@@ -1781,7 +1757,7 @@
     "organization": "Coalition for Collective Liberation",
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12677974",
-    "description": ""
+    "description": "Event is targeted to all Latinos/Hispanics on campus! A night to celebrate Hispanic Heritage Month, full of music, fun games, delicious food, and more! Additionally, this event also will be a moment for all Latinos to unite and speak about the issues surrounding our fellow peers."
   },
   {
     "title": "The Simpsons Trivia",
@@ -2646,14 +2622,6 @@
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12772430",
     "description": "M.I.L.F. Round One Rehearsal Players"
-  },
-  {
-    "title": "Seeds Of Strength",
-    "date": "2026-09-30T00:30:00+00:00",
-    "organization": "Alpha Iota Chi Local Sorority Inc.",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12772410",
-    "description": "Join Alpha Iota Chi as we celebrate women, plant seeds of hope, and collect donations for local women in need. Bring a donation and leave with your own sunflower to grow!"
   },
   {
     "title": "Group X - Vinyasa Flow Yoga",
@@ -7448,20 +7416,20 @@
     "description": "Players:\u00a0The Importance of Being Earnest Tech Rehearsal"
   },
   {
-    "title": "Miscellaneous Show Rehearsals",
-    "date": "2026-11-03T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/12702866",
-    "description": "Players: Miscellaneous Show Rehearsals"
-  },
-  {
     "title": "Players Comedy Rehearsal ",
     "date": "2026-11-03T23:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 250B - Ballroom B",
     "link": "https://montclair.campuslabs.com/engage/event/12702879",
     "description": "Players Comedy Rehearsal"
+  },
+  {
+    "title": "Miscellaneous Show Rehearsals",
+    "date": "2026-11-03T23:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250A - Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/12702866",
+    "description": "Players: Miscellaneous Show Rehearsals"
   },
   {
     "title": "Midterms Election Watch Party, Pizza & Power: Watch Democracy Unfold Live!",
@@ -7885,7 +7853,7 @@
     "organization": "Center for Latino Heritage & Spanish Language Excellence",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12626778",
-    "description": ""
+    "description": "Join us for the  First International Symposium of Latino Oral History, \u201cListening as Resistance: Oral History, Memory and the Latino Experience\u201d  taking place virtually on  November 6\u20137 . This two-day symposium will bring together scholars, students, educators, writers, and community members to explore the power of  oral history and Latino storytelling  as tools for preserving lived experiences, amplifying voices, and challenging dominant historical narratives. \n We are honored to welcome acclaimed  writer, journalist, and University of California, Irvine professor H\u00e9ctor Tobar  as our keynote speaker. \n We invite participants to  submit an abstract  to present their work or  register to attend  and learn more about Latino storytelling and oral history practices. \n Best paper will get a chance to be published in an academic journal. \n Student registration is free. \n Please register for the symposium with the link below: \n https://montclair.co1. qualtrics.com/jfe/form/SV_ cYowQOHwct2em0K \n To submit an abstract:  \n \u00a0https://montclair.co1. qualtrics.com/jfe/form/SV_ 1N6j22Uqp6ulqiq"
   },
   {
     "title": "Football vs. Castleton",
@@ -7917,7 +7885,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635155",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Sunday (8/31 through 12/6) \n Tuesday: 7:30 PM - 8:30 PM, Sunday: 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle (Tuesday) and Hannah (Sunday)"
   },
   {
     "title": "Group X - Vinyasa Flow Yoga",
@@ -9429,7 +9397,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635159",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Sunday (8/31 through 12/6) \n Tuesday: 7:30 PM - 8:30 PM, Sunday: 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle (Tuesday) and Hannah (Sunday)"
   },
   {
     "title": "Group X - Vinyasa Flow Yoga",
@@ -9813,7 +9781,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Multipurpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12613075",
-    "description": ""
+    "description": "Looking to change up your workout routine? This class combines strength, toning, and cardio exercises by targeting every major muscle group using weights, resistance tubes, and other fitness equipment to provide a total body workout. \n \u00a0 \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Friday, Aug 31 - Dec 6 \n 12:30 p.m. - 1:30 p.m. \n Student Recreation Center - Multipurpose Room 1 \n \n Instructor - Jeffrey"
   },
   {
     "title": "Group X - Kickboxing",
@@ -10957,7 +10925,7 @@
     "organization": "Athletics",
     "location": "Yogi Berra Stadium",
     "link": "https://montclair.campuslabs.com/engage/event/12489526",
-    "description": ""
+    "description": "Tickets and Parking Info"
   },
   {
     "title": "Sweet Charity",
