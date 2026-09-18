@@ -1,37 +1,5 @@
 [
   {
-    "title": "A.LIFE Ministry",
-    "date": "2026-09-18T00:30:00+00:00",
-    "organization": "A.LIFE",
-    "location": "University Hall 1060 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12712024",
-    "description": "To Create an environment where those far and near from God can experience the love of God."
-  },
-  {
-    "title": "The Sweetest Pick, Caramelized Apple Making",
-    "date": "2026-09-18T00:45:00+00:00",
-    "organization": "Alpha Iota Chi Local Sorority Inc.",
-    "location": "University Hall 2012 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12733847",
-    "description": "Come join the AIX sisters at our Caramelized Apple Making event on September 17th, 2026 from 8:45pm to 11:00pm! We will have a caramel apple making bar along with card games and meaningful connections. Our recruitment schedule is in our instagram @alphaiotachi"
-  },
-  {
-    "title": "AIX Recruitment Day 2: The Sweetest Pick; Caramelized Apple Making",
-    "date": "2026-09-18T00:45:00+00:00",
-    "organization": "Alpha Iota Chi Local Sorority Inc.",
-    "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12733773",
-    "description": "Come join the AIX sisters at our Caramelized Apple Making event on September 17th, 2026 from 8:45pm to 11:00pm! We will have a caramel apple making bar along with card games and meaningful connections. Our recruitment schedule is in our instagram @alphaiotachi"
-  },
-  {
-    "title": "Sigma Delta Phi Recruitment Event",
-    "date": "2026-09-18T01:00:00+00:00",
-    "organization": "Sigma Delta Phi",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12713334",
-    "description": "A fun social event with crafts and activities designed to help everyone get to know one another!"
-  },
-  {
     "title": "Group X - Vinyasa Good Morning Yoga",
     "date": "2026-09-18T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1928,20 +1896,20 @@
     "description": "Whether you\u2019ve got a hidden talent or just want a fun night out, Open Mic Night is the place to be. Music, poetry, comedy, and good vibes all around\u2014come perform, cheer on your friends, or just hang out and enjoy the energy. \ud83c\udfa4"
   },
   {
-    "title": "Throwback Movie Night!! Save the Last Dance",
-    "date": "2026-09-25T23:00:00+00:00",
-    "organization": "Freeman Hall & Russ Hall",
-    "location": "Freeman Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12772506",
-    "description": "Come and watch a fun, throwback movie about passion, the arts, and love, while enjoying nice pizza."
-  },
-  {
     "title": "Open Mic Night",
     "date": "2026-09-25T23:00:00+00:00",
     "organization": "Residence Life",
     "location": "Count Basie at The Village Apartments",
     "link": "https://montclair.campuslabs.com/engage/event/12654246",
     "description": "Join us on September 25th in Count Basie and show everyone your best at our Open Mic Event at 7PM! Don't be shy and hop up to the mic and have fun! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+  },
+  {
+    "title": "Throwback Movie Night!! Save the Last Dance",
+    "date": "2026-09-25T23:00:00+00:00",
+    "organization": "Freeman Hall & Russ Hall",
+    "location": "Freeman Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12772506",
+    "description": "Come and watch a fun, throwback movie about passion, the arts, and love, while enjoying nice pizza."
   },
   {
     "title": "Late Night Dream Catchers",
@@ -3509,7 +3477,7 @@
     "organization": "Parent & Family Programs ",
     "location": "Montclair campus, University Hall, 7th Floor Conference Center ",
     "link": "https://montclair.campuslabs.com/engage/event/12698517",
-    "description": ""
+    "description": "Family Weekend registration required. Current Montclair student welcome with Student ID.\u00a0 \n Please Note:\u00a0 Breakfast is available on a first-come, first-served basis. While seating and capacity are limited, guests will be coming and going throughout the morning. We\u2019ll do our best to accommodate and serve everyone, but please be prepared for a short wait during peak times."
   },
   {
     "title": "Red Hawk Pantry",
@@ -3752,20 +3720,20 @@
     "description": "This event will be a fall social event for our sisters to get to talk as they paint pumpkins."
   },
   {
-    "title": "GBM #3 : Halloween Gambit ",
-    "date": "2026-10-05T18:00:00+00:00",
-    "organization": "Montclair State University Chess Club",
-    "location": "University Hall 2009 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12777455",
-    "description": "Ready to sacrifice everything for the attack? Join us for a Halloween-themed meeting featuring aggressive openings, tactical sacrifices, and \"Survive the Attack\" puzzle challenges. Test your calculation skills, learn exciting attacking ideas, and see if you can outplay your opponents before they outplay you!"
-  },
-  {
     "title": "Montclair Unraveled General Body Meeting!",
     "date": "2026-10-05T18:00:00+00:00",
     "organization": "Montclair Unraveled",
     "location": "University Hall 2042 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12764288",
     "description": "Do you know how to knit or crochet (or do any other craft)? Do you want to learn? Do you have no idea what that is but it sounds cool? Come to Montclair Unraveled! \n Join us and learn how to knit, crochet, or do any other fiber art you're interested in. You don't need any experience to join! We have all the supplies you could need, and they're free for you to use and keep. Come learn how to make plushies, accessories, and clothes!\u00a0 \n All are welcome at Unraveled, no matter how much or how little experience you have! Come to learn, work on your own projects, and hang out with other people who have the same hobby as you :)."
+  },
+  {
+    "title": "GBM #3 : Halloween Gambit ",
+    "date": "2026-10-05T18:00:00+00:00",
+    "organization": "Montclair State University Chess Club",
+    "location": "University Hall 2009 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12777455",
+    "description": "Ready to sacrifice everything for the attack? Join us for a Halloween-themed meeting featuring aggressive openings, tactical sacrifices, and \"Survive the Attack\" puzzle challenges. Test your calculation skills, learn exciting attacking ideas, and see if you can outplay your opponents before they outplay you!"
   },
   {
     "title": "Dominican Student Organization General Body Meeting ",
@@ -5117,7 +5085,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center Pool",
     "link": "https://montclair.campuslabs.com/engage/event/12513630",
-    "description": ""
+    "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
   {
     "title": "Group X - Restorative Goodnight Yoga",
@@ -5565,7 +5533,7 @@
     "organization": "Montclair State Dance Company",
     "location": "University Hall 1C01 - Grand Concourse",
     "link": "https://montclair.campuslabs.com/engage/event/12565855",
-    "description": ""
+    "description": "Come buy a sweet treat from the Montclair State Dance Company!!"
   },
   {
     "title": "Group X - Kickboxing",
@@ -6317,7 +6285,7 @@
     "organization": "Office of Health Promotion",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12665076",
-    "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
+    "description": ""
   },
   {
     "title": "Group X - Core & Restore",
@@ -8829,7 +8797,7 @@
     "organization": "Panther Progress",
     "location": "University Hall 2031 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12761132",
-    "description": ""
+    "description": "The organization will be hosting a General Body meeting"
   },
   {
     "title": "Student Government Association Meeting",
