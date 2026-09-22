@@ -1,21 +1,5 @@
 [
   {
-    "title": "M.I.L.F. Round One Rehearsal ",
-    "date": "2026-09-22T00:30:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12737275",
-    "description": "M.I.L.F. Round One Rehearsal Players"
-  },
-  {
-    "title": "AIX Recruitment Day 3: Pick A Purpose, Philanthropy Night",
-    "date": "2026-09-22T00:45:00+00:00",
-    "organization": "Alpha Iota Chi Local Sorority Inc.",
-    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12744859",
-    "description": "Join the sisters of AIX at our Philanthropy Night on September 21st, 2026, from 8:45 pm-11:00 pm. We will go through a slideshow about our philanthropy, women's empowerment. We will have snacks and tote bag painting! We will also have a card-making station where you can write a card with a sweet and encouraging message to the women of NOW."
-  },
-  {
     "title": "Group X - Pilates + Cycle",
     "date": "2026-09-22T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -453,7 +437,7 @@
     "organization": "Campus Activities",
     "location": "Student Center Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12677274",
-    "description": ""
+    "description": "Stop by the Campus Activities table to learn more about everything happening on campus!\u00a0 Whether you\u2019re looking for fun events, ways to get involved, or opportunities to meet new people, Campus Activities has something for everyone."
   },
   {
     "title": "Fireside Chats ",
@@ -1544,20 +1528,20 @@
     "description": "Celebrate Hispanic Heritage Month with the Chess Club, PRSO, LASO, MASA, PASO, ESA, and DSO! Enjoy delicious Latino cuisine, learn about influential Latino chess players throughout history, and play casual games with fellow students. Whether you're passionate about chess, culture, or both, everyone is welcome to join us for an afternoon celebrating diversity through the game."
   },
   {
-    "title": "PHAM General Body Meeting | Tote Bag Painting for Suicide Prevention Awareness",
-    "date": "2026-09-28T18:00:00+00:00",
-    "organization": "The Public Health Association at Montclair State University",
-    "location": "University Hall 2009 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12794513",
-    "description": "The Public Health Association at Montclair invites you to join us in painting tote bags and learn a little bit about Suicide Prevention Awareness Month and how you can help yourself and others who are struggling. Come join the PHAMily!"
-  },
-  {
     "title": "Future Educators Association Tabeling ",
     "date": "2026-09-28T18:00:00+00:00",
     "organization": "Future Educators Association",
     "location": "Student Center 2C01 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12773000",
     "description": "Tabel Event to promote participants for RSO."
+  },
+  {
+    "title": "PHAM General Body Meeting | Tote Bag Painting for Suicide Prevention Awareness",
+    "date": "2026-09-28T18:00:00+00:00",
+    "organization": "The Public Health Association at Montclair State University",
+    "location": "University Hall 2009 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12794513",
+    "description": "The Public Health Association at Montclair invites you to join us in painting tote bags and learn a little bit about Suicide Prevention Awareness Month and how you can help yourself and others who are struggling. Come join the PHAMily!"
   },
   {
     "title": "BULLET JOURNALING: Get Creative & Productive",
@@ -2328,6 +2312,14 @@
     "description": "Come to this table to learn and understand the religion of Islam."
   },
   {
+    "title": "Math Game Night",
+    "date": "2026-09-30T18:00:00+00:00",
+    "organization": "Math Club",
+    "location": "CCIS425A",
+    "link": "https://montclair.campuslabs.com/engage/event/12734713",
+    "description": "MSU Students are welcome to join in on a Math Game Night. Food will be provided!"
+  },
+  {
     "title": "Garden Volunteer Day!",
     "date": "2026-09-30T18:00:00+00:00",
     "organization": "Montclair State Campus Community Garden",
@@ -2342,14 +2334,6 @@
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12794500",
     "description": "Come to Daughta Speaks General Body Meeting!!"
-  },
-  {
-    "title": "Math Game Night",
-    "date": "2026-09-30T18:00:00+00:00",
-    "organization": "Math Club",
-    "location": "CCIS425A",
-    "link": "https://montclair.campuslabs.com/engage/event/12734713",
-    "description": "MSU Students are welcome to join in on a Math Game Night. Food will be provided!"
   },
   {
     "title": "Freshmen Ask Upperclassmen!",
@@ -3357,7 +3341,7 @@
     "organization": "Montclair State University Chess Club",
     "location": "University Hall 2009 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12777455",
-    "description": "Ready to sacrifice everything for the attack? Join us for a Halloween-themed meeting featuring aggressive openings, tactical sacrifices, and \"Survive the Attack\" puzzle challenges. Test your calculation skills, learn exciting attacking ideas, and see if you can outplay your opponents before they outplay you!"
+    "description": ""
   },
   {
     "title": "Dominican Student Organization General Body Meeting ",
@@ -7488,20 +7472,20 @@
     "description": "Players:\u00a0The Importance of Being Earnest Tech Rehearsal"
   },
   {
-    "title": "Miscellaneous Show Rehearsals",
-    "date": "2026-11-03T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250A - Ballroom A",
-    "link": "https://montclair.campuslabs.com/engage/event/12702866",
-    "description": "Players: Miscellaneous Show Rehearsals"
-  },
-  {
     "title": "Players Comedy Rehearsal ",
     "date": "2026-11-03T23:00:00+00:00",
     "organization": "Montclair State University Players",
     "location": "Student Center 250B - Ballroom B",
     "link": "https://montclair.campuslabs.com/engage/event/12702879",
     "description": "Players Comedy Rehearsal"
+  },
+  {
+    "title": "Miscellaneous Show Rehearsals",
+    "date": "2026-11-03T23:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250A - Ballroom A",
+    "link": "https://montclair.campuslabs.com/engage/event/12702866",
+    "description": "Players: Miscellaneous Show Rehearsals"
   },
   {
     "title": "Midterms Election Watch Party, Pizza & Power: Watch Democracy Unfold Live!",
@@ -8725,7 +8709,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12588851",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, and Thursday (8/31 through 12/6) \n Monday and Wednesday: 9 AM - 9:45 AM, Thursday: 11 AM - 11:45 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Abigail (Monday/Wednesday) and Kendall (Thursday)"
+    "description": ""
   },
   {
     "title": "Group X - Pilates",
