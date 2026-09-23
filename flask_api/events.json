@@ -1,29 +1,5 @@
 [
   {
-    "title": "M.I.L.F. Round One Rehearsal ",
-    "date": "2026-09-23T00:30:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12761253",
-    "description": "M.I.L.F. Round One Rehearsal Players"
-  },
-  {
-    "title": "AIX Recruitment Day 4: Harvesting Friendships, Sisterhood Night",
-    "date": "2026-09-23T00:45:00+00:00",
-    "organization": "Alpha Iota Chi Local Sorority Inc.",
-    "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12761278",
-    "description": "Come join the AIX sisters for our Harvesting Friendship Sisterhood Night on September 22nd, 2026, from 8:45 pm- 11:00 pm! We'll discuss our sisterhood, make friendship bracelets, and ask slideshow questions. Our recruitment schedule is on our Instagram @alphaiotachi"
-  },
-  {
-    "title": "Sigma Delta Phi Recruitment Event",
-    "date": "2026-09-23T01:00:00+00:00",
-    "organization": "Sigma Delta Phi",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12713335",
-    "description": "A fun social event with crafts and activities designed to help everyone get to know one another!"
-  },
-  {
     "title": "Group X - Vinyasa Flow Yoga",
     "date": "2026-09-23T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1080,6 +1056,14 @@
     "description": "Join us on September 25th in Count Basie and show everyone your best at our Open Mic Event at 7PM! Don't be shy and hop up to the mic and have fun! All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
+    "title": "Throwback Movie Night!! Save the Last Dance",
+    "date": "2026-09-25T23:00:00+00:00",
+    "organization": "Freeman Hall & Russ Hall",
+    "location": "Freeman Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12772506",
+    "description": "Come and watch a fun, throwback movie about passion, the arts, and love, while enjoying nice pizza."
+  },
+  {
     "title": "Late Night Dream Catchers",
     "date": "2026-09-26T00:00:00+00:00",
     "organization": "MSU DIY Dreamers",
@@ -1312,20 +1296,20 @@
     "description": "Celebrate Hispanic Heritage Month with the Chess Club, PRSO, LASO, MASA, PASO, ESA, and DSO! Enjoy delicious Latino cuisine, learn about influential Latino chess players throughout history, and play casual games with fellow students. Whether you're passionate about chess, culture, or both, everyone is welcome to join us for an afternoon celebrating diversity through the game."
   },
   {
-    "title": "PHAM General Body Meeting | Tote Bag Painting for Suicide Prevention Awareness",
-    "date": "2026-09-28T18:00:00+00:00",
-    "organization": "The Public Health Association at Montclair State University",
-    "location": "University Hall 2009 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12794513",
-    "description": "The Public Health Association at Montclair invites you to join us in painting tote bags and learn a little bit about Suicide Prevention Awareness Month and how you can help yourself and others who are struggling. Come join the PHAMily!"
-  },
-  {
     "title": "Future Educators Association Tabeling ",
     "date": "2026-09-28T18:00:00+00:00",
     "organization": "Future Educators Association",
     "location": "Student Center 2C01 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12773000",
     "description": "Tabel Event to promote participants for RSO."
+  },
+  {
+    "title": "PHAM General Body Meeting | Tote Bag Painting for Suicide Prevention Awareness",
+    "date": "2026-09-28T18:00:00+00:00",
+    "organization": "The Public Health Association at Montclair State University",
+    "location": "University Hall 2009 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12794513",
+    "description": "The Public Health Association at Montclair invites you to join us in painting tote bags and learn a little bit about Suicide Prevention Awareness Month and how you can help yourself and others who are struggling. Come join the PHAMily!"
   },
   {
     "title": "BULLET JOURNALING: Get Creative & Productive",
@@ -10429,7 +10413,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635902",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
+    "description": ""
   },
   {
     "title": "Marvel Trivia",
