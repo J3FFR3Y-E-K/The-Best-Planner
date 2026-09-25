@@ -1,13 +1,5 @@
 [
   {
-    "title": "Group X - Vinyasa Good Morning Yoga",
-    "date": "2026-09-25T13:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12587957",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday and Friday (8/31 through 12/6) \n 9:00 AM - 9:45 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Tyrah (Thursday) and Amisha (Friday)"
-  },
-  {
     "title": "Library Orientation",
     "date": "2026-09-25T15:00:00+00:00",
     "organization": "Sprague Library",
@@ -22,6 +14,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635279",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Friday (8/31 through 12/6) \n Tuesday: 11:15 AM - 12 PM, Friday: 11 AM - 11:45 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Hannah"
+  },
+  {
+    "title": "Staying Safe After Dark",
+    "date": "2026-09-25T15:00:00+00:00",
+    "organization": "Machuga Heights",
+    "location": "Machuga Heights Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12816457",
+    "description": "Join CA Bri and UPD for some tips on staying safe on campus after dark! Learn more about using the Rave Gaurdian App."
   },
   {
     "title": "Meet the  Betas",
@@ -1264,20 +1264,20 @@
     "description": "Come to this table to learn and understand the religion of Islam."
   },
   {
-    "title": "Math Game Night",
-    "date": "2026-09-30T18:00:00+00:00",
-    "organization": "Math Club",
-    "location": "CCIS425A",
-    "link": "https://montclair.campuslabs.com/engage/event/12734713",
-    "description": "MSU Students are welcome to join in on a Math Game Night. Food will be provided!"
-  },
-  {
     "title": "Daughta Speaks General Body Meeting",
     "date": "2026-09-30T18:00:00+00:00",
     "organization": "Daughta Speaks",
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12794500",
     "description": "Come to Daughta Speaks General Body Meeting!!"
+  },
+  {
+    "title": "Math Game Night",
+    "date": "2026-09-30T18:00:00+00:00",
+    "organization": "Math Club",
+    "location": "CCIS425A",
+    "link": "https://montclair.campuslabs.com/engage/event/12734713",
+    "description": "MSU Students are welcome to join in on a Math Game Night. Food will be provided!"
   },
   {
     "title": "Garden Volunteer Day!",
@@ -1296,14 +1296,6 @@
     "description": "Have you ever had a question about college you were too embarrassed to ask? Psychology Club is hosting an exciting and interactive event in which upperclassmen take the mentor role to guide and answer any questions that the new members in their early college years have in regards to their college career. Academic, social, and professional tips will be provided for their future. No question is too obscure. Help us help you!"
   },
   {
-    "title": "Bake Sale",
-    "date": "2026-09-30T18:00:00+00:00",
-    "organization": "Muslim Student Association",
-    "location": "Student Center Quad Information Table 2 - Information Table 2",
-    "link": "https://montclair.campuslabs.com/engage/event/12772481",
-    "description": "Stop by this table to purchase and enjoy a treat."
-  },
-  {
     "title": "Political Science Club - General Body Meeting",
     "date": "2026-09-30T18:00:00+00:00",
     "organization": "Political Science Club",
@@ -1318,6 +1310,14 @@
     "location": "Student Center 2C01 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12770371",
     "description": "Satisfy your sweet tooth while supporting AURORA! Stop by for fudgy brownies, chocolate chip cookies, and adorable pink-frosted cupcakes in vanilla or chocolate! Every purchase helps support our club! \n Prices: \n Cookies - $2 \n Brownies & Cupcakes - $3 \n Bundles - 2 for $5 or 3 for $7 \n Everyone is welcome! \n \u2661"
+  },
+  {
+    "title": "Bake Sale",
+    "date": "2026-09-30T18:00:00+00:00",
+    "organization": "Muslim Student Association",
+    "location": "Student Center Quad Information Table 2 - Information Table 2",
+    "link": "https://montclair.campuslabs.com/engage/event/12772481",
+    "description": "Stop by this table to purchase and enjoy a treat."
   },
   {
     "title": "Garba Workshop!",
@@ -3128,20 +3128,20 @@
     "description": "Come to Daughta Speaks General Body Meeting!!"
   },
   {
-    "title": "All Pockets Full: General Body Meetings",
-    "date": "2026-10-07T18:00:00+00:00",
-    "organization": "All Pockets Full",
-    "location": "University Hall 2013 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12803551",
-    "description": "Join All Pockets Full for our in-person General Body Meeting at Montclair State University. This meeting is an opportunity to connect with other students who are interested in business, finance, entrepreneurship, personal growth, and building a stronger future. We\u2019ll have real conversations, interactive discussions, and activities designed to help you learn, connect, and grow. Whether you already have experience in finance or business or you\u2019re simply curious and looking to learn more, everyone is welcome. Come meet the All Pockets Full team, connect with like-minded students, share your ideas, and learn something you can take with you beyond the meeting. No specific major or experience is required\u2014just come ready to connect, learn, and get involved. All Pockets Full is more than a club; it\u2019s a mindset."
-  },
-  {
     "title": "Bee Well Bingo",
     "date": "2026-10-07T18:00:00+00:00",
     "organization": "CAPS (Counseling and Psychological Services)",
     "location": "Student Center Room 160, The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/12791557",
     "description": "Buzz into self-care and fun with Bee Well Bingo! \u00a0\ud83d\udc1d Join CAPS and Greek Life for an afternoon where wellness meets winning. Whether you\u2019re looking to relax, connect, or just have a good time, Bee Well Bingo is your chance to de-stress, learn helpful mental health tips, and score some feel-good prizes along the way. \n How do I sign up? \n \n \n No pre-registration needed \n \n \n FREE for students with a valid Montclair State ID \n \n \n All students are welcome! \n \n \n Where and when? \n \n \n Wednesday, October 7th \n \n 2 pm - 3:30 pm \n Student Center Room 160, The Underground"
+  },
+  {
+    "title": "All Pockets Full: General Body Meetings",
+    "date": "2026-10-07T18:00:00+00:00",
+    "organization": "All Pockets Full",
+    "location": "University Hall 2013 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12803551",
+    "description": "Join All Pockets Full for our in-person General Body Meeting at Montclair State University. This meeting is an opportunity to connect with other students who are interested in business, finance, entrepreneurship, personal growth, and building a stronger future. We\u2019ll have real conversations, interactive discussions, and activities designed to help you learn, connect, and grow. Whether you already have experience in finance or business or you\u2019re simply curious and looking to learn more, everyone is welcome. Come meet the All Pockets Full team, connect with like-minded students, share your ideas, and learn something you can take with you beyond the meeting. No specific major or experience is required\u2014just come ready to connect, learn, and get involved. All Pockets Full is more than a club; it\u2019s a mindset."
   },
   {
     "title": "Lassi with SASA",
@@ -3152,20 +3152,20 @@
     "description": "Join us for a sweet and special event with Mango Lassi and lots of fun games, like Carrom, Uno, Monopoly, charades, and more! \n We\u00a0invite all Montclair State and Bloomfield College students to join us for\u00a0fun games and\u00a0a taste of\u00a0delicious South Asian flavors! \n Hang out, have fun, and enjoy some delicious Mango Lassi!"
   },
   {
-    "title": "\ud83c\udf80 Think Pink: Breast Cancer Awareness Month",
-    "date": "2026-10-07T18:00:00+00:00",
-    "organization": "Medical Case & Diagnostics Club ",
-    "location": "Student Center 2C01 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12811060",
-    "description": "Join the Medical Case & Diagnostics Club in recognizing Breast Cancer Awareness Month by stopping by our table to learn about breast cancer awareness, early detection, and available resources. Meet our committee members, pick up educational materials, and receive a free Breast Cancer Awareness gift, including pink ribbon bracelets, pins, pens, stickers, and more while supplies last. \n We'll be sharing information on the importance of breast health, recognizing potential warning signs, and encouraging conversations about early detection and routine screening."
-  },
-  {
     "title": "Haitian Student Association General Body Meeting ",
     "date": "2026-10-07T18:00:00+00:00",
     "organization": "Haitian Student Association",
     "location": "University Hall 2021 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12803579",
     "description": "Sak Pase MSU! Join us every Wednesday 2:00pm-3:00pm as we open up and keep it real through discussion of cultural differences, college life, current event, hot takes and MORE. For the Zoe's but not EXCLUSIVE to the Zoe's, ALL ARE WELCOME!"
+  },
+  {
+    "title": "\ud83c\udf80 Think Pink: Breast Cancer Awareness Month",
+    "date": "2026-10-07T18:00:00+00:00",
+    "organization": "Medical Case & Diagnostics Club ",
+    "location": "Student Center 2C01 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12811060",
+    "description": "Join the Medical Case & Diagnostics Club in recognizing Breast Cancer Awareness Month by stopping by our table to learn about breast cancer awareness, early detection, and available resources. Meet our committee members, pick up educational materials, and receive a free Breast Cancer Awareness gift, including pink ribbon bracelets, pins, pens, stickers, and more while supplies last. \n We'll be sharing information on the importance of breast health, recognizing potential warning signs, and encouraging conversations about early detection and routine screening."
   },
   {
     "title": "Red Hawk Reality - Challenge Demos",
@@ -3800,6 +3800,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Friday (8/31 through 12/6) \n Tuesday: 11:15 AM - 12 PM, Friday: 11 AM - 11:45 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Hannah"
   },
   {
+    "title": "De-Stress Fest",
+    "date": "2026-10-09T16:00:00+00:00",
+    "organization": "CAPS (Counseling and Psychological Services)",
+    "location": "Fruss Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12816033",
+    "description": "Description \n \n Join Counseling & Psychological Services (CAPS) and Residence Life for free pizza and prizes on the Freeman and Russ Quad! \n \u00a0 \n Take a study break with some lawn games, bubbles, chalk affirmations, and get tips on taking care of your mental health."
+  },
+  {
     "title": "Group X - Total Body Strength and Conditioning",
     "date": "2026-10-09T16:30:00+00:00",
     "organization": "Campus Recreation",
@@ -3861,7 +3869,7 @@
     "organization": "Complexions",
     "location": "Student Center 415 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12811377",
-    "description": "This is when the E-board members come together and discuess events, ways to expand the organization and dance team, and different ways to make both better."
+    "description": ""
   },
   {
     "title": "Broadway Trivia",
@@ -4021,7 +4029,7 @@
     "organization": "The College of the Arts",
     "location": "L. Howard Fox Theatre",
     "link": "https://montclair.campuslabs.com/engage/event/12607802",
-    "description": "In\u00a0 Polaroid Stories \u00a0(play) by Naomi Iizuka, young people gather in an abandoned mansion where myth and the present collide, revealing cycles of power, loss, and survival. \n Director Statement: Set in a decaying mansion once built to project authority, this production focuses on those living at the margins and the systems that shape their lives. \n \n Montclair State University Students\u00a0 FREE\u00a0 with ID at Kasser Box Office"
+    "description": ""
   },
   {
     "title": "Whitewater Rafting Trip",
@@ -4045,7 +4053,7 @@
     "organization": "Residence Life",
     "location": "Stone Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12803171",
-    "description": "Join us on October 10th for 'Snacks around the World', starting at 7pm in Stone Lounge for a night full of food, music, games, and fun! Whether you're here for the vibes, the snacks, or the dancing \u2014 there's something for everyone. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
+    "description": ""
   },
   {
     "title": "Lysistrata Jones",
@@ -8517,7 +8525,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12587871",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Thursday (8/31 through 12/6) \n 7:30 AM - 8:15 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Amisha"
+    "description": ""
   },
   {
     "title": "Group X - Vinyasa Good Morning Yoga",
@@ -11317,7 +11325,7 @@
     "organization": "The College of the Arts",
     "location": "Alexander Kasser Theater",
     "link": "https://montclair.campuslabs.com/engage/event/12608038",
-    "description": ""
+    "description": "Directed by Elizabeth McPherson and Derek Crescenti \n Spring Dance 2027 \u00a0(dance) is a curated concert featuring Montclair State dance majors in faculty, guest, and student works across contemporary, modern, jazz, and experimental styles. It showcases technical skill, creative growth, and emerging talent. Runtime: 2 hours, no intermission. \n \n Montclair State University Students\u00a0 FREE\u00a0 with ID at Kasser Box Office"
   },
   {
     "title": "Baseball vs. Ramapo",
