@@ -1152,20 +1152,20 @@
     "description": "Dinallo Heights is so excited for this semester! \n Join the Dinallo CAs in learning more about campus living! We will be discussing topics like getting involved on the Montclair State University campus, tips on being a good roommate, how to handle conflicts that may immerge, and other important topics! \n Bring your event pass, and we will see you for the floor meeting!"
   },
   {
-    "title": "Bohn Hall Community Meeting ",
-    "date": "2026-09-30T23:00:00+00:00",
-    "organization": "Bohn Hall",
-    "location": "Bohn Hall Main Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12772516",
-    "description": "Join us for the Bohn Hall Community Meeting! At this meeting, we\u2019ll cover important information about living in Bohn Hall, including community expectations, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n Resources and support available to you \n Opportunities to connect with staff and peers \n A chance to ask questions and share your voice \n \n We look forward to seeing you there! \n This event is for Bohn Hall Residents"
-  },
-  {
     "title": "Freeman & Russ Mid-Semester Hall Meeting - Oct 2026",
     "date": "2026-09-30T23:00:00+00:00",
     "organization": "Freeman Hall & Russ Hall",
     "location": "Freeman Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12790893",
     "description": "Monday, Sept 28: Russ Lounge Wednesday, Sept 30: Freeman Lounge Thursday, Oct 1: Freeman Lounge Friday, Oct 3: Russ Lounge"
+  },
+  {
+    "title": "Bohn Hall Community Meeting ",
+    "date": "2026-09-30T23:00:00+00:00",
+    "organization": "Bohn Hall",
+    "location": "Bohn Hall Main Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12772516",
+    "description": "Join us for the Bohn Hall Community Meeting! At this meeting, we\u2019ll cover important information about living in Bohn Hall, including community expectations, resources, and ways to get involved. \n Residents will also have the chance to ask questions, share feedback, and meet others in the building. Attendance is encouraged to stay up-to-date and make the most out of your living experience on campus. \n What to Expect: \n \n Resources and support available to you \n Opportunities to connect with staff and peers \n A chance to ask questions and share your voice \n \n We look forward to seeing you there! \n This event is for Bohn Hall Residents"
   },
   {
     "title": "Hawk Crossings Community Meeting",
@@ -1504,20 +1504,20 @@
     "description": "Get in residents! Join us October 1st from 6 to 8pm in Bohn for a Mean Girls themed night of self care!  All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
-    "title": "Franklin Hall - Community Floor Meeting (Night FOUR)",
-    "date": "2026-10-01T23:00:00+00:00",
-    "organization": "Bloomfield's Office of Residence Life",
-    "location": "Bloomfield - Franklin Hall 314 - Multipurpose Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12809398",
-    "description": "Join the Residence Life Team on Thursday, October 1, 2026, at 7:00 PM for Community Floor Meetings!\u00a0 \n Connect with one another, the Residence Life staff, and receive important information that supports a safe and successful living environment. Students can expect a brief overview of key community policies, upcoming building updates, and opportunities to get involved throughout the semester. Staff will highlight expectations for shared spaces, review essential safety procedures, and answer any questions residents may have. By attending, students will gain clarity on community standards, learn about available resources, and understand how to contribute positively to the residential experience."
-  },
-  {
     "title": "Dinallo Heights Mid-Semester Floor Meeting",
     "date": "2026-10-01T23:00:00+00:00",
     "organization": "Dinallo Heights",
     "location": "Dinallo Heights Multipurpose Room",
     "link": "https://montclair.campuslabs.com/engage/event/12813085",
     "description": "Dinallo Heights is so excited for this semester! \n Join the Dinallo CAs in learning more about campus living! We will be discussing topics like getting involved on the Montclair State University campus, tips on being a good roommate, how to handle conflicts that may immerge, and other important topics! \n Bring your event pass, and we will see you for the floor meeting!"
+  },
+  {
+    "title": "Franklin Hall - Community Floor Meeting (Night FOUR)",
+    "date": "2026-10-01T23:00:00+00:00",
+    "organization": "Bloomfield's Office of Residence Life",
+    "location": "Bloomfield - Franklin Hall 314 - Multipurpose Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12809398",
+    "description": "Join the Residence Life Team on Thursday, October 1, 2026, at 7:00 PM for Community Floor Meetings!\u00a0 \n Connect with one another, the Residence Life staff, and receive important information that supports a safe and successful living environment. Students can expect a brief overview of key community policies, upcoming building updates, and opportunities to get involved throughout the semester. Staff will highlight expectations for shared spaces, review essential safety procedures, and answer any questions residents may have. By attending, students will gain clarity on community standards, learn about available resources, and understand how to contribute positively to the residential experience."
   },
   {
     "title": "Freeman & Russ Mid-Semester Hall Meeting - Oct 2026",
@@ -2424,20 +2424,20 @@
     "description": "Join us for a Halloween Movie Night & Monster DIY Mocktail from 8:00 PM\u201310:00 PM in Machuga on October 5th! Enjoy a Halloween movie, make your own spooky monster mocktail, and grab some chips and snacks. Come hang out, get creative, and enjoy a fun Halloween night with friends!"
   },
   {
-    "title": "Upsilon Game Night",
-    "date": "2026-10-06T00:30:00+00:00",
-    "organization": "Lambda Sigma Upsilon Latino Fraternity, Inc.",
-    "location": "University Hall 3048 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12792966",
-    "description": "Upsilon Game Night is back! Come and game with the Upsilon for a fun, high-energy night full of competition and challenges. A series of games where you can pull up, have a good time, and enjoy some friendly rivalry as we see who really takes the crown."
-  },
-  {
     "title": "Delta Chi Chapter ",
     "date": "2026-10-06T00:30:00+00:00",
     "organization": "Delta Chi",
     "location": "University Hall 1050 - Ingrid & Scott Williams Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12754339",
     "description": "Delta Chi Chapter"
+  },
+  {
+    "title": "Upsilon Game Night",
+    "date": "2026-10-06T00:30:00+00:00",
+    "organization": "Lambda Sigma Upsilon Latino Fraternity, Inc.",
+    "location": "University Hall 3048 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12792966",
+    "description": "Upsilon Game Night is back! Come and game with the Upsilon for a fun, high-energy night full of competition and challenges. A series of games where you can pull up, have a good time, and enjoy some friendly rivalry as we see who really takes the crown."
   },
   {
     "title": "Women Empowerment Panel",
@@ -4008,20 +4008,20 @@
     "description": "Join the Historical Society for a bingo themed after the hit musical\u00a0 Hamilton !"
   },
   {
-    "title": "\ud83c\udf4e Cider & Connections \u2615",
-    "date": "2026-10-12T18:00:00+00:00",
-    "organization": "Medical Case & Diagnostics Club ",
-    "location": "University Hall 1060 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12794961",
-    "description": "Take a break and join us for Cider & Connections! Enjoy warm or cold apple cider, donuts, and cookies while meeting fellow students, making new friends, and learning more about the club. Whether you're interested in medicine or just looking for a welcoming place to connect, we'd love to see you there! \n Come by, grab a treat, and say hello!"
-  },
-  {
     "title": "Carve & Chill",
     "date": "2026-10-12T18:00:00+00:00",
     "organization": "Baking Club",
     "location": "University Hall 2009 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12803764",
     "description": "Join the Baking club at Carve & Chill! Carve pumpkins and watch a movie as we welcome fall! The pumpkin you carve and the memories are yours to take after we finish. We hope to see you there!"
+  },
+  {
+    "title": "\ud83c\udf4e Cider & Connections \u2615",
+    "date": "2026-10-12T18:00:00+00:00",
+    "organization": "Medical Case & Diagnostics Club ",
+    "location": "University Hall 1060 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12794961",
+    "description": "Take a break and join us for Cider & Connections! Enjoy warm or cold apple cider, donuts, and cookies while meeting fellow students, making new friends, and learning more about the club. Whether you're interested in medicine or just looking for a welcoming place to connect, we'd love to see you there! \n Come by, grab a treat, and say hello!"
   },
   {
     "title": "Panther Progress General Body Meeting",
