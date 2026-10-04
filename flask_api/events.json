@@ -1,29 +1,5 @@
 [
   {
-    "title": "Giants Vs Cardinals",
-    "date": "2026-10-04T15:30:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "MetLife Stadium, East Rutherford, NJ",
-    "link": "https://montclair.campuslabs.com/engage/event/12826148",
-    "description": "Catch the excitement live as the New York Giants take on the Arizona Cardinals on October 4th at 1:00 PM! Join fellow students for an unforgettable afternoon of NFL action, school spirit, and game-day energy. No need to worry about transportation \u2014 bus service will be provided from the Montclair State Rec Center, making it easy to get to and from the game. The bus will depart at 11:30am. Don\u2019t miss this opportunity to experience the thrill of live professional football alongside your friends and classmates! \n \u00a0 \n How do I sign up? \n \n $85 for students; \n Register  here ,  or in the Student Rec Center main office, or over the phone (973-655-3340). \n Tickets go on sale for students on Wednesday, August 26, 2026 \n \n Where and when? \n \n Sunday, October 04, 2026 \n \n 1:00 p.m game start; 11:30 a.m bus leaves from SRC \n \n \n MetLife Stadium, East Rutherford, NJ \n \n Meet at Student Recreation Center (SRC) Lounge"
-  },
-  {
-    "title": "Harvest Festival",
-    "date": "2026-10-04T14:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Chester, NJ \u2013 Begins and ends at Student Recreation Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12517518",
-    "description": "Explore Stony Hill Farm, a fully operational, working farm: \n \n 10-acre   Corn Maze ! \n Hayrides \n Pick-Your-Own Pumpkin \n Farmer's Market \n \n How do I sign-up? \n \n Register  here , or in the Student Recreation Center's main office, or over the phone (973-655-3340). \n Cost for Students - $10\u00a0 \n \n Where and when? \n \n October 4th 2026 \n 10am-5pm \n Chester, NJ - Begins and ends at Student Recreation Center \n \n What to bring: \n \n Money for spending \n Comfortable shoes for walking \n \n Potential Hazards:  Poisonous plants/allergies, insect bites, unpredictable weather changes, sunburn/heat exhaustion, dehydration, and injuries, including sprains/strains, abrasions, lacerations and fractures."
-  },
-  {
-    "title": "Sunday Mass",
-    "date": "2026-10-04T21:00:00+00:00",
-    "organization": "Red Hawk Catholic",
-    "location": "Newman Catholic Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12834950",
-    "description": "Mass is held each Sunday in the Newman Catholic Center Chapel at 5:00 PM & 8:00 PM."
-  },
-  {
     "title": "Group X - Restorative Goodnight Yoga",
     "date": "2026-10-04T23:00:00+00:00",
     "organization": "Campus Recreation",
@@ -133,7 +109,7 @@
     "organization": "The Future Dentist Club",
     "location": "The School of Nursing and The Graduate School 153 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12825337",
-    "description": "Connect with other pre-dental students and learn how to tackle the DAT"
+    "description": ""
   },
   {
     "title": "Group X - Kickboxing",
@@ -149,7 +125,7 @@
     "organization": "Center for Writing Excellence",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12766371",
-    "description": "This overview will help familiarize you with APA citations\u2014an important part of academic writing in social science fields such as Business, Nursing, Psychology, Linguistics, Sociology, Economics, and Justice Studies.\u00a0 Bring your own papers or Reference pages for extra help."
+    "description": ""
   },
   {
     "title": "General Body Meeting",
@@ -157,7 +133,7 @@
     "organization": "Child Advocacy and Policy Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12725176",
-    "description": "Come hang out with the Child Advocacy Club!"
+    "description": ""
   },
   {
     "title": "CSAM Science Teaching Program - How Can I Apply To The Teacher Certification Program?",
@@ -200,20 +176,20 @@
     "description": "Join us every week for our PASO General Board Meetings, where culture, community, and leadership come together! These meetings are open to all members and students interested in learning more about Peruvian culture, supporting Latinx representation, and getting involved. \n All Montclair / Bloomfield Campus Students are Invited to attend!"
   },
   {
-    "title": "Empanda Sale",
-    "date": "2026-10-05T17:30:00+00:00",
-    "organization": "Sigma Lambda Beta International Fraternity Inc.",
-    "location": "Dickson Hall 1C07 - Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12800858",
-    "description": "Brothers of the Alpha Zeta Chapter will be selling fresh empanadas. Come stop by and enjoy a little lunch before your class or after!"
-  },
-  {
     "title": "Henna Fundraiser ",
     "date": "2026-10-05T17:30:00+00:00",
     "organization": "North African Society",
     "location": "Student Center Quad Information Table 1 - Information Table 1",
     "link": "https://montclair.campuslabs.com/engage/event/12800805",
     "description": "This event will be a henna fundraiser where students can receive traditional henna designs in exchange for a donation. The event will provide students with an opportunity to participate in a cultural activity while raising funds to support our organization and its initiatives."
+  },
+  {
+    "title": "Empanda Sale",
+    "date": "2026-10-05T17:30:00+00:00",
+    "organization": "Sigma Lambda Beta International Fraternity Inc.",
+    "location": "Dickson Hall 1C07 - Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12800858",
+    "description": "Brothers of the Alpha Zeta Chapter will be selling fresh empanadas. Come stop by and enjoy a little lunch before your class or after!"
   },
   {
     "title": " Espresso Your Vote Grab a Coffee. Get Election Ready. (Montclair Campus)",
@@ -776,14 +752,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Sunday (8/31 through 12/6) \n Tuesday: 7:30 PM - 8:30 PM, Sunday: 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle (Tuesday) and Hannah (Sunday)"
   },
   {
-    "title": "Mini Pumpkin Decorating",
-    "date": "2026-10-06T23:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center Lounge",
-    "link": "https://montclair.campuslabs.com/engage/event/12543521",
-    "description": "Grab a mini pumpkin and let your creativity take over as you paint and decorate your way into the season. Whether you\u2019re here to craft or just enjoy the cozy vibes with friends, Mini Pumpkin Decorating is the perfect blend of fall energy and good times. How do I Sign-up? \n \n Registration is not required. \n FREE for students with Montclair State ID \n \n Where and When? \n \n Tuesday, October 6th \n 7 pm - 9 pm, must be checked in by 8:30 pm to participate \n Student Recreation Center Lounge"
-  },
-  {
     "title": "Newman Night (PASO Takeover)",
     "date": "2026-10-06T23:00:00+00:00",
     "organization": "Red Hawk Catholic",
@@ -798,6 +766,14 @@
     "location": "Newman Catholic Center, JPII Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12846707",
     "description": "Social event open to new members"
+  },
+  {
+    "title": "Mini Pumpkin Decorating",
+    "date": "2026-10-06T23:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Center Lounge",
+    "link": "https://montclair.campuslabs.com/engage/event/12543521",
+    "description": "Grab a mini pumpkin and let your creativity take over as you paint and decorate your way into the season. Whether you\u2019re here to craft or just enjoy the cozy vibes with friends, Mini Pumpkin Decorating is the perfect blend of fall energy and good times. How do I Sign-up? \n \n Registration is not required. \n FREE for students with Montclair State ID \n \n Where and When? \n \n Tuesday, October 6th \n 7 pm - 9 pm, must be checked in by 8:30 pm to participate \n Student Recreation Center Lounge"
   },
   {
     "title": "Movie night ",
@@ -2288,20 +2264,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
-    "title": "I am Jane Doe",
-    "date": "2026-10-12T14:00:00+00:00",
-    "organization": "Greek Life",
-    "location": "STCT Ballrooms",
-    "link": "https://montclair.campuslabs.com/engage/event/12844072",
-    "description": "I Am Jane Doe  is a collaborative program presented by The Office of Community Resilience and Officer Wellness, Advocacy and Outreach and Greek Life to raise awareness about sexual assault, support survivors, and foster meaningful conversations about consent, safety, and accountability. Inspired by the Silent Witness tradition, the program allows us to shed light on stories that often do not receive the attention they deserve and the difficulty survivors face when reporting. This program provides an opportunity for our community to engage thoughtfully in conversations surrounding sexual violence and its impact on individuals and campus communities."
-  },
-  {
     "title": "Community & Coffee ",
     "date": "2026-10-12T14:00:00+00:00",
     "organization": "Campus Activities",
     "location": "Student Center Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/12849255",
     "description": "Join Campus partners during Domestic Violence Awareness Month to learn about campus resources, share thoughts, feelings, concerns, and experiences. \n \u00a0 \n Coffee and refreshments will be served. \n All are welcome."
+  },
+  {
+    "title": "I am Jane Doe",
+    "date": "2026-10-12T14:00:00+00:00",
+    "organization": "Greek Life",
+    "location": "STCT Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/12844072",
+    "description": "I Am Jane Doe  is a collaborative program presented by The Office of Community Resilience and Officer Wellness, Advocacy and Outreach and Greek Life to raise awareness about sexual assault, support survivors, and foster meaningful conversations about consent, safety, and accountability. Inspired by the Silent Witness tradition, the program allows us to shed light on stories that often do not receive the attention they deserve and the difficulty survivors face when reporting. This program provides an opportunity for our community to engage thoughtfully in conversations surrounding sexual violence and its impact on individuals and campus communities."
   },
   {
     "title": "Mindfulness Meditation ",
@@ -4798,14 +4774,6 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12766496",
     "description": "Celebrate Halloween with a fun writing activity. Prompts will be shared to get you started with a short story to celebrate the season."
-  },
-  {
-    "title": "Squid Game Halloween Event",
-    "date": "2026-10-26T18:00:00+00:00",
-    "organization": "Korean Culture & Language Association",
-    "location": "University Hall 3012 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12842325",
-    "description": "Come join KCLA as we celebrate Halloween by playing games that were on Squid Game! \n If possible, come dressed in dark green attire to represent the players! \n All Are Welcome!"
   },
   {
     "title": "Korean Horror/Superstitions",
