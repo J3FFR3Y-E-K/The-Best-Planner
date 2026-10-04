@@ -1,37 +1,5 @@
 [
   {
-    "title": "Homecoming 2026",
-    "date": "2026-10-03T14:00:00+00:00",
-    "organization": "Campus Activities",
-    "location": "Amphitheater",
-    "link": "https://montclair.campuslabs.com/engage/event/12775408",
-    "description": "On Saturday, October 3, 2026, come home to the Montclair campus for a full day of festivities that capture the heart of Homecoming. Enjoy activities for all ages, explore campus highlights, and take part in traditions that bring generations of Red Hawks together.\u00a0Whether you\u2019re reconnecting with old friends or discovering what\u2019s new on campus, Homecoming is all about celebrating the Montclair experience."
-  },
-  {
-    "title": "CALI SCHOOL OF MUSIC: Kaleidoscope",
-    "date": "2026-10-03T23:30:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "Alexander Kasser Theater",
-    "link": "https://montclair.campuslabs.com/engage/event/12657661",
-    "description": "Kaleidoscope\u00a0 is a 90-minute, high-energy showcase that brings the Cali School\u2019s talented faculty and students together in a seamless celebration of music. The program features the\u00a0 University Wind Symphony ,\u00a0 Symphonic Band ,\u00a0 Chorale ,\u00a0 Singers ,\u00a0 Jazz Ensemble ,\u00a0 Symphony Orchestra , along with chamber groups and solo performers. \n Montclair State University Students\u00a0 FREE\u00a0 with ID at Kasser Box Office"
-  },
-  {
-    "title": "Fall 2026 Dance Showcase",
-    "date": "2026-10-03T23:00:00+00:00",
-    "organization": "Campus Activities at Bloomfield",
-    "location": "Van Fossen Theater",
-    "link": "https://montclair.campuslabs.com/engage/event/12820068",
-    "description": "A troupe of adult, contemporary ballet dancers collaborate beyond the studio. This show will be bringing you music and styles from across the globe."
-  },
-  {
-    "title": "Homecoming Cabaret",
-    "date": "2026-10-04T00:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "STCT 126",
-    "link": "https://montclair.campuslabs.com/engage/event/12850772",
-    "description": "Homecoming Cabaret"
-  },
-  {
     "title": "Miscellaneous Show Rehearsal",
     "date": "2026-10-04T14:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -2352,20 +2320,20 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
-    "title": "I am Jane Doe",
-    "date": "2026-10-12T14:00:00+00:00",
-    "organization": "Greek Life",
-    "location": "STCT Ballrooms",
-    "link": "https://montclair.campuslabs.com/engage/event/12844072",
-    "description": "I Am Jane Doe  is a collaborative program presented by The Office of Community Resilience and Officer Wellness, Advocacy and Outreach and Greek Life to raise awareness about sexual assault, support survivors, and foster meaningful conversations about consent, safety, and accountability. Inspired by the Silent Witness tradition, the program allows us to shed light on stories that often do not receive the attention they deserve and the difficulty survivors face when reporting. This program provides an opportunity for our community to engage thoughtfully in conversations surrounding sexual violence and its impact on individuals and campus communities."
-  },
-  {
     "title": "Community & Coffee ",
     "date": "2026-10-12T14:00:00+00:00",
     "organization": "Campus Activities",
     "location": "Student Center Ballrooms",
     "link": "https://montclair.campuslabs.com/engage/event/12849255",
     "description": "Join Campus partners during Domestic Violence Awareness Month to learn about campus resources, share thoughts, feelings, concerns, and experiences. \n \u00a0 \n Coffee and refreshments will be served. \n All are welcome."
+  },
+  {
+    "title": "I am Jane Doe",
+    "date": "2026-10-12T14:00:00+00:00",
+    "organization": "Greek Life",
+    "location": "STCT Ballrooms",
+    "link": "https://montclair.campuslabs.com/engage/event/12844072",
+    "description": "I Am Jane Doe  is a collaborative program presented by The Office of Community Resilience and Officer Wellness, Advocacy and Outreach and Greek Life to raise awareness about sexual assault, support survivors, and foster meaningful conversations about consent, safety, and accountability. Inspired by the Silent Witness tradition, the program allows us to shed light on stories that often do not receive the attention they deserve and the difficulty survivors face when reporting. This program provides an opportunity for our community to engage thoughtfully in conversations surrounding sexual violence and its impact on individuals and campus communities."
   },
   {
     "title": "Mindfulness Meditation ",
@@ -7877,7 +7845,7 @@
     "organization": "College for Education and Engaged Learning",
     "location": "University Hall, ADP Center 1143",
     "link": "https://montclair.campuslabs.com/engage/event/12728350",
-    "description": "Join us to learn more about the Teacher Education Program within the College for Education and Engaged Learning!\u00a0 \n \u00a0 \n REGISTER FOR THE SESSION HERE:\u00a0 https://bit.ly/CEELTeacherEdInfo"
+    "description": ""
   },
   {
     "title": "Group X - Kickboxing",
@@ -9573,7 +9541,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12636423",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a02 PM - 3 PM,\u00a0 Wednesday: \u00a04:45 PM - 5:45 PM,\u00a0 Thursday: \u00a012 PM - 1 PM\u00a0 &\u00a0 2 PM - 3 PM\u00a0 &\u00a0 4:45 PM - 5:45 PM,\u00a0 Friday: \u00a02 PM - 3 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Isra (Monday), Alessandro (Wednesday), Isra, Brian, and Alessandro/Brian (Thursday), Brian (Friday)"
+    "description": ""
   },
   {
     "title": "National Association for the Advancement of Colored People Weekly Discussion",
@@ -10133,7 +10101,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12636428",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a02 PM - 3 PM,\u00a0 Wednesday: \u00a04:45 PM - 5:45 PM,\u00a0 Thursday: \u00a012 PM - 1 PM\u00a0 &\u00a0 2 PM - 3 PM\u00a0 &\u00a0 4:45 PM - 5:45 PM,\u00a0 Friday: \u00a02 PM - 3 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Isra (Monday), Alessandro (Wednesday), Isra, Brian, and Alessandro/Brian (Thursday), Brian (Friday)"
   },
   {
     "title": "Group X - Pilates",
