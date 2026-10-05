@@ -1,53 +1,5 @@
 [
   {
-    "title": "Group X - Restorative Goodnight Yoga",
-    "date": "2026-10-04T23:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12635097",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Sunday (8/31 through 12/6) \n Tuesday: 7:30 PM - 8:30 PM, Sunday: 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle (Tuesday) and Hannah (Sunday)"
-  },
-  {
-    "title": "CX Practice ",
-    "date": "2026-10-04T22:30:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12790880",
-    "description": "Complexion will be getting together to earn and create choreography for various events and football games this semester."
-  },
-  {
-    "title": "CX Practice",
-    "date": "2026-10-04T22:30:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12790117",
-    "description": "Complexions will be gathering to learn choreography for future football performances and campus events."
-  },
-  {
-    "title": "Sunday Mass",
-    "date": "2026-10-05T00:00:00+00:00",
-    "organization": "Red Hawk Catholic",
-    "location": "Newman Catholic Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12834951",
-    "description": "Mass is held each Sunday in the Newman Catholic Center Chapel at 5:00 PM & 8:00 PM."
-  },
-  {
-    "title": "Interest Meeting ",
-    "date": "2026-10-04T21:30:00+00:00",
-    "organization": "Iota Phi Theta Fraternity Inc.",
-    "location": "University Hall 2007 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12803479",
-    "description": "Come Out And Learn About Iota Phi Theta Fraternity Inc."
-  },
-  {
-    "title": "Tea Light Decorating",
-    "date": "2026-10-05T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Russ Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12803204",
-    "description": "\u2728\ud83d\udd6f\ufe0f Get creative at our DIY Tea Light Decorating Event! \ud83d\udd6f\ufe0f\ud83c\udfa8 Join fellow students for a fun and relaxing activity where you can decorate your own tea lights and create a unique piece to brighten up your space on October 4th starting at 8PM in Russ Hall. All students are welcome. Commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Group X - Vinyasa Flow Yoga",
     "date": "2026-10-05T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -109,7 +61,7 @@
     "organization": "The Future Dentist Club",
     "location": "The School of Nursing and The Graduate School 153 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12825337",
-    "description": ""
+    "description": "Connect with other pre-dental students and learn how to tackle the DAT"
   },
   {
     "title": "Group X - Kickboxing",
@@ -125,7 +77,7 @@
     "organization": "Center for Writing Excellence",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12766371",
-    "description": ""
+    "description": "This overview will help familiarize you with APA citations\u2014an important part of academic writing in social science fields such as Business, Nursing, Psychology, Linguistics, Sociology, Economics, and Justice Studies.\u00a0 Bring your own papers or Reference pages for extra help."
   },
   {
     "title": "General Body Meeting",
@@ -133,7 +85,7 @@
     "organization": "Child Advocacy and Policy Club",
     "location": "Dickson Hall 272 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12725176",
-    "description": ""
+    "description": "Come hang out with the Child Advocacy Club!"
   },
   {
     "title": "CSAM Science Teaching Program - How Can I Apply To The Teacher Certification Program?",
@@ -224,20 +176,20 @@
     "description": "This event will be a fall social event for our sisters to get to talk as they paint pumpkins."
   },
   {
-    "title": "Montclair Unraveled General Body Meeting!",
-    "date": "2026-10-05T18:00:00+00:00",
-    "organization": "Montclair Unraveled",
-    "location": "University Hall 2042 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12764288",
-    "description": "Do you know how to knit or crochet (or do any other craft)? Do you want to learn? Do you have no idea what that is but it sounds cool? Come to Montclair Unraveled! \n Join us and learn how to knit, crochet, or do any other fiber art you're interested in. You don't need any experience to join! We have all the supplies you could need, and they're free for you to use and keep. Come learn how to make plushies, accessories, and clothes!\u00a0 \n All are welcome at Unraveled, no matter how much or how little experience you have! Come to learn, work on your own projects, and hang out with other people who have the same hobby as you :)."
-  },
-  {
     "title": "GBM #3 : Halloween Gambit ",
     "date": "2026-10-05T18:00:00+00:00",
     "organization": "Montclair State University Chess Club",
     "location": "University Hall 2009 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12777455",
     "description": "Ready to sacrifice everything for the attack? Join us for a Halloween-themed meeting featuring aggressive openings, tactical sacrifices, and \"Survive the Attack\" puzzle challenges. Test your calculation skills, learn exciting attacking ideas, and see if you can outplay your opponents before they outplay you!"
+  },
+  {
+    "title": "Montclair Unraveled General Body Meeting!",
+    "date": "2026-10-05T18:00:00+00:00",
+    "organization": "Montclair Unraveled",
+    "location": "University Hall 2042 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12764288",
+    "description": "Do you know how to knit or crochet (or do any other craft)? Do you want to learn? Do you have no idea what that is but it sounds cool? Come to Montclair Unraveled! \n Join us and learn how to knit, crochet, or do any other fiber art you're interested in. You don't need any experience to join! We have all the supplies you could need, and they're free for you to use and keep. Come learn how to make plushies, accessories, and clothes!\u00a0 \n All are welcome at Unraveled, no matter how much or how little experience you have! Come to learn, work on your own projects, and hang out with other people who have the same hobby as you :)."
   },
   {
     "title": "Dominican Student Organization General Body Meeting ",
@@ -4198,14 +4150,6 @@
     "location": "Student Center 415 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12773010",
     "description": "Cru is a caring community passionate about connecting people to Jesus Christ! \n We'll be going through scripture, having discussions, and fellowship in a safe space with the Lord."
-  },
-  {
-    "title": "Halloween Bake Sale",
-    "date": "2026-10-19T18:00:00+00:00",
-    "organization": "Child Advocacy and Policy Club",
-    "location": "Student Center 2C01 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12841521",
-    "description": "Come Support the Child Advocacy Club at our bake sale!"
   },
   {
     "title": "Group X - Pilates",
@@ -8285,7 +8229,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635332",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Friday (8/31 through 12/6) \n Tuesday: 11:15 AM - 12 PM, Friday: 11 AM - 11:45 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Hannah"
+    "description": ""
   },
   {
     "title": "Career Ready with AI",
@@ -9789,7 +9733,7 @@
     "organization": "Residence Life",
     "location": "The Village ",
     "link": "https://montclair.campuslabs.com/engage/event/12759754",
-    "description": "Interested in working with Residence Life? Join us for an informative session to learn more about our student staff opportunities, available positions, responsibilities, expectations, and what it\u2019s like to be part of the Residence Life team."
+    "description": ""
   },
   {
     "title": "Group X - Total Body Strength and Conditioning",
