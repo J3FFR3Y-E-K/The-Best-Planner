@@ -80,14 +80,6 @@
     "description": "Take chess beyond campus with a trip to the iconic Central Park Chess & Checkers House! Members will have the opportunity to play outdoor chess, explore the park, and enjoy a fun day in New York City while connecting with fellow club members. Boards provided; bring a picnic blanket! Please arrive before 2 pm, as we will likely be moving to a different location in the park to grab lunch!"
   },
   {
-    "title": "Whitewater Rafting Trip",
-    "date": "2026-10-10T11:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Begins at Student Recreation Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12543558",
-    "description": "Coordinating with the release of the dam in the Lehigh River, this whitewater rafting trip is sure to be a blast. Perfect for all skill levels. This is a great way to GET YOUR FEET WET!\u00a0 \n \u00a0 \n How do I Sign-up? \n \n Register  here , or in the Student Recreation Center's main office, or over the phone (973-655-3340). \n Cost for Students\u00a0 $20\u00a0 \n \n \u00a0 \n Where and when? \n \n Saturday, October 10, 2026 \n 7:00am \u2013 7:00pm \n Begins at Student Recreation Center \n \n \u00a0 \n What to bring:  Lunch, water, snacks, towel, a change of clothes and sandals with a heel strap, old sneakers, or water shoes. Flip-flops or slides are not allowed. For warmer days, wear a swim suit or quick-drying shorts/shirt; for cooler days, bring extra layers, but no cotton. Wetsuits are included for those that want them. Half/full wetsuits can be rented from the organization. Half is $6, full is $12, jacket is $4.\u00a0 \n \u00a0 \n Potential Hazards:  Unpredictable weather changes, sunburn/heat exhaustion, limited vision, dehydration, allergic reactions/poisonous plants, insect bites and injury by running, including sprains, lacerations, abrasions and fractures."
-  },
-  {
     "title": "Festival de los Andes - Music, Dance, Art and Food",
     "date": "2026-10-10T18:00:00+00:00",
     "organization": "Center for Latino Heritage & Spanish Language Excellence",
@@ -102,6 +94,14 @@
     "location": "Sprague Field",
     "link": "https://montclair.campuslabs.com/engage/event/12476028",
     "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Whitewater Rafting Trip",
+    "date": "2026-10-10T11:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Begins at Student Recreation Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12543558",
+    "description": "Coordinating with the release of the dam in the Lehigh River, this whitewater rafting trip is sure to be a blast. Perfect for all skill levels. This is a great way to GET YOUR FEET WET!\u00a0 \n \u00a0 \n How do I Sign-up? \n \n Register  here , or in the Student Recreation Center's main office, or over the phone (973-655-3340). \n Cost for Students\u00a0 $20\u00a0 \n \n \u00a0 \n Where and when? \n \n Saturday, October 10, 2026 \n 7:00am \u2013 7:00pm \n Begins at Student Recreation Center \n \n \u00a0 \n What to bring:  Lunch, water, snacks, towel, a change of clothes and sandals with a heel strap, old sneakers, or water shoes. Flip-flops or slides are not allowed. For warmer days, wear a swim suit or quick-drying shorts/shirt; for cooler days, bring extra layers, but no cotton. Wetsuits are included for those that want them. Half/full wetsuits can be rented from the organization. Half is $6, full is $12, jacket is $4.\u00a0 \n \u00a0 \n Potential Hazards:  Unpredictable weather changes, sunburn/heat exhaustion, limited vision, dehydration, allergic reactions/poisonous plants, insect bites and injury by running, including sprains, lacerations, abrasions and fractures."
   },
   {
     "title": "Snacks Around the World ",
@@ -3440,20 +3440,20 @@
     "description": "\ud83d\udcda\ud83e\udee7 Books & Bubbles: Year 2 is back! Join us as we celebrate the second year of this special community service event, where we will collect and donate books and bubbles to the Ben Samuels children center here on campus. For every package of 1 book + 1 bubble you donate, you will receive 30 minutes of community service. Come help us spread joy, encourage reading, and make a difference in the lives of children in our community! We can\u2019t wait to have you join us! \ud83d\udc99"
   },
   {
-    "title": "Pre-Law Society - Pre-Law Review Meeting",
-    "date": "2026-10-26T18:00:00+00:00",
-    "organization": "Pre-Law Society",
-    "location": "Dickson Hall - Room 175",
-    "link": "https://montclair.campuslabs.com/engage/event/12846451",
-    "description": "Pre-Law Society's newest sub-committee: 'Pre'-Law Review!\u00a0 \n A new student-run journal that aims to give Montclair State University students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are encouraged to join!"
-  },
-  {
     "title": "Vote with the Elites",
     "date": "2026-10-26T18:00:00+00:00",
     "organization": "Lambda Upsilon Lambda",
     "location": "Student Center 2C01 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12548887",
     "description": "The Hermanos of the Alpha Kappa Chapter of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc. are dedicating to supporting its students on expressing their beliefs through voting. Swing by the our  Vote with the Elites \u00a0Table in the student Center to come see us, and for a surprise!"
+  },
+  {
+    "title": "Pre-Law Society - Pre-Law Review Meeting",
+    "date": "2026-10-26T18:00:00+00:00",
+    "organization": "Pre-Law Society",
+    "location": "Dickson Hall - Room 175",
+    "link": "https://montclair.campuslabs.com/engage/event/12846451",
+    "description": "Pre-Law Society's newest sub-committee: 'Pre'-Law Review!\u00a0 \n A new student-run journal that aims to give Montclair State University students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are encouraged to join!"
   },
   {
     "title": "Write a Short Story for Halloween ",
@@ -8213,7 +8213,7 @@
     "organization": "A.LIFE",
     "location": "University Hall 1060 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12712032",
-    "description": ""
+    "description": "To Create an environment where those far and near from God can experience the love of God."
   },
   {
     "title": "Sleep Out: Executive Edition at MetLife Stadium",
@@ -9024,20 +9024,20 @@
     "description": "Join us every week for our PASO General Board Meetings, where culture, community, and leadership come together! These meetings are open to all members and students interested in learning more about Peruvian culture, supporting Latinx representation, and getting involved. \n All Montclair / Bloomfield Campus Students are Invited to attend!"
   },
   {
-    "title": "Montclair Unraveled General Body Meeting!",
-    "date": "2026-11-30T19:00:00+00:00",
-    "organization": "Montclair Unraveled",
-    "location": "University Hall 2042 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12832524",
-    "description": "Do you know how to knit or crochet (or do any other craft)? Do you want to learn? Do you have no idea what that is but it sounds cool? Come to Montclair Unraveled! \n Join us and learn how to knit, crochet, or do any other fiber art you're interested in. You don't need any experience to join! We have all the supplies you could need, and they're free for you to use and keep. Come learn how to make plushies, accessories, and clothes! \n All are welcome at Unraveled, no matter how much or how little experience you have! Come to learn, work on your own projects, and hang out with other people who have the same hobby as you. :)"
-  },
-  {
     "title": "Sister's Vision Board",
     "date": "2026-11-30T19:00:00+00:00",
     "organization": "Muslim Student Association",
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12860824",
     "description": "This is an event where sisters can come together to socialize and talk about their goals through the vision boards they've created."
+  },
+  {
+    "title": "Montclair Unraveled General Body Meeting!",
+    "date": "2026-11-30T19:00:00+00:00",
+    "organization": "Montclair Unraveled",
+    "location": "University Hall 2042 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12832524",
+    "description": "Do you know how to knit or crochet (or do any other craft)? Do you want to learn? Do you have no idea what that is but it sounds cool? Come to Montclair Unraveled! \n Join us and learn how to knit, crochet, or do any other fiber art you're interested in. You don't need any experience to join! We have all the supplies you could need, and they're free for you to use and keep. Come learn how to make plushies, accessories, and clothes! \n All are welcome at Unraveled, no matter how much or how little experience you have! Come to learn, work on your own projects, and hang out with other people who have the same hobby as you. :)"
   },
   {
     "title": "Dominican Student Organization GBM",
