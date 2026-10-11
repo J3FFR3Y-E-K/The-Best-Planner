@@ -1,37 +1,5 @@
 [
   {
-    "title": "MSU Chess Club's Central Park Chess Trip",
-    "date": "2026-10-10T16:00:00+00:00",
-    "organization": "Montclair State University Chess Club",
-    "location": "Central Park Chess and Checkers House",
-    "link": "https://montclair.campuslabs.com/engage/event/12863561",
-    "description": "Take chess beyond campus with a trip to the iconic Central Park Chess & Checkers House! Members will have the opportunity to play outdoor chess, explore the park, and enjoy a fun day in New York City while connecting with fellow club members. Boards provided; bring a picnic blanket! Please arrive before 2 pm, as we will likely be moving to a different location in the park to grab lunch!"
-  },
-  {
-    "title": "Football vs. WPU",
-    "date": "2026-10-10T21:00:00+00:00",
-    "organization": "Athletics",
-    "location": "Sprague Field",
-    "link": "https://montclair.campuslabs.com/engage/event/12476028",
-    "description": "Tickets and Parking Info"
-  },
-  {
-    "title": "Festival de los Andes - Music, Dance, Art and Food",
-    "date": "2026-10-10T18:00:00+00:00",
-    "organization": "Center for Latino Heritage & Spanish Language Excellence",
-    "location": "Amphiteather",
-    "link": "https://montclair.campuslabs.com/engage/event/12626394",
-    "description": "RAIN CHECK! WE ARE NOW SCHEDULED FOR 10/10/2026! Join us for the  Festival de los Andes  on  Saturday, October 10, from 2:00\u20137:00 p.m. at the Amphitheater ! Celebrate the rich cultures and traditions of the Andean countries through an afternoon of  live music, traditional dance, artists and artisans, interactive workshops, raffle and prizes, food, and ALPACAS!  This vibrant cultural festival brings together the Montclair State University community, families, Indigenous groups, artists, and local communities to experience the music, art, traditions, and creativity of the Andes.  Free and open to the public. \n PLEASE RSVP! https://docs.google.com/forms/d/e/1FAIpQLSdYjzC1n8bs1PV9Dcp4JWimXkTbklJQBbIBgo74ZVci2HhfLw/viewform"
-  },
-  {
-    "title": "Whitewater Rafting Trip",
-    "date": "2026-10-10T11:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Begins at Student Recreation Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12543558",
-    "description": "Coordinating with the release of the dam in the Lehigh River, this whitewater rafting trip is sure to be a blast. Perfect for all skill levels. This is a great way to GET YOUR FEET WET!\u00a0 \n \u00a0 \n How do I Sign-up? \n \n Register  here , or in the Student Recreation Center's main office, or over the phone (973-655-3340). \n Cost for Students\u00a0 $20\u00a0 \n \n \u00a0 \n Where and when? \n \n Saturday, October 10, 2026 \n 7:00am \u2013 7:00pm \n Begins at Student Recreation Center \n \n \u00a0 \n What to bring:  Lunch, water, snacks, towel, a change of clothes and sandals with a heel strap, old sneakers, or water shoes. Flip-flops or slides are not allowed. For warmer days, wear a swim suit or quick-drying shorts/shirt; for cooler days, bring extra layers, but no cotton. Wetsuits are included for those that want them. Half/full wetsuits can be rented from the organization. Half is $6, full is $12, jacket is $4.\u00a0 \n \u00a0 \n Potential Hazards:  Unpredictable weather changes, sunburn/heat exhaustion, limited vision, dehydration, allergic reactions/poisonous plants, insect bites and injury by running, including sprains, lacerations, abrasions and fractures."
-  },
-  {
     "title": "Snacks Around the World ",
     "date": "2026-10-10T23:00:00+00:00",
     "organization": "Residence Life",
@@ -440,20 +408,20 @@
     "description": "Hello, guys! \u2728 \n Get ready for the\u00a0 cutest, most unique bake sale\u00a0 ever! \ud83c\udf82 We\u2019re bringing you\u00a0 Siminski cake pops, Sonny Angel cake pops, Sonny Angel hat cupcakes, yummy Japanese snacks, and more!!\u00a0 \ud83c\udf70\ud83c\udf80 \n The best part? Everything is\u00a0 under $5! \u00a0\ud83d\udc96 So swing by, grab some adorable treats, and support our club! Your sweet tooth (and your wallet) will thank you! \u2728 \n See you there, Angels! \ud83c\udf6a\ud83d\udc97"
   },
   {
-    "title": "Carve & Chill",
-    "date": "2026-10-12T18:00:00+00:00",
-    "organization": "Baking Club",
-    "location": "University Hall 2009 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12803764",
-    "description": "Join the Baking club at Carve & Chill! Carve pumpkins and watch a movie as we welcome fall! The pumpkin you carve and the memories are yours to take after we finish. We hope to see you there!"
-  },
-  {
     "title": "\ud83c\udf4e Cider & Connections \u2615",
     "date": "2026-10-12T18:00:00+00:00",
     "organization": "Medical Case & Diagnostics Club ",
     "location": "University Hall 1060 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12794961",
     "description": "Take a break and join us for Cider & Connections! Enjoy warm or cold apple cider, donuts, and cookies while meeting fellow students, making new friends, and learning more about the club. Whether you're interested in medicine or just looking for a welcoming place to connect, we'd love to see you there! \n Come by, grab a treat, and say hello!"
+  },
+  {
+    "title": "Carve & Chill",
+    "date": "2026-10-12T18:00:00+00:00",
+    "organization": "Baking Club",
+    "location": "University Hall 2009 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12803764",
+    "description": "Join the Baking club at Carve & Chill! Carve pumpkins and watch a movie as we welcome fall! The pumpkin you carve and the memories are yours to take after we finish. We hope to see you there!"
   },
   {
     "title": "Panther Progress General Body Meeting",
@@ -3717,7 +3685,7 @@
     "organization": "Lambda Upsilon Lambda",
     "location": "University Hall 1C01 - Grand Concourse",
     "link": "https://montclair.campuslabs.com/engage/event/12561729",
-    "description": "Empanada Fundraiser Sale! \ud83c\udf1f Support a great cause and enjoy delicious, homemade empanadas! \n The Hermanos Of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc., are hosting a special empanada and agua fresca sale to raise funds for our Spring 2027 scholarship and The Florence Immigrant & Refugee Rights Project. Every bite helps make a difference! \n \ud83e\udd5f What\u2019s on the menu? \n \n \n Beef Empanadas \n \n \n Chicken Empanadas \n \n \n Cheese Empanadas \n \n \n \u00a0 \n \ud83d\udcb5 Price: $3 each or $5 for 2 \n Come hungry, bring your friends, and help us reach our fundraising goal\u2014one empanada at a time! \n The Hermanos Of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc."
+    "description": ""
   },
   {
     "title": "Group X - Power Yoga",
@@ -3725,7 +3693,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635288",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Friday (8/31 through 12/6) \n Tuesday: 11:15 AM - 12 PM, Friday: 11 AM - 11:45 AM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Hannah"
+    "description": ""
   },
   {
     "title": "Skills for Success: The Truth About Soft Skills",
@@ -3733,7 +3701,7 @@
     "organization": "The Discovery Program",
     "location": "Student Center Underground (Rm 160)",
     "link": "https://montclair.campuslabs.com/engage/event/12494775",
-    "description": "Think success in college and beyond is all about technical know-how? Think again! This interactive workshop uncovers the real power of soft skills\u2014like communication, teamwork, problem-solving, conflict resolution, adaptability, and discipline\u2014that employers and professors alike value most. Through hands-on activities and real-world examples, you\u2019ll learn how to recognize, strengthen, and showcase these essential skills to thrive as a student and future professional. This workshop is\u00a0presented by\u00a0 The Discovery Program . To contact the Discovery Program, email us at\u00a0 discoveryprogram@montclair.edu , or visit us at\u00a0 montclair.edu/discovery-program ."
+    "description": ""
   },
   {
     "title": "Film screening: Grave Encounters",
@@ -3749,7 +3717,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Center - Multipurpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12603324",
-    "description": "Looking to change up your workout routine? This class combines strength, toning, and cardio exercises by targeting every major muscle group using weights, resistance tubes, and other fitness equipment to provide a total body workout. \n \u00a0 \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Tuesday, Aug 31 - Dec 6 \n 2:00 p.m. - 3:00 p.m. \n Student Recreation Center - Multipurpose Room 1 \n \n Instructor - Annabelle"
+    "description": ""
   },
   {
     "title": "Halloween Bake Sale",
@@ -3757,7 +3725,7 @@
     "organization": "The Historical Society at Montclair State",
     "location": "Student Center 2C01 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12846975",
-    "description": "Come stop by and grab a spooky snack from the Historical Society's Halloween bake sale!"
+    "description": ""
   },
   {
     "title": "Red Hawk Pantry",
@@ -6104,20 +6072,20 @@
     "description": "Join us for our General Body Meetings throughout the semester! Whether you're a returning member or brand new to DECA, our GBMs are the perfect place to stay connected, meet fellow students, hear about upcoming events, competitions, professional development opportunities, networking experiences, and ways to get involved. Come build your leadership skills, grow your network, and make the most of your DECA experience. We can't wait to see you there!"
   },
   {
-    "title": "General Body Meeting",
-    "date": "2026-11-09T19:00:00+00:00",
-    "organization": "Revista Colibr\u00ed",
-    "location": "School Of Business 327 - Seminar Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12873041",
-    "description": "Join Revista Colibr\u00ed for our General Body Meeting, where members will come together to discuss the magazine\u2019s upcoming projects, events, and next issue. We will share important updates, brainstorm new ideas, and explore opportunities for members to contribute to the publication. All members are encouraged to attend, participate, and help shape the future of Revista Colibr\u00ed."
-  },
-  {
     "title": "Pepero Day",
     "date": "2026-11-09T19:00:00+00:00",
     "organization": "Korean Culture & Language Association",
     "location": "University Hall 2040 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12843107",
     "description": "Come join KCLA as we celebrate Pepero Day. \n All Are Welcome!"
+  },
+  {
+    "title": "General Body Meeting",
+    "date": "2026-11-09T19:00:00+00:00",
+    "organization": "Revista Colibr\u00ed",
+    "location": "School Of Business 327 - Seminar Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12873041",
+    "description": "Join Revista Colibr\u00ed for our General Body Meeting, where members will come together to discuss the magazine\u2019s upcoming projects, events, and next issue. We will share important updates, brainstorm new ideas, and explore opportunities for members to contribute to the publication. All members are encouraged to attend, participate, and help shape the future of Revista Colibr\u00ed."
   },
   {
     "title": "Greek Council Meeting",
@@ -8293,7 +8261,7 @@
     "organization": "The College of the Arts",
     "location": "Alexander Kasser Theater",
     "link": "https://montclair.campuslabs.com/engage/event/12657812",
-    "description": ""
+    "description": "Exquisitely eclectic quartet\u00a0 The Hands Free \u00a0and members of the fabulously whimsical\u00a0 Dance Heginbotham \u00a0join forces in\u00a0 The Party Scene . Inspired by\u00a0 The Nutcracker\u00a0 and your holiday office party, this music and dance extravaganza is part Drosselmeyer and part Turkey Lurkey Time. Lightly immersive and family-friendly, The Party Scene features student party guests from Montclair State University. All guests are encouraged to don impressively festive seasonal sweaters. \n About The Hands Free: \u00a0The Hands Free is an acoustic quartet, bringing together the creative voices of composer/performers\u00a0 James Moore \u00a0(guitar & banjo),\u00a0 Caroline Shaw \u00a0(violin),\u00a0 Nathan Koci\u00a0 (accordion), and\u00a0 Eleonore Oppenheim \u00a0(bass). Drawing from an eclectic array of influences in classical, jazz, and folk traditions, the group produces a unique and evocative blend of joyful melodies, lush sonic textures, and explosive improvisations. \n About Dance Heginbotham:\u00a0 Dance Heginbotham (DH) is a New York-based contemporary dance company committed to supporting, producing, and performing the work of choreographer\u00a0 John Heginbotham . With an emphasis on collaboration, DH enriches national and international communities through its unique blend of inventive, thoughtful, and rigorous dance-theater works. Founded in 2011, DH had its world premiere in January 2012 at\u00a0 The Kennedy Center\u00a0 and has been presented by major venues throughout the US, including\u00a0 Bard SummerScape, Brooklyn Academy of Music, Hopkins Center for the Arts, Jacob\u2019s Pillow Dance Festival, The Joyce Theater, Lincoln Center, The Metropolitan Museum of Art,\u00a0 and\u00a0 Works Process at The Guggenheim, \u00a0among many others. DH has shared the stage with luminaries of the music world, including\u00a0 Alarm Will Sound, Brooklyn Rider, The Knights, National Symphony Orchestra, Joshua Bell, Andr\u00e9 de Ridder,\u00a0 and\u00a0 Eric Jacobsen,\u00a0 and has commissioned new scores from composers\u00a0 Tyondai Braxton, Ethan Iverson,\u00a0 and\u00a0 Colin Jacobsen. \u00a0DH has collaborated with designers and artists\u00a0 Maira Kalman, Isaac Mizrahi, Amy Trompetter, Maile Okamura,\u00a0 and\u00a0 Nicole Pearce i n the creation of new works. \n www.danceheginbotham.org \u00a0 \n Learn more about the Cali Immersive Residency Program at Montclair's Cali School of Music"
   },
   {
     "title": "Sunday Mass",
