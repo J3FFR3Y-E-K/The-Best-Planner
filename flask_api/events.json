@@ -1,29 +1,5 @@
 [
   {
-    "title": "Study with the Poodles",
-    "date": "2026-10-15T00:30:00+00:00",
-    "organization": "Sigma Gamma Rho Sorority, Inc.",
-    "location": "University Hall 2006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12869619",
-    "description": "Come study with the Poodles! Join the ladies of Sigma Gamma Rho for a productive study session, good vibes."
-  },
-  {
-    "title": "CX Practice",
-    "date": "2026-10-15T00:00:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/12826601",
-    "description": "Complexion will be getting together to earn and create choreography for various events and football games this semester."
-  },
-  {
-    "title": "Mid Autumn Festival",
-    "date": "2026-10-15T01:00:00+00:00",
-    "organization": "Unified Asian American Student Organization",
-    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12803798",
-    "description": "Celebrating Asian culture with arts, crafts and various Asian snacks!"
-  },
-  {
     "title": "Group X - Vinyasa Sunrise Yoga",
     "date": "2026-10-15T11:30:00+00:00",
     "organization": "Campus Recreation",
@@ -600,20 +576,20 @@
     "description": "Test your knowledge against fellow Star Wars fans at our trivia event! Who will come out on top?"
   },
   {
-    "title": "FBLA Competitive Skills Lab Friday",
-    "date": "2026-10-16T18:00:00+00:00",
-    "organization": "Future Business Leaders of America",
-    "location": "School Of Business 110 - Laura & Charles Muth Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12882976",
-    "description": "Practice presenting, answering judge questions, analyzing cases, and completing sample objective-test questions."
-  },
-  {
     "title": "Paint & Dye-versity",
     "date": "2026-10-16T18:00:00+00:00",
     "organization": "Office of Student Belonging",
     "location": "Student Center Ballrooms BC",
     "link": "https://montclair.campuslabs.com/engage/event/12855280",
     "description": "Looking for a relaxing way to take a break from midterms? Come relax with Advocacy & Outreach and The Office of Student Belonging to paint your own tote bag or tie-dye a t-shirt! Everyone needs to destress from their exams, so come join us!"
+  },
+  {
+    "title": "FBLA Competitive Skills Lab Friday",
+    "date": "2026-10-16T18:00:00+00:00",
+    "organization": "Future Business Leaders of America",
+    "location": "School Of Business 110 - Laura & Charles Muth Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12882976",
+    "description": "Practice presenting, answering judge questions, analyzing cases, and completing sample objective-test questions."
   },
   {
     "title": "Oktoberfest Celebration",
@@ -648,14 +624,6 @@
     "description": "It's finally here! The Baking Club's first baking event is being hosted on October 16th, from 3 PM to 5 PM. Come join us as we bake apple pie cinnamon rolls and brew pumpkin spice lattes! These apple pie cinnamon rolls will be a great pastry to start the fall season. We'll be mixing, rolling, and powdering this delicious pastry. Afterward, we'll build our own lattes with the right amount of pumpkin spice to enjoy with our rolls! \n \u00a0 \n Check the GroupMe (https://groupme.com/join_group/110137850/nhmEpm3j) for the Google Form. The form is necessary so that you may participate. Baking events are limited, so you need to fill out the form ASAP to secure your spot! We hope to see you there!"
   },
   {
-    "title": "E-Board Meeting",
-    "date": "2026-10-16T21:00:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 415 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12842392",
-    "description": "This is when the E-board members come together and discuess events, ways to expand the organization and dance team, and different ways to make both better."
-  },
-  {
     "title": "Montclair Online Students - Celebrating YOU! \ud83c\udf89",
     "date": "2026-10-16T21:30:00+00:00",
     "organization": "Red Hawk Central",
@@ -670,14 +638,6 @@
     "location": "Student Center Quad123 - All Quad",
     "link": "https://montclair.campuslabs.com/engage/event/12841384",
     "description": "What if the game Werewolf happened in real life? \n That is the question we propose for this event! Come join us as we immerse ourselves in the deception roleplay game of Werewolf, with emphasis on the roleplay part. Take part in a 3-hour long game where you must either survive or eliminate to win with your team. This event will be held outside so please dress accordingly for the weather! All are welcome and dressing up is encouraged! Drinks and Snacks will be provided!"
-  },
-  {
-    "title": "CX Practice ",
-    "date": "2026-10-16T22:30:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12606615",
-    "description": "Complexions will come together, learn and create choreographer for various events this semester."
   },
   {
     "title": "Worship Night",
@@ -8125,7 +8085,7 @@
     "organization": "Peruvian-American Student Organization",
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12713264",
-    "description": ""
+    "description": "Join us every week for our PASO General Board Meetings, where culture, community, and leadership come together! These meetings are open to all members and students interested in learning more about Peruvian culture, supporting Latinx representation, and getting involved. \n All Montclair / Bloomfield Campus Students are Invited to attend!"
   },
   {
     "title": "Montclair Unraveled General Body Meeting!",
