@@ -1,13 +1,5 @@
 [
   {
-    "title": "Football vs. CNU",
-    "date": "2026-10-17T16:00:00+00:00",
-    "organization": "Athletics",
-    "location": "Sprague Field",
-    "link": "https://montclair.campuslabs.com/engage/event/12476031",
-    "description": "Tickets and Parking Info"
-  },
-  {
     "title": "New Hope Garden Trip",
     "date": "2026-10-17T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -1616,20 +1608,20 @@
     "description": "Join the Office for Hispanic Initiatives and Citi for a conversation on financial well-being, planning for the future, and building financial confidence. Learn practical approaches to managing finances and working toward your personal goals."
   },
   {
-    "title": "Lipsync Battle",
-    "date": "2026-10-29T22:00:00+00:00",
-    "organization": "Montclair Unified Filipino American Student Association",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12606660",
-    "description": "Get ready to battle it out here at our annual lipsync battle, for a night of exciting performances and costume chaos! Whether you\u2019re solo or in a group, the stage is yours for whatever you make it out to be."
-  },
-  {
     "title": "Hillel Hang",
     "date": "2026-10-29T22:00:00+00:00",
     "organization": "Hillel",
     "location": "Student Center 416 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12749970",
     "description": "Shalom Red Hawks, \n Hillel Hang is a weekly, low-key gathering where students can come together, relax, get some homework done, grab snacks, and spend time with friends. There\u2019s no formal agenda and no pressure to participate. Whether you want a quiet place to study, take a break between classes, play a game, chat with other students, or just hang out, you\u2019re welcome to drop by. \n Come for five minutes or stay for the whole time. Bring your homework, grab a snack, and make yourself comfortable."
+  },
+  {
+    "title": "Lipsync Battle",
+    "date": "2026-10-29T22:00:00+00:00",
+    "organization": "Montclair Unified Filipino American Student Association",
+    "location": "Student Center 126 - Red Hawk Nest",
+    "link": "https://montclair.campuslabs.com/engage/event/12606660",
+    "description": "Get ready to battle it out here at our annual lipsync battle, for a night of exciting performances and costume chaos! Whether you\u2019re solo or in a group, the stage is yours for whatever you make it out to be."
   },
   {
     "title": "Halloween Craft Night",
@@ -3328,20 +3320,20 @@
     "description": "Join us for our General Body Meetings throughout the semester! Whether you're a returning member or brand new to DECA, our GBMs are the perfect place to stay connected, meet fellow students, hear about upcoming events, competitions, professional development opportunities, networking experiences, and ways to get involved. Come build your leadership skills, grow your network, and make the most of your DECA experience. We can't wait to see you there!"
   },
   {
-    "title": "Pepero Day",
-    "date": "2026-11-09T19:00:00+00:00",
-    "organization": "Korean Culture & Language Association",
-    "location": "University Hall 2040 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12843107",
-    "description": "Come join KCLA as we celebrate Pepero Day. \n All Are Welcome!"
-  },
-  {
     "title": "General Body Meeting",
     "date": "2026-11-09T19:00:00+00:00",
     "organization": "Revista Colibr\u00ed",
     "location": "School Of Business 327 - Seminar Room",
     "link": "https://montclair.campuslabs.com/engage/event/12873041",
     "description": "Join Revista Colibr\u00ed for our General Body Meeting, where members will come together to discuss the magazine\u2019s upcoming projects, events, and next issue. We will share important updates, brainstorm new ideas, and explore opportunities for members to contribute to the publication. All members are encouraged to attend, participate, and help shape the future of Revista Colibr\u00ed."
+  },
+  {
+    "title": "Pepero Day",
+    "date": "2026-11-09T19:00:00+00:00",
+    "organization": "Korean Culture & Language Association",
+    "location": "University Hall 2040 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12843107",
+    "description": "Come join KCLA as we celebrate Pepero Day. \n All Are Welcome!"
   },
   {
     "title": "Greek Council Meeting",
@@ -3816,20 +3808,20 @@
     "description": "Your campus job is more than a paycheck\u2014it\u2019s a chance to build skills employers value. In this interactive workshop, students will connect their day-to-day responsibilities to NACE Career Competencies and learn how to turn those experiences into stronger examples for resumes, interviews, and LinkedIn. Students will also practice identifying transferable skills and describing their work in ways that connect to their major, career interests, and future opportunities. \n One lucky attendee will receive a $25 Bookstore GC! \n Register -\u00a0 https://montclair.joinhandshake.com/edu/events/2018713"
   },
   {
-    "title": "Club Meeting",
-    "date": "2026-11-11T19:00:00+00:00",
-    "organization": "Brasil Club",
-    "location": "University Hall 2006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12707093",
-    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
-  },
-  {
     "title": "Finance Society: Fireside Chat with Sarah Daniels ",
     "date": "2026-11-11T19:00:00+00:00",
     "organization": "Finance Society",
     "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12860493",
     "description": "Join the Finance Society for a Fireside Chat with Sarah Daniels! Hear about her career journey, experiences in the finance industry, and advice for students interested in pursuing a similar path. The conversation will be followed by an open Q&A with members."
+  },
+  {
+    "title": "Club Meeting",
+    "date": "2026-11-11T19:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707093",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
     "title": "HOSA GBM",
@@ -6293,7 +6285,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 2",
     "link": "https://montclair.campuslabs.com/engage/event/12636683",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday and Thursday (8/31 through 12/6) \n Monday: 5 PM - 5:45 PM, Thursday: 4 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 2 \n \n Instructor \n \n Jack"
   },
   {
     "title": "Group X - Kickboxing",
