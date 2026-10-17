@@ -1,53 +1,5 @@
 [
   {
-    "title": "The Ultimate Werewolf Larp Game",
-    "date": "2026-10-16T20:00:00+00:00",
-    "organization": "Montclair State University Furry Club",
-    "location": "Student Center Quad123 - All Quad",
-    "link": "https://montclair.campuslabs.com/engage/event/12841384",
-    "description": "What if the game Werewolf happened in real life? \n That is the question we propose for this event! Come join us as we immerse ourselves in the deception roleplay game of Werewolf, with emphasis on the roleplay part. Take part in a 3-hour long game where you must either survive or eliminate to win with your team. This event will be held outside so please dress accordingly for the weather! All are welcome and dressing up is encouraged! Drinks and Snacks will be provided!"
-  },
-  {
-    "title": "Worship Night",
-    "date": "2026-10-16T23:00:00+00:00",
-    "organization": "MSU Pensa",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12841430",
-    "description": "Join us for an intimate night of worship as we come together to seek God\u2019s presence through prayer, worship, and reflection. Whether you\u2019re looking to grow in your faith or simply spend time in God\u2019s presence, all are welcome. Come as you are\u2014we\u2019d love to worship with you."
-  },
-  {
-    "title": "Vision Board Night",
-    "date": "2026-10-16T23:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Freeman Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12803155",
-    "description": "Join us on October 16th for \"Vision Board Night\" in Freeman Lounge for a night creativity, community engagement, music and fun! Whether you're here for the vibes, the snacks, or the dancing \u2014 there's something for everyone. All students are welcome; commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
-    "title": "Polaroid Stories",
-    "date": "2026-10-16T23:30:00+00:00",
-    "organization": "The College of the Arts",
-    "location": "L. Howard Fox Theatre",
-    "link": "https://montclair.campuslabs.com/engage/event/12607807",
-    "description": "In\u00a0 Polaroid Stories \u00a0(play) by Naomi Iizuka, young people gather in an abandoned mansion where myth and the present collide, revealing cycles of power, loss, and survival. \n Director Statement: Set in a decaying mansion once built to project authority, this production focuses on those living at the margins and the systems that shape their lives. \n \n Montclair State University Students\u00a0 FREE\u00a0 with ID at Kasser Box Office"
-  },
-  {
-    "title": "Movie Night in Your PJs",
-    "date": "2026-10-17T00:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Machuga Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/12803153",
-    "description": "Put on your favorite pajamas and join us in the Machuga MPR on October 16 at 8 PM for a cozy movie night featuring Hotel Transylvania! Enjoy pizza, chips, and drinks while relaxing with friends. All students are welcome. Commuter students must be signed in with a resident following all Residence Life guest registration procedures."
-  },
-  {
-    "title": "Hikayat El-Ba\u1e25r",
-    "date": "2026-10-16T22:00:00+00:00",
-    "organization": "North African Society",
-    "location": "Student Center 250ABC - Ballrooms A, B, and C",
-    "link": "https://montclair.campuslabs.com/engage/event/12841547",
-    "description": "Hikayat El-Bahr is a journey along the shores of North Africa, where every coast carries a story. Inspired by the colors, flavors, music, and traditions of the Mediterranean, the night brings together the cultures that have grown beside the sea for generations."
-  },
-  {
     "title": "Red Hawk Pantry",
     "date": "2026-10-17T15:00:00+00:00",
     "organization": "Red Hawk Pantry",
@@ -424,20 +376,20 @@
     "description": "\ud83d\udcda\ud83e\udee7 Books & Bubbles: Year 2 is back! Join us as we celebrate the second year of this special community service event, where we will collect and donate books and bubbles to the Ben Samuels children center here on campus. For every package of 1 book + 1 bubble you donate, you will receive 30 minutes of community service. Come help us spread joy, encourage reading, and make a difference in the lives of children in our community! We can\u2019t wait to have you join us! \ud83d\udc99"
   },
   {
-    "title": "Vote with the Elites",
-    "date": "2026-10-26T18:00:00+00:00",
-    "organization": "Lambda Upsilon Lambda",
-    "location": "Student Center 2C01 - 2nd Floor Lobby",
-    "link": "https://montclair.campuslabs.com/engage/event/12548887",
-    "description": "The Hermanos of the Alpha Kappa Chapter of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc. are dedicating to supporting its students on expressing their beliefs through voting. Swing by the our  Vote with the Elites \u00a0Table in the student Center to come see us, and for a surprise!"
-  },
-  {
     "title": "Pre-Law Society - Pre-Law Review Meeting",
     "date": "2026-10-26T18:00:00+00:00",
     "organization": "Pre-Law Society",
     "location": "Dickson Hall - Room 175",
     "link": "https://montclair.campuslabs.com/engage/event/12846451",
     "description": "Pre-Law Society's newest sub-committee: 'Pre'-Law Review!\u00a0 \n A new student-run journal that aims to give Montclair State University students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are encouraged to join!"
+  },
+  {
+    "title": "Vote with the Elites",
+    "date": "2026-10-26T18:00:00+00:00",
+    "organization": "Lambda Upsilon Lambda",
+    "location": "Student Center 2C01 - 2nd Floor Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12548887",
+    "description": "The Hermanos of the Alpha Kappa Chapter of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc. are dedicating to supporting its students on expressing their beliefs through voting. Swing by the our  Vote with the Elites \u00a0Table in the student Center to come see us, and for a surprise!"
   },
   {
     "title": "Pre-Law Society - Pre-Law Review Meeting",
@@ -2277,7 +2229,7 @@
     "organization": "Voices of Unity",
     "location": "Student Center 250C - Ballroom C",
     "link": "https://montclair.campuslabs.com/engage/event/12863567",
-    "description": "This is a space where college students can experience Christ and express themselves through movement, all while honoring and serving the Lord. This is also a space where we connect, enjoy activities and build relationships with one another.\u00a0 \n We do not perform; we minister to God by glorifying Him through movement."
+    "description": ""
   },
   {
     "title": "Dynasty Dance Collective Rehearsal ",
@@ -2285,7 +2237,7 @@
     "organization": "Dynasty Dance Collective",
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/12861113",
-    "description": "Dynasty Dance Collective Rehearsal"
+    "description": ""
   },
   {
     "title": "Group X - Yin Goodnight Yoga",
@@ -2301,7 +2253,7 @@
     "organization": "Montclair State University Players",
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12606936",
-    "description": "Players:\u00a0The Importance of Being Earnest Tech Rehearsal"
+    "description": ""
   },
   {
     "title": "Miscellaneous Show Rehearsals",
@@ -2493,7 +2445,7 @@
     "organization": "Mu Sigma Upsilon Sorority, Incorporated",
     "location": "University Hall 2026 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12834969",
-    "description": ""
+    "description": "Interested in learning more about the Queens of Montclair? \ud83d\udc51\u2728 Join us for Ladies Night, an informational event where you\u2019ll have the opportunity to learn more about who we are, our sisterhood, our values, and what it means to be a Queen."
   },
   {
     "title": "M.I.L.F. Round Two Rehearsal  ",
@@ -3872,20 +3824,20 @@
     "description": "Your campus job is more than a paycheck\u2014it\u2019s a chance to build skills employers value. In this interactive workshop, students will connect their day-to-day responsibilities to NACE Career Competencies and learn how to turn those experiences into stronger examples for resumes, interviews, and LinkedIn. Students will also practice identifying transferable skills and describing their work in ways that connect to their major, career interests, and future opportunities. \n One lucky attendee will receive a $25 Bookstore GC! \n Register -\u00a0 https://montclair.joinhandshake.com/edu/events/2018713"
   },
   {
-    "title": "Finance Society: Fireside Chat with Sarah Daniels ",
-    "date": "2026-11-11T19:00:00+00:00",
-    "organization": "Finance Society",
-    "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12860493",
-    "description": "Join the Finance Society for a Fireside Chat with Sarah Daniels! Hear about her career journey, experiences in the finance industry, and advice for students interested in pursuing a similar path. The conversation will be followed by an open Q&A with members."
-  },
-  {
     "title": "Club Meeting",
     "date": "2026-11-11T19:00:00+00:00",
     "organization": "Brasil Club",
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12707093",
     "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
+  },
+  {
+    "title": "Finance Society: Fireside Chat with Sarah Daniels ",
+    "date": "2026-11-11T19:00:00+00:00",
+    "organization": "Finance Society",
+    "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12860493",
+    "description": "Join the Finance Society for a Fireside Chat with Sarah Daniels! Hear about her career journey, experiences in the finance industry, and advice for students interested in pursuing a similar path. The conversation will be followed by an open Q&A with members."
   },
   {
     "title": "HOSA GBM",
