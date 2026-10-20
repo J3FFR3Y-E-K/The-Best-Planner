@@ -1,29 +1,5 @@
 [
   {
-    "title": "Free Swim Lessons *Beginner*",
-    "date": "2026-10-19T20:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center Pool",
-    "link": "https://montclair.campuslabs.com/engage/event/12513539",
-    "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
-  },
-  {
-    "title": "Free Swim Lessons *Intermediate*",
-    "date": "2026-10-19T20:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Center Pool",
-    "link": "https://montclair.campuslabs.com/engage/event/12513640",
-    "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
-  },
-  {
-    "title": "What is a Man?",
-    "date": "2026-10-20T00:30:00+00:00",
-    "organization": "Lambda Sigma Upsilon Latino Fraternity, Inc.",
-    "location": "University Hall 3048 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12792978",
-    "description": "What is a Man? is a real and open dialogue centered on the stigmatization of men and the expectations placed on masculinity. This space explores how societal pressures often force men to suppress emotion, struggle in silence, and avoid vulnerability. Through honest conversation, we aim to break down those barriers and address men\u2019s mental health in a meaningful way. It\u2019s a judgment-free environment that encourages reflection, healing, and connection, reminding everyone that redefining strength starts with being able to speak, feel, and be heard."
-  },
-  {
     "title": "Red Hawk Pantry",
     "date": "2026-10-20T17:30:00+00:00",
     "organization": "Red Hawk Pantry",
@@ -920,6 +896,14 @@
     "description": "Empanada Fundraiser Sale! \ud83c\udf1f Support a great cause and enjoy delicious, homemade empanadas! \n The Hermanos Of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc., are hosting a special empanada and agua fresca sale to raise funds for our Spring 2027 scholarship and The Florence Immigrant & Refugee Rights Project. Every bite helps make a difference! \n \ud83e\udd5f What\u2019s on the menu? \n \n \n Beef Empanadas \n \n \n Chicken Empanadas \n \n \n Cheese Empanadas \n \n \n \u00a0 \n \ud83d\udcb5 Price: $3 each or $5 for 2 \n Come hungry, bring your friends, and help us reach our fundraising goal\u2014one empanada at a time! \n The Hermanos Of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc."
   },
   {
+    "title": "Dining Aux Committee Meeting",
+    "date": "2026-10-28T15:30:00+00:00",
+    "organization": "EATS by Gourmet Dining",
+    "location": "STCT Underground ",
+    "link": "https://montclair.campuslabs.com/engage/event/12903628",
+    "description": "Stop by our Dining Auxiliary Committee Meeting, enjoy a warm cup of hot cocoa, and share your feedback! We want to hear your thoughts and ideas to help make campus dining even better."
+  },
+  {
     "title": "World Pasta Day: Pasta-Making",
     "date": "2026-10-27T16:00:00+00:00",
     "organization": "EATS by Gourmet Dining",
@@ -1253,7 +1237,7 @@
     "organization": "United Greek Coalition",
     "location": "Student Center 415 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12761624",
-    "description": "Executive Board Meeting for the members of the United Greek Coalition"
+    "description": ""
   },
   {
     "title": "Film screening: Summerween",
@@ -1694,6 +1678,14 @@
     "location": "Student Recreation Center - Multipurpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12613062",
     "description": "Looking to change up your workout routine? This class combines strength, toning, and cardio exercises by targeting every major muscle group using weights, resistance tubes, and other fitness equipment to provide a total body workout. \n \u00a0 \n How do I Sign-up? \n \n Registration is not required. \n FREE for students with a valid Montclair State ID \n \n Where and When? \n \n Every Friday, Aug 31 - Dec 6 \n 12:30 p.m. - 1:30 p.m. \n Student Recreation Center - Multipurpose Room 1 \n \n Instructor - Jeffrey"
+  },
+  {
+    "title": "Callowe'en Number Hunt: Trails from the Crypt!",
+    "date": "2026-10-30T15:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Sprague Library Lobby",
+    "link": "https://montclair.campuslabs.com/engage/event/12902809",
+    "description": "Back by popular demand! \n To celebrate spooky season, join the University Libraries for a  Callowe'en Number Hunt. \u00a0 \n Follow one of our trails through our books, collect stickers, and learn some cool, creepy Halloween facts. Trails include Grave of the Vampire, Poisonous Prose, and Heads Without Bodies. \n The fun begins in the Sprague Library Lobby (next to Starbucks) and ends on the second floor.\u00a0Discover what awaits you at the end of your  call number  (re)search. Will it be a trick or a treat?"
   },
   {
     "title": "Film screening: Train to Busan",
@@ -3496,14 +3488,6 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Mondays and Tuesdays (8/31 through 12/6) \n Monday: 6 PM - 6:45 PM, Tuesday: 3:30 PM - 4:15 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Pamela"
   },
   {
-    "title": "Pensa General Body Meeting ",
-    "date": "2026-11-09T23:15:00+00:00",
-    "organization": "MSU Pensa",
-    "location": "Student Center 415 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12860229",
-    "description": "PENSA MSU is excited to welcome you to our General Body Meeting\u2014a warm space to worship, connect, and grow together in Christ. As we gather, we stand on Matthew 18:20: \u201cFor where two or three gather in my name, there am I with them.\u201d Come ready for fellowship, and don\u2019t come alone\u2014invite a friend who needs community and encouragement on campus."
-  },
-  {
     "title": "Kichwa Language Workshop Series",
     "date": "2026-11-09T22:30:00+00:00",
     "organization": "Center for Latino Heritage & Spanish Language Excellence",
@@ -3792,20 +3776,20 @@
     "description": "Your campus job is more than a paycheck\u2014it\u2019s a chance to build skills employers value. In this interactive workshop, students will connect their day-to-day responsibilities to NACE Career Competencies and learn how to turn those experiences into stronger examples for resumes, interviews, and LinkedIn. Students will also practice identifying transferable skills and describing their work in ways that connect to their major, career interests, and future opportunities. \n One lucky attendee will receive a $25 Bookstore GC! \n Register -\u00a0 https://montclair.joinhandshake.com/edu/events/2018713"
   },
   {
-    "title": "Club Meeting",
-    "date": "2026-11-11T19:00:00+00:00",
-    "organization": "Brasil Club",
-    "location": "University Hall 2006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12707093",
-    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
-  },
-  {
     "title": "Finance Society: Fireside Chat with Sarah Daniels ",
     "date": "2026-11-11T19:00:00+00:00",
     "organization": "Finance Society",
     "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12860493",
     "description": "Join the Finance Society for a Fireside Chat with Sarah Daniels! Hear about her career journey, experiences in the finance industry, and advice for students interested in pursuing a similar path. The conversation will be followed by an open Q&A with members."
+  },
+  {
+    "title": "Club Meeting",
+    "date": "2026-11-11T19:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707093",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
     "title": "HOSA GBM",
@@ -4048,6 +4032,14 @@
     "description": "Having trouble with MLA? Well never fear the WC is here! This workshop will help gain a better understanding of MLA style writing and what the difference are between these two formats."
   },
   {
+    "title": "Women's Basketball vs. Lehman (HYPE GAME)",
+    "date": "2026-11-11T22:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12902850",
+    "description": "Parking & Tickets Info \n HYPE GAME CONTEST - FREE TO MONTCLAIR STATE STUDENTS. STOP BY BY THE TICKET TABLE!"
+  },
+  {
     "title": "Women's Basketball vs. Lehman",
     "date": "2026-11-11T22:30:00+00:00",
     "organization": "Athletics",
@@ -4118,6 +4110,14 @@
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/12863707",
     "description": "Join us to learn about God and the Bible!"
+  },
+  {
+    "title": "Men's Basketball vs. Cairn (HYPE GAME)",
+    "date": "2026-11-12T00:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12902890",
+    "description": "Parking & Tickets Info \n HYPE GAME CONTEST - FREE TO MONTCLAIR STATE STUDENTS. STOP BY BY THE TICKET TABLE!"
   },
   {
     "title": "Choir Practice",
@@ -4606,6 +4606,14 @@
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12487562",
     "description": "Alumni Event! \n Tickets and Parking Info"
+  },
+  {
+    "title": "Women's Basketball vs. Widener",
+    "date": "2026-11-14T18:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12902923",
+    "description": "Parking & Tickets Info"
   },
   {
     "title": "Fall Dance",
@@ -6000,14 +6008,6 @@
     "description": "Have you ever tried to walk on water before? I'm sure if you did it didn't work out too well\u2026 but come on down to the SRC pool you will be able to achieve that dream! Bring a friend and race each other and see who the true winner is. You won\u2019t want to miss out!\u00a0 \n \u00a0 \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, November 23th, 2026 \n 5pm - 7pm \n Student Recreation Center Pool"
   },
   {
-    "title": "Pensa General Body Meeting ",
-    "date": "2026-11-23T23:15:00+00:00",
-    "organization": "MSU Pensa",
-    "location": "Student Center 415 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12860230",
-    "description": "PENSA MSU is excited to welcome you to our General Body Meeting\u2014a warm space to worship, connect, and grow together in Christ. As we gather, we stand on Matthew 18:20: \u201cFor where two or three gather in my name, there am I with them.\u201d Come ready for fellowship, and don\u2019t come alone\u2014invite a friend who needs community and encouragement on campus."
-  },
-  {
     "title": "Kichwa Language Workshop Series",
     "date": "2026-11-23T22:30:00+00:00",
     "organization": "Center for Latino Heritage & Spanish Language Excellence",
@@ -6432,20 +6432,20 @@
     "description": "Join us every week for our PASO General Board Meetings, where culture, community, and leadership come together! These meetings are open to all members and students interested in learning more about Peruvian culture, supporting Latinx representation, and getting involved. \n All Montclair / Bloomfield Campus Students are Invited to attend!"
   },
   {
-    "title": "Sister's Vision Board",
-    "date": "2026-11-30T19:00:00+00:00",
-    "organization": "Muslim Student Association",
-    "location": "University Hall 2006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12860824",
-    "description": "This is an event where sisters can come together to socialize and talk about their goals through the vision boards they've created."
-  },
-  {
     "title": "Montclair Unraveled General Body Meeting!",
     "date": "2026-11-30T19:00:00+00:00",
     "organization": "Montclair Unraveled",
     "location": "University Hall 2042 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12832524",
     "description": "Do you know how to knit or crochet (or do any other craft)? Do you want to learn? Do you have no idea what that is but it sounds cool? Come to Montclair Unraveled! \n Join us and learn how to knit, crochet, or do any other fiber art you're interested in. You don't need any experience to join! We have all the supplies you could need, and they're free for you to use and keep. Come learn how to make plushies, accessories, and clothes! \n All are welcome at Unraveled, no matter how much or how little experience you have! Come to learn, work on your own projects, and hang out with other people who have the same hobby as you. :)"
+  },
+  {
+    "title": "Sister's Vision Board",
+    "date": "2026-11-30T19:00:00+00:00",
+    "organization": "Muslim Student Association",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12860824",
+    "description": "This is an event where sisters can come together to socialize and talk about their goals through the vision boards they've created."
   },
   {
     "title": "Dominican Student Organization GBM",
@@ -6630,6 +6630,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635899",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
+  },
+  {
+    "title": "Women's Basketball vs. William Paterson ",
+    "date": "2026-12-02T18:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12903025",
+    "description": "Parking & Tickets Info"
   },
   {
     "title": "Group X - Pilates",
@@ -7496,12 +7504,36 @@
     "description": "General Body Meeting for the members of the United Greek Coalition"
   },
   {
+    "title": "Men's Basketball vs. Rutgers-Newark",
+    "date": "2026-12-09T22:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12903103",
+    "description": "Parking & Tickets Info"
+  },
+  {
     "title": "Women's Basketball vs. Rutgers - Newark",
     "date": "2026-12-09T22:30:00+00:00",
     "organization": "Athletics",
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12489381",
     "description": "Tickets & Parking Info"
+  },
+  {
+    "title": "Women's Basketball vs. Rutgers-Newark",
+    "date": "2026-12-09T22:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12903067",
+    "description": "Parking & Tickets Info"
+  },
+  {
+    "title": "Men's Basketball vs. William Paterson",
+    "date": "2026-12-03T00:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12903052",
+    "description": "Parking & Tickets Info"
   },
   {
     "title": "Hacksaw Ridge Movie Night",
@@ -7614,6 +7646,30 @@
     "location": "Panzer Athletic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12489384",
     "description": "Tickets and Parking Info"
+  },
+  {
+    "title": "Women's Basketball vs. New Paltz",
+    "date": "2026-12-16T22:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12903517",
+    "description": "Parking & Tickets"
+  },
+  {
+    "title": "Men's Basketball vs. New Paltz",
+    "date": "2026-12-17T00:30:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12903712",
+    "description": "Parking & Tickets"
+  },
+  {
+    "title": "Men's Basketball vs. Maritime College",
+    "date": "2026-12-19T17:00:00+00:00",
+    "organization": "Athletics",
+    "location": "Panzer Athletic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12903752",
+    "description": "TICKETS & PARKING"
   },
   {
     "title": "CSAM Internship (Co-op) Workshop!",
