@@ -1,21 +1,5 @@
 [
   {
-    "title": "HOSA GBM",
-    "date": "2026-10-21T18:00:00+00:00",
-    "organization": "Health Occupations Students of America - Future Health Professionals ",
-    "location": "University Hall 2021 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12761880",
-    "description": "Join us for our HOSA GBM to learn about upcoming events, volunteer opportunities, giveaways, and ways to get involved. Meet fellow members, medical students and stay updated on chapter activities, and take the next step in your healthcare leadership journey. We look forward to seeing you there!"
-  },
-  {
-    "title": "Political Science Club - General Body Meeting",
-    "date": "2026-10-21T18:00:00+00:00",
-    "organization": "Political Science Club",
-    "location": "Dickson Hall 272 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12906380",
-    "description": "Come join us in Dickson Hall, Room 272 at 2:00 pm to learn more about and discuss domestic and international politics, meet new people, and have fun!"
-  },
-  {
     "title": "Daughta Speaks General Body Meeting",
     "date": "2026-10-21T18:00:00+00:00",
     "organization": "Daughta Speaks",
@@ -24,20 +8,20 @@
     "description": "Come to Daughta Speaks General Body Meeting!!"
   },
   {
-    "title": "Haitian Student Association General Body Meeting ",
-    "date": "2026-10-21T18:00:00+00:00",
-    "organization": "Haitian Student Association",
-    "location": "University Hall 2026 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12803581",
-    "description": "Sak Pase MSU! Join us every Wednesday 2:00pm-3:00pm as we open up and keep it real through discussion of cultural differences, college life, current event, hot takes and MORE. For the Zoe's but not EXCLUSIVE to the Zoe's, ALL ARE WELCOME!"
-  },
-  {
     "title": "NASO General Body Meeting",
     "date": "2026-10-21T18:30:00+00:00",
     "organization": "Native African Student Organization",
     "location": "University Hall 2040 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12803603",
     "description": "Join us for the Native African Student Organization's General Body Meeting! This is a space where we come together to celebrate and explore the richness of African cultures, while also connecting with other cultures from around the world. At each meeting, we'll engage in lively discussions, learn about Africa\u2019s diverse history, traditions, and current events, and empower each other to understand and embrace our heritage. Whether you're looking to deepen your cultural knowledge, make meaningful connections, or simply have fun with fellow students who share a passion for Africa and global cultures, this is the place to be! Let\u2019s build a supportive community, amplify African voices on campus, and create lasting friendships. All are welcome, come, learn, share, and connect!"
+  },
+  {
+    "title": "Haitian Student Association General Body Meeting ",
+    "date": "2026-10-21T18:00:00+00:00",
+    "organization": "Haitian Student Association",
+    "location": "University Hall 2026 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12803581",
+    "description": "Sak Pase MSU! Join us every Wednesday 2:00pm-3:00pm as we open up and keep it real through discussion of cultural differences, college life, current event, hot takes and MORE. For the Zoe's but not EXCLUSIVE to the Zoe's, ALL ARE WELCOME!"
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
@@ -264,14 +248,6 @@
     "description": "\ud83d\udcda\ud83e\udee7 Books & Bubbles: Year 2 is back! Join us as we celebrate the second year of this special community service event, where we will collect and donate books and bubbles to the Ben Samuels children center here on campus. For every package of 1 book + 1 bubble you donate, you will receive 30 minutes of community service. Come help us spread joy, encourage reading, and make a difference in the lives of children in our community! We can\u2019t wait to have you join us! \ud83d\udc99"
   },
   {
-    "title": "Pre-Law Society - Pre-Law Review Meeting",
-    "date": "2026-10-26T18:00:00+00:00",
-    "organization": "Pre-Law Society",
-    "location": "Dickson Hall - Room 175",
-    "link": "https://montclair.campuslabs.com/engage/event/12846451",
-    "description": "Pre-Law Society's newest sub-committee: 'Pre'-Law Review!\u00a0 \n A new student-run journal that aims to give Montclair State University students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are encouraged to join!"
-  },
-  {
     "title": "Vote with the Elites",
     "date": "2026-10-26T18:00:00+00:00",
     "organization": "Lambda Upsilon Lambda",
@@ -283,17 +259,9 @@
     "title": "Pre-Law Society - Pre-Law Review Meeting",
     "date": "2026-10-26T18:00:00+00:00",
     "organization": "Pre-Law Society",
-    "location": "University Hall 2044 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12887082",
-    "description": "Pre-Law Society\u2019s newest sub-committee: Pre-Law Review!  \n A new student-run journal that aims to give Montclair State University Students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively \u00a0  to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are welcome to get involved!"
-  },
-  {
-    "title": "Write a Short Story for Halloween ",
-    "date": "2026-10-26T18:00:00+00:00",
-    "organization": "Center for Writing Excellence",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12766496",
-    "description": "Celebrate Halloween with a fun writing activity. Prompts will be shared to get you started with a short story to celebrate the season."
+    "location": "Dickson Hall - Room 175",
+    "link": "https://montclair.campuslabs.com/engage/event/12846451",
+    "description": "Pre-Law Society's newest sub-committee: 'Pre'-Law Review!\u00a0 \n A new student-run journal that aims to give Montclair State University students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are encouraged to join!"
   },
   {
     "title": "General Body Meeting",
@@ -302,6 +270,14 @@
     "location": "School Of Business 327 - Seminar Room",
     "link": "https://montclair.campuslabs.com/engage/event/12873039",
     "description": "Join Revista Colibr\u00ed for our General Body Meeting, where members will come together to discuss the magazine\u2019s upcoming projects, events, and next issue. We will share important updates, brainstorm new ideas, and explore opportunities for members to contribute to the publication. All members are encouraged to attend, participate, and help shape the future of Revista Colibr\u00ed."
+  },
+  {
+    "title": "Write a Short Story for Halloween ",
+    "date": "2026-10-26T18:00:00+00:00",
+    "organization": "Center for Writing Excellence",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12766496",
+    "description": "Celebrate Halloween with a fun writing activity. Prompts will be shared to get you started with a short story to celebrate the season."
   },
   {
     "title": "Squid Game Halloween Event",
@@ -926,6 +902,14 @@
     "location": "University Hall 1060 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12887136",
     "description": "Join us for an evening filled with discussion, networking, and activities!"
+  },
+  {
+    "title": "So\u2026 You Think You Can Walk?",
+    "date": "2026-10-28T00:30:00+00:00",
+    "organization": "New Generation Of Visionary Artists",
+    "location": "Life Hall - 1250",
+    "link": "https://montclair.campuslabs.com/engage/event/12912413",
+    "description": "show us you can walk!"
   },
   {
     "title": "M.I.L.F. Round Two Rehearsal  ",
@@ -1640,6 +1624,14 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
+    "title": "General Board Meeting",
+    "date": "2026-10-29T21:30:00+00:00",
+    "organization": "New Generation Of Visionary Artists",
+    "location": " Life Hall - 1402",
+    "link": "https://montclair.campuslabs.com/engage/event/12912427",
+    "description": "GBM"
+  },
+  {
     "title": "Red Hawk Pantry",
     "date": "2026-10-29T21:00:00+00:00",
     "organization": "Red Hawk Pantry",
@@ -1760,6 +1752,14 @@
     "description": "Join us on October 29th from 8pm to 10pm in Machuga MPR for building and decorate your very own haunted gingerbread house. Use icing, candy, sprinkles, and spooky decorations to bring your haunted creation to life. Whether your estate is cute, creepy, or completely over-the-top, come enjoy sweet treats, good music, and spooky-season vibes with your fellow residents! All students are welcome! Commuters need to be signed in with a resident, following Residence Life guest registration procedures."
   },
   {
+    "title": "Model Practice",
+    "date": "2026-10-30T00:30:00+00:00",
+    "organization": "New Generation Of Visionary Artists",
+    "location": "Life Hall - 1250",
+    "link": "https://montclair.campuslabs.com/engage/event/12912438",
+    "description": "Model Practice"
+  },
+  {
     "title": "M.I.L.F. Round Two Rehearsal  ",
     "date": "2026-10-30T00:30:00+00:00",
     "organization": "Montclair State University Players",
@@ -1774,6 +1774,14 @@
     "location": "University Hall 1060 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12712029",
     "description": "To Create an environment where those far and near from God can experience the love of God."
+  },
+  {
+    "title": "Chapter Recruitment Meeting ",
+    "date": "2026-10-30T00:30:00+00:00",
+    "organization": "Omega Phi Chi",
+    "location": "Dickson Hall 175 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12912491",
+    "description": "The chapter will use this opportunity to discuss better recruitment methods and take the time to bond with each other to strengthen our sisterhood."
   },
   {
     "title": "Group X - Vinyasa Good Morning Yoga",
@@ -1936,6 +1944,14 @@
     "description": "Stroll for a Scare  is a Halloween-themed Stroll for a Cause that brings the Greek community together through entertainment, philanthropy, and collaboration. Participants will enjoy an exciting evening filled with music, strolling, and school spirit while supporting meaningful causes. Proceeds from event ticket donations will benefit the  American Heart Association  and  The Coalition Against Human Trafficking , helping raise awareness and support for their important initiatives. This event encourages community service, campus engagement, and unity while celebrating the Halloween season in a fun and festive atmosphere."
   },
   {
+    "title": "Chapter Recruitment Meeting ",
+    "date": "2026-10-31T00:30:00+00:00",
+    "organization": "Omega Phi Chi",
+    "location": "Dickson Hall 175 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12912492",
+    "description": "The chapter will use this opportunity to discuss better recruitment methods and take the time to bond with each other to strengthen our sisterhood."
+  },
+  {
     "title": "Movie night",
     "date": "2026-10-31T00:45:00+00:00",
     "organization": "Montclair State Car Club",
@@ -1998,6 +2014,14 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12886979",
     "description": "Rehearsal for The Importance of Being Earnest"
+  },
+  {
+    "title": "Walk For A Cause",
+    "date": "2026-11-01T17:00:00+00:00",
+    "organization": "The Brotherhood/La Hermandad",
+    "location": "Student Center Quad123 - All Quad",
+    "link": "https://montclair.campuslabs.com/engage/event/12911195",
+    "description": "Come out for The Brotherhood's 9th annual Walk for Breast Cancer Awareness."
   },
   {
     "title": "M.I.L.F. Round Two Rehearsal  ",
@@ -2128,6 +2152,14 @@
     "description": "Whether you're in the process of learning English or if English is not your native tongue, there are common writing errors that you will find in your writing. This workshop reviews the grammar rules for some of the most common errors made by multilingual writers. Join us to review strategies for catching preposition usage mistakes and more."
   },
   {
+    "title": "Fall Card Making Event",
+    "date": "2026-11-02T19:00:00+00:00",
+    "organization": "Child Advocacy and Policy Club",
+    "location": "Dickson Hall 175 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12912871",
+    "description": "Come make cards for kids in hospitals with the CHAD club!"
+  },
+  {
     "title": "General Body Meeting",
     "date": "2026-11-02T19:00:00+00:00",
     "organization": "Revista Colibr\u00ed",
@@ -2136,20 +2168,20 @@
     "description": "Join Revista Colibr\u00ed for our General Body Meeting, where members will come together to discuss the magazine\u2019s upcoming projects, events, and next issue. We will share important updates, brainstorm new ideas, and explore opportunities for members to contribute to the publication. All members are encouraged to attend, participate, and help shape the future of Revista Colibr\u00ed."
   },
   {
-    "title": "Pre-Law Society - Pre-Law Review Meeting",
-    "date": "2026-11-02T19:00:00+00:00",
-    "organization": "Pre-Law Society",
-    "location": "University Hall 2044 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12887083",
-    "description": "Pre-Law Society\u2019s newest sub-committee: Pre-Law Review!  \n A new student-run journal that aims to give Montclair State University Students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively \u00a0  to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are welcome to get involved!"
-  },
-  {
     "title": "Group X - Kickboxing",
     "date": "2026-11-02T19:00:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12636327",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a02 PM - 3 PM,\u00a0 Wednesday: \u00a04:45 PM - 5:45 PM,\u00a0 Thursday: \u00a012 PM - 1 PM\u00a0 &\u00a0 2 PM - 3 PM\u00a0 &\u00a0 4:45 PM - 5:45 PM,\u00a0 Friday: \u00a02 PM - 3 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Isra (Monday), Alessandro (Wednesday), Isra, Brian, and Alessandro/Brian (Thursday), Brian (Friday)"
+  },
+  {
+    "title": "Pre-Law Society - Pre-Law Review Meeting",
+    "date": "2026-11-02T19:00:00+00:00",
+    "organization": "Pre-Law Society",
+    "location": "University Hall 3004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12910676",
+    "description": "Pre-Law Society\u2019s newest sub-committee: Pre-Law Review!  \n A new student-run journal that aims to give Montclair State University Students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively \u00a0  to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are welcome to get involved!"
   },
   {
     "title": "Korean Culture vs. American Culture",
@@ -2928,6 +2960,14 @@
     "description": "Players Comedy Rehearsal"
   },
   {
+    "title": "Growing Together",
+    "date": "2026-11-05T01:45:00+00:00",
+    "organization": "Alpha Kappa Alpha Sorority, Inc. ",
+    "location": "University Hall 3004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12910645",
+    "description": "Get hands-on with sustainability! Join us for a fun gardening experience where you\u2019ll decorate your own pot, plant seeds, and take your new plant home.Learn about the importance of plants, gardening, and sustainability while discovering simple ways to make more environmentally conscious choices on campus\u2014from reducing waste and reusing materials to conserving energy."
+  },
+  {
     "title": "Sexual Assault Awareness & Prevention Workshop Hosted by Theta Phi Alpha and Phi Sigma Sigma ",
     "date": "2026-11-05T01:30:00+00:00",
     "organization": "Theta Phi Alpha",
@@ -3616,6 +3656,22 @@
     "description": "If writing essays in class is new to you or you need to brush up on your impromptu writing skills, this workshop shares strategies to organize your time and thoughts and help you prepare for these important assignments."
   },
   {
+    "title": "Pre-Law Society - Moot Court Meeting",
+    "date": "2026-11-09T19:00:00+00:00",
+    "organization": "Pre-Law Society",
+    "location": "Dickson Hall 175 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12912185",
+    "description": "Meeting for Pre-Law Society's newest 2026 sub-committee: Moot Court! \n Engage in oral advocacy, collaborate with peers, and harness valuable skills through skills workshops taught by Montclair professors. Students will have the opportunity to learn all the necessary skills to participate in our internal moot court competition at the end of the year!\u00a0 \n Students of ALL majors/minors are welcome to get involved!"
+  },
+  {
+    "title": "CHAD GBM",
+    "date": "2026-11-09T19:00:00+00:00",
+    "organization": "Child Advocacy and Policy Club",
+    "location": "Dickson Hall 172 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12912882",
+    "description": "Come join the CHAD club for our weekly general body meeting"
+  },
+  {
     "title": "National Association for the Advancement of Colored People Weekly Discussion",
     "date": "2026-11-09T19:00:00+00:00",
     "organization": "National Association for the Advancement of Colored People",
@@ -3864,6 +3920,14 @@
     "description": "M.I.L.F. Round Two TECH Rehearsal Players"
   },
   {
+    "title": "Rhoyal Movie Night ",
+    "date": "2026-11-10T01:30:00+00:00",
+    "organization": "Sigma Gamma Rho Sorority, Inc.",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12912600",
+    "description": "Join the Poodles for a Rhoyal Movie Night! \u00a0Sit back, relax, and enjoy a fun night of movies."
+  },
+  {
     "title": "Chi Alpha Campus Ministries",
     "date": "2026-11-10T01:30:00+00:00",
     "organization": "Chi Alpha Campus Ministries",
@@ -4000,6 +4064,14 @@
     "description": "Players Comedy Rehearsal"
   },
   {
+    "title": "GROCERY BINGO",
+    "date": "2026-11-11T01:30:00+00:00",
+    "organization": "Voices of Unity",
+    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12912862",
+    "description": "Come out for and join Voices of Unity Gospel Choir for fun an  FREE GROCERIES,  just by winning a game of bingo! What will you go home with? Come out and see, no one leaves empty handed!"
+  },
+  {
     "title": "M.I.L.F. Round Two TECH Rehearsal ",
     "date": "2026-11-11T01:30:00+00:00",
     "organization": "Montclair State University Players",
@@ -4072,20 +4144,20 @@
     "description": "Join the Finance Society for a Fireside Chat with Sarah Daniels! Hear about her career journey, experiences in the finance industry, and advice for students interested in pursuing a similar path. The conversation will be followed by an open Q&A with members."
   },
   {
-    "title": "Pre-Law Society - Pre-Law Review Meeting",
-    "date": "2026-11-11T19:00:00+00:00",
-    "organization": "Pre-Law Society",
-    "location": "University Hall 3046 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12887084",
-    "description": "Pre-Law Society\u2019s newest sub-committee: Pre-Law Review!  \n A new student-run journal that aims to give Montclair State University Students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively \u00a0  to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are welcome to get involved!"
-  },
-  {
     "title": "HOSA GBM",
     "date": "2026-11-11T19:00:00+00:00",
     "organization": "Health Occupations Students of America - Future Health Professionals ",
     "location": "University Hall 2010 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12761881",
     "description": "Join us for our HOSA GBM to learn about upcoming events, volunteer opportunities, giveaways, and ways to get involved. Meet fellow members, medical students and stay updated on chapter activities, and take the next step in your healthcare leadership journey. We look forward to seeing you there!"
+  },
+  {
+    "title": "Pre-Law Society - Pre-Law Review Meeting",
+    "date": "2026-11-11T19:00:00+00:00",
+    "organization": "Pre-Law Society",
+    "location": "University Hall 3004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12910677",
+    "description": "Pre-Law Society\u2019s newest sub-committee: Pre-Law Review!  \n A new student-run journal that aims to give Montclair State University Students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively \u00a0  to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are welcome to get involved!"
   },
   {
     "title": "Accounting Society - Nisivoccia",
@@ -5371,9 +5443,9 @@
     "title": "Teas Around the World",
     "date": "2026-11-17T20:00:00+00:00",
     "organization": "Office of Student Belonging",
-    "location": "Student Center Ballroom B",
+    "location": "Student Center Underground",
     "link": "https://montclair.campuslabs.com/engage/event/12897587",
-    "description": "In Honor of International Education Week, join the Office of Student Belonging for \"Teas Around the World\". Take some time to unwind from class and come sample teas from different regions of the world! \n \u00a0 \n \ud83d\udcc5 Tuesday, November 17th \u23f0 3:00\u20135:00 PM \ud83d\udccd Student Center Ballroom B"
+    "description": "In Honor of International Education Week, join the Office of Student Belonging for \"Teas Around the World\". Take some time to unwind from class and come sample teas from different regions of the world! \n \u00a0 \n \ud83d\udcc5 Tuesday, November 17th \u23f0 3:00\u20135:00 PM \ud83d\udccd Student Center Underground"
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
@@ -5464,20 +5536,20 @@
     "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
-    "title": "Pre-Law Society - Pre-Law Review Meeting",
-    "date": "2026-11-18T19:00:00+00:00",
-    "organization": "Pre-Law Society",
-    "location": "University Hall 3046 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12887085",
-    "description": "Pre-Law Society\u2019s newest sub-committee: Pre-Law Review!  \n A new student-run journal that aims to give Montclair State University Students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively \u00a0  to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are welcome to get involved!"
-  },
-  {
     "title": "Accounting Society - Grant Thornton",
     "date": "2026-11-18T19:00:00+00:00",
     "organization": "Accounting Society",
     "location": "SBUS255",
     "link": "https://montclair.campuslabs.com/engage/event/12807408",
     "description": "Grant Thornton  is a leading global professional services network that provides comprehensive audit, tax, and advisory services to a diverse range of public and private organizations. Founded in Chicago in 1924, the network has expanded dramatically to include more than 80,000 professionals operating across 150 countries. Globally, it ranks as one of the largest accounting organizations by revenue, serving dynamic, mid-market businesses as well as massive multinational corporations."
+  },
+  {
+    "title": "Pre-Law Society - Pre-Law Review Meeting",
+    "date": "2026-11-18T19:00:00+00:00",
+    "organization": "Pre-Law Society",
+    "location": "University Hall 3004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12910678",
+    "description": "Pre-Law Society\u2019s newest sub-committee: Pre-Law Review!  \n A new student-run journal that aims to give Montclair State University Students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively \u00a0  to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are welcome to get involved!"
   },
   {
     "title": "CART Academic Notice Advising Group",
@@ -5518,6 +5590,14 @@
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12866059",
     "description": "Join Psychology Club for the most anticipated event of the semester: the annual Self-Care event! Join the Psychology Club, first-come-first-served, for relaxation stations and many goodies to take home. Right before finals, take some time with us to de-stress!"
+  },
+  {
+    "title": "The Fantasy Book Club Meeting",
+    "date": "2026-11-18T19:00:00+00:00",
+    "organization": "The Fantasy Book Club",
+    "location": "Dickson Hall 175 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12912523",
+    "description": "Join us for our second Fantasy Book Club meeting! We\u2019ll continue getting to know fellow fantasy readers, discuss our current book selection, and share our thoughts, favorite moments, characters, and theories. We\u2019ll also have time to talk about upcoming books, take recommendations from members, and plan future club activities. \n Whether you\u2019ve finished the book, are still reading, or just want to join the discussion, everyone is welcome! Come ready to share your thoughts, discover new fantasy books, and connect with other readers. \ud83d\udcda\u2728"
   },
   {
     "title": "Potluck ",
@@ -6000,6 +6080,14 @@
     "description": "Parking & Tickets"
   },
   {
+    "title": "Mock Dholki Fall'26",
+    "date": "2026-11-20T22:30:00+00:00",
+    "organization": "Bangladesh Student Association ",
+    "location": "School Of Business 324 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12912508",
+    "description": "Get ready for a night filled with laughter, music, dancing, and unforgettable memories! Join the Bangladesh Student Association for our annual  Mock Dholki , a fun-filled celebration inspired by the traditional pre-wedding festivities celebrated across South Asia. \n Enjoy live performances, energetic dances, classic dholki songs, interactive games, delicious food, and plenty of surprises throughout the evening. Whether you're performing, cheering on your friends, or simply coming to experience the vibrant culture, this is an event you won't want to miss. \n Dress in your favorite traditional attire, bring your friends, and come celebrate an evening of culture, community, and joy with us. We can't wait to see you there!"
+  },
+  {
     "title": "Battlegrounds ",
     "date": "2026-11-20T23:00:00+00:00",
     "organization": "Unified Asian American Student Organization",
@@ -6184,6 +6272,14 @@
     "description": "Come take a tour of Seoul with KCLA and everything Seoul has to offer! \n All Are Welcome!"
   },
   {
+    "title": "Pre-Law Society - Moot Court Meeting",
+    "date": "2026-11-23T19:00:00+00:00",
+    "organization": "Pre-Law Society",
+    "location": "Dickson Hall 175 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12912186",
+    "description": "Meeting for Pre-Law Society's newest 2026 sub-committee: Moot Court! \n Engage in oral advocacy, collaborate with peers, and harness valuable skills through skills workshops taught by Montclair professors. Students will have the opportunity to learn all the necessary skills to participate in our internal moot court competition at the end of the year!\u00a0 \n Students of ALL majors/minors are welcome to get involved!"
+  },
+  {
     "title": "National Association for the Advancement of Colored People Weekly Discussion",
     "date": "2026-11-23T19:00:00+00:00",
     "organization": "National Association for the Advancement of Colored People",
@@ -6342,6 +6438,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12587830",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday (8/31 through 12/6) \n 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Tyrah"
+  },
+  {
+    "title": "Study with the poodles!",
+    "date": "2026-11-24T01:30:00+00:00",
+    "organization": "Sigma Gamma Rho Sorority, Inc.",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12912603",
+    "description": "Come study with the Poodles! Join the ladies of Sigma Gamma Rho for a productive study session, good vibes, and a little sisterly encouragement."
   },
   {
     "title": "Chi Alpha Campus Ministries",
@@ -6744,6 +6848,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a02 PM - 3 PM,\u00a0 Wednesday: \u00a04:45 PM - 5:45 PM,\u00a0 Thursday: \u00a012 PM - 1 PM\u00a0 &\u00a0 2 PM - 3 PM\u00a0 &\u00a0 4:45 PM - 5:45 PM,\u00a0 Friday: \u00a02 PM - 3 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Isra (Monday), Alessandro (Wednesday), Isra, Brian, and Alessandro/Brian (Thursday), Brian (Friday)"
   },
   {
+    "title": "Holiday Card making",
+    "date": "2026-11-30T19:00:00+00:00",
+    "organization": "Child Advocacy and Policy Club",
+    "location": "Dickson Hall 276 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12912517",
+    "description": "Come make Holiday Cards for children in hospitals with the Child Advocacy Club!"
+  },
+  {
     "title": "National Association for the Advancement of Colored People Weekly Discussion",
     "date": "2026-11-30T19:00:00+00:00",
     "organization": "National Association for the Advancement of Colored People",
@@ -6784,20 +6896,20 @@
     "description": "Join us every week for our PASO General Board Meetings, where culture, community, and leadership come together! These meetings are open to all members and students interested in learning more about Peruvian culture, supporting Latinx representation, and getting involved. \n All Montclair / Bloomfield Campus Students are Invited to attend!"
   },
   {
-    "title": "Montclair Unraveled General Body Meeting!",
-    "date": "2026-11-30T19:00:00+00:00",
-    "organization": "Montclair Unraveled",
-    "location": "University Hall 2042 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12832524",
-    "description": "Do you know how to knit or crochet (or do any other craft)? Do you want to learn? Do you have no idea what that is but it sounds cool? Come to Montclair Unraveled! \n Join us and learn how to knit, crochet, or do any other fiber art you're interested in. You don't need any experience to join! We have all the supplies you could need, and they're free for you to use and keep. Come learn how to make plushies, accessories, and clothes! \n All are welcome at Unraveled, no matter how much or how little experience you have! Come to learn, work on your own projects, and hang out with other people who have the same hobby as you. :)"
-  },
-  {
     "title": "Sister's Vision Board",
     "date": "2026-11-30T19:00:00+00:00",
     "organization": "Muslim Student Association",
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12860824",
     "description": "This is an event where sisters can come together to socialize and talk about their goals through the vision boards they've created."
+  },
+  {
+    "title": "Montclair Unraveled General Body Meeting!",
+    "date": "2026-11-30T19:00:00+00:00",
+    "organization": "Montclair Unraveled",
+    "location": "University Hall 2042 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12832524",
+    "description": "Do you know how to knit or crochet (or do any other craft)? Do you want to learn? Do you have no idea what that is but it sounds cool? Come to Montclair Unraveled! \n Join us and learn how to knit, crochet, or do any other fiber art you're interested in. You don't need any experience to join! We have all the supplies you could need, and they're free for you to use and keep. Come learn how to make plushies, accessories, and clothes! \n All are welcome at Unraveled, no matter how much or how little experience you have! Come to learn, work on your own projects, and hang out with other people who have the same hobby as you. :)"
   },
   {
     "title": "Dominican Student Organization GBM",
@@ -7056,20 +7168,20 @@
     "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
-    "title": "Pre-Law Society - Pre-Law Review Meeting",
-    "date": "2026-12-02T19:00:00+00:00",
-    "organization": "Pre-Law Society",
-    "location": "University Hall 3046 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12887086",
-    "description": "Pre-Law Society\u2019s newest sub-committee: Pre-Law Review!  \n A new student-run journal that aims to give Montclair State University Students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively \u00a0  to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are welcome to get involved!"
-  },
-  {
     "title": "Accounting Society - KPMG",
     "date": "2026-12-02T19:00:00+00:00",
     "organization": "Accounting Society",
     "location": "SBUS140",
     "link": "https://montclair.campuslabs.com/engage/event/12807410",
     "description": "KPMG is a prominent global network of independent firms delivering professional audit, tax, and advisory services. As one of the prestigious \"Big Four\" accounting firms, it operates across roughly 140 countries and employs over 270,000 professionals worldwide. The organization was officially formed in 1987 through the merger of Peat Marwick International and Klynveld Main Goerdeler, with its name representing the initials of its foundational partners. Instead of functioning as a single multinational corporation, KPMG is structured as a network of distinct, locally managed member firms. Its primary client base includes major corporations, government agencies, and non-profit institutions seeking regulatory compliance and strategic business consulting. Through this decentralized model, the firm maintains a massive footprint in global financial compliance and corporate restructuring."
+  },
+  {
+    "title": "Pre-Law Society - Pre-Law Review Meeting",
+    "date": "2026-12-02T19:00:00+00:00",
+    "organization": "Pre-Law Society",
+    "location": "University Hall 3004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12910679",
+    "description": "Pre-Law Society\u2019s newest sub-committee: Pre-Law Review!  \n A new student-run journal that aims to give Montclair State University Students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively \u00a0  to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are welcome to get involved!"
   },
   {
     "title": "Turning Your Campus Job into Career Connections",
@@ -7968,12 +8080,12 @@
     "description": "Join the\u00a0 University Symphonic Band \u00a0and\u00a0 Campus Band\u00a0 as they present an evening of music from a wide array of composers and styles. \n Montclair State University Students\u00a0 FREE\u00a0 with ID at Kasser Box Office \n Learn more about the University Symphonic and Campus Band at Montclair's Cali School of Music"
   },
   {
-    "title": "Holiday Crafts, Games, Nutrition Facts, & More! ",
+    "title": "Pre-Law Society - Moot Court Meeting",
     "date": "2026-12-09T19:00:00+00:00",
-    "organization": "Dietetics Organization",
-    "location": "University Hall 2002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12876812",
-    "description": "As we wrap up the Fall semester and prepare to enjoy the holidays, MSDO will be hosting a relaxed get-together filled with holiday themed crafts, games, and some cozy recipes to send you home with."
+    "organization": "Pre-Law Society",
+    "location": "Dickson Hall 175 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12912187",
+    "description": "Meeting for Pre-Law Society's newest 2026 sub-committee: Moot Court! \n Engage in oral advocacy, collaborate with peers, and harness valuable skills through skills workshops taught by Montclair professors. Students will have the opportunity to learn all the necessary skills to participate in our internal moot court competition at the end of the year!\u00a0 \n Students of ALL majors/minors are welcome to get involved!"
   },
   {
     "title": "Club Meeting",
@@ -7982,6 +8094,14 @@
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12707095",
     "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
+  },
+  {
+    "title": "Holiday Crafts, Games, Nutrition Facts, & More! ",
+    "date": "2026-12-09T19:00:00+00:00",
+    "organization": "Dietetics Organization",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12876812",
+    "description": "As we wrap up the Fall semester and prepare to enjoy the holidays, MSDO will be hosting a relaxed get-together filled with holiday themed crafts, games, and some cozy recipes to send you home with."
   },
   {
     "title": "HOSA GBM",
