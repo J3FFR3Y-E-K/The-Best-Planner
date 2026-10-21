@@ -264,20 +264,20 @@
     "description": "\ud83d\udcda\ud83e\udee7 Books & Bubbles: Year 2 is back! Join us as we celebrate the second year of this special community service event, where we will collect and donate books and bubbles to the Ben Samuels children center here on campus. For every package of 1 book + 1 bubble you donate, you will receive 30 minutes of community service. Come help us spread joy, encourage reading, and make a difference in the lives of children in our community! We can\u2019t wait to have you join us! \ud83d\udc99"
   },
   {
-    "title": "Pre-Law Society - Pre-Law Review Meeting",
-    "date": "2026-10-26T18:00:00+00:00",
-    "organization": "Pre-Law Society",
-    "location": "Dickson Hall - Room 175",
-    "link": "https://montclair.campuslabs.com/engage/event/12846451",
-    "description": "Pre-Law Society's newest sub-committee: 'Pre'-Law Review!\u00a0 \n A new student-run journal that aims to give Montclair State University students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are encouraged to join!"
-  },
-  {
     "title": "Vote with the Elites",
     "date": "2026-10-26T18:00:00+00:00",
     "organization": "Lambda Upsilon Lambda",
     "location": "Student Center 2C01 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12548887",
     "description": "The Hermanos of the Alpha Kappa Chapter of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc. are dedicating to supporting its students on expressing their beliefs through voting. Swing by the our  Vote with the Elites \u00a0Table in the student Center to come see us, and for a surprise!"
+  },
+  {
+    "title": "Pre-Law Society - Pre-Law Review Meeting",
+    "date": "2026-10-26T18:00:00+00:00",
+    "organization": "Pre-Law Society",
+    "location": "Dickson Hall - Room 175",
+    "link": "https://montclair.campuslabs.com/engage/event/12846451",
+    "description": "Pre-Law Society's newest sub-committee: 'Pre'-Law Review!\u00a0 \n A new student-run journal that aims to give Montclair State University students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are encouraged to join!"
   },
   {
     "title": "Pre-Law Society - Pre-Law Review Meeting",
@@ -3309,7 +3309,7 @@
     "organization": "Montclair State University Players",
     "location": "Student Center 250A - Ballroom A",
     "link": "https://montclair.campuslabs.com/engage/event/12702870",
-    "description": ""
+    "description": "Players: Miscellaneous Show Rehearsals"
   },
   {
     "title": "1st International Symposium of Latino Oral History",
@@ -3496,20 +3496,20 @@
     "description": "Join us for our General Body Meetings throughout the semester! Whether you're a returning member or brand new to DECA, our GBMs are the perfect place to stay connected, meet fellow students, hear about upcoming events, competitions, professional development opportunities, networking experiences, and ways to get involved. Come build your leadership skills, grow your network, and make the most of your DECA experience. We can't wait to see you there!"
   },
   {
-    "title": "Pepero Day",
-    "date": "2026-11-09T19:00:00+00:00",
-    "organization": "Korean Culture & Language Association",
-    "location": "University Hall 2040 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12843107",
-    "description": "Come join KCLA as we celebrate Pepero Day. \n All Are Welcome!"
-  },
-  {
     "title": "General Body Meeting",
     "date": "2026-11-09T19:00:00+00:00",
     "organization": "Revista Colibr\u00ed",
     "location": "School Of Business 327 - Seminar Room",
     "link": "https://montclair.campuslabs.com/engage/event/12873041",
     "description": "Join Revista Colibr\u00ed for our General Body Meeting, where members will come together to discuss the magazine\u2019s upcoming projects, events, and next issue. We will share important updates, brainstorm new ideas, and explore opportunities for members to contribute to the publication. All members are encouraged to attend, participate, and help shape the future of Revista Colibr\u00ed."
+  },
+  {
+    "title": "Pepero Day",
+    "date": "2026-11-09T19:00:00+00:00",
+    "organization": "Korean Culture & Language Association",
+    "location": "University Hall 2040 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12843107",
+    "description": "Come join KCLA as we celebrate Pepero Day. \n All Are Welcome!"
   },
   {
     "title": "Greek Council Meeting",
