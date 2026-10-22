@@ -1,13 +1,5 @@
 [
   {
-    "title": "Women's Soccer vs. Kean",
-    "date": "2026-10-21T23:00:00+00:00",
-    "organization": "Athletics",
-    "location": "Soccer Park",
-    "link": "https://montclair.campuslabs.com/engage/event/12476162",
-    "description": "Tickets and Parking Info"
-  },
-  {
     "title": "Bear Necessities Pantry",
     "date": "2026-10-22T17:00:00+00:00",
     "organization": "Red Hawk Pantry",
@@ -1093,7 +1085,7 @@
     "organization": "Cru",
     "location": "Student Center 2C01 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12907569",
-    "description": "Join Cru for an evangelism tabling event on campus! We\u2019ll gather around a table equipped with practical evangelism tools and resources to help us share the Gospel and the love of Jesus with fellow students. This is an opportunity to step out in faith, start meaningful conversations, answer questions about Christianity, and invite others to learn more about who Jesus is. Whether you\u2019re experienced in evangelism or just learning how to share your faith, everyone is welcome to come, grow in confidence, and be part of reaching our campus with the Gospel!"
+    "description": ""
   },
   {
     "title": "Daughta Speaks General Body Meeting",
@@ -3592,20 +3584,20 @@
     "description": "Join us for our General Body Meetings throughout the semester! Whether you're a returning member or brand new to DECA, our GBMs are the perfect place to stay connected, meet fellow students, hear about upcoming events, competitions, professional development opportunities, networking experiences, and ways to get involved. Come build your leadership skills, grow your network, and make the most of your DECA experience. We can't wait to see you there!"
   },
   {
-    "title": "Pepero Day",
-    "date": "2026-11-09T19:00:00+00:00",
-    "organization": "Korean Culture & Language Association",
-    "location": "University Hall 2040 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12843107",
-    "description": "Come join KCLA as we celebrate Pepero Day. \n All Are Welcome!"
-  },
-  {
     "title": "General Body Meeting",
     "date": "2026-11-09T19:00:00+00:00",
     "organization": "Revista Colibr\u00ed",
     "location": "School Of Business 327 - Seminar Room",
     "link": "https://montclair.campuslabs.com/engage/event/12873041",
     "description": "Join Revista Colibr\u00ed for our General Body Meeting, where members will come together to discuss the magazine\u2019s upcoming projects, events, and next issue. We will share important updates, brainstorm new ideas, and explore opportunities for members to contribute to the publication. All members are encouraged to attend, participate, and help shape the future of Revista Colibr\u00ed."
+  },
+  {
+    "title": "Pepero Day",
+    "date": "2026-11-09T19:00:00+00:00",
+    "organization": "Korean Culture & Language Association",
+    "location": "University Hall 2040 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12843107",
+    "description": "Come join KCLA as we celebrate Pepero Day. \n All Are Welcome!"
   },
   {
     "title": "Greek Council Meeting",
@@ -4104,20 +4096,20 @@
     "description": "Your campus job is more than a paycheck\u2014it\u2019s a chance to build skills employers value. In this interactive workshop, students will connect their day-to-day responsibilities to NACE Career Competencies and learn how to turn those experiences into stronger examples for resumes, interviews, and LinkedIn. Students will also practice identifying transferable skills and describing their work in ways that connect to their major, career interests, and future opportunities. \n One lucky attendee will receive a $25 Bookstore GC! \n Register -\u00a0 https://montclair.joinhandshake.com/edu/events/2018713"
   },
   {
-    "title": "Club Meeting",
-    "date": "2026-11-11T19:00:00+00:00",
-    "organization": "Brasil Club",
-    "location": "University Hall 2006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12707093",
-    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
-  },
-  {
     "title": "Finance Society: Fireside Chat with Sarah Daniels ",
     "date": "2026-11-11T19:00:00+00:00",
     "organization": "Finance Society",
     "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12860493",
     "description": "Join the Finance Society for a Fireside Chat with Sarah Daniels! Hear about her career journey, experiences in the finance industry, and advice for students interested in pursuing a similar path. The conversation will be followed by an open Q&A with members."
+  },
+  {
+    "title": "Club Meeting",
+    "date": "2026-11-11T19:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707093",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
     "title": "HOSA GBM",
@@ -5277,7 +5269,7 @@
     "organization": "Montclair State University Players",
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12590864",
-    "description": "Players is holding their GBMs."
+    "description": ""
   },
   {
     "title": "Group X - Zumba",
@@ -8325,7 +8317,7 @@
     "organization": "Red Hawk Catholic",
     "location": "Newman Catholic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12848139",
-    "description": ""
+    "description": "Sunday Mass at Newman Catholic Center."
   },
   {
     "title": "Women's Basketball vs. SUNY New Paltz",
