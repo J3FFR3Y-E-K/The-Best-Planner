@@ -248,14 +248,6 @@
     "description": "Come join KCLA as we celebrate Halloween by playing games that were on Squid Game! \n If possible, come dressed in dark green attire to represent the players! \n All Are Welcome!"
   },
   {
-    "title": "General Body Meeting",
-    "date": "2026-10-26T18:00:00+00:00",
-    "organization": "Child Advocacy and Policy Club",
-    "location": "Dickson Hall 176 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12725109",
-    "description": "General body meeting for the Child Advocacy Club"
-  },
-  {
     "title": "CCHL Social: Registration Doesn't Have To Be Spooky",
     "date": "2026-10-26T18:00:00+00:00",
     "organization": "College for Community Health",
@@ -270,6 +262,14 @@
     "location": "University Hall 2007 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12838090",
     "description": "Join the FSA on October 26th for a Q&A session with an Oreo Developer!! \n Bring questions and be prepared to learn how different flavors and ideas are formed."
+  },
+  {
+    "title": "General Body Meeting",
+    "date": "2026-10-26T18:00:00+00:00",
+    "organization": "Child Advocacy and Policy Club",
+    "location": "Dickson Hall 176 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12725109",
+    "description": "General body meeting for the Child Advocacy Club"
   },
   {
     "title": "Group X - Kickboxing",
@@ -1085,7 +1085,7 @@
     "organization": "Cru",
     "location": "Student Center 2C01 - 2nd Floor Lobby",
     "link": "https://montclair.campuslabs.com/engage/event/12907569",
-    "description": ""
+    "description": "Join Cru for an evangelism tabling event on campus! We\u2019ll gather around a table equipped with practical evangelism tools and resources to help us share the Gospel and the love of Jesus with fellow students. This is an opportunity to step out in faith, start meaningful conversations, answer questions about Christianity, and invite others to learn more about who Jesus is. Whether you\u2019re experienced in evangelism or just learning how to share your faith, everyone is welcome to come, grow in confidence, and be part of reaching our campus with the Gospel!"
   },
   {
     "title": "Daughta Speaks General Body Meeting",
@@ -4096,20 +4096,20 @@
     "description": "Your campus job is more than a paycheck\u2014it\u2019s a chance to build skills employers value. In this interactive workshop, students will connect their day-to-day responsibilities to NACE Career Competencies and learn how to turn those experiences into stronger examples for resumes, interviews, and LinkedIn. Students will also practice identifying transferable skills and describing their work in ways that connect to their major, career interests, and future opportunities. \n One lucky attendee will receive a $25 Bookstore GC! \n Register -\u00a0 https://montclair.joinhandshake.com/edu/events/2018713"
   },
   {
-    "title": "Finance Society: Fireside Chat with Sarah Daniels ",
-    "date": "2026-11-11T19:00:00+00:00",
-    "organization": "Finance Society",
-    "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12860493",
-    "description": "Join the Finance Society for a Fireside Chat with Sarah Daniels! Hear about her career journey, experiences in the finance industry, and advice for students interested in pursuing a similar path. The conversation will be followed by an open Q&A with members."
-  },
-  {
     "title": "Club Meeting",
     "date": "2026-11-11T19:00:00+00:00",
     "organization": "Brasil Club",
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12707093",
     "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
+  },
+  {
+    "title": "Finance Society: Fireside Chat with Sarah Daniels ",
+    "date": "2026-11-11T19:00:00+00:00",
+    "organization": "Finance Society",
+    "location": "University Hall 1030 - Charlotte Roome Shotmeyer Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12860493",
+    "description": "Join the Finance Society for a Fireside Chat with Sarah Daniels! Hear about her career journey, experiences in the finance industry, and advice for students interested in pursuing a similar path. The conversation will be followed by an open Q&A with members."
   },
   {
     "title": "HOSA GBM",
@@ -5269,7 +5269,7 @@
     "organization": "Montclair State University Players",
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12590864",
-    "description": ""
+    "description": "Players is holding their GBMs."
   },
   {
     "title": "Group X - Zumba",
@@ -8056,20 +8056,20 @@
     "description": "Meeting for Pre-Law Society's newest 2026 sub-committee: Moot Court! \n Engage in oral advocacy, collaborate with peers, and harness valuable skills through skills workshops taught by Montclair professors. Students will have the opportunity to learn all the necessary skills to participate in our internal moot court competition at the end of the year!\u00a0 \n Students of ALL majors/minors are welcome to get involved!"
   },
   {
-    "title": "Club Meeting",
-    "date": "2026-12-09T19:00:00+00:00",
-    "organization": "Brasil Club",
-    "location": "University Hall 2006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12707095",
-    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
-  },
-  {
     "title": "Holiday Crafts, Games, Nutrition Facts, & More! ",
     "date": "2026-12-09T19:00:00+00:00",
     "organization": "Dietetics Organization",
     "location": "University Hall 2002 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12876812",
     "description": "As we wrap up the Fall semester and prepare to enjoy the holidays, MSDO will be hosting a relaxed get-together filled with holiday themed crafts, games, and some cozy recipes to send you home with."
+  },
+  {
+    "title": "Club Meeting",
+    "date": "2026-12-09T19:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707095",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
     "title": "HOSA GBM",
