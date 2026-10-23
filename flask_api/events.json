@@ -192,20 +192,20 @@
     "description": "Pre-Law Society's newest sub-committee: 'Pre'-Law Review!\u00a0 \n A new student-run journal that aims to give Montclair State University students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are encouraged to join!"
   },
   {
-    "title": "Write a Short Story for Halloween ",
-    "date": "2026-10-26T18:00:00+00:00",
-    "organization": "Center for Writing Excellence",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12766496",
-    "description": "Celebrate Halloween with a fun writing activity. Prompts will be shared to get you started with a short story to celebrate the season."
-  },
-  {
     "title": "General Body Meeting",
     "date": "2026-10-26T18:00:00+00:00",
     "organization": "Revista Colibr\u00ed",
     "location": "School Of Business 327 - Seminar Room",
     "link": "https://montclair.campuslabs.com/engage/event/12873039",
     "description": "Join Revista Colibr\u00ed for our General Body Meeting, where members will come together to discuss the magazine\u2019s upcoming projects, events, and next issue. We will share important updates, brainstorm new ideas, and explore opportunities for members to contribute to the publication. All members are encouraged to attend, participate, and help shape the future of Revista Colibr\u00ed."
+  },
+  {
+    "title": "Write a Short Story for Halloween ",
+    "date": "2026-10-26T18:00:00+00:00",
+    "organization": "Center for Writing Excellence",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12766496",
+    "description": "Celebrate Halloween with a fun writing activity. Prompts will be shared to get you started with a short story to celebrate the season."
   },
   {
     "title": "Squid Game Halloween Event",
@@ -1000,14 +1000,6 @@
     "description": "Join alumni from the College of the Arts as they share their career journeys, discuss how they transitioned from college to the professional world, and offer advice for students interested in creative careers. \n Panelists will discuss: \n \n Building a career in the arts and creative industries \n Navigating internships, auditions, and professional opportunities \n Developing industry connections and professional networks \n Skills that helped them succeed after graduation \n Challenges, opportunities, and lessons learned along the way \n \n Featured career areas include: \n \n Performing Arts and Theater Production \n Fashion and Apparel \n Dance and Performance \n Arts Administration \n Human Resources in Creative Industries \n \n Students will have the opportunity to ask questions, learn about different career paths, and gain firsthand insights from CART alumni who have successfully launched their careers."
   },
   {
-    "title": "Self Care in a Chaotic world is Radical",
-    "date": "2026-10-28T18:00:00+00:00",
-    "organization": "Bloomfield Center for Student Success",
-    "location": "LIB L14",
-    "link": "https://montclair.campuslabs.com/engage/event/12595896",
-    "description": "This is a self care event highlighting the importance to be holistically introspective amidst chaos and how to balance a healthy schedule for our future whilst watering our present. At a time where everything feels unprecedented, we will be compelled to water the fires as they come up, do not forget to fill your own cup as well."
-  },
-  {
     "title": "Halloween",
     "date": "2026-10-28T18:00:00+00:00",
     "organization": "South Asian Student Association",
@@ -1022,6 +1014,14 @@
     "location": "Bloomfield Campus Library",
     "link": "https://montclair.campuslabs.com/engage/event/12900153",
     "description": "Join us as we celebrate Spooky Season with a tasty snack! Stop by the Bloomfield College Library to create an Oreo Spider. While you are here, check out our Halloween display for some spooky reads and movies! While supplies last."
+  },
+  {
+    "title": "Self Care in a Chaotic world is Radical",
+    "date": "2026-10-28T18:00:00+00:00",
+    "organization": "Bloomfield Center for Student Success",
+    "location": "LIB L14",
+    "link": "https://montclair.campuslabs.com/engage/event/12595896",
+    "description": "This is a self care event highlighting the importance to be holistically introspective amidst chaos and how to balance a healthy schedule for our future whilst watering our present. At a time where everything feels unprecedented, we will be compelled to water the fires as they come up, do not forget to fill your own cup as well."
   },
   {
     "title": "Want to Join the NAACP? Informational Tabling",
@@ -4669,7 +4669,7 @@
     "organization": "Sprague Library",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12893220",
-    "description": ""
+    "description": "Learn about the different types of annotated bibliographies, what information is included in each type, and how to format your annotated bibliography. \n Register Here:\u00a0https://montclair.libcal.com/event/17830208"
   },
   {
     "title": "Group X - Vinyasa Flow Yoga",
@@ -5728,20 +5728,20 @@
     "description": "Join All Pockets Full for our in-person General Body Meeting at Montclair State University. This meeting is an opportunity to connect with other students who are interested in business, finance, entrepreneurship, personal growth, and building a stronger future. We\u2019ll have real conversations, interactive discussions, and activities designed to help you learn, connect, and grow. Whether you already have experience in finance or business or you\u2019re simply curious and looking to learn more, everyone is welcome. Come meet the All Pockets Full team, connect with like-minded students, share your ideas, and learn something you can take with you beyond the meeting. No specific major or experience is required\u2014just come ready to connect, learn, and get involved. All Pockets Full is more than a club; it\u2019s a mindset."
   },
   {
-    "title": "The Fantasy Book Club Meeting",
-    "date": "2026-11-18T19:00:00+00:00",
-    "organization": "The Fantasy Book Club",
-    "location": "Dickson Hall 175 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12912523",
-    "description": "Join us for our second Fantasy Book Club meeting! We\u2019ll continue getting to know fellow fantasy readers, discuss our current book selection, and share our thoughts, favorite moments, characters, and theories. We\u2019ll also have time to talk about upcoming books, take recommendations from members, and plan future club activities. \n Whether you\u2019ve finished the book, are still reading, or just want to join the discussion, everyone is welcome! Come ready to share your thoughts, discover new fantasy books, and connect with other readers. \ud83d\udcda\u2728"
-  },
-  {
     "title": "Self-Care Event!",
     "date": "2026-11-18T19:00:00+00:00",
     "organization": "Psychology Club",
     "location": "University Hall 2004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12866059",
     "description": "Join Psychology Club for the most anticipated event of the semester: the annual Self-Care event! Join the Psychology Club, first-come-first-served, for relaxation stations and many goodies to take home. Right before finals, take some time with us to de-stress!"
+  },
+  {
+    "title": "The Fantasy Book Club Meeting",
+    "date": "2026-11-18T19:00:00+00:00",
+    "organization": "The Fantasy Book Club",
+    "location": "Dickson Hall 175 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12912523",
+    "description": "Join us for our second Fantasy Book Club meeting! We\u2019ll continue getting to know fellow fantasy readers, discuss our current book selection, and share our thoughts, favorite moments, characters, and theories. We\u2019ll also have time to talk about upcoming books, take recommendations from members, and plan future club activities. \n Whether you\u2019ve finished the book, are still reading, or just want to join the discussion, everyone is welcome! Come ready to share your thoughts, discover new fantasy books, and connect with other readers. \ud83d\udcda\u2728"
   },
   {
     "title": "Potluck ",
@@ -7080,20 +7080,20 @@
     "description": "Join us every week for our PASO General Board Meetings, where culture, community, and leadership come together! These meetings are open to all members and students interested in learning more about Peruvian culture, supporting Latinx representation, and getting involved. \n All Montclair / Bloomfield Campus Students are Invited to attend!"
   },
   {
-    "title": "Montclair Unraveled General Body Meeting!",
-    "date": "2026-11-30T19:00:00+00:00",
-    "organization": "Montclair Unraveled",
-    "location": "University Hall 2042 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12832524",
-    "description": "Do you know how to knit or crochet (or do any other craft)? Do you want to learn? Do you have no idea what that is but it sounds cool? Come to Montclair Unraveled! \n Join us and learn how to knit, crochet, or do any other fiber art you're interested in. You don't need any experience to join! We have all the supplies you could need, and they're free for you to use and keep. Come learn how to make plushies, accessories, and clothes! \n All are welcome at Unraveled, no matter how much or how little experience you have! Come to learn, work on your own projects, and hang out with other people who have the same hobby as you. :)"
-  },
-  {
     "title": "Sister's Vision Board",
     "date": "2026-11-30T19:00:00+00:00",
     "organization": "Muslim Student Association",
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12860824",
     "description": "This is an event where sisters can come together to socialize and talk about their goals through the vision boards they've created."
+  },
+  {
+    "title": "Montclair Unraveled General Body Meeting!",
+    "date": "2026-11-30T19:00:00+00:00",
+    "organization": "Montclair Unraveled",
+    "location": "University Hall 2042 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12832524",
+    "description": "Do you know how to knit or crochet (or do any other craft)? Do you want to learn? Do you have no idea what that is but it sounds cool? Come to Montclair Unraveled! \n Join us and learn how to knit, crochet, or do any other fiber art you're interested in. You don't need any experience to join! We have all the supplies you could need, and they're free for you to use and keep. Come learn how to make plushies, accessories, and clothes! \n All are welcome at Unraveled, no matter how much or how little experience you have! Come to learn, work on your own projects, and hang out with other people who have the same hobby as you. :)"
   },
   {
     "title": "Dominican Student Organization GBM",
@@ -8320,20 +8320,20 @@
     "description": "Meeting for Pre-Law Society's newest 2026 sub-committee: Moot Court! \n Engage in oral advocacy, collaborate with peers, and harness valuable skills through skills workshops taught by Montclair professors. Students will have the opportunity to learn all the necessary skills to participate in our internal moot court competition at the end of the year!\u00a0 \n Students of ALL majors/minors are welcome to get involved!"
   },
   {
-    "title": "Holiday Crafts, Games, Nutrition Facts, & More! ",
-    "date": "2026-12-09T19:00:00+00:00",
-    "organization": "Dietetics Organization",
-    "location": "University Hall 2002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12876812",
-    "description": "As we wrap up the Fall semester and prepare to enjoy the holidays, MSDO will be hosting a relaxed get-together filled with holiday themed crafts, games, and some cozy recipes to send you home with."
-  },
-  {
     "title": "Club Meeting",
     "date": "2026-12-09T19:00:00+00:00",
     "organization": "Brasil Club",
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12707095",
     "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
+  },
+  {
+    "title": "Holiday Crafts, Games, Nutrition Facts, & More! ",
+    "date": "2026-12-09T19:00:00+00:00",
+    "organization": "Dietetics Organization",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12876812",
+    "description": "As we wrap up the Fall semester and prepare to enjoy the holidays, MSDO will be hosting a relaxed get-together filled with holiday themed crafts, games, and some cozy recipes to send you home with."
   },
   {
     "title": "HOSA GBM",
