@@ -352,20 +352,20 @@
     "description": "Join the Historical Society for a general body meeting filled with engaging discussions and fun games!"
   },
   {
-    "title": "Montclair Unraveled General Body Meeting!",
-    "date": "2026-10-26T18:00:00+00:00",
-    "organization": "Montclair Unraveled",
-    "location": "University Hall 2042 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12764290",
-    "description": "Do you know how to knit or crochet (or do any other craft)? Do you want to learn? Do you have no idea what that is but it sounds cool? Come to Montclair Unraveled! \n Join us and learn how to knit, crochet, or do any other fiber art you're interested in. You don't need any experience to join! We have all the supplies you could need, and they're free for you to use and keep. Come learn how to make plushies, accessories, and clothes!\u00a0 \n All are welcome at Unraveled, no matter how much or how little experience you have! Come to learn, work on your own projects, and hang out with other people who have the same hobby as you :)."
-  },
-  {
     "title": "Domincan Student Org GBM",
     "date": "2026-10-26T18:00:00+00:00",
     "organization": "Dominican Student Organization",
     "location": "University Hall 1010 - James B. Todd Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12831503",
     "description": "A weekly meeting with the General body members to discuss topics respectfully regarding Dominican culture while also trying to have fun. Open to all MSU and Bloomfield students!"
+  },
+  {
+    "title": "Montclair Unraveled General Body Meeting!",
+    "date": "2026-10-26T18:00:00+00:00",
+    "organization": "Montclair Unraveled",
+    "location": "University Hall 2042 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12764290",
+    "description": "Do you know how to knit or crochet (or do any other craft)? Do you want to learn? Do you have no idea what that is but it sounds cool? Come to Montclair Unraveled! \n Join us and learn how to knit, crochet, or do any other fiber art you're interested in. You don't need any experience to join! We have all the supplies you could need, and they're free for you to use and keep. Come learn how to make plushies, accessories, and clothes!\u00a0 \n All are welcome at Unraveled, no matter how much or how little experience you have! Come to learn, work on your own projects, and hang out with other people who have the same hobby as you :)."
   },
   {
     "title": "Sister's Pumpkin Painting",
@@ -776,6 +776,14 @@
     "description": "Community Service event: \n \u00a0 \n Midnight run will consist of creating a bags of toiletries, sandwiches and water to give out to areas in need."
   },
   {
+    "title": "Newman Night ",
+    "date": "2026-10-27T23:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12918942",
+    "description": "Evening of faith, fellowship, and community featuring an inspiring speaker from the Catholic faith. Following the speaker, enjoy complimentary catered food, fun games, and an opportunity to connect with others!"
+  },
+  {
     "title": "Volleyball vs. Rowan",
     "date": "2026-10-27T23:00:00+00:00",
     "organization": "Athletics",
@@ -846,6 +854,14 @@
     "location": "Life Hall - 1250",
     "link": "https://montclair.campuslabs.com/engage/event/12912413",
     "description": "show us you can walk!"
+  },
+  {
+    "title": "Breast Cancer Bingo with CX",
+    "date": "2026-10-28T00:30:00+00:00",
+    "organization": "Complexions",
+    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12918933",
+    "description": "Come join complexions in an amazing night of bingo as we show awareness to breast cancer"
   },
   {
     "title": "M.I.L.F. Round Two Rehearsal  ",
@@ -1008,20 +1024,20 @@
     "description": "Join\u00a0us to celebrate Halloween, enjoy candies, and other games."
   },
   {
-    "title": "Self Care in a Chaotic world is Radical",
-    "date": "2026-10-28T18:00:00+00:00",
-    "organization": "Bloomfield Center for Student Success",
-    "location": "LIB L14",
-    "link": "https://montclair.campuslabs.com/engage/event/12595896",
-    "description": "This is a self care event highlighting the importance to be holistically introspective amidst chaos and how to balance a healthy schedule for our future whilst watering our present. At a time where everything feels unprecedented, we will be compelled to water the fires as they come up, do not forget to fill your own cup as well."
-  },
-  {
     "title": "Edible Halloween Craft",
     "date": "2026-10-28T18:00:00+00:00",
     "organization": "Sprague Library",
     "location": "Bloomfield Campus Library",
     "link": "https://montclair.campuslabs.com/engage/event/12900153",
     "description": "Join us as we celebrate Spooky Season with a tasty snack! Stop by the Bloomfield College Library to create an Oreo Spider. While you are here, check out our Halloween display for some spooky reads and movies! While supplies last."
+  },
+  {
+    "title": "Self Care in a Chaotic world is Radical",
+    "date": "2026-10-28T18:00:00+00:00",
+    "organization": "Bloomfield Center for Student Success",
+    "location": "LIB L14",
+    "link": "https://montclair.campuslabs.com/engage/event/12595896",
+    "description": "This is a self care event highlighting the importance to be holistically introspective amidst chaos and how to balance a healthy schedule for our future whilst watering our present. At a time where everything feels unprecedented, we will be compelled to water the fires as they come up, do not forget to fill your own cup as well."
   },
   {
     "title": "Want to Join the NAACP? Informational Tabling",
@@ -2296,6 +2312,14 @@
     "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization. \n More details about the theme of each weekly GBM is located on our official Instagram account @montclair_prso ! A flyer is posted weekly based on the topic of each GBM!"
   },
   {
+    "title": "InterVarsity Men's Bible Study ",
+    "date": "2026-11-02T19:30:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "University Hall 2012 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12919998",
+    "description": "An InterVarsity small group that helps men follow Jesus alongside others who want to do the same. We pray for revival together and get to do life together."
+  },
+  {
     "title": "Student Government Association Meeting",
     "date": "2026-11-02T19:00:00+00:00",
     "organization": "Bloomfield College Student Government Association (BCSGA)",
@@ -2558,6 +2582,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635154",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Sunday (8/31 through 12/6) \n Tuesday: 7:30 PM - 8:30 PM, Sunday: 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle (Tuesday) and Hannah (Sunday)"
+  },
+  {
+    "title": "Newman Night ",
+    "date": "2026-11-04T00:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12918943",
+    "description": "Evening of faith, fellowship, and community featuring an inspiring speaker from the Catholic faith. Following the speaker, enjoy complimentary catered food, fun games, and an opportunity to connect with others!"
   },
   {
     "title": "Volleyball vs. Ramapo",
@@ -3288,6 +3320,14 @@
     "description": "To Create an environment where those far and near from God can experience the love of God."
   },
   {
+    "title": "MU Gaming Night",
+    "date": "2026-11-06T01:30:00+00:00",
+    "organization": "Montclair University Gamers (M.U.G.)",
+    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12919928",
+    "description": "\u201cCome join us for another MUG Night (our general body meeting)! At MUG Nights, we bring out consoles such as the Nintendo Switch, GameCube, Xbox 360, and retro consoles and all kinds of games to enjoy with fellow gamers, as well as a diverse selection of tabletop games! We encourage a friendly, welcoming environment for gamers of all skill levels! We hope to see you there!"
+  },
+  {
     "title": "Group X - Vinyasa Good Morning Yoga",
     "date": "2026-11-06T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -3712,6 +3752,14 @@
     "description": "Join us for our General Body Meetings throughout the semester! Whether you're a returning member or brand new to DECA, our GBMs are the perfect place to stay connected, meet fellow students, hear about upcoming events, competitions, professional development opportunities, networking experiences, and ways to get involved. Come build your leadership skills, grow your network, and make the most of your DECA experience. We can't wait to see you there!"
   },
   {
+    "title": "InterVarsity Women's group",
+    "date": "2026-11-09T17:30:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Student Center 416 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12919933",
+    "description": "Our goal is to deepen our love and knowledge of Jesus and His word, and learn what it means to have a relationship with Him. We encourage and strengthen one another as we go, and in doing so we deepen our relationships with each other as sisters in Christ."
+  },
+  {
     "title": "General Body Meeting",
     "date": "2026-11-09T19:00:00+00:00",
     "organization": "Revista Colibr\u00ed",
@@ -3872,6 +3920,14 @@
     "description": "Do you know how to knit or crochet (or do any other craft)? Do you want to learn? Do you have no idea what that is but it sounds cool? Come to Montclair Unraveled! \n Join us and learn how to knit, crochet, or do any other fiber art you're interested in. You don't need any experience to join! We have all the supplies you could need, and they're free for you to use and keep. Come learn how to make plushies, accessories, and clothes! \n All are welcome at Unraveled, no matter how much or how little experience you have! Come to learn, work on your own projects, and hang out with other people who have the same hobby as you. :)"
   },
   {
+    "title": "InterVarsity Men's Bible Study ",
+    "date": "2026-11-09T19:30:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "University Hall 2013 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12919987",
+    "description": "An InterVarsity small group that helps men follow Jesus alongside others who want to do the same. We pray for revival together and get to do life together."
+  },
+  {
     "title": "Group X - Pilates",
     "date": "2026-11-09T20:30:00+00:00",
     "organization": "Campus Recreation",
@@ -4016,6 +4072,14 @@
     "description": "Players Comedy Rehearsal"
   },
   {
+    "title": "Vision Board Making",
+    "date": "2026-11-10T01:30:00+00:00",
+    "organization": "All Pockets Full",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12920065",
+    "description": "APF introduces a vision board event designed to help students visualize their goals, define their ambitions, and create a clear vision for their future. Through creativity and reflection, participants will identify their personal, professional, and financial goals while building motivation to turn their vision into reality."
+  },
+  {
     "title": "M.I.L.F. Round Two TECH Rehearsal ",
     "date": "2026-11-10T01:30:00+00:00",
     "organization": "Montclair State University Players",
@@ -4152,6 +4216,14 @@
     "description": "Take your swimming to the next level! Get introduced to new strokes or work on the ones you already know. These lessons are for swimmers who are a little more comfortable in the water but still want to improve their technique and expand what skills they know.\u00a0 \n \u00a0 \n Skills Focus: \n \n Swimming unassisted on your front and back\u00a0 \n Improve treading (in the deep end) \n Improving breath control in the water \n Learn alternate kicks (Dolphin Kick) \n Introduction to and/or improving your breaststroke \n Swimming laps \n Introduction to open and flip turns \n Introduction to Butterfly \n \n \u00a0 \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n Student Rec Center - Pool"
   },
   {
+    "title": "Tuesday's Men's Bible Study",
+    "date": "2026-11-10T22:30:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Student Center 415 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12919939",
+    "description": "An InterVarsity small group focused on building community among men as we grow in our relationship with Jesus and become godly leaders in every area of our lives."
+  },
+  {
     "title": "Group X - Restorative Goodnight Yoga",
     "date": "2026-11-11T00:30:00+00:00",
     "organization": "Campus Recreation",
@@ -4166,6 +4238,14 @@
     "location": "Student Recreation Center Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12684467",
     "description": "Give your canvas tote a glow\u2011up with a splash of personality. Paint it, stamp it, doodle it, or cover it in color \u2014 whatever matches your vibe. From bold designs to cute minimal moments, every bag turns into a one\u2011of\u2011a\u2011kind creation you can actually use. It\u2019s hands\u2011on, artsy, and the perfect way to add a little flair to your everyday carry. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday, November 10th, 2026 \n 7 PM - 9 PM; must be checked in by 8:30 PM to participate \n Meet at Student Recreation Center Lounge"
+  },
+  {
+    "title": "Newman Night ",
+    "date": "2026-11-11T00:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12918944",
+    "description": "Evening of faith, fellowship, and community featuring an inspiring speaker from the Catholic faith. Following the speaker, enjoy complimentary catered food, fun games, and an opportunity to connect with others!"
   },
   {
     "title": "Miscellaneous Show Rehearsals",
@@ -4640,6 +4720,14 @@
     "description": "Players Comedy Rehearsal"
   },
   {
+    "title": "Players Comedy Rehearsal ",
+    "date": "2026-11-12T01:00:00+00:00",
+    "organization": "Montclair State University Players",
+    "location": "Student Center 250B - Ballroom B",
+    "link": "https://montclair.campuslabs.com/engage/event/12919943",
+    "description": "Players Comedy Rehearsal"
+  },
+  {
     "title": "M.I.L.F. Round Two TECH Rehearsal ",
     "date": "2026-11-12T01:30:00+00:00",
     "organization": "Montclair State University Players",
@@ -4888,6 +4976,14 @@
     "description": "Players: Miscellaneous Show Rehearsals"
   },
   {
+    "title": "Jeopardy Night ",
+    "date": "2026-11-13T01:30:00+00:00",
+    "organization": "Alpha Kappa Alpha Sorority, Inc. ",
+    "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12920082",
+    "description": "Join us for a friendly competition of Jeopardy! You won't want to miss it."
+  },
+  {
     "title": "From The Earth : Natural Beauty Remedies Around The World",
     "date": "2026-11-13T01:30:00+00:00",
     "organization": "Lambda Tau Omega Sorority, Inc.",
@@ -4910,6 +5006,14 @@
     "location": "University Hall 1060 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12712031",
     "description": "To Create an environment where those far and near from God can experience the love of God."
+  },
+  {
+    "title": "MU Gaming Night",
+    "date": "2026-11-13T01:30:00+00:00",
+    "organization": "Montclair University Gamers (M.U.G.)",
+    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12919929",
+    "description": "\u201cCome join us for another MUG Night (our general body meeting)! At MUG Nights, we bring out consoles such as the Nintendo Switch, GameCube, Xbox 360, and retro consoles and all kinds of games to enjoy with fellow gamers, as well as a diverse selection of tabletop games! We encourage a friendly, welcoming environment for gamers of all skill levels! We hope to see you there!"
   },
   {
     "title": "Soir\u00e9e (Informational)",
@@ -5272,6 +5376,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday (8/31 through 12/6) \n 12 PM - 12:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Alexa"
   },
   {
+    "title": "InterVarsity Women's group",
+    "date": "2026-11-16T17:30:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Student Center 416 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12919950",
+    "description": "Our goal is to deepen our love and knowledge of Jesus and His word, and learn what it means to have a relationship with Him. We encourage and strengthen one another as we go, and in doing so we deepen our relationships with each other as sisters in Christ."
+  },
+  {
     "title": "Major & Career Exploration Talks: What We Wish We Knew Before Declaring!",
     "date": "2026-11-16T18:00:00+00:00",
     "organization": "The Discovery Program",
@@ -5416,6 +5528,14 @@
     "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization. \n More details about the theme of each weekly GBM is located on our official Instagram account @montclair_prso ! A flyer is posted weekly based on the topic of each GBM!"
   },
   {
+    "title": "InterVarsity Men's Bible Study ",
+    "date": "2026-11-16T19:30:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "University Hall 2013 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12919980",
+    "description": "An InterVarsity small group that helps men follow Jesus alongside others who want to do the same. We pray for revival together and get to do life together."
+  },
+  {
     "title": "Student Government Association Meeting",
     "date": "2026-11-16T19:00:00+00:00",
     "organization": "Bloomfield College Student Government Association (BCSGA)",
@@ -5510,6 +5630,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12587829",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday (8/31 through 12/6) \n 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Tyrah"
+  },
+  {
+    "title": "Headshots & Hot Cocoa",
+    "date": "2026-11-17T01:30:00+00:00",
+    "organization": "All Pockets Full",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12920092",
+    "description": "Join APF for Headshots & Hot Cocoa, an opportunity to elevate your professional image while enjoying a warm cup of cocoa. Students can get professional headshots for LinkedIn, resumes, and personal branding while connecting with others in a relaxed and welcoming environment."
   },
   {
     "title": "MU Tabletop Night",
@@ -5648,12 +5776,28 @@
     "description": "Never swam before? No problem! These lessons will give you the important foundational skills in swimming and help you be more comfortable in the pool. Learn how to use proper breath control, float, and swim with a kickboard.\u00a0 \n \u00a0 \n Skills Focus: \n \n Being comfortable in the water \n Learning how to float on your back and front \n Learning how to kick off the wall with a kickboard \n Introducing proper breath control in the water \n Learning how to tread water \n Learn alternate kicks (Froggy Kick) \n Being comfortable in the deep end\u00a0 \n Introducing arms to your strokes \n \n \n How do I Sign-up? \n \n Registration is not required \n FREE with a valid Montclair State ID \n \n \u00a0 \n When and Where? \n \n Student Recreation Center - Pool"
   },
   {
+    "title": "Tuesday's Men's Bible Study",
+    "date": "2026-11-17T22:30:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Student Center 415 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12919966",
+    "description": "An InterVarsity small group focused on building community among men as we grow in our relationship with Jesus and become godly leaders in every area of our lives."
+  },
+  {
     "title": "Group X - Restorative Goodnight Yoga",
     "date": "2026-11-18T00:30:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635158",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Sunday (8/31 through 12/6) \n Tuesday: 7:30 PM - 8:30 PM, Sunday: 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle (Tuesday) and Hannah (Sunday)"
+  },
+  {
+    "title": "Newman Night ",
+    "date": "2026-11-18T00:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12918948",
+    "description": "Evening of faith, fellowship, and community featuring an inspiring speaker from the Catholic faith. Following the speaker, enjoy complimentary catered food, fun games, and an opportunity to connect with others!"
   },
   {
     "title": "Sigma Stud",
@@ -5750,6 +5894,14 @@
     "location": "University Hall 2026 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12843077",
     "description": "Sak Pase MSU! Join us every Wednesday 2:00pm-3:00pm as we open up and keep it real through discussion of cultural differences, college life, current event, hot takes and MORE. For the Zoe's but not EXCLUSIVE to the Zoe's, ALL ARE WELCOME!"
+  },
+  {
+    "title": "Grateful Greetings Postcard Writing Session",
+    "date": "2026-11-18T19:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Bloomfield Campus Library",
+    "link": "https://montclair.campuslabs.com/engage/event/12919775",
+    "description": "Is there someone in your life you're grateful for? A friend, an old teacher, or a coworker? Stop by the Bloomfield College Library to send them a postcard to let them know you're thinking of them. Snacks and stamps will be provided while supplies last. Registration is highly encouraged."
   },
   {
     "title": "UAASO General Body Meeting (GBM)",
@@ -6192,6 +6344,14 @@
     "description": "To Create an environment where those far and near from God can experience the love of God."
   },
   {
+    "title": "MU Gaming Night",
+    "date": "2026-11-20T01:30:00+00:00",
+    "organization": "Montclair University Gamers (M.U.G.)",
+    "location": "University Hall 1040 - Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12919930",
+    "description": "\u201cCome join us for another MUG Night (our general body meeting)! At MUG Nights, we bring out consoles such as the Nintendo Switch, GameCube, Xbox 360, and retro consoles and all kinds of games to enjoy with fellow gamers, as well as a diverse selection of tabletop games! We encourage a friendly, welcoming environment for gamers of all skill levels! We hope to see you there!"
+  },
+  {
     "title": "Group X - Vinyasa Good Morning Yoga",
     "date": "2026-11-20T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -6576,6 +6736,14 @@
     "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization. \n More details about the theme of each weekly GBM is located on our official Instagram account @montclair_prso ! A flyer is posted weekly based on the topic of each GBM!"
   },
   {
+    "title": "InterVarsity Men's Bible Study ",
+    "date": "2026-11-23T19:30:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "University Hall 2013 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12919993",
+    "description": "An InterVarsity small group that helps men follow Jesus alongside others who want to do the same. We pray for revival together and get to do life together."
+  },
+  {
     "title": "Group X - Pilates",
     "date": "2026-11-23T20:30:00+00:00",
     "organization": "Campus Recreation",
@@ -6726,6 +6894,14 @@
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/12910501",
     "description": "This is our weekly meeting, that promotes Black culture, intelligence, and community."
+  },
+  {
+    "title": "Tuesday's Men's Bible Study",
+    "date": "2026-11-24T22:30:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Student Center 415 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12919971",
+    "description": "An InterVarsity small group focused on building community among men as we grow in our relationship with Jesus and become godly leaders in every area of our lives."
   },
   {
     "title": "Group X - Restorative Goodnight Yoga",
@@ -7064,6 +7240,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday (8/31 through 12/6) \n 12 PM - 12:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Alexa"
   },
   {
+    "title": "InterVarsity Women's group",
+    "date": "2026-11-30T17:30:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Student Center 416 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12919956",
+    "description": "Our goal is to deepen our love and knowledge of Jesus and His word, and learn what it means to have a relationship with Him. We encourage and strengthen one another as we go, and in doing so we deepen our relationships with each other as sisters in Christ."
+  },
+  {
     "title": "Photocard Decorating Event",
     "date": "2026-11-30T19:00:00+00:00",
     "organization": "Korean Culture & Language Association",
@@ -7176,6 +7360,14 @@
     "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization. \n More details about the theme of each weekly GBM is located on our official Instagram account @montclair_prso ! A flyer is posted weekly based on the topic of each GBM!"
   },
   {
+    "title": "InterVarsity Men's Bible Study ",
+    "date": "2026-11-30T19:30:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "University Hall 2013 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12919994",
+    "description": "An InterVarsity small group that helps men follow Jesus alongside others who want to do the same. We pray for revival together and get to do life together."
+  },
+  {
     "title": "Group X - Pilates",
     "date": "2026-11-30T20:00:00+00:00",
     "organization": "Campus Recreation",
@@ -7230,6 +7422,14 @@
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12587831",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday (8/31 through 12/6) \n 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Tyrah"
+  },
+  {
+    "title": "Oral Hygiene for Humanity Kit-Making Drive",
+    "date": "2026-12-01T01:30:00+00:00",
+    "organization": "National Association for the Advancement of Colored People",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12919922",
+    "description": "Oral Hygiene for Humanity Kit-Making Drive is a community service initiative dedicated to promoting health, dignity, and wellness by assembling oral hygiene kits for individuals and families in need. \n \u00a0 \n Volunteers will package essential items such as toothbrushes, toothpaste, floss, and mouthwash to support underserved communities and increase access to basic dental care. Join us in making a positive impact, one kit at a time."
   },
   {
     "title": "Players Comedy Tech Rehearsal ",
@@ -7328,12 +7528,28 @@
     "description": "This is our weekly meeting, that promotes Black culture, intelligence, and community."
   },
   {
+    "title": "Tuesday's Men's Bible Study",
+    "date": "2026-12-01T22:30:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Student Center 417 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12919974",
+    "description": "An InterVarsity small group focused on building community among men as we grow in our relationship with Jesus and become godly leaders in every area of our lives."
+  },
+  {
     "title": "Group X - Restorative Goodnight Yoga",
     "date": "2026-12-02T00:30:00+00:00",
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635162",
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Sunday (8/31 through 12/6) \n Tuesday: 7:30 PM - 8:30 PM, Sunday: 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle (Tuesday) and Hannah (Sunday)"
+  },
+  {
+    "title": "Newman Night ",
+    "date": "2026-12-02T00:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12918945",
+    "description": "Evening of faith, fellowship, and community featuring an inspiring speaker from the Catholic faith. Following the speaker, enjoy complimentary catered food, fun games, and an opportunity to connect with others!"
   },
   {
     "title": "Make Your Own Snowglobe",
@@ -7856,6 +8072,14 @@
     "description": "Start fresh and dream big! Join RA Hafiz at the  Affirmation Station  to add your voice to the Franklin Hall Vision Wall by sharing positive affirmations, goals, and hopes for the new year. \n \ud83d\udccd  Franklin Hall MPR \ud83d\udcc5  December 3  | \u23f0  8:00\u201310:00 PM"
   },
   {
+    "title": "MU Gaming Night",
+    "date": "2026-12-04T01:30:00+00:00",
+    "organization": "Montclair University Gamers (M.U.G.)",
+    "location": "University Hall 1070 - Phyllis & Gerald LeBoff Lecture Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12919931",
+    "description": "\u201cCome join us for another MUG Night (our general body meeting)! At MUG Nights, we bring out consoles such as the Nintendo Switch, GameCube, Xbox 360, and retro consoles and all kinds of games to enjoy with fellow gamers, as well as a diverse selection of tabletop games! We encourage a friendly, welcoming environment for gamers of all skill levels! We hope to see you there!"
+  },
+  {
     "title": "A.LIFE Ministry",
     "date": "2026-12-04T01:30:00+00:00",
     "organization": "A.LIFE",
@@ -8104,6 +8328,14 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Sunday (8/31 through 12/6) \n Tuesday: 7:30 PM - 8:30 PM, Sunday: 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle (Tuesday) and Hannah (Sunday)"
   },
   {
+    "title": "CX Practice ",
+    "date": "2026-12-06T23:30:00+00:00",
+    "organization": "Complexions",
+    "location": "Student Center 419 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12919892",
+    "description": "Complexion will be getting together to earn and create choreography for various events and football games this semester."
+  },
+  {
     "title": "Chamber Opera Performance: \"L'enfant et les Sortil\u00e8ges\"",
     "date": "2026-12-07T00:30:00+00:00",
     "organization": "The College of the Arts",
@@ -8142,6 +8374,14 @@
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12665082",
     "description": "Online. Mindfulness Meditation is the practice of being self-aware with an extra focus on your breath. Open to all who are interested in learning about meditation and developing mindfulness in daily life. Participate with video or audio only. \n **Please note that we cannot verify attendance at this event"
+  },
+  {
+    "title": "InterVarsity Women's group",
+    "date": "2026-12-07T17:30:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Student Center 416 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12919960",
+    "description": "Our goal is to deepen our love and knowledge of Jesus and His word, and learn what it means to have a relationship with Him. We encourage and strengthen one another as we go, and in doing so we deepen our relationships with each other as sisters in Christ."
   },
   {
     "title": "Cookie Sale",
@@ -8248,6 +8488,14 @@
     "description": "Join us every Monday for the Puerto Rican Student Organization\u2019s General Body Meeting. This is a great opportunity to catch up on club updates, discuss upcoming events, and get involved in planning and activities. We encourage all members to attend, share ideas, and contribute to our vibrant community. Come connect with fellow members and stay informed about what\u2019s happening in our organization. \n More details about the theme of each weekly GBM is located on our official Instagram account @montclair_prso ! A flyer is posted weekly based on the topic of each GBM!"
   },
   {
+    "title": "InterVarsity Men's Bible Study ",
+    "date": "2026-12-07T19:30:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "University Hall 2013 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12919996",
+    "description": "An InterVarsity small group that helps men follow Jesus alongside others who want to do the same. We pray for revival together and get to do life together."
+  },
+  {
     "title": "Residence Life Student Staff Info Session",
     "date": "2026-12-07T20:00:00+00:00",
     "organization": "Residence Life",
@@ -8344,6 +8592,22 @@
     "description": "This is our weekly meeting, that promotes Black culture, intelligence, and community."
   },
   {
+    "title": "Tuesday's Men's Bible Study",
+    "date": "2026-12-08T22:30:00+00:00",
+    "organization": "InterVarsity Christian Fellowship",
+    "location": "Student Center 415 - Meeting Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12919976",
+    "description": "An InterVarsity small group focused on building community among men as we grow in our relationship with Jesus and become godly leaders in every area of our lives."
+  },
+  {
+    "title": "Newman Night ",
+    "date": "2026-12-09T00:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12918946",
+    "description": "Evening of faith, fellowship, and community featuring an inspiring speaker from the Catholic faith. Following the speaker, enjoy complimentary catered food, fun games, and an opportunity to connect with others!"
+  },
+  {
     "title": "Gingerbread House Wars",
     "date": "2026-12-09T00:00:00+00:00",
     "organization": "Campus Recreation",
@@ -8374,14 +8638,6 @@
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12707095",
     "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
-  },
-  {
-    "title": "Holiday Crafts, Games, Nutrition Facts, & More! ",
-    "date": "2026-12-09T19:00:00+00:00",
-    "organization": "Dietetics Organization",
-    "location": "University Hall 2002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12876812",
-    "description": "As we wrap up the Fall semester and prepare to enjoy the holidays, MSDO will be hosting a relaxed get-together filled with holiday themed crafts, games, and some cozy recipes to send you home with."
   },
   {
     "title": "HOSA GBM",
@@ -8630,6 +8886,14 @@
     "location": "Newman Catholic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12848139",
     "description": "Sunday Mass at Newman Catholic Center."
+  },
+  {
+    "title": "Newman Night ",
+    "date": "2026-12-16T00:00:00+00:00",
+    "organization": "Red Hawk Catholic",
+    "location": "Newman Catholic Center",
+    "link": "https://montclair.campuslabs.com/engage/event/12918947",
+    "description": "Evening of faith, fellowship, and community featuring an inspiring speaker from the Catholic faith. Following the speaker, enjoy complimentary catered food, fun games, and an opportunity to connect with others!"
   },
   {
     "title": "Women's Basketball vs. SUNY New Paltz",
