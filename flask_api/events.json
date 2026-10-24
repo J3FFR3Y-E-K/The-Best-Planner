@@ -1,13 +1,5 @@
 [
   {
-    "title": "Volleyball vs. Hunter/TBD (Tri-Match)",
-    "date": "2026-10-24T16:00:00+00:00",
-    "organization": "Athletics",
-    "location": "Panzer Athletic Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12479434",
-    "description": "Tickets & Parking Info"
-  },
-  {
     "title": "Men's Soccer vs. Rutgers Camden",
     "date": "2026-10-24T23:00:00+00:00",
     "organization": "Athletics",
@@ -160,20 +152,20 @@
     "description": "Pre-Law Society's newest sub-committee: 'Pre'-Law Review!\u00a0 \n A new student-run journal that aims to give Montclair State University students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are encouraged to join!"
   },
   {
-    "title": "General Body Meeting",
-    "date": "2026-10-26T18:00:00+00:00",
-    "organization": "Revista Colibr\u00ed",
-    "location": "School Of Business 327 - Seminar Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12873039",
-    "description": "Join Revista Colibr\u00ed for our General Body Meeting, where members will come together to discuss the magazine\u2019s upcoming projects, events, and next issue. We will share important updates, brainstorm new ideas, and explore opportunities for members to contribute to the publication. All members are encouraged to attend, participate, and help shape the future of Revista Colibr\u00ed."
-  },
-  {
     "title": "Write a Short Story for Halloween ",
     "date": "2026-10-26T18:00:00+00:00",
     "organization": "Center for Writing Excellence",
     "location": "Online",
     "link": "https://montclair.campuslabs.com/engage/event/12766496",
     "description": "Celebrate Halloween with a fun writing activity. Prompts will be shared to get you started with a short story to celebrate the season."
+  },
+  {
+    "title": "General Body Meeting",
+    "date": "2026-10-26T18:00:00+00:00",
+    "organization": "Revista Colibr\u00ed",
+    "location": "School Of Business 327 - Seminar Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12873039",
+    "description": "Join Revista Colibr\u00ed for our General Body Meeting, where members will come together to discuss the magazine\u2019s upcoming projects, events, and next issue. We will share important updates, brainstorm new ideas, and explore opportunities for members to contribute to the publication. All members are encouraged to attend, participate, and help shape the future of Revista Colibr\u00ed."
   },
   {
     "title": "Squid Game Halloween Event",
@@ -1334,14 +1326,6 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12606453",
     "description": "Players: Miscellaneous Show Rehearsals"
-  },
-  {
-    "title": "Players Comedy Rehearsal ",
-    "date": "2026-10-28T22:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12860293",
-    "description": "Players Comedy Rehearsal"
   },
   {
     "title": "The Importance of Being Earnest Rehearsal ",
@@ -2992,14 +2976,6 @@
     "description": "Players:\u00a0The Importance of Being Earnest Tech Rehearsal"
   },
   {
-    "title": "Players Comedy Rehearsal ",
-    "date": "2026-11-04T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12860298",
-    "description": "Players Comedy Rehearsal"
-  },
-  {
     "title": "Miscellaneous Show Rehearsals",
     "date": "2026-11-04T23:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -3504,14 +3480,6 @@
     "description": "Players:\u00a0The Importance of Being Earnest Performance Day 1"
   },
   {
-    "title": "Players Comedy Rehearsal ",
-    "date": "2026-11-07T15:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 411, 412, 413, and 414 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12860145",
-    "description": "Players Comedy Rehearsal"
-  },
-  {
     "title": "Miscellaneous Show Rehearsals",
     "date": "2026-11-07T15:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -3792,20 +3760,20 @@
     "description": "Join SGA in a Craft Day! Express your creativity by making your own turkey, slice of pie, pinecone. Or make any type of Fall Decor."
   },
   {
-    "title": "CHAD GBM",
-    "date": "2026-11-09T19:00:00+00:00",
-    "organization": "Child Advocacy and Policy Club",
-    "location": "Dickson Hall 172 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12912882",
-    "description": "Come join the CHAD club for our weekly general body meeting"
-  },
-  {
     "title": "Pre-Law Society - Moot Court Meeting",
     "date": "2026-11-09T19:00:00+00:00",
     "organization": "Pre-Law Society",
     "location": "Dickson Hall 175 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12912185",
     "description": "Meeting for Pre-Law Society's newest 2026 sub-committee: Moot Court! \n Engage in oral advocacy, collaborate with peers, and harness valuable skills through skills workshops taught by Montclair professors. Students will have the opportunity to learn all the necessary skills to participate in our internal moot court competition at the end of the year!\u00a0 \n Students of ALL majors/minors are welcome to get involved!"
+  },
+  {
+    "title": "CHAD GBM",
+    "date": "2026-11-09T19:00:00+00:00",
+    "organization": "Child Advocacy and Policy Club",
+    "location": "Dickson Hall 172 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12912882",
+    "description": "Come join the CHAD club for our weekly general body meeting"
   },
   {
     "title": "National Association for the Advancement of Colored People Weekly Discussion",
@@ -4261,7 +4229,7 @@
     "organization": "Voices of Unity",
     "location": "University Hall 1020 - Bard-Blount Family Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12912862",
-    "description": "Come out for and join Voices of Unity Gospel Choir for fun an  FREE GROCERIES,  just by winning a game of bingo! What will you go home with? Come out and see, no one leaves empty handed!"
+    "description": ""
   },
   {
     "title": "M.I.L.F. Round Two TECH Rehearsal ",
@@ -4717,14 +4685,6 @@
     "organization": "Montclair State University Players",
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12887188",
-    "description": "Players Comedy Rehearsal"
-  },
-  {
-    "title": "Players Comedy Rehearsal ",
-    "date": "2026-11-12T01:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/12919943",
     "description": "Players Comedy Rehearsal"
   },
   {
@@ -5198,14 +5158,6 @@
     "location": "Student Center 126 - Red Hawk Nest",
     "link": "https://montclair.campuslabs.com/engage/event/12876856",
     "description": "Players: Miscellaneous Show Tech Rehearsals"
-  },
-  {
-    "title": "Players Comedy Rehearsal ",
-    "date": "2026-11-14T15:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 419 - Meeting Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12891488",
-    "description": "Players Comedy Rehearsal"
   },
   {
     "title": "Women's Basketball vs. Widener",
@@ -6784,14 +6736,6 @@
     "description": "Have you ever tried to walk on water before? I'm sure if you did it didn't work out too well\u2026 but come on down to the SRC pool you will be able to achieve that dream! Bring a friend and race each other and see who the true winner is. You won\u2019t want to miss out!\u00a0 \n \u00a0 \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, November 23th, 2026 \n 5pm - 7pm \n Student Recreation Center Pool"
   },
   {
-    "title": "Players Comedy Rehearsal ",
-    "date": "2026-11-23T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12910347",
-    "description": "Players Comedy Rehearsal"
-  },
-  {
     "title": "Kichwa Language Workshop Series",
     "date": "2026-11-23T22:30:00+00:00",
     "organization": "Center for Latino Heritage & Spanish Language Excellence",
@@ -6926,14 +6870,6 @@
     "location": "Student Recreation Center Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12833670",
     "description": "Fall into the season with a cozy blend of flavors and good vibes. At Leaf It To The Blender, you\u2019ll sip on tasty smoothies that bring all the crisp energy you need. Whether you\u2019re fueling up, hanging out, or just here for the fun, this is your chance to grab a smoothie, relax, and enjoy the fall feels. \n \u00a0 \n How do I sign-up? \n \n Free with Student ID \n No registration required \n \n Where and when? \n \n Tuesday, November 24th, 2026 \n 7pm-9pm, must be checked in by 8:30 pm to participate \n Student Recreation Center Lounge"
-  },
-  {
-    "title": "Players Comedy Rehearsal ",
-    "date": "2026-11-24T23:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12910355",
-    "description": "Players Comedy Rehearsal"
   },
   {
     "title": "MSDC Practice",
@@ -7430,14 +7366,6 @@
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12919922",
     "description": "Oral Hygiene for Humanity Kit-Making Drive is a community service initiative dedicated to promoting health, dignity, and wellness by assembling oral hygiene kits for individuals and families in need. \n \u00a0 \n Volunteers will package essential items such as toothbrushes, toothpaste, floss, and mouthwash to support underserved communities and increase access to basic dental care. Join us in making a positive impact, one kit at a time."
-  },
-  {
-    "title": "Players Comedy Tech Rehearsal ",
-    "date": "2026-11-30T22:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 250B - Ballroom B",
-    "link": "https://montclair.campuslabs.com/engage/event/12910297",
-    "description": "Players Comedy Tech Rehearsal"
   },
   {
     "title": "Players Comedy Tech Rehearsal ",
@@ -8630,6 +8558,14 @@
     "location": "Dickson Hall 175 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12912187",
     "description": "Meeting for Pre-Law Society's newest 2026 sub-committee: Moot Court! \n Engage in oral advocacy, collaborate with peers, and harness valuable skills through skills workshops taught by Montclair professors. Students will have the opportunity to learn all the necessary skills to participate in our internal moot court competition at the end of the year!\u00a0 \n Students of ALL majors/minors are welcome to get involved!"
+  },
+  {
+    "title": "Club Meeting",
+    "date": "2026-12-09T19:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707095",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
     "title": "Holiday Crafts, Games, Nutrition Facts, & More! ",
