@@ -805,7 +805,7 @@
     "organization": "National Pan Hellenic Council",
     "location": "University Hall 1060 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12887136",
-    "description": ""
+    "description": "Join us for an evening filled with discussion, networking, and activities!"
   },
   {
     "title": "So\u2026 You Think You Can Walk?",
@@ -7701,7 +7701,7 @@
     "organization": "LadiesFIRST",
     "location": "Student Center Underground - The Underground",
     "link": "https://montclair.campuslabs.com/engage/event/12859318",
-    "description": "Join us for weekly discussions, icebreakers, games, networking opportunities, and more! All students are welcome!"
+    "description": ""
   },
   {
     "title": "Group X - Kickboxing",
@@ -7797,7 +7797,7 @@
     "organization": "Chi Upsilon Sigma National Latin Sorority, INC",
     "location": "Student Center 250AB - Ballrooms A and B",
     "link": "https://montclair.campuslabs.com/engage/event/12910578",
-    "description": "It's the season of giving! Come join us while we wrap gifts, listen to music, and give back to the community. Join the Elite Hermanos and the Captivating Women as we come together to wrap gifts for children in need."
+    "description": ""
   },
   {
     "title": "Choir Practice",
@@ -8552,20 +8552,20 @@
     "description": "Meeting for Pre-Law Society's newest 2026 sub-committee: Moot Court! \n Engage in oral advocacy, collaborate with peers, and harness valuable skills through skills workshops taught by Montclair professors. Students will have the opportunity to learn all the necessary skills to participate in our internal moot court competition at the end of the year!\u00a0 \n Students of ALL majors/minors are welcome to get involved!"
   },
   {
-    "title": "Club Meeting",
-    "date": "2026-12-09T19:00:00+00:00",
-    "organization": "Brasil Club",
-    "location": "University Hall 2006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12707095",
-    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
-  },
-  {
     "title": "Holiday Crafts, Games, Nutrition Facts, & More! ",
     "date": "2026-12-09T19:00:00+00:00",
     "organization": "Dietetics Organization",
     "location": "University Hall 2002 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12876812",
     "description": "As we wrap up the Fall semester and prepare to enjoy the holidays, MSDO will be hosting a relaxed get-together filled with holiday themed crafts, games, and some cozy recipes to send you home with."
+  },
+  {
+    "title": "Club Meeting",
+    "date": "2026-12-09T19:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707095",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
     "title": "HOSA GBM",
@@ -8589,7 +8589,7 @@
     "organization": "Latin American Student Organization",
     "location": "University Hall 1040 - Lecture Hall",
     "link": "https://montclair.campuslabs.com/engage/event/12865933",
-    "description": ""
+    "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
     "title": "Math Club X WITE Game Night",
