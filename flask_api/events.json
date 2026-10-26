@@ -1,29 +1,5 @@
 [
   {
-    "title": "Group X - Restorative Goodnight Yoga",
-    "date": "2026-10-25T23:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12635103",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Sunday (8/31 through 12/6) \n Tuesday: 7:30 PM - 8:30 PM, Sunday: 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle (Tuesday) and Hannah (Sunday)"
-  },
-  {
-    "title": "Sunday Mass",
-    "date": "2026-10-26T00:00:00+00:00",
-    "organization": "Red Hawk Catholic",
-    "location": "Newman Catholic Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12848126",
-    "description": "Sunday Mass at Newman Catholic Center."
-  },
-  {
-    "title": "HALLFLIX & CHILL: SPOOKY EDITION",
-    "date": "2026-10-25T23:30:00+00:00",
-    "organization": "Bloomfield's Office of Residence Life",
-    "location": "Franklin Hall \u2013 Multi-Purpose Room (Room 314)",
-    "link": "https://montclair.campuslabs.com/engage/event/12614552",
-    "description": "Get cozy and join RA Ayneara for a spooky movie night! Grab a blanket, bring a friend, and enjoy a Halloween-themed movie, tasty snacks, and good vibes with your Franklin Hall community. \ud83d\udc7b\ud83c\udf7f \n \ud83d\udccd  Franklin Hall \u2013 MPR 314 \ud83d\udcc5  October 25  | \u23f0  7:30\u20139:30 PM"
-  },
-  {
     "title": "Group X - Vinyasa Flow Yoga",
     "date": "2026-10-26T13:00:00+00:00",
     "organization": "Campus Recreation",
@@ -784,14 +760,6 @@
     "description": "Join us for an evening filled with discussion, networking, and activities!"
   },
   {
-    "title": "So\u2026 You Think You Can Walk?",
-    "date": "2026-10-28T00:30:00+00:00",
-    "organization": "New Generation Of Visionary Artists",
-    "location": "Life Hall - 1250",
-    "link": "https://montclair.campuslabs.com/engage/event/12912413",
-    "description": "show us you can walk!"
-  },
-  {
     "title": "Breast Cancer Bingo with CX",
     "date": "2026-10-28T00:30:00+00:00",
     "organization": "Complexions",
@@ -952,20 +920,20 @@
     "description": "Join alumni from the College of the Arts as they share their career journeys, discuss how they transitioned from college to the professional world, and offer advice for students interested in creative careers. \n Panelists will discuss: \n \n Building a career in the arts and creative industries \n Navigating internships, auditions, and professional opportunities \n Developing industry connections and professional networks \n Skills that helped them succeed after graduation \n Challenges, opportunities, and lessons learned along the way \n \n Featured career areas include: \n \n Performing Arts and Theater Production \n Fashion and Apparel \n Dance and Performance \n Arts Administration \n Human Resources in Creative Industries \n \n Students will have the opportunity to ask questions, learn about different career paths, and gain firsthand insights from CART alumni who have successfully launched their careers."
   },
   {
-    "title": "Edible Halloween Craft",
-    "date": "2026-10-28T18:00:00+00:00",
-    "organization": "Sprague Library",
-    "location": "Bloomfield Campus Library",
-    "link": "https://montclair.campuslabs.com/engage/event/12900153",
-    "description": "Join us as we celebrate Spooky Season with a tasty snack! Stop by the Bloomfield College Library to create an Oreo Spider. While you are here, check out our Halloween display for some spooky reads and movies! While supplies last."
-  },
-  {
     "title": "Self Care in a Chaotic world is Radical",
     "date": "2026-10-28T18:00:00+00:00",
     "organization": "Bloomfield Center for Student Success",
     "location": "LIB L14",
     "link": "https://montclair.campuslabs.com/engage/event/12595896",
     "description": "This is a self care event highlighting the importance to be holistically introspective amidst chaos and how to balance a healthy schedule for our future whilst watering our present. At a time where everything feels unprecedented, we will be compelled to water the fires as they come up, do not forget to fill your own cup as well."
+  },
+  {
+    "title": "Edible Halloween Craft",
+    "date": "2026-10-28T18:00:00+00:00",
+    "organization": "Sprague Library",
+    "location": "Bloomfield Campus Library",
+    "link": "https://montclair.campuslabs.com/engage/event/12900153",
+    "description": "Join us as we celebrate Spooky Season with a tasty snack! Stop by the Bloomfield College Library to create an Oreo Spider. While you are here, check out our Halloween display for some spooky reads and movies! While supplies last."
   },
   {
     "title": "Halloween",
@@ -992,20 +960,20 @@
     "description": "Psychology Club members will get together for a Halloween-themed social to spend time with fellow members in a relaxed setting. The event will include Halloween-themed crafts, snacks, and drinks, along with time to chat, get to know each other, and enjoy a fun evening together."
   },
   {
-    "title": "Pumpkin Paint & Sip",
-    "date": "2026-10-28T18:00:00+00:00",
-    "organization": "Bloomfield Student Life",
-    "location": "Talbott Hall, Deacon's Den",
-    "link": "https://montclair.campuslabs.com/engage/event/12820188",
-    "description": "Join us for a Halloween Celebration by painting your own pumpkin pumpkin with us in Talbott Hall's Deacon's Den!"
-  },
-  {
     "title": "Bake Sale",
     "date": "2026-10-28T18:00:00+00:00",
     "organization": "Muslim Student Association",
     "location": "Student Center Quad Information Table 2 - Information Table 2",
     "link": "https://montclair.campuslabs.com/engage/event/12887022",
     "description": "Come support the MSA by getting treats at our bake sale!"
+  },
+  {
+    "title": "Pumpkin Paint & Sip",
+    "date": "2026-10-28T18:00:00+00:00",
+    "organization": "Bloomfield Student Life",
+    "location": "Talbott Hall, Deacon's Den",
+    "link": "https://montclair.campuslabs.com/engage/event/12820188",
+    "description": "Join us for a Halloween Celebration by painting your own pumpkin pumpkin with us in Talbott Hall's Deacon's Den!"
   },
   {
     "title": "All Pockets Full: General Body Meetings",
@@ -1664,14 +1632,6 @@
     "description": "Join us on October 29th from 8pm to 10pm in Machuga MPR for building and decorate your very own haunted gingerbread house. Use icing, candy, sprinkles, and spooky decorations to bring your haunted creation to life. Whether your estate is cute, creepy, or completely over-the-top, come enjoy sweet treats, good music, and spooky-season vibes with your fellow residents! All students are welcome! Commuters need to be signed in with a resident, following Residence Life guest registration procedures."
   },
   {
-    "title": "Model Practice",
-    "date": "2026-10-30T00:30:00+00:00",
-    "organization": "New Generation Of Visionary Artists",
-    "location": "Life Hall - 1250",
-    "link": "https://montclair.campuslabs.com/engage/event/12912438",
-    "description": "Model Practice"
-  },
-  {
     "title": "M.I.L.F. Round Two Rehearsal  ",
     "date": "2026-10-30T00:30:00+00:00",
     "organization": "Montclair State University Players",
@@ -2224,20 +2184,20 @@
     "description": "Join the Historical Society for a general body meeting filled with engaging discussions and fun games!"
   },
   {
-    "title": "Coffee & Chat",
-    "date": "2026-11-02T19:00:00+00:00",
-    "organization": "Muslim Student Association",
-    "location": "University Hall 2002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12832506",
-    "description": "Students will be able to socialize and relax as they are served coffee."
-  },
-  {
     "title": "Montclair Unraveled General Body Meeting!",
     "date": "2026-11-02T19:00:00+00:00",
     "organization": "Montclair Unraveled",
     "location": "University Hall 2042 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12832520",
     "description": "Do you know how to knit or crochet (or do any other craft)? Do you want to learn? Do you have no idea what that is but it sounds cool? Come to Montclair Unraveled! \n Join us and learn how to knit, crochet, or do any other fiber art you're interested in. You don't need any experience to join! We have all the supplies you could need, and they're free for you to use and keep. Come learn how to make plushies, accessories, and clothes! \n All are welcome at Unraveled, no matter how much or how little experience you have! Come to learn, work on your own projects, and hang out with other people who have the same hobby as you. :)"
+  },
+  {
+    "title": "Coffee & Chat",
+    "date": "2026-11-02T19:00:00+00:00",
+    "organization": "Muslim Student Association",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12832506",
+    "description": "Students will be able to socialize and relax as they are served coffee."
   },
   {
     "title": "PRSO General Body Meeting",
@@ -8520,20 +8480,20 @@
     "description": "Meeting for Pre-Law Society's newest 2026 sub-committee: Moot Court! \n Engage in oral advocacy, collaborate with peers, and harness valuable skills through skills workshops taught by Montclair professors. Students will have the opportunity to learn all the necessary skills to participate in our internal moot court competition at the end of the year!\u00a0 \n Students of ALL majors/minors are welcome to get involved!"
   },
   {
-    "title": "Holiday Crafts, Games, Nutrition Facts, & More! ",
-    "date": "2026-12-09T19:00:00+00:00",
-    "organization": "Dietetics Organization",
-    "location": "University Hall 2002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12876812",
-    "description": "As we wrap up the Fall semester and prepare to enjoy the holidays, MSDO will be hosting a relaxed get-together filled with holiday themed crafts, games, and some cozy recipes to send you home with."
-  },
-  {
     "title": "Club Meeting",
     "date": "2026-12-09T19:00:00+00:00",
     "organization": "Brasil Club",
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12707095",
     "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
+  },
+  {
+    "title": "Holiday Crafts, Games, Nutrition Facts, & More! ",
+    "date": "2026-12-09T19:00:00+00:00",
+    "organization": "Dietetics Organization",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12876812",
+    "description": "As we wrap up the Fall semester and prepare to enjoy the holidays, MSDO will be hosting a relaxed get-together filled with holiday themed crafts, games, and some cozy recipes to send you home with."
   },
   {
     "title": "HOSA GBM",
