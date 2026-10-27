@@ -1,21 +1,5 @@
 [
   {
-    "title": "Spooky Movie Night",
-    "date": "2026-10-27T00:30:00+00:00",
-    "organization": "Sigma Gamma Rho Sorority, Inc.",
-    "location": "University Hall 3004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12906403",
-    "description": "Get cozy with the Poodles for a spooky movie night! Come enjoy a night of chills, laughs, snacks, and spooky vibes!"
-  },
-  {
-    "title": "MSDC Practice",
-    "date": "2026-10-27T01:00:00+00:00",
-    "organization": "Montclair State Dance Company",
-    "location": "Life Hall 1402 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12917328",
-    "description": "Rehearsal for Montclair State Dance Company"
-  },
-  {
     "title": "Group X - Pilates + Cycle",
     "date": "2026-10-27T14:00:00+00:00",
     "organization": "Campus Recreation",
@@ -384,20 +368,20 @@
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
-    "title": "Audio Production Club General Body Meeting",
-    "date": "2026-10-28T18:00:00+00:00",
-    "organization": "Audio Production Club",
-    "location": "SCM studio 2007",
-    "link": "https://montclair.campuslabs.com/engage/event/12877576",
-    "description": "General Body Meeting"
-  },
-  {
     "title": "CART Academic Notice Advising Group",
     "date": "2026-10-28T18:00:00+00:00",
     "organization": "The College of the Arts",
     "location": "Morehead Hall Room 204",
     "link": "https://montclair.campuslabs.com/engage/event/12639680",
     "description": "This group session is designed to help students better understand what it means to be on Academic Notice and the steps they can take toward academic success. Students will learn about available campus resources, academic support, and strategies to help them improve their academic standing. Each workshop will address key information throughout the semester such as success strategies, things to consider when withdrawing from a course, planning for registration and much more."
+  },
+  {
+    "title": "Audio Production Club General Body Meeting",
+    "date": "2026-10-28T18:00:00+00:00",
+    "organization": "Audio Production Club",
+    "location": "SCM studio 2007",
+    "link": "https://montclair.campuslabs.com/engage/event/12877576",
+    "description": "General Body Meeting"
   },
   {
     "title": "Playne English Podcast Meeting",
@@ -1624,20 +1608,20 @@
     "description": "Whether you're in the process of learning English or if English is not your native tongue, there are common writing errors that you will find in your writing. This workshop reviews the grammar rules for some of the most common errors made by multilingual writers. Join us to review strategies for catching preposition usage mistakes and more."
   },
   {
-    "title": "Pie the E-Board",
-    "date": "2026-11-02T19:00:00+00:00",
-    "organization": "Brasil Club",
-    "location": "Student Center Quad Information Table 1 - Information Table 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12915494",
-    "description": "Come Pie the E Board all funding will proceed to the Club !!!"
-  },
-  {
     "title": "Fall Card Making Event",
     "date": "2026-11-02T19:00:00+00:00",
     "organization": "Child Advocacy and Policy Club",
     "location": "Dickson Hall 175 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12912871",
     "description": "Come make cards for kids in hospitals with the CHAD club!"
+  },
+  {
+    "title": "Pie the E-Board",
+    "date": "2026-11-02T19:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "Student Center Quad Information Table 1 - Information Table 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12915494",
+    "description": "Come Pie the E Board all funding will proceed to the Club !!!"
   },
   {
     "title": "General Body Meeting",
@@ -1821,7 +1805,7 @@
     "organization": "Campus Recreation",
     "location": "Student Recreation Multi-Purpose Room 1",
     "link": "https://montclair.campuslabs.com/engage/event/12635809",
-    "description": ""
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
     "title": "Free Swim Lessons *Intermediate*",
@@ -3312,20 +3296,20 @@
     "description": "Our goal is to deepen our love and knowledge of Jesus and His word, and learn what it means to have a relationship with Him. We encourage and strengthen one another as we go, and in doing so we deepen our relationships with each other as sisters in Christ."
   },
   {
-    "title": "General Body Meeting",
-    "date": "2026-11-09T19:00:00+00:00",
-    "organization": "Revista Colibr\u00ed",
-    "location": "School Of Business 327 - Seminar Room",
-    "link": "https://montclair.campuslabs.com/engage/event/12873041",
-    "description": "Join Revista Colibr\u00ed for our General Body Meeting, where members will come together to discuss the magazine\u2019s upcoming projects, events, and next issue. We will share important updates, brainstorm new ideas, and explore opportunities for members to contribute to the publication. All members are encouraged to attend, participate, and help shape the future of Revista Colibr\u00ed."
-  },
-  {
     "title": "Pepero Day",
     "date": "2026-11-09T19:00:00+00:00",
     "organization": "Korean Culture & Language Association",
     "location": "University Hall 2040 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12843107",
     "description": "Come join KCLA as we celebrate Pepero Day. \n All Are Welcome!"
+  },
+  {
+    "title": "General Body Meeting",
+    "date": "2026-11-09T19:00:00+00:00",
+    "organization": "Revista Colibr\u00ed",
+    "location": "School Of Business 327 - Seminar Room",
+    "link": "https://montclair.campuslabs.com/engage/event/12873041",
+    "description": "Join Revista Colibr\u00ed for our General Body Meeting, where members will come together to discuss the magazine\u2019s upcoming projects, events, and next issue. We will share important updates, brainstorm new ideas, and explore opportunities for members to contribute to the publication. All members are encouraged to attend, participate, and help shape the future of Revista Colibr\u00ed."
   },
   {
     "title": "Greek Council Meeting",
@@ -8208,20 +8192,20 @@
     "description": "Meeting for Pre-Law Society's newest 2026 sub-committee: Moot Court! \n Engage in oral advocacy, collaborate with peers, and harness valuable skills through skills workshops taught by Montclair professors. Students will have the opportunity to learn all the necessary skills to participate in our internal moot court competition at the end of the year!\u00a0 \n Students of ALL majors/minors are welcome to get involved!"
   },
   {
-    "title": "Holiday Crafts, Games, Nutrition Facts, & More! ",
-    "date": "2026-12-09T19:00:00+00:00",
-    "organization": "Dietetics Organization",
-    "location": "University Hall 2002 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12876812",
-    "description": "As we wrap up the Fall semester and prepare to enjoy the holidays, MSDO will be hosting a relaxed get-together filled with holiday themed crafts, games, and some cozy recipes to send you home with."
-  },
-  {
     "title": "Club Meeting",
     "date": "2026-12-09T19:00:00+00:00",
     "organization": "Brasil Club",
     "location": "University Hall 2006 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12707095",
     "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
+  },
+  {
+    "title": "Holiday Crafts, Games, Nutrition Facts, & More! ",
+    "date": "2026-12-09T19:00:00+00:00",
+    "organization": "Dietetics Organization",
+    "location": "University Hall 2002 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12876812",
+    "description": "As we wrap up the Fall semester and prepare to enjoy the holidays, MSDO will be hosting a relaxed get-together filled with holiday themed crafts, games, and some cozy recipes to send you home with."
   },
   {
     "title": "HOSA GBM",
