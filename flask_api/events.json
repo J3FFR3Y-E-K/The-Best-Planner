@@ -80,14 +80,6 @@
     "description": "Join the Latin American Student Organization for our weekly General Miembro Meeting where we have fun activities planned to learn about different Latin cultures! Check out our instagram @laso1970 for this week's topic!"
   },
   {
-    "title": "Audio Production Club General Body Meeting",
-    "date": "2026-10-28T18:00:00+00:00",
-    "organization": "Audio Production Club",
-    "location": "SCM studio 2007",
-    "link": "https://montclair.campuslabs.com/engage/event/12877576",
-    "description": "General Body Meeting"
-  },
-  {
     "title": "Playne English Podcast Meeting",
     "date": "2026-10-28T18:00:00+00:00",
     "organization": "The Montclair English Club",
@@ -102,6 +94,14 @@
     "location": "Morehead Hall Room 204",
     "link": "https://montclair.campuslabs.com/engage/event/12639680",
     "description": "This group session is designed to help students better understand what it means to be on Academic Notice and the steps they can take toward academic success. Students will learn about available campus resources, academic support, and strategies to help them improve their academic standing. Each workshop will address key information throughout the semester such as success strategies, things to consider when withdrawing from a course, planning for registration and much more."
+  },
+  {
+    "title": "Audio Production Club General Body Meeting",
+    "date": "2026-10-28T18:00:00+00:00",
+    "organization": "Audio Production Club",
+    "location": "SCM studio 2007",
+    "link": "https://montclair.campuslabs.com/engage/event/12877576",
+    "description": "General Body Meeting"
   },
   {
     "title": "Behavioral Health + Nutritional Psychiatry Guest Speaker",
@@ -3413,7 +3413,7 @@
     "organization": "Montclair State University Players",
     "location": "Student Center 419 - Meeting Room",
     "link": "https://montclair.campuslabs.com/engage/event/12860238",
-    "description": "Players: Miscellaneous Show Rehearsals"
+    "description": ""
   },
   {
     "title": "Players Comedy Rehearsal ",
