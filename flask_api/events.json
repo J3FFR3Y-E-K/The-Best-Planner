@@ -2400,14 +2400,6 @@
     "description": "30 Minute bible discussions open to anyone!"
   },
   {
-    "title": "Group X - Pilates",
-    "date": "2026-11-11T19:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12635817",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
-  },
-  {
     "title": "More Than a Student Job: Turning Your Campus Job Into Career Skills",
     "date": "2026-11-11T19:00:00+00:00",
     "organization": "The Office for Experiential Education and Career Connections",
@@ -4176,20 +4168,20 @@
     "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
-    "title": "Book Auction",
-    "date": "2026-11-18T19:00:00+00:00",
-    "organization": "The Montclair English Club",
-    "location": "School Of Business 210 - Susan Blount Executive Education Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12922442",
-    "description": "Got old books to get rid of? Attend our Book Auction and leave with a new and exciting read! Extra opportunities for those who come to the auction with a book to give away! Free snacks and drinks provided."
-  },
-  {
     "title": "Pre-Law Society - Pre-Law Review Meeting",
     "date": "2026-11-18T19:00:00+00:00",
     "organization": "Pre-Law Society",
     "location": "University Hall 3004 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12910678",
     "description": "Pre-Law Society\u2019s newest sub-committee: Pre-Law Review!  \n A new student-run journal that aims to give Montclair State University Students the opportunity to explore current and historical legal issues through legal research, writing, and analysis. Members will work collaboratively \u00a0  to research cases, statutes, and scholarly sources, develop legal arguments, and contribute to articles and commentary that may be published in the Pre-Law Review. \n No prior legal experience is required and students of ALL majors/minors are welcome to get involved!"
+  },
+  {
+    "title": "Book Auction",
+    "date": "2026-11-18T19:00:00+00:00",
+    "organization": "The Montclair English Club",
+    "location": "School Of Business 210 - Susan Blount Executive Education Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12922442",
+    "description": "Got old books to get rid of? Attend our Book Auction and leave with a new and exciting read! Extra opportunities for those who come to the auction with a book to give away! Free snacks and drinks provided."
   },
   {
     "title": "Accounting Society - Grant Thornton",
@@ -6797,7 +6789,7 @@
     "organization": "Red Hawk Catholic",
     "location": "Newman Catholic Center",
     "link": "https://montclair.campuslabs.com/engage/event/12848136",
-    "description": "Sunday Mass at Newman Catholic Center."
+    "description": ""
   },
   {
     "title": "Chamber Opera Performance: \"L'enfant et les Sortil\u00e8ges\"",
@@ -7152,20 +7144,20 @@
     "description": "Meeting for Pre-Law Society's newest 2026 sub-committee: Moot Court! \n Engage in oral advocacy, collaborate with peers, and harness valuable skills through skills workshops taught by Montclair professors. Students will have the opportunity to learn all the necessary skills to participate in our internal moot court competition at the end of the year!\u00a0 \n Students of ALL majors/minors are welcome to get involved!"
   },
   {
-    "title": "Club Meeting",
-    "date": "2026-12-09T19:00:00+00:00",
-    "organization": "Brasil Club",
-    "location": "University Hall 2006 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12707095",
-    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
-  },
-  {
     "title": "Holiday Crafts, Games, Nutrition Facts, & More! ",
     "date": "2026-12-09T19:00:00+00:00",
     "organization": "Dietetics Organization",
     "location": "University Hall 2002 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12876812",
     "description": "As we wrap up the Fall semester and prepare to enjoy the holidays, MSDO will be hosting a relaxed get-together filled with holiday themed crafts, games, and some cozy recipes to send you home with."
+  },
+  {
+    "title": "Club Meeting",
+    "date": "2026-12-09T19:00:00+00:00",
+    "organization": "Brasil Club",
+    "location": "University Hall 2006 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12707095",
+    "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
     "title": "HOSA GBM",
