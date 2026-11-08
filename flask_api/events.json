@@ -1,13 +1,5 @@
 [
   {
-    "title": "Donut stress",
-    "date": "2026-11-08T17:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Machuga Heights",
-    "link": "https://montclair.campuslabs.com/engage/event/12934557",
-    "description": "Donut stress, decompress and grab a delicious apple cider donut in your most comfortable jammies in Mahcuga Heights on November 8th from 12PM-2PM. All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "M.I.L.F. Round Two Rehearsal ",
     "date": "2026-11-08T18:00:00+00:00",
     "organization": "Montclair State University Players",
@@ -2904,20 +2896,20 @@
     "description": "General meeting for all Brasil Club members! Come connect with other students, learn more about Brazilian culture, share ideas, and stay updated on upcoming activities. We\u2019ll discuss club announcements, upcoming events, member ideas, and opportunities to get involved. Everyone is welcome!"
   },
   {
-    "title": "Study Abroad 101 ",
-    "date": "2026-11-18T19:00:00+00:00",
-    "organization": "Office of International Academic Initiatives",
-    "location": "Online",
-    "link": "https://montclair.campuslabs.com/engage/event/12958547",
-    "description": "Join the Office of International Academic Initiatives to learn about the Study Abroad Opportunities that Montclair State University has to offer. Learn about our different programs that are as short as one week up to an academic year as well as scholarship information. Whether you want to stay as close to home as Pennsylvania or travel as far away as South Korea, Montclair State University has programs for you."
-  },
-  {
     "title": "Daughta Speaks General Body Meeting",
     "date": "2026-11-18T19:00:00+00:00",
     "organization": "Daughta Speaks",
     "location": "University Hall 2021 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12948791",
     "description": "Come Ki at our weekly General Body Meeting with us!"
+  },
+  {
+    "title": "Study Abroad 101 ",
+    "date": "2026-11-18T19:00:00+00:00",
+    "organization": "Office of International Academic Initiatives",
+    "location": "Online",
+    "link": "https://montclair.campuslabs.com/engage/event/12958547",
+    "description": "Join the Office of International Academic Initiatives to learn about the Study Abroad Opportunities that Montclair State University has to offer. Learn about our different programs that are as short as one week up to an academic year as well as scholarship information. Whether you want to stay as close to home as Pennsylvania or travel as far away as South Korea, Montclair State University has programs for you."
   },
   {
     "title": "Pre-Law Society - Pre-Law Review Meeting",
