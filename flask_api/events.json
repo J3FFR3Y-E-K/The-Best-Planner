@@ -1,45 +1,5 @@
 [
   {
-    "title": "M.I.L.F. Round Two Rehearsal ",
-    "date": "2026-11-08T18:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1010 - James B. Todd Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12834816",
-    "description": "M.I.L.F. Round Two Rehearsal Players"
-  },
-  {
-    "title": "M.I.L.F. Round Two Rehearsal ",
-    "date": "2026-11-08T18:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "University Hall 1040 - Lecture Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12910487",
-    "description": "M.I.L.F. Round Two Rehearsal Players"
-  },
-  {
-    "title": "The Importance of Being Earnest Performance 4",
-    "date": "2026-11-08T19:00:00+00:00",
-    "organization": "Montclair State University Players",
-    "location": "Student Center 126 - Red Hawk Nest",
-    "link": "https://montclair.campuslabs.com/engage/event/12859159",
-    "description": "Players:\u00a0The Importance of Being Earnest Performance 4"
-  },
-  {
-    "title": "Sunday Mass",
-    "date": "2026-11-08T22:00:00+00:00",
-    "organization": "Red Hawk Catholic",
-    "location": "Newman Catholic Center",
-    "link": "https://montclair.campuslabs.com/engage/event/12848129",
-    "description": "Sunday Mass at Newman Catholic Center."
-  },
-  {
-    "title": "Tattoos and Henna ",
-    "date": "2026-11-08T23:00:00+00:00",
-    "organization": "Residence Life",
-    "location": "Freeman Hall",
-    "link": "https://montclair.campuslabs.com/engage/event/12934558",
-    "description": "Do you want to get creative and express yourself? Come on down to our tattoos and henna program in Freeman Hall on November 8th from 6PM-8PM! Stop for some fun, temporary tattoos, and beautiful henna!\u00a0All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
-  },
-  {
     "title": "Group X - Restorative Goodnight Yoga",
     "date": "2026-11-09T00:00:00+00:00",
     "organization": "Campus Recreation",
@@ -48,12 +8,12 @@
     "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Tuesday and Sunday (8/31 through 12/6) \n Tuesday: 7:30 PM - 8:30 PM, Sunday: 7 PM - 8 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Annabelle (Tuesday) and Hannah (Sunday)"
   },
   {
-    "title": "CX Practice",
-    "date": "2026-11-08T23:30:00+00:00",
-    "organization": "Complexions",
-    "location": "Student Center Underground - The Underground",
-    "link": "https://montclair.campuslabs.com/engage/event/12863655",
-    "description": "Complexions will come together, learn and create choreographer for various events this semester."
+    "title": "Tattoos and Henna ",
+    "date": "2026-11-08T23:00:00+00:00",
+    "organization": "Residence Life",
+    "location": "Freeman Hall",
+    "link": "https://montclair.campuslabs.com/engage/event/12934558",
+    "description": "Do you want to get creative and express yourself? Come on down to our tattoos and henna program in Freeman Hall on November 8th from 6PM-8PM! Stop for some fun, temporary tattoos, and beautiful henna!\u00a0All students are welcome, commuters need to be signed in with a resident following Residence Life guest registration procedures."
   },
   {
     "title": "Sunday Mass",
@@ -496,20 +456,20 @@
     "description": "Oral Hygiene for Humanity Kit-Making Drive is a community service initiative dedicated to promoting health, dignity, and wellness by assembling oral hygiene kits for individuals and families in need. \n Volunteers will package essential items such as toothbrushes, toothpaste, floss, and mouthwash to support underserved communities and increase access to basic dental care. Join us in making a positive impact, one kit at a time."
   },
   {
-    "title": "Rhoyal Movie Night ",
-    "date": "2026-11-10T01:30:00+00:00",
-    "organization": "Sigma Gamma Rho Sorority, Inc.",
-    "location": "University Hall 2004 - Classroom",
-    "link": "https://montclair.campuslabs.com/engage/event/12912600",
-    "description": "Join the Poodles for a Rhoyal Movie Night! \u00a0Sit back, relax, and enjoy a fun night of movies."
-  },
-  {
     "title": "MU Tabletop Night",
     "date": "2026-11-10T01:30:00+00:00",
     "organization": "Montclair University Gamers (M.U.G.)",
     "location": "University Hall 2012 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12915520",
     "description": "Come join us for another MUG Night (our tabletop meeting)! At MUG Nights, we bring out board games, card games, and all kinds of un-electronic games to enjoy with fellow gamers! We encourage a friendly, welcoming environment for gamers of all skill levels! We hope to see you there!"
+  },
+  {
+    "title": "Rhoyal Movie Night ",
+    "date": "2026-11-10T01:30:00+00:00",
+    "organization": "Sigma Gamma Rho Sorority, Inc.",
+    "location": "University Hall 2004 - Classroom",
+    "link": "https://montclair.campuslabs.com/engage/event/12912600",
+    "description": "Join the Poodles for a Rhoyal Movie Night! \u00a0Sit back, relax, and enjoy a fun night of movies."
   },
   {
     "title": "Chi Alpha Campus Ministries",
@@ -880,20 +840,20 @@
     "description": "Join the Office of International Academic Initiatives to learn about the Study Abroad Opportunities that Montclair State University has to offer. Learn about our different programs that are as short as one week up to an academic year as well as scholarship information. Whether you want to stay as close to home as Pennsylvania or travel as far away as South Korea, Montclair State University has programs for you."
   },
   {
-    "title": "Group X - Pilates",
-    "date": "2026-11-11T19:00:00+00:00",
-    "organization": "Campus Recreation",
-    "location": "Student Recreation Multi-Purpose Room 1",
-    "link": "https://montclair.campuslabs.com/engage/event/12635817",
-    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
-  },
-  {
     "title": "Bible Talk",
     "date": "2026-11-11T19:00:00+00:00",
     "organization": "Alpha Omega",
     "location": "University Hall 2013 - Classroom",
     "link": "https://montclair.campuslabs.com/engage/event/12933694",
     "description": "30 Minute bible discussions open to anyone!"
+  },
+  {
+    "title": "Group X - Pilates",
+    "date": "2026-11-11T19:00:00+00:00",
+    "organization": "Campus Recreation",
+    "location": "Student Recreation Multi-Purpose Room 1",
+    "link": "https://montclair.campuslabs.com/engage/event/12635817",
+    "description": "Group X classes are free, 45-minute long sessions that feature a variety of different formats, focusing on concepts like cardio, muscular strength and endurance, and flexibility. \n How do I sign-up? \n \n No registration required. \n FREE for students with a valid Montclair State ID. \n \n Where and when? \n \n Monday, Wednesday, Thursday, and Friday (8/31 through 12/6) \n Monday: \u00a010 AM - 10:45 AM\u00a0 & \u00a03:30 PM - 4:15 PM,\u00a0 Wednesday: \u00a011 AM - 11:45 AM\u00a0 & \u00a02 PM - 2:45 PM,\u00a0 Thursday: \u00a010 AM - 10:45 AM,\u00a0 Friday: \u00a04 PM - 4:45 PM \n Student Recreation Multi-Purpose Room 1 \n \n Instructor \n \n Noelle and Diamond (Monday), Kendall and Noelle (Wednesday), Bridget (Thursday), Diamond (Friday)"
   },
   {
     "title": "More Than a Student Job: Turning Your Campus Job Into Career Skills",
@@ -2336,20 +2296,20 @@
     "description": "A weekly meeting with the General body members to discuss topics respectfully regarding Dominican culture while also having fun. Open to all MSU and Bloomfield students!"
   },
   {
-    "title": " Transgender Awareness Week Flag Raising & Gathering",
-    "date": "2026-11-16T19:00:00+00:00",
-    "organization": "Advocacy and Outreach",
-    "location": "STCT Flag Pole",
-    "link": "https://montclair.campuslabs.com/engage/event/12502264",
-    "description": "Join Advocacy & Outreach in the Office of Student Belonging\u00a0at our Trans Awareness Week flag raising to commemorate the start of Trans Awareness Week. \n This year's theme is \u00a0\" Returning to Community: Reclaiming Grief and Joy as Group Experiences and Collective Journeys\".\u00a0 We will hear words from students, staff, faculty, and community members. For the reception, there will be a communal grief space and an interactive display symbolizing joy and unity. \n The flag raising is at the Student Center Flag poles from 2:00pm - 2:30pm \n The gathering after is at the Advocacy & Outreach Office, Suite 113 of the Student Center from 2:30pm - 3:30pm \n All are welcome!"
-  },
-  {
     "title": "Paint & Grab (Commuter Giveaway)",
     "date": "2026-11-16T19:00:00+00:00",
     "organization": "Bloomfield Commuter's Club",
     "location": "Bloomfield - Talbott Hall T001 - Commuter Lounge",
     "link": "https://montclair.campuslabs.com/engage/event/12916601",
     "description": "Commuters Club will be giving away supplies for commuter students who use any type of transportion from bus, uber, or self driving. \n We will also be having a paint day! Join us and relax as we start to reach the end of the semester."
+  },
+  {
+    "title": " Transgender Awareness Week Flag Raising & Gathering",
+    "date": "2026-11-16T19:00:00+00:00",
+    "organization": "Advocacy and Outreach",
+    "location": "STCT Flag Pole",
+    "link": "https://montclair.campuslabs.com/engage/event/12502264",
+    "description": "Join Advocacy & Outreach in the Office of Student Belonging\u00a0at our Trans Awareness Week flag raising to commemorate the start of Trans Awareness Week. \n This year's theme is \u00a0\" Returning to Community: Reclaiming Grief and Joy as Group Experiences and Collective Journeys\".\u00a0 We will hear words from students, staff, faculty, and community members. For the reception, there will be a communal grief space and an interactive display symbolizing joy and unity. \n The flag raising is at the Student Center Flag poles from 2:00pm - 2:30pm \n The gathering after is at the Advocacy & Outreach Office, Suite 113 of the Student Center from 2:30pm - 3:30pm \n All are welcome!"
   },
   {
     "title": "Panther Progress General Body Meeting",
